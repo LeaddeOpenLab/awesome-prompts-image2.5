@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**85** Prompt · Ultima aggiunta: **2026-09-12**
+**86** Prompt · Ultima aggiunta: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -1619,6 +1619,28 @@ Fotografia · Illustrazione · Cyberpunk / Sci-Fi · Paesaggio / Natura · Pubbl
 **Riepilogo:** Traduzione in corso
 
 <img src="images/2097880604872438019-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2098901467956461671"></a>
+
+### Traduzione in corso
+
+Autore：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Post originale](https://x.com/CyberTotal2026/status/2098901467956461671)
+
+Fotografia · Cyberpunk / Sci-Fi · Ritratto / Selfie · Personaggio · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2098901467956461671-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 

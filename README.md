@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**85** Prompts · Latest addition: **2026-09-12**
+**86** Prompts · Latest addition: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -1652,6 +1652,50 @@ Photography · Illustration · Cyberpunk / Sci-Fi · Landscape / Nature · Publi
 
 ```text
 Generate a 2:3 vertical grand sci-fi landscape image featuring photorealistic natural textures, fine film grain, and restrained vintage cinematic color grading. In the foreground are softly rolling ochre-red dried-grass hills, with a solitary adult standing near the bottom center slightly to the left, back facing the camera, wearing a dark long coat; the figure's height occupies only 2.5% of the frame, quietly gazing into the distance. Across the vast middle-ground plain, countless tiny, low-rise off-white settlements are scattered, with a silver-cyan river winding in a gentle S-curve through the towns and reddish-brown earth. Towering behind the horizon is a planetary-scale, slightly tilted ancient fractured stone mega-ring: the ring body is extremely massive, its colossal left arc entity dominating the upper-left of the frame, with its top and left edges cropped by the frame; the curved fractured segment on the right extends into the sky, with an irregular fracture misaligned with the main ring; the center encloses an arcing sky void expanding toward the upper-right, not two straight parallel walls. The surface features rough stratification resembling deep cyan-black basalt, macro fractures, and slowly weathered longitudinal furrows, definitely not a smooth metallic ring. Warm golden low-angle sunlight skims from the right side of the frame across the curved inner rim and the fracture, while the vast bulk of the structure sinks into layered dark-green shadows, its base obscured by massive yet serene milky-white-golden cumulus clouds and dust mist, resembling clouds accumulating at the foot of the behemoth rather than an explosion. The right sky is deep grey-cyan-blue, the dried grass is coppery red and dark ochre, and the river reflects only restrained natural light. Use the tiny rear view, miniature towns, cloud layer at the foot of the titan, and the ring extending off-frame to emphasize the insignificance of humanity. Quiet, distant, heavy, incomprehensible grandeur, crisp depth layers, realistic natural light, no text, no logos, no watermarks, no lasers or lens flares.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2098901467956461671"></a>
+
+### A cyberpunk-style portrait prompt of a woman in a black outfit on all fours on the floor in a gaming room glowing with pink and blue neon lights.
+
+Author：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Source](https://x.com/CyberTotal2026/status/2098901467956461671)
+
+Photography · Cyberpunk / Sci-Fi · Portrait / Selfie · Character · Published
+
+**Summary:** A cyberpunk-style portrait prompt of a woman in a black outfit on all fours on the floor in a gaming room glowing with pink and blue neon lights.
+
+<img src="images/2098901467956461671-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Theme:
+Black outfit under blue and pink neon
+
+Subject:
+A vertical photograph of an adult woman in a black outfit on all fours on the floor in a gaming room illuminated by pink and blue neon lights. The person is positioned centered in the frame.
+
+Person / Expression:
+Dark brown hair styled in braided pigtails on both sides, thin bangs, round glasses. Slender oval face contour, horizontally long brown eyes, thin eyebrows, small nose, pink lips. Her face is raised, looking seriously into the camera.
+
+Attire / Pose:
+A black corset-style strap top, black short shorts, a thin harness around the neck, black long gloves reaching above the elbows. With both hands and both knees on the floor, she arches her back and raises her face.
+
+Background / Lighting:
+Illuminated gaming equipment, monitors, pink and blue LED strips, neon text reading "GAME OVER" in the upper right. The colored light casts rims of both colors onto the black outfit and skin. The key light in the background of the frame is soft light coming from the neon light sources on the left and right.
+
+Composition / Camera:
+3:4 vertical composition, camera positioned near the floor, front-diagonal full-body close perspective. Hands placed in the lower foreground, face in the center, lettering in the upper right. Focus on the face, glasses, and black harness, background features neon bokeh. The person is framed prominently, with the subject in focus and a light blur in the background.
+
+Texture / Style:
+Photorealistic cyberpunk indoor photography. Highly contrasted and finely detailed depiction of black leather-like fabric, long gloves, glasses, pink and blue neon, and reflections on the skin.
+
+Negative:
+Do not omit the hands-and-knees posture and round glasses; do not make it a bright daytime room
 ```
 
 [↑ Back to categories](#catalog)

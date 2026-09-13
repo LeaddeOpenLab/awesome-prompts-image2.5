@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**85** Prompts · Última incorporación: **2026-09-12**
+**86** Prompts · Última incorporación: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -1648,6 +1648,28 @@ Fotografía · Ilustración · Ciberpunk / Ciencia ficción · Paisaje / Natural
 **Resumen:** Traducción en curso
 
 <img src="images/2097880604872438019-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2098901467956461671"></a>
+
+### Traducción en curso
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicación original](https://x.com/CyberTotal2026/status/2098901467956461671)
+
+Fotografía · Ciberpunk / Ciencia ficción · Retrato / Selfie · Personaje · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2098901467956461671-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 

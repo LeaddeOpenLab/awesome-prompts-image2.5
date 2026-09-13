@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**85** Prompt · Son eklenen: **2026-09-12**
+**86** Prompt · Son eklenen: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -1604,6 +1604,28 @@ Fotoğrafçılık · İllüstrasyon · Siberpunk / Bilim Kurgu · Manzara / Doğ
 **Özet:** Çeviri sürüyor
 
 <img src="images/2097880604872438019-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2098901467956461671"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Orijinal gönderi](https://x.com/CyberTotal2026/status/2098901467956461671)
+
+Fotoğrafçılık · Siberpunk / Bilim Kurgu · Portre / Selfie · Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2098901467956461671-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
