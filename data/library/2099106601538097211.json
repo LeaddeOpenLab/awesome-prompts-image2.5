@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-13T13:58:28.791Z",
+  "model": "image2.5",
+  "prompt": "24岁，日本女性，电车，正面，身体前倾，抓住较高的吊环，露出腋下，吊带深V，视线正面，俯视的表情，从坐着的人视角，手机照片，逼真的质感，竖拍",
+  "promptTranslations": {
+    "en": "24 years old, Japanese woman, train, front view, leaning forward, holding onto a high hanging strap, armpits exposed, deep V-neck camisole, looking directly forward, looking down expression, perspective from a seated person, smartphone photo, realistic texture, vertical shot"
+  },
+  "summaryTranslations": {
+    "en": "Realistic snapshot of a young Japanese woman holding a strap handle in a deep V-neck camisole from the perspective of a seated person inside a train."
+  },
+  "translationVersion": 2,
+  "summary": "电车内坐姿视角的年轻日本女性写实抓拍，抓吊环且身着深V吊带。",
+  "summaryEn": "Realistic snapshot of a young Japanese woman in a train leaning forward, viewed from a seated perspective.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2099106601538097211",
+    "canonicalUrl": "https://x.com/SGRationalnvest/status/2099106601538097211",
+    "author": {
+      "username": "SGRationalnvest",
+      "displayName": "思哥| Love Investment & Beauty",
+      "profileUrl": "https://x.com/SGRationalnvest"
+    },
+    "publishedAt": "2026-09-13T12:03:07.000Z",
+    "collectedAt": "2026-09-13T12:39:48.421Z",
+    "language": "zh",
+    "originalText": "GPT image 2.5 Prompt: \n24岁，日本女性，电车，正面，身体前倾，抓住较高的吊环，露出腋下，吊带深V，视线正面，俯视的表情，从坐着的人视角，手机照片，逼真的质感，竖拍 https://t.co/aNrzRUuCSr",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSGGTXlaIAANfRM.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSGGTXlaIAANfRM.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 69
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/SGRationalnvest/status/2099106601538097211",
+  "coverUrl": "https://pbs.twimg.com/media/HSGGTXlaIAANfRM.jpg",
+  "coverPath": "images/2099106601538097211-1.jpg",
+  "imagePaths": [
+    "images/2099106601538097211-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSGGTXlaIAANfRM",
+    "x-post:2099106601538097211"
+  ],
+  "analysis": {
+    "summary": "电车内坐姿视角的年轻日本女性写实抓拍，抓吊环且身着深V吊带。",
+    "summaryEn": "Realistic snapshot of a young Japanese woman in a train leaning forward, viewed from a seated perspective.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "画面准确再现了电车背景、抓吊环姿态、深V吊带服饰与坐姿仰拍视角。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "24岁，日本女性，电车，正面，身体前倾，抓住较高的吊环，露出腋下，吊带深V，视线正面，俯视的表情，从坐着的人视角，手机照片，逼真的质感，竖拍",
+    "sourceRange": {
+      "start": 23,
+      "end": 93
+    },
+    "translations": {
+      "zh": "24岁，日本女性，电车，正面，身体前倾，抓住较高的吊环，露出腋下，吊带深V，视线正面，俯视的表情，从坐着的人视角，手机照片，逼真的质感，竖拍",
+      "en": "24-year-old Japanese woman, train interior, front view, leaning forward, holding a high grab handle, underarm visible, deep V-neck camisole, looking forward, looking-down expression, POV of a seated person, phone photo, realistic texture, vertical shot"
+    },
+    "targetModels": [
+      "image2.5"
+    ],
+    "category": "text-to-image",
+    "useCase": "Portrait Photography",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [
+        "nsfw_suggestive"
+      ],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
