@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**98** Prompts · Latest addition: **2026-09-13**
+**100** Prompts · Latest addition: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -438,6 +438,34 @@ Photography · Landscape / Nature · Published
 
 ```text
 Photo of a clearing in the woods with lots of green foliage, highly detailed
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2099152153722159320"></a>
+
+### ULTRA-REALISTIC NATURAL SMARTPHONE PHOTOGRAPH candid portrait of a young East Asian woman in a plaid dress relaxing in a lush tropical garden café.
+
+Author：[@Aqsahere\_](https://x.com/Aqsahere_) · [Source](https://x.com/Aqsahere_/status/2099152153722159320)
+
+Photography · Portrait / Selfie · Character · Fashion Item · Published
+
+**Summary:** ULTRA-REALISTIC NATURAL SMARTPHONE PHOTOGRAPH candid portrait of a young East Asian woman in a plaid dress relaxing in a lush tropical garden café.
+
+<img src="images/2099152153722159320-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+ULTRA-REALISTIC NATURAL SMARTPHONE PHOTOGRAPH, vertical 3:4, candid outdoor lifestyle portrait of a young East Asian woman relaxing in a lush tropical garden café.
+She has long, naturally wavy dark brown hair falling softly over her shoulders and down her back, with a natural center-parted hairstyle. Her face has delicate youthful features, clear realistic skin, and a soft relaxed smile as she looks directly toward the camera.
+She is wearing a fitted brown and muted mauve plaid sleeveless mini dress with thin spaghetti straps and a softly gathered, slightly flared skirt. The dress has a subtle vintage-inspired checkered pattern and natural fabric folds.
+She is seated casually on a simple light-colored outdoor chair, leaning slightly toward one side in a relaxed candid pose. One arm rests naturally on the chair while her other hand gently touches her hair. Her posture feels effortless and unposed.
+The setting is a beautiful tropical garden with dense lush greenery, large banana leaves, broad tropical plants, ferns, trees, and potted plants surrounding the seating area. A dark modern outdoor staircase with wooden steps and black vertical railings is visible behind her, blending naturally into the garden architecture. A textured gravel pathway extends into the background.
+Soft natural daylight filters through the trees, creating realistic highlights and gentle shadows across her face, hair, dress, and surrounding foliage. Slightly shaded garden atmosphere with beautiful natural depth.
+RAW smartphone photography aesthetic, ultra-realistic skin texture, individual hair strands, realistic fabric texture, authentic natural lighting, subtle imperfections, realistic body proportions, natural facial details, no excessive retouching, no beauty filter, no plastic skin, no CGI appearance, realistic background, gentle depth of field, candid vacation lifestyle photography, vertical 3:4 composition.
 ```
 
 [↑ Back to categories](#catalog)
@@ -2172,6 +2200,62 @@ Create ONE independent high-end editorial poster for EACH uploaded photo. Never 
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2099213523947864179"></a>
+
+### Geometric abstract character poster prompt template based on Constructivism, Suprematism, and Futurism.
+
+Author：[@VoxcatAI](https://x.com/VoxcatAI) · [Source](https://x.com/VoxcatAI/status/2099213523947864179)
+
+Poster / Flyer · Character · Abstract / Background · Published
+
+Source：[@VoxcatAI](https://x.com/VoxcatAI) · [Source](https://x.com/VoxcatAI/status/2054455196298932406)
+
+**Summary:** Geometric abstract character poster prompt template based on Constructivism, Suprematism, and Futurism.
+
+<img src="images/2099213523947864179-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2099213523947864179-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2099213523947864179-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2099213523947864179-4.jpg" alt="Image 4" width="480" />
+
+<img src="images/2099213523947864179-5.jpg" alt="Image 5" width="480" />
+
+<img src="images/2099213523947864179-6.jpg" alt="Image 6" width="480" />
+
+<img src="images/2099213523947864179-7.jpg" alt="Image 7" width="480" />
+
+<img src="images/2099213523947864179-8.jpg" alt="Image 8" width="480" />
+
+**Prompt**
+
+```text
+{Subject / Character / Concept}, Constructivism × Suprematism × Futurism × Swiss International Style graphic design × Geometric Neo-Modernism.
+
+Deconstruct and translate the subject into a highly graphic geometric visual system, eschewing traditional realistic modeling in favor of distilling the subject's core silhouettes, identifying traits, signature colors, structural relationships, and directional dynamics, then reconstructing them into geometric color blocks, diagonal axes, circles, rectangles, triangles, directional vectors, modules, and negative space. Humans, animals, architecture, machinery, objects, or abstract concepts are all uniformly integrated into this geometric compositional logic while retaining sufficient recognizability.
+
+The overall design employs Path-based Shape Construction, centering on Geometric Blocking, Hard-edge Abstraction, Modular Repetition, and Directional Cutting. Generous use of 15°, 30°, and 45° diagonal axes establishes dynamic momentum, imparting the subject with a distinct sense of forward motion, rotation, collision, slicing, or expansion.
+
+The composition utilizes Constructivist Cropping and Asymmetrical Balance. The subject may partially extend beyond the edges of the frame, bisected or occluded by large diagonally cut color planes; localized structures can be scaled up, repeated, rotated, or mirrored to forge a powerful visual rhythm. The image maintains a clear visual focal point while avoiding a conventional, static, centered portrait layout.
+
+Media execution employs Vector Graphics × Screen Print × Risograph Simulation × Digital Collage. The subject is composed of crisp vector edges and expansive solid-color planes, with localized simulations of silkscreen ink layering, risograph misregistration/color trapping shifts, paper fiber texture, subtle halftone dots, and slight edge misalignment, granting the visual both digital design precision and physical print tactility.
+
+Lighting de-emphasizes naturalistic illumination, adopting a Flat Tonal Structure × Graphic Contrast × Optical Depth. Spatial depth is established primarily through value contrast across color blocks, geometric occlusion, scale variations, translucent overlaps, and foreground-background relationships, rather than relying on complex gradient rendering. Subtle glowing geometric accents or highlighted edges can be incorporated locally to create a Luminous Graphic Field, while prioritizing planar composition throughout.
+
+The color scheme utilizes a highly recognizable, limited palette centered on black, white, red, cobalt blue, ultramarine, bright yellow, orange, cool gray, and off-white/cream, with 2–4 dominant colors automatically selected based on the subject. The colors maintain high contrast, rigid order, and distinct surface area proportions, avoiding chaotic gradients and excessive secondary mixtures. Subtle third-color overlays produced by localized screen-print overprinting are permitted.
+
+The overall aesthetic references El Lissitzky's Proun Composition spatial geometry, Alexander Rodchenko's Constructivist posters and radical cropping, Kazimir Malevich's Suprematist basic forms, László Moholy-Nagy's Bauhaus optical geometry, and Josef Müller-Brockmann's Swiss Grid System order, while ultimately preserving an original visual structure.
+
+Incorporate VOXCAT elements: Integrate a minimalist geometric stylized “V” + cat logo into the upper-left corner, seamlessly blended into the Constructivist typography/layout; add a small “voxCAT” signature in the lower-right corner. Cat ear silhouettes, cat eyes, V-shaped bevels, and cat tail curves may be further translated into circles, triangles, diagonal lines, or modular geometric glyphs, serving as recurring VOXCAT visual motifs throughout the composition.
+
+Overall requirements: clear structure, strong geometric relationships, sharp edges, intact color blocks, stable typography and layout, distinct sense of velocity, ample negative space, low noise, no particles, no complex realistic backgrounds, high degree of finish. Aside from the VOXCAT logo and the voxCAT signature, no other text, numbers, UI elements, watermarks, or extraneous logos should appear.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2099141066784215478"></a>
 

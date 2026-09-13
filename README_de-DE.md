@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**98** Prompts · Zuletzt hinzugefügt: **2026-09-13**
+**100** Prompts · Zuletzt hinzugefügt: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -383,6 +383,28 @@ Fotografie · Landschaft / Natur · Veröffentlicht
 
 ```text
 Foto einer Waldlichtung mit viel grünem Blattwerk, sehr detailliert
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2099152153722159320"></a>
+
+### Übersetzung läuft
+
+Autor：[@Aqsahere\_](https://x.com/Aqsahere_) · [Originalbeitrag](https://x.com/Aqsahere_/status/2099152153722159320)
+
+Fotografie · Porträt / Selfie · Charakter · Modeartikel · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2099152153722159320-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -2079,9 +2101,47 @@ Ruhig, poetisch, raffiniert, minimalistisch, unschuldig, künstlerisch, nachdenk
 
 ## Sonstige
 
-<a name="prompt-2099141066784215478"></a>
+<a name="prompt-2099213523947864179"></a>
 
 ### Übersetzung läuft
+
+Autor：[@VoxcatAI](https://x.com/VoxcatAI) · [Originalbeitrag](https://x.com/VoxcatAI/status/2099213523947864179)
+
+Plakat / Flyer · Charakter · Zusammenfassung / Hintergrund · Veröffentlicht
+
+Originalbeitrag：[@VoxcatAI](https://x.com/VoxcatAI) · [Originalbeitrag](https://x.com/VoxcatAI/status/2054455196298932406)
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2099213523947864179-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2099213523947864179-2.jpg" alt="Bild 2" width="480" />
+
+<img src="images/2099213523947864179-3.jpg" alt="Bild 3" width="480" />
+
+<img src="images/2099213523947864179-4.jpg" alt="Bild 4" width="480" />
+
+<img src="images/2099213523947864179-5.jpg" alt="Bild 5" width="480" />
+
+<img src="images/2099213523947864179-6.jpg" alt="Bild 6" width="480" />
+
+<img src="images/2099213523947864179-7.jpg" alt="Bild 7" width="480" />
+
+<img src="images/2099213523947864179-8.jpg" alt="Bild 8" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2099141066784215478"></a>
+
+### Chinesischer traumhafter Innenhof und moderner menschenleerer Pool, CCD-Weichzeichner-Textur
 
 Autor：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Originalbeitrag](https://x.com/DeepBlueX0/status/2099141066784215478)
 
@@ -2089,7 +2149,7 @@ Sonstige · Veröffentlicht
 
 Originalbeitrag：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Originalbeitrag](https://x.com/DeepBlueX0/status/2099065219259761109)
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Chinesischer traumhafter Innenhof und moderner menschenleerer Pool, CCD-Weichzeichner-Textur
 
 <img src="images/2099141066784215478-1.jpg" alt="Bild 1" width="480" />
 
@@ -2098,7 +2158,7 @@ Originalbeitrag：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Originalbeitrag](h
 **Prompt**
 
 ```text
-Übersetzung läuft
+Chinesische Traumwelt × CCD-Direktblitz mit Weichzeichner × menschenleerer Swimmingpool
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

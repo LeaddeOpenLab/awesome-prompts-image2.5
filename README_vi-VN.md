@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**98** Prompt · Bổ sung mới nhất: **2026-09-13**
+**100** Prompt · Bổ sung mới nhất: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -388,6 +388,28 @@ Nhiếp ảnh · Phong cảnh / Thiên nhiên · Đã xuất bản
 
 ```text
 Ảnh chụp một bãi đất trống trong rừng với nhiều tán lá xanh tươi, rất chi tiết
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2099152153722159320"></a>
+
+### Đang dịch
+
+Tác giả：[@Aqsahere\_](https://x.com/Aqsahere_) · [Bài gốc](https://x.com/Aqsahere_/status/2099152153722159320)
+
+Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng thời trang · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2099152153722159320-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
 ```
 
 [↑ Về danh mục](#catalog)
@@ -2086,9 +2108,47 @@ Tạo MỘT áp phích biên tập cao cấp độc lập cho MỖI bức ảnh 
 
 ## Khác
 
-<a name="prompt-2099141066784215478"></a>
+<a name="prompt-2099213523947864179"></a>
 
 ### Đang dịch
+
+Tác giả：[@VoxcatAI](https://x.com/VoxcatAI) · [Bài gốc](https://x.com/VoxcatAI/status/2099213523947864179)
+
+Áp phích / Tờ rơi · Nhân vật · Tóm tắt / Bối cảnh · Đã xuất bản
+
+Bài gốc：[@VoxcatAI](https://x.com/VoxcatAI) · [Bài gốc](https://x.com/VoxcatAI/status/2054455196298932406)
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2099213523947864179-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2099213523947864179-2.jpg" alt="Hình ảnh 2" width="480" />
+
+<img src="images/2099213523947864179-3.jpg" alt="Hình ảnh 3" width="480" />
+
+<img src="images/2099213523947864179-4.jpg" alt="Hình ảnh 4" width="480" />
+
+<img src="images/2099213523947864179-5.jpg" alt="Hình ảnh 5" width="480" />
+
+<img src="images/2099213523947864179-6.jpg" alt="Hình ảnh 6" width="480" />
+
+<img src="images/2099213523947864179-7.jpg" alt="Hình ảnh 7" width="480" />
+
+<img src="images/2099213523947864179-8.jpg" alt="Hình ảnh 8" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2099141066784215478"></a>
+
+### Sân vườn mộng ảo phong cách Trung Hoa và hồ bơi hiện đại không người, chất cảm mờ ảo của CCD
 
 Tác giả：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Bài gốc](https://x.com/DeepBlueX0/status/2099141066784215478)
 
@@ -2096,7 +2156,7 @@ Khác · Đã xuất bản
 
 Bài gốc：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Bài gốc](https://x.com/DeepBlueX0/status/2099065219259761109)
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Sân vườn mộng ảo phong cách Trung Hoa và hồ bơi hiện đại không người, chất cảm mờ ảo của CCD
 
 <img src="images/2099141066784215478-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -2105,7 +2165,7 @@ Bài gốc：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Bài gốc](https://x.c
 **Câu lệnh**
 
 ```text
-Đang dịch
+Mộng ảo phong cách Trung Hoa × đèn flash trực tiếp CCD lấy nét mềm × hồ bơi không người
 ```
 
 [↑ Về danh mục](#catalog)

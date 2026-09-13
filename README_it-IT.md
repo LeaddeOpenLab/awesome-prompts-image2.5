@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**98** Prompt · Ultima aggiunta: **2026-09-13**
+**100** Prompt · Ultima aggiunta: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -383,6 +383,28 @@ Fotografia · Paesaggio / Natura · Pubblicato
 
 ```text
 Foto di una radura nel bosco con abbondante fogliame verde, altamente dettagliata
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2099152153722159320"></a>
+
+### Traduzione in corso
+
+Autore：[@Aqsahere\_](https://x.com/Aqsahere_) · [Post originale](https://x.com/Aqsahere_/status/2099152153722159320)
+
+Fotografia · Ritratto / Selfie · Personaggio · Articolo di moda · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2099152153722159320-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -2079,9 +2101,47 @@ Silenzioso, poetico, raffinato, minimale, innocente, artistico, riflessivo, prem
 
 ## Altro
 
-<a name="prompt-2099141066784215478"></a>
+<a name="prompt-2099213523947864179"></a>
 
 ### Traduzione in corso
+
+Autore：[@VoxcatAI](https://x.com/VoxcatAI) · [Post originale](https://x.com/VoxcatAI/status/2099213523947864179)
+
+Poster / Volantino · Personaggio · Abstract / Contesto · Pubblicato
+
+Post originale：[@VoxcatAI](https://x.com/VoxcatAI) · [Post originale](https://x.com/VoxcatAI/status/2054455196298932406)
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2099213523947864179-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2099213523947864179-2.jpg" alt="Immagine 2" width="480" />
+
+<img src="images/2099213523947864179-3.jpg" alt="Immagine 3" width="480" />
+
+<img src="images/2099213523947864179-4.jpg" alt="Immagine 4" width="480" />
+
+<img src="images/2099213523947864179-5.jpg" alt="Immagine 5" width="480" />
+
+<img src="images/2099213523947864179-6.jpg" alt="Immagine 6" width="480" />
+
+<img src="images/2099213523947864179-7.jpg" alt="Immagine 7" width="480" />
+
+<img src="images/2099213523947864179-8.jpg" alt="Immagine 8" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2099141066784215478"></a>
+
+### Cortile da sogno in stile cinese e moderna piscina vuota, texture con messa a fuoco morbida CCD
 
 Autore：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Post originale](https://x.com/DeepBlueX0/status/2099141066784215478)
 
@@ -2089,7 +2149,7 @@ Altro · Pubblicato
 
 Post originale：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Post originale](https://x.com/DeepBlueX0/status/2099065219259761109)
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Cortile da sogno in stile cinese e moderna piscina vuota, texture con messa a fuoco morbida CCD
 
 <img src="images/2099141066784215478-1.jpg" alt="Immagine 1" width="480" />
 
@@ -2098,7 +2158,7 @@ Post originale：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Post originale](htt
 **Prompt**
 
 ```text
-Traduzione in corso
+Onirico in stile cinese × flash diretto CCD con messa a fuoco morbida × piscina vuota
 ```
 
 [↑ Torna alle categorie](#catalog)

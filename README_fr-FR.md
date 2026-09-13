@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**98** Prompts · Dernier ajout: **2026-09-13**
+**100** Prompts · Dernier ajout: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -383,6 +383,28 @@ Photographie · Paysage / Nature · Publié
 
 ```text
 Photo d'une clairière dans les bois avec un feuillage vert abondant, très détaillée
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2099152153722159320"></a>
+
+### Traduction en cours
+
+Auteur：[@Aqsahere\_](https://x.com/Aqsahere_) · [Publication originale](https://x.com/Aqsahere_/status/2099152153722159320)
+
+Photographie · Portrait / Selfie · Personnage · Article de mode · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2099152153722159320-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -2079,9 +2101,47 @@ Calme, poétique, raffiné, minimaliste, innocent, artistique, réfléchi, haut 
 
 ## Autres
 
-<a name="prompt-2099141066784215478"></a>
+<a name="prompt-2099213523947864179"></a>
 
 ### Traduction en cours
+
+Auteur：[@VoxcatAI](https://x.com/VoxcatAI) · [Publication originale](https://x.com/VoxcatAI/status/2099213523947864179)
+
+Affiche / Flyer · Personnage · Résumé / Contexte · Publié
+
+Publication originale：[@VoxcatAI](https://x.com/VoxcatAI) · [Publication originale](https://x.com/VoxcatAI/status/2054455196298932406)
+
+**Résumé:** Traduction en cours
+
+<img src="images/2099213523947864179-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2099213523947864179-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2099213523947864179-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2099213523947864179-4.jpg" alt="Image 4" width="480" />
+
+<img src="images/2099213523947864179-5.jpg" alt="Image 5" width="480" />
+
+<img src="images/2099213523947864179-6.jpg" alt="Image 6" width="480" />
+
+<img src="images/2099213523947864179-7.jpg" alt="Image 7" width="480" />
+
+<img src="images/2099213523947864179-8.jpg" alt="Image 8" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2099141066784215478"></a>
+
+### Cour de rêve de style chinois et piscine moderne déserte, texture de flou artistique CCD
 
 Auteur：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publication originale](https://x.com/DeepBlueX0/status/2099141066784215478)
 
@@ -2089,7 +2149,7 @@ Autres · Publié
 
 Publication originale：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publication originale](https://x.com/DeepBlueX0/status/2099065219259761109)
 
-**Résumé:** Traduction en cours
+**Résumé:** Cour de rêve de style chinois et piscine moderne déserte, texture de flou artistique CCD
 
 <img src="images/2099141066784215478-1.jpg" alt="Image 1" width="480" />
 
@@ -2098,7 +2158,7 @@ Publication originale：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publication 
 **Consigne**
 
 ```text
-Traduction en cours
+Onirisme de style chinois × flash direct CCD flou artistique × piscine déserte
 ```
 
 [↑ Retour aux catégories](#catalog)

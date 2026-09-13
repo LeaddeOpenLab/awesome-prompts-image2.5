@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**98** Prompt · Son eklenen: **2026-09-13**
+**100** Prompt · Son eklenen: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -383,6 +383,28 @@ Fotoğrafçılık · Manzara / Doğa · Yayımlandı
 
 ```text
 Ormanda bol yeşil yaprakları olan bir açıklığın fotoğrafı, son derece detaylı
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2099152153722159320"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@Aqsahere\_](https://x.com/Aqsahere_) · [Orijinal gönderi](https://x.com/Aqsahere_/status/2099152153722159320)
+
+Fotoğrafçılık · Portre / Selfie · Karakter · Moda Ürünü · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2099152153722159320-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -2064,9 +2086,47 @@ Sakin, şiirsel, zarif, minimal, masum, sanatsal, düşünceli, birinci sınıf 
 
 ## Diğer
 
-<a name="prompt-2099141066784215478"></a>
+<a name="prompt-2099213523947864179"></a>
 
 ### Çeviri sürüyor
+
+Yazar：[@VoxcatAI](https://x.com/VoxcatAI) · [Orijinal gönderi](https://x.com/VoxcatAI/status/2099213523947864179)
+
+Poster / El İlanı · Karakter · Özet / Arka Plan · Yayımlandı
+
+Orijinal gönderi：[@VoxcatAI](https://x.com/VoxcatAI) · [Orijinal gönderi](https://x.com/VoxcatAI/status/2054455196298932406)
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2099213523947864179-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2099213523947864179-2.jpg" alt="Görsel 2" width="480" />
+
+<img src="images/2099213523947864179-3.jpg" alt="Görsel 3" width="480" />
+
+<img src="images/2099213523947864179-4.jpg" alt="Görsel 4" width="480" />
+
+<img src="images/2099213523947864179-5.jpg" alt="Görsel 5" width="480" />
+
+<img src="images/2099213523947864179-6.jpg" alt="Görsel 6" width="480" />
+
+<img src="images/2099213523947864179-7.jpg" alt="Görsel 7" width="480" />
+
+<img src="images/2099213523947864179-8.jpg" alt="Görsel 8" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2099141066784215478"></a>
+
+### Çin tarzı rüya gibi avlu ve modern ıssız havuz, CCD yumuşak odak dokusu
 
 Yazar：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Orijinal gönderi](https://x.com/DeepBlueX0/status/2099141066784215478)
 
@@ -2074,7 +2134,7 @@ Diğer · Yayımlandı
 
 Orijinal gönderi：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Orijinal gönderi](https://x.com/DeepBlueX0/status/2099065219259761109)
 
-**Özet:** Çeviri sürüyor
+**Özet:** Çin tarzı rüya gibi avlu ve modern ıssız havuz, CCD yumuşak odak dokusu
 
 <img src="images/2099141066784215478-1.jpg" alt="Görsel 1" width="480" />
 
@@ -2083,7 +2143,7 @@ Orijinal gönderi：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Orijinal gönder
 **İstem**
 
 ```text
-Çeviri sürüyor
+Çin tarzı rüya gibi × CCD doğrudan flaş yumuşak odak × ıssız yüzme havuzu
 ```
 
 [↑ Kategorilere dön](#catalog)

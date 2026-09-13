@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**98** Prompts · Última adição: **2026-09-13**
+**100** Prompts · Última adição: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -383,6 +383,28 @@ Fotografia · Paisagem / Natureza · Publicado
 
 ```text
 Foto de uma clareira na floresta com muita folhagem verde, altamente detalhada
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2099152153722159320"></a>
+
+### Tradução em andamento
+
+Autor：[@Aqsahere\_](https://x.com/Aqsahere_) · [Publicação original](https://x.com/Aqsahere_/status/2099152153722159320)
+
+Fotografia · Retrato / Selfie · Personagem · Item de Moda · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2099152153722159320-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -2064,9 +2086,47 @@ Tranquilo, poético, refinado, minimalista, inocente, artístico, ponderado, sof
 
 ## Outros
 
-<a name="prompt-2099141066784215478"></a>
+<a name="prompt-2099213523947864179"></a>
 
 ### Tradução em andamento
+
+Autor：[@VoxcatAI](https://x.com/VoxcatAI) · [Publicação original](https://x.com/VoxcatAI/status/2099213523947864179)
+
+Pôster / Flyer · Personagem · Resumo / Contexto · Publicado
+
+Publicação original：[@VoxcatAI](https://x.com/VoxcatAI) · [Publicação original](https://x.com/VoxcatAI/status/2054455196298932406)
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2099213523947864179-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2099213523947864179-2.jpg" alt="Imagem 2" width="480" />
+
+<img src="images/2099213523947864179-3.jpg" alt="Imagem 3" width="480" />
+
+<img src="images/2099213523947864179-4.jpg" alt="Imagem 4" width="480" />
+
+<img src="images/2099213523947864179-5.jpg" alt="Imagem 5" width="480" />
+
+<img src="images/2099213523947864179-6.jpg" alt="Imagem 6" width="480" />
+
+<img src="images/2099213523947864179-7.jpg" alt="Imagem 7" width="480" />
+
+<img src="images/2099213523947864179-8.jpg" alt="Imagem 8" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2099141066784215478"></a>
+
+### Pátio dos sonhos em estilo chinês e piscina moderna deserta, textura de foco suave de CCD
 
 Autor：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicação original](https://x.com/DeepBlueX0/status/2099141066784215478)
 
@@ -2074,7 +2134,7 @@ Outros · Publicado
 
 Publicação original：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicação original](https://x.com/DeepBlueX0/status/2099065219259761109)
 
-**Resumo:** Tradução em andamento
+**Resumo:** Pátio dos sonhos em estilo chinês e piscina moderna deserta, textura de foco suave de CCD
 
 <img src="images/2099141066784215478-1.jpg" alt="Imagem 1" width="480" />
 
@@ -2083,7 +2143,7 @@ Publicação original：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicação
 **Prompt**
 
 ```text
-Tradução em andamento
+Fantasia de estilo chinês × flash direto CCD com foco suave × piscina deserta
 ```
 
 [↑ Voltar às categorias](#catalog)

@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**98** Prompts · Última incorporación: **2026-09-13**
+**100** Prompts · Última incorporación: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -383,6 +383,28 @@ Fotografía · Paisaje / Naturaleza · Publicado
 
 ```text
 Foto de un claro en el bosque con mucho follaje verde, muy detallada
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2099152153722159320"></a>
+
+### Traducción en curso
+
+Autor：[@Aqsahere\_](https://x.com/Aqsahere_) · [Publicación original](https://x.com/Aqsahere_/status/2099152153722159320)
+
+Fotografía · Retrato / Selfie · Personaje · Artículo de moda · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2099152153722159320-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -2079,9 +2101,47 @@ Tranquilo, poético, refinado, minimalista, inocente, artístico, reflexivo, pr�
 
 ## Otros
 
-<a name="prompt-2099141066784215478"></a>
+<a name="prompt-2099213523947864179"></a>
 
 ### Traducción en curso
+
+Autor：[@VoxcatAI](https://x.com/VoxcatAI) · [Publicación original](https://x.com/VoxcatAI/status/2099213523947864179)
+
+Póster / Volante · Personaje · Resumen / Antecedentes · Publicado
+
+Publicación original：[@VoxcatAI](https://x.com/VoxcatAI) · [Publicación original](https://x.com/VoxcatAI/status/2054455196298932406)
+
+**Resumen:** Traducción en curso
+
+<img src="images/2099213523947864179-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2099213523947864179-2.jpg" alt="Imagen 2" width="480" />
+
+<img src="images/2099213523947864179-3.jpg" alt="Imagen 3" width="480" />
+
+<img src="images/2099213523947864179-4.jpg" alt="Imagen 4" width="480" />
+
+<img src="images/2099213523947864179-5.jpg" alt="Imagen 5" width="480" />
+
+<img src="images/2099213523947864179-6.jpg" alt="Imagen 6" width="480" />
+
+<img src="images/2099213523947864179-7.jpg" alt="Imagen 7" width="480" />
+
+<img src="images/2099213523947864179-8.jpg" alt="Imagen 8" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2099141066784215478"></a>
+
+### Patio de ensueño de estilo chino y alberca moderna sin personas, textura de enfoque suave de CCD
 
 Autor：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicación original](https://x.com/DeepBlueX0/status/2099141066784215478)
 
@@ -2089,7 +2149,7 @@ Otros · Publicado
 
 Publicación original：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicación original](https://x.com/DeepBlueX0/status/2099065219259761109)
 
-**Resumen:** Traducción en curso
+**Resumen:** Patio de ensueño de estilo chino y alberca moderna sin personas, textura de enfoque suave de CCD
 
 <img src="images/2099141066784215478-1.jpg" alt="Imagen 1" width="480" />
 
@@ -2098,7 +2158,7 @@ Publicación original：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicación
 **Prompt**
 
 ```text
-Traducción en curso
+Fantasía de estilo chino × flash directo CCD con enfoque suave × alberca vacía
 ```
 
 [↑ Volver a categorías](#catalog)

@@ -19,7 +19,7 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 為儲存庫加上 Star，追蹤每日精選提示詞，持續獲得創作靈感。
 
-**98** 筆內容 · 最新收錄: **2026-09-13**
+**100** 筆內容 · 最新收錄: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -388,6 +388,28 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 ```text
 樹林中一片空地的照片，周圍有大量綠葉植物，細節極其豐富
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
+
+<a name="prompt-2099152153722159320"></a>
+
+### 翻譯中
+
+作者：[@Aqsahere\_](https://x.com/Aqsahere_) · [查看 X 原帖](https://x.com/Aqsahere_/status/2099152153722159320)
+
+攝影 · 人像 / 自拍 · 角色 · 時尚單品 · 已推流
+
+**概括:** 翻譯中
+
+<img src="images/2099152153722159320-1.jpg" alt="圖片 1" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
 ```
 
 [↑ 返回分類目錄](#catalog)
@@ -2086,9 +2108,47 @@ App / 網站設計 · 3D 渲染 · 角色 · 已推流
 
 ## 其他
 
-<a name="prompt-2099141066784215478"></a>
+<a name="prompt-2099213523947864179"></a>
 
 ### 翻譯中
+
+作者：[@VoxcatAI](https://x.com/VoxcatAI) · [查看 X 原帖](https://x.com/VoxcatAI/status/2099213523947864179)
+
+海報／傳單 · 角色 · 摘要 / 背景 · 已推流
+
+查看 X 原帖：[@VoxcatAI](https://x.com/VoxcatAI) · [查看 X 原帖](https://x.com/VoxcatAI/status/2054455196298932406)
+
+**概括:** 翻譯中
+
+<img src="images/2099213523947864179-1.jpg" alt="圖片 1" width="480" />
+
+<img src="images/2099213523947864179-2.jpg" alt="圖片 2" width="480" />
+
+<img src="images/2099213523947864179-3.jpg" alt="圖片 3" width="480" />
+
+<img src="images/2099213523947864179-4.jpg" alt="圖片 4" width="480" />
+
+<img src="images/2099213523947864179-5.jpg" alt="圖片 5" width="480" />
+
+<img src="images/2099213523947864179-6.jpg" alt="圖片 6" width="480" />
+
+<img src="images/2099213523947864179-7.jpg" alt="圖片 7" width="480" />
+
+<img src="images/2099213523947864179-8.jpg" alt="圖片 8" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
+
+<a name="prompt-2099141066784215478"></a>
+
+### 中式夢幻庭院與現代無人泳池，CCD柔焦質感
 
 作者：[@DeepBlueX0](https://x.com/DeepBlueX0) · [查看 X 原帖](https://x.com/DeepBlueX0/status/2099141066784215478)
 
@@ -2096,7 +2156,7 @@ App / 網站設計 · 3D 渲染 · 角色 · 已推流
 
 查看 X 原帖：[@DeepBlueX0](https://x.com/DeepBlueX0) · [查看 X 原帖](https://x.com/DeepBlueX0/status/2099065219259761109)
 
-**概括:** 翻譯中
+**概括:** 中式夢幻庭院與現代無人泳池，CCD柔焦質感
 
 <img src="images/2099141066784215478-1.jpg" alt="圖片 1" width="480" />
 
@@ -2105,7 +2165,7 @@ App / 網站設計 · 3D 渲染 · 角色 · 已推流
 **提示詞**
 
 ```text
-翻譯中
+中式夢幻 × CCD直閃柔焦 × 無人游泳池
 ```
 
 [↑ 返回分類目錄](#catalog)

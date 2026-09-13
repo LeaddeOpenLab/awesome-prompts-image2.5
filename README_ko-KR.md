@@ -19,7 +19,7 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 
 저장소에 별을 눌러 매일 엄선한 프롬프트와 새로운 창작 아이디어를 확인하세요.
 
-**98** 개 · 최근 추가: **2026-09-13**
+**100** 개 · 최근 추가: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -388,6 +388,28 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 
 ```text
 울창한 녹색 나뭇잎이 가득한 숲속 공터의 사진, 매우 상세함
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
+
+<a name="prompt-2099152153722159320"></a>
+
+### 번역 중
+
+작성자：[@Aqsahere\_](https://x.com/Aqsahere_) · [원본 게시물](https://x.com/Aqsahere_/status/2099152153722159320)
+
+사진술 · 인물 사진 / 셀카 · 캐릭터 · 패션 아이템 · 배포 완료
+
+**요약:** 번역 중
+
+<img src="images/2099152153722159320-1.jpg" alt="이미지 1" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
 ```
 
 [↑ 카테고리로 돌아가기](#catalog)
@@ -2086,9 +2108,47 @@ Famous for: [짧고 독특한 사실]
 
 ## 기타
 
-<a name="prompt-2099141066784215478"></a>
+<a name="prompt-2099213523947864179"></a>
 
 ### 번역 중
+
+작성자：[@VoxcatAI](https://x.com/VoxcatAI) · [원본 게시물](https://x.com/VoxcatAI/status/2099213523947864179)
+
+포스터 / 전단지 · 캐릭터 · 초록 / 배경 · 배포 완료
+
+원본 게시물：[@VoxcatAI](https://x.com/VoxcatAI) · [원본 게시물](https://x.com/VoxcatAI/status/2054455196298932406)
+
+**요약:** 번역 중
+
+<img src="images/2099213523947864179-1.jpg" alt="이미지 1" width="480" />
+
+<img src="images/2099213523947864179-2.jpg" alt="이미지 2" width="480" />
+
+<img src="images/2099213523947864179-3.jpg" alt="이미지 3" width="480" />
+
+<img src="images/2099213523947864179-4.jpg" alt="이미지 4" width="480" />
+
+<img src="images/2099213523947864179-5.jpg" alt="이미지 5" width="480" />
+
+<img src="images/2099213523947864179-6.jpg" alt="이미지 6" width="480" />
+
+<img src="images/2099213523947864179-7.jpg" alt="이미지 7" width="480" />
+
+<img src="images/2099213523947864179-8.jpg" alt="이미지 8" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
+
+<a name="prompt-2099141066784215478"></a>
+
+### 중국풍 몽환적인 정원과 현대적인 무인 수영장, CCD 소프트 포커스 질감
 
 작성자：[@DeepBlueX0](https://x.com/DeepBlueX0) · [원본 게시물](https://x.com/DeepBlueX0/status/2099141066784215478)
 
@@ -2096,7 +2156,7 @@ Famous for: [짧고 독특한 사실]
 
 원본 게시물：[@DeepBlueX0](https://x.com/DeepBlueX0) · [원본 게시물](https://x.com/DeepBlueX0/status/2099065219259761109)
 
-**요약:** 번역 중
+**요약:** 중국풍 몽환적인 정원과 현대적인 무인 수영장, CCD 소프트 포커스 질감
 
 <img src="images/2099141066784215478-1.jpg" alt="이미지 1" width="480" />
 
@@ -2105,7 +2165,7 @@ Famous for: [짧고 독특한 사실]
 **프롬프트**
 
 ```text
-번역 중
+중국풍 몽환 × CCD 직광 플래시 소프트 포커스 × 무인 수영장
 ```
 
 [↑ 카테고리로 돌아가기](#catalog)
