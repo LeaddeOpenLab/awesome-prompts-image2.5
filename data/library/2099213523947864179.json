@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-13T20:19:15.832Z",
+  "model": "image2.5",
+  "prompt": "{主体 / 角色 / 概念}，Constructivism 俄国构成主义 × Suprematism 至上主义 × Futurism 未来主义 × Swiss International Style 瑞士国际主义平面设计 × Geometric Neo-Modernism 几何新现代主义。\n\n将主体重新拆解并转译为一套高度图形化的几何视觉系统，不强调传统写实塑形，而是提炼主体最核心的轮廓、身份特征、代表色、结构关系与运动方向，再将其重构为几何块面、斜轴、圆形、矩形、三角形、方向线、模块与负空间。人物、动物、建筑、机械、器物或抽象概念都统一进入这一几何构成逻辑，但仍保留足够识别性。\n\n整体采用 Path-based Shape Construction 路径式形状构成，以 Geometric Blocking 几何块面、Hard-edge Abstraction 硬边抽象、Modular Repetition 模块化重复、Directional Cutting 方向性切割为核心。大量使用 15°、30°、45° 斜轴建立动势，让主体形成明显的前进、旋转、冲撞、切割或扩张感。\n\n构图采用 Constructivist Cropping 构成主义裁切与 Asymmetrical Balance 非对称平衡。主体可局部超出画面边缘，被大面积斜切色块穿过或遮挡，局部结构可放大、重复、旋转、镜像，形成强烈视觉节奏。画面保持明确视觉中心，但避免传统居中肖像式稳定布局。\n\n介质表现采用 Vector Graphics × Screen Print × Risograph Simulation × Digital Collage。主体以清晰矢量边缘与大面积纯色色块构成，局部模拟丝网印刷油墨叠层、孔版印刷套色偏移、纸张纤维、轻微印刷网点与边缘错位，使画面既具有数字设计精度，又带实体印刷物的物质感。\n\n光影弱化自然主义照明，采用 Flat Tonal Structure 平面明度结构 × Graphic Contrast 图形化对比 × Optical Depth 光学伪空间。主要通过色块明度差、几何遮挡、尺寸变化、透明叠层与前后关系制造空间，不依赖复杂渐变塑形。可局部加入少量发光几何或高亮边缘，形成 Luminous Graphic Field 发光图形场，但整体保持平面构成优先。\n\n配色采用高识别有限色盘，以黑、白、红、钴蓝、群青、亮黄、橙色、冷灰、米白为核心，可根据主体自动选择 2–4 个主色。色彩之间保持高对比、强秩序与明确面积关系，不使用杂乱渐变和过多综合色。允许局部丝网印刷叠色产生第三色。\n\n整体视觉参考 El Lissitzky 的 Proun Composition 空间几何、Alexander Rodchenko 的构成主义海报与激进裁切、Kazimir Malevich 的至上主义基本形、László Moholy-Nagy 的 Bauhaus 光学几何，以及 Josef Müller-Brockmann 的 Swiss Grid System 网格秩序，但最终保持原创视觉结构。\n\n加入 VOXCAT 元素：左上角加入 stylized “V” + cat 的极简几何标志，并使其自然融入构成主义版式；右下角加入小号签名“voxCAT”。可将猫耳轮廓、猫眼、V 形切角、猫尾曲线进一步转译为圆形、三角形、斜线或模块化几何符号，作为画面内部重复出现的 VOXCAT 视觉母题。\n\n整体要求：结构清晰、几何关系强、边缘锐利、色块完整、版式稳定、速度感明确、负空间充足、低噪声、无粒子、无复杂写实背景、高完成度。除 VOXCAT 标志与 voxCAT 签名外，不出现其他文字、编号、UI、水印或无关 Logo。",
+  "promptTranslations": {
+    "en": "{Subject / Character / Concept}, Constructivism × Suprematism × Futurism × Swiss International Style graphic design × Geometric Neo-Modernism.\n\nDeconstruct and translate the subject into a highly graphic geometric visual system, eschewing traditional realistic modeling in favor of distilling the subject's core silhouettes, identifying traits, signature colors, structural relationships, and directional dynamics, then reconstructing them into geometric color blocks, diagonal axes, circles, rectangles, triangles, directional vectors, modules, and negative space. Humans, animals, architecture, machinery, objects, or abstract concepts are all uniformly integrated into this geometric compositional logic while retaining sufficient recognizability.\n\nThe overall design employs Path-based Shape Construction, centering on Geometric Blocking, Hard-edge Abstraction, Modular Repetition, and Directional Cutting. Generous use of 15°, 30°, and 45° diagonal axes establishes dynamic momentum, imparting the subject with a distinct sense of forward motion, rotation, collision, slicing, or expansion.\n\nThe composition utilizes Constructivist Cropping and Asymmetrical Balance. The subject may partially extend beyond the edges of the frame, bisected or occluded by large diagonally cut color planes; localized structures can be scaled up, repeated, rotated, or mirrored to forge a powerful visual rhythm. The image maintains a clear visual focal point while avoiding a conventional, static, centered portrait layout.\n\nMedia execution employs Vector Graphics × Screen Print × Risograph Simulation × Digital Collage. The subject is composed of crisp vector edges and expansive solid-color planes, with localized simulations of silkscreen ink layering, risograph misregistration/color trapping shifts, paper fiber texture, subtle halftone dots, and slight edge misalignment, granting the visual both digital design precision and physical print tactility.\n\nLighting de-emphasizes naturalistic illumination, adopting a Flat Tonal Structure × Graphic Contrast × Optical Depth. Spatial depth is established primarily through value contrast across color blocks, geometric occlusion, scale variations, translucent overlaps, and foreground-background relationships, rather than relying on complex gradient rendering. Subtle glowing geometric accents or highlighted edges can be incorporated locally to create a Luminous Graphic Field, while prioritizing planar composition throughout.\n\nThe color scheme utilizes a highly recognizable, limited palette centered on black, white, red, cobalt blue, ultramarine, bright yellow, orange, cool gray, and off-white/cream, with 2–4 dominant colors automatically selected based on the subject. The colors maintain high contrast, rigid order, and distinct surface area proportions, avoiding chaotic gradients and excessive secondary mixtures. Subtle third-color overlays produced by localized screen-print overprinting are permitted.\n\nThe overall aesthetic references El Lissitzky's Proun Composition spatial geometry, Alexander Rodchenko's Constructivist posters and radical cropping, Kazimir Malevich's Suprematist basic forms, László Moholy-Nagy's Bauhaus optical geometry, and Josef Müller-Brockmann's Swiss Grid System order, while ultimately preserving an original visual structure.\n\nIncorporate VOXCAT elements: Integrate a minimalist geometric stylized “V” + cat logo into the upper-left corner, seamlessly blended into the Constructivist typography/layout; add a small “voxCAT” signature in the lower-right corner. Cat ear silhouettes, cat eyes, V-shaped bevels, and cat tail curves may be further translated into circles, triangles, diagonal lines, or modular geometric glyphs, serving as recurring VOXCAT visual motifs throughout the composition.\n\nOverall requirements: clear structure, strong geometric relationships, sharp edges, intact color blocks, stable typography and layout, distinct sense of velocity, ample negative space, low noise, no particles, no complex realistic backgrounds, high degree of finish. Aside from the VOXCAT logo and the voxCAT signature, no other text, numbers, UI elements, watermarks, or extraneous logos should appear."
+  },
+  "summaryTranslations": {
+    "en": "Geometric abstract character poster prompt template based on Constructivism, Suprematism, and Futurism."
+  },
+  "translationVersion": 2,
+  "summary": "基于构成主义、至上主义与未来主义的几何抽象角色海报提示词模板。",
+  "summaryEn": "Geometric abstract character poster prompt template based on Constructivism, Suprematism, and Futurism styles.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2054455196298932406",
+      "canonicalUrl": "https://x.com/VoxcatAI/status/2054455196298932406",
+      "author": {
+        "username": "VoxcatAI",
+        "displayName": "VoxCat",
+        "profileUrl": "https://x.com/VoxcatAI"
+      },
+      "originalText": "其实只要 prompt 里的视觉逻辑对了，image2 的风格融合会非常稳。\n\n我这次试了“未来主义动势 + 俄构宣传结构 + 波普商业拼贴”的角色海报逻辑：\n\n用速度线、重复轮廓和机械分解制造连续运动感\n用红黑白斜向几何块面搭出宣传海报骨架\n再用商业网点、消费符号和杂志拼贴增加复古广告感\n关键不是随便堆元素，而是所有图标、伪文字、拼贴碎片都必须从角色本身提取：能力、武器、阵营、属性、身份和世界观符号。\n这样画面才不会变成随机装饰，而是像一张真正为角色定制的高速都市宣传广告。\n\nPrompt 结构：\n【角色】，角色动态宣传海报，融合意大利未来主义、俄国构成主义与英国波普艺术。保留角色最核心识别点：发型、发色、代表性配色、服装轮廓、武器 / 道具、身份气质、阵营属性与世界观符号。人物动作充满速度线、重复轮廓、机械分解与连续运动感。背景以红黑白几何块面和斜向宣传画结构构成，加入明亮波普撞色、商业网点、消费文化符号与杂志拼贴感。所有出现的元素都必须与角色有关，包括速度线、图标、符号、拼贴碎片、伪文字、广告元素、机械结构，都要从角色的能力、武器、职业、阵营、元素属性、标志性场景与视觉母题中提取并转化，避免无关装饰。整体像高速运转的都市角色宣传广告，机械时代气息浓烈，节奏感极强，复古印刷感鲜明，少量伪文字，避免现代简洁 UI 风"
+    },
+    "id": "2099213523947864179",
+    "canonicalUrl": "https://x.com/VoxcatAI/status/2099213523947864179",
+    "author": {
+      "username": "VoxcatAI",
+      "displayName": "VoxCat",
+      "profileUrl": "https://x.com/VoxcatAI"
+    },
+    "publishedAt": "2026-09-13T19:08:00.000Z",
+    "collectedAt": "2026-09-13T20:17:30.138Z",
+    "language": "zh",
+    "originalText": "这条提示词的作用很直接：\n\n把角色重新拆成几何图形。\n\n保留角色最关键的发型、配色和身份特征，再用圆形、三角形、斜线和色块重新组合，做成构成主义海报。\n\nImage2.5提示词\n\n{主体 / 角色 / 概念}，Constructivism 俄国构成主义 × Suprematism 至上主义 × Futurism 未来主义 × Swiss International Style 瑞士国际主义平面设计 × Geometric Neo-Modernism 几何新现代主义。\n\n将主体重新拆解并转译为一套高度图形化的几何视觉系统，不强调传统写实塑形，而是提炼主体最核心的轮廓、身份特征、代表色、结构关系与运动方向，再将其重构为几何块面、斜轴、圆形、矩形、三角形、方向线、模块与负空间。人物、动物、建筑、机械、器物或抽象概念都统一进入这一几何构成逻辑，但仍保留足够识别性。\n\n整体采用 Path-based Shape Construction 路径式形状构成，以 Geometric Blocking 几何块面、Hard-edge Abstraction 硬边抽象、Modular Repetition 模块化重复、Directional Cutting 方向性切割为核心。大量使用 15°、30°、45° 斜轴建立动势，让主体形成明显的前进、旋转、冲撞、切割或扩张感。\n\n构图采用 Constructivist Cropping 构成主义裁切与 Asymmetrical Balance 非对称平衡。主体可局部超出画面边缘，被大面积斜切色块穿过或遮挡，局部结构可放大、重复、旋转、镜像，形成强烈视觉节奏。画面保持明确视觉中心，但避免传统居中肖像式稳定布局。\n\n介质表现采用 Vector Graphics × Screen Print × Risograph Simulation × Digital Collage。主体以清晰矢量边缘与大面积纯色色块构成，局部模拟丝网印刷油墨叠层、孔版印刷套色偏移、纸张纤维、轻微印刷网点与边缘错位，使画面既具有数字设计精度，又带实体印刷物的物质感。\n\n光影弱化自然主义照明，采用 Flat Tonal Structure 平面明度结构 × Graphic Contrast 图形化对比 × Optical Depth 光学伪空间。主要通过色块明度差、几何遮挡、尺寸变化、透明叠层与前后关系制造空间，不依赖复杂渐变塑形。可局部加入少量发光几何或高亮边缘，形成 Luminous Graphic Field 发光图形场，但整体保持平面构成优先。\n\n配色采用高识别有限色盘，以黑、白、红、钴蓝、群青、亮黄、橙色、冷灰、米白为核心，可根据主体自动选择 2–4 个主色。色彩之间保持高对比、强秩序与明确面积关系，不使用杂乱渐变和过多综合色。允许局部丝网印刷叠色产生第三色。\n\n整体视觉参考 El Lissitzky 的 Proun Composition 空间几何、Alexander Rodchenko 的构成主义海报与激进裁切、Kazimir Malevich 的至上主义基本形、László Moholy-Nagy 的 Bauhaus 光学几何，以及 Josef Müller-Brockmann 的 Swiss Grid System 网格秩序，但最终保持原创视觉结构。\n\n加入 VOXCAT 元素：左上角加入 stylized “V” + cat 的极简几何标志，并使其自然融入构成主义版式；右下角加入小号签名“voxCAT”。可将猫耳轮廓、猫眼、V 形切角、猫尾曲线进一步转译为圆形、三角形、斜线或模块化几何符号，作为画面内部重复出现的 VOXCAT 视觉母题。\n\n整体要求：结构清晰、几何关系强、边缘锐利、色块完整、版式稳定、速度感明确、负空间充足、低噪声、无粒子、无复杂写实背景、高完成度。除 VOXCAT 标志与 voxCAT 签名外，不出现其他文字、编号、UI、水印或无关 Logo。",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSHMSA_a4AA4ZdK.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSHMSA_a4AA4ZdK.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSHMSBAbsAAz_it.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSHMSBAbsAAz_it.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSHMSBHbUAA-QqA.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSHMSBHbUAA-QqA.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSHMSBBb0AEGlw1.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSHMSBBb0AEGlw1.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HILhyF7aoAARKvk.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HILhyF7aoAARKvk.jpg",
+        "sourcePostId": "2054455196298932406"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HILh0fabwAEmpQH.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HILh0fabwAEmpQH.jpg",
+        "sourcePostId": "2054455196298932406"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HILh2kpakAAEoUJ.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HILh2kpakAAEoUJ.jpg",
+        "sourcePostId": "2054455196298932406"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HILjcH0aQAAYm3T.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HILjcH0aQAAYm3T.jpg",
+        "sourcePostId": "2054455196298932406"
+      }
+    ],
+    "metrics": {
+      "likeCount": 2,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 211
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/VoxcatAI/status/2099213523947864179",
+  "coverUrl": "https://pbs.twimg.com/media/HSHMSA_a4AA4ZdK.jpg",
+  "coverPath": "images/2099213523947864179-1.jpg",
+  "imagePaths": [
+    "images/2099213523947864179-1.jpg",
+    "images/2099213523947864179-2.jpg",
+    "images/2099213523947864179-3.jpg",
+    "images/2099213523947864179-4.jpg",
+    "images/2099213523947864179-5.jpg",
+    "images/2099213523947864179-6.jpg",
+    "images/2099213523947864179-7.jpg",
+    "images/2099213523947864179-8.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSHMSA_a4AA4ZdK",
+    "x-image:/media/HSHMSBAbsAAz_it",
+    "x-image:/media/HSHMSBHbUAA-QqA",
+    "x-image:/media/HSHMSBBb0AEGlw1",
+    "x-image:/media/HILhyF7aoAARKvk",
+    "x-image:/media/HILh0fabwAEmpQH",
+    "x-image:/media/HILh2kpakAAEoUJ",
+    "x-image:/media/HILjcH0aQAAYm3T",
+    "x-post:2099213523947864179",
+    "x-post:2054455196298932406"
+  ],
+  "analysis": {
+    "summary": "基于构成主义、至上主义与未来主义的几何抽象角色海报提示词模板。",
+    "summaryEn": "Geometric abstract character poster prompt template based on Constructivism, Suprematism, and Futurism styles.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "生成图像完美呈现了几何拆解的构成主义风格、硬边色块裁切以及 prompt 中指定的左上角 V+cat 标志与右下角 voxCAT 签名。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "{主体 / 角色 / 概念}，Constructivism 俄国构成主义 × Suprematism 至上主义 × Futurism 未来主义 × Swiss International Style 瑞士国际主义平面设计 × Geometric Neo-Modernism 几何新现代主义。\n\n将主体重新拆解并转译为一套高度图形化的几何视觉系统，不强调传统写实塑形，而是提炼主体最核心的轮廓、身份特征、代表色、结构关系与运动方向，再将其重构为几何块面、斜轴、圆形、矩形、三角形、方向线、模块与负空间。人物、动物、建筑、机械、器物或抽象概念都统一进入这一几何构成逻辑，但仍保留足够识别性。\n\n整体采用 Path-based Shape Construction 路径式形状构成，以 Geometric Blocking 几何块面、Hard-edge Abstraction 硬边抽象、Modular Repetition 模块化重复、Directional Cutting 方向性切割为核心。大量使用 15°、30°、45° 斜轴建立动势，让主体形成明显的前进、旋转、冲撞、切割或扩张感。\n\n构图采用 Constructivist Cropping 构成主义裁切与 Asymmetrical Balance 非对称平衡。主体可局部超出画面边缘，被大面积斜切色块穿过或遮挡，局部结构可放大、重复、旋转、镜像，形成强烈视觉节奏。画面保持明确视觉中心，但避免传统居中肖像式稳定布局。\n\n介质表现采用 Vector Graphics × Screen Print × Risograph Simulation × Digital Collage。主体以清晰矢量边缘与大面积纯色色块构成，局部模拟丝网印刷油墨叠层、孔版印刷套色偏移、纸张纤维、轻微印刷网点与边缘错位，使画面既具有数字设计精度，又带实体印刷物的物质感。\n\n光影弱化自然主义照明，采用 Flat Tonal Structure 平面明度结构 × Graphic Contrast 图形化对比 × Optical Depth 光学伪空间。主要通过色块明度差、几何遮挡、尺寸变化、透明叠层与前后关系制造空间，不依赖复杂渐变塑形。可局部加入少量发光几何或高亮边缘，形成 Luminous Graphic Field 发光图形场，但整体保持平面构成优先。\n\n配色采用高识别有限色盘，以黑、白、红、钴蓝、群青、亮黄、橙色、冷灰、米白为核心，可根据主体自动选择 2–4 个主色。色彩之间保持高对比、强秩序与明确面积关系，不使用杂乱渐变和过多综合色。允许局部丝网印刷叠色产生第三色。\n\n整体视觉参考 El Lissitzky 的 Proun Composition 空间几何、Alexander Rodchenko 的构成主义海报与激进裁切、Kazimir Malevich 的至上主义基本形、László Moholy-Nagy 的 Bauhaus 光学几何，以及 Josef Müller-Brockmann 的 Swiss Grid System 网格秩序，但最终保持原创视觉结构。\n\n加入 VOXCAT 元素：左上角加入 stylized “V” + cat 的极简几何标志，并使其自然融入构成主义版式；右下角加入小号签名“voxCAT”。可将猫耳轮廓、猫眼、V 形切角、猫尾曲线进一步转译为圆形、三角形、斜线或模块化几何符号，作为画面内部重复出现的 VOXCAT 视觉母题。\n\n整体要求：结构清晰、几何关系强、边缘锐利、色块完整、版式稳定、速度感明确、负空间充足、低噪声、无粒子、无复杂写实背景、高完成度。除 VOXCAT 标志与 voxCAT 签名外，不出现其他文字、编号、UI、水印或无关 Logo。",
+    "sourceRange": {
+      "start": 90,
+      "end": 1665
+    },
+    "translations": {
+      "zh": "{主体 / 角色 / 概念}，俄国构成主义 × 至上主义 × 未来主义 × 瑞士国际主义平面设计 × 几何新现代主义，将主体解构为高度图形化的几何系统，结合硬边抽象、斜轴动势与丝网印刷质感。",
+      "en": "{Subject / Character / Concept}, Russian Constructivism × Suprematism × Futurism × Swiss International Style × Geometric Neo-Modernism, deconstructing the subject into a stylized geometric visual system with hard-edge abstraction, diagonal axes, and screen print textures."
+    },
+    "targetModels": [
+      "image2.5"
+    ],
+    "category": "text-to-image",
+    "useCase": "text-to-image",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
