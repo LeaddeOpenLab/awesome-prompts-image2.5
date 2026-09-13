@@ -2844,20 +2844,34 @@ Verwende das beigefügte Bild als Referenz für das Fotokonzept. Behalte das Bel
 
 <a name="prompt-2099184782538395709"></a>
 
-### Übersetzung läuft
+### 10-Sekunden-Video-Storyboard-Prompt für vertikale Hautpflege-Werbung, einschließlich Unboxing, Entnahme der Flasche, Hauptpräsentation, Auftragen der Textur und rotierendem Ausklang.
 
 Autor：[@Andy4aicreate](https://x.com/Andy4aicreate) · [Originalbeitrag](https://x.com/Andy4aicreate/status/2099184782538395709)
 
 Comic / Storyboard · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** 10-Sekunden-Video-Storyboard-Prompt für vertikale Hautpflege-Werbung, einschließlich Unboxing, Entnahme der Flasche, Hauptpräsentation, Auftragen der Textur und rotierendem Ausklang.
 
 <img src="covers/2099184782538395709.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle einen hochwertigen, fotorealistischen, 10-sekündigen vertikalen 9:16-Hautpflege-Werbespot unter Verwendung des hochgeladenen Bildes als exakte visuelle Referenz. Behalte das fiktive Flaschendesign „澄光 / CHENG GUANG Cocoa Soft Glow“, das Etikett, die Farben, die Verpackung und die Gesamtkomposition präzise bei. Kopiere keine echten Vaseline-Markenzeichen.
+
+Szene 1 (0–2s): Sanfte filmische Kamerafahrt (Push-in) auf die offene Geschenkbox zu. Die Cheng Guang Cocoa Soft Glow-Flasche wird wunderschön zwischen zartrosa Geschenkpapier und dekorativen Elementen enthüllt. Warme, gemütliche Beleuchtung, subtiles Glitzern.
+
+Szene 2 (2–4s): Die Hände einer Frau nehmen die Cheng Guang-Flasche sanft aus der Box. Langsame, natürliche Handbewegung, realistische Hauttextur, weiche, warme Beleuchtung, erstklassiges Unboxing-Gefühl.
+
+Szene 3 (4–6s): Hero-Produktaufnahme. Die Flasche steht aufrecht, umgeben von Kakaobohnen, Kakaobutter und frischen grünen Blättern. Die Kamera bewegt sich langsam von links nach rechts mit eleganter, filmischer Schärfentiefe.
+
+Szene 4 (6–7s): Extreme Nahaufnahme einer geschmeidigen Lotions-Textur, die sanft auf der Haut verteilt wird. Zeige die cremige, leichte Textur und das glänzende, feuchtigkeitsspendende Finish im realistischen Makro-Detail.
+
+Szene 5 (7–9s): Die Flasche wird elegant in einer Hand gehalten und langsam zur Kamera gedreht. Betone das Konzept von Cocoa Butter und Serum-in-Lotion mit erstklassiger Beauty-Werbebeleuchtung.
+
+Szene 6 (9–10s): Finale Hero-Aufnahme der Cheng Guang Cocoa Soft Glow-Flasche, umgeben von Kakaobohnen und Blättern. Die Kamera fährt langsam heran, subtile Glitzereffekte, luxuriöser warmer Hintergrund, saubere, auf das Produkt fokussierte Komposition.
+
+Stil: fotorealistisch, erstklassige Kosmetikwerbung, filmische Beleuchtung, realistische Handbewegungen, sanfte Kameraübergänge, geringe Schärfentiefe, weiches Bokeh, warme Goldtöne, 4K, hochdetailliert, natürliche Bewegung, keine Verzerrung, keine zusätzlichen Produkte, keine Änderung am Flaschenetikett oder Branding.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

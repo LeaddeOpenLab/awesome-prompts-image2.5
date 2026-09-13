@@ -2851,20 +2851,34 @@ Sử dụng hình ảnh đính kèm làm tài liệu tham khảo cho phương á
 
 <a name="prompt-2099184782538395709"></a>
 
-### Đang dịch
+### 10秒竖屏护肤商业广告分镜视频提示词，包含开箱、取瓶、主体展示、涂抹质地与旋转收尾。
 
 Tác giả：[@Andy4aicreate](https://x.com/Andy4aicreate) · [Bài gốc](https://x.com/Andy4aicreate/status/2099184782538395709)
 
 Truyện tranh / Bảng phân cảnh · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** 10秒竖屏护肤商业广告分镜视频提示词，包含开箱、取瓶、主体展示、涂抹质地与旋转收尾。
 
 <img src="covers/2099184782538395709.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một video quảng cáo chăm sóc da dọc 9:16 dài 10 giây chất lượng cao, chân thực như ảnh chụp, sử dụng hình ảnh đã tải lên làm tài liệu tham khảo trực quan chính xác. Giữ nguyên thiết kế chai, nhãn mác, màu sắc, bao bì và bố cục tổng thể của sản phẩm hư cấu “澄光 / CHENG GUANG Cocoa Soft Glow” một cách chính xác. Không sao chép các nhãn hiệu Vaseline ngoài đời thực.
+
+Cảnh 1 (0–2 giây): Máy quay mượt mà tiến lại gần (push-in) theo phong cách điện ảnh về phía hộp quà đang mở. Chai Cheng Guang Cocoa Soft Glow lộ diện tuyệt đẹp giữa lớp giấy gói màu hồng mềm mại và các yếu tố trang trí. Ánh sáng ấm áp dễ chịu, lấp lánh tinh tế.
+
+Cảnh 2 (2–4 giây): Đôi bàn tay phụ nữ nhẹ nhàng nhấc chai Cheng Guang ra khỏi hộp. Chuyển động tay chậm rãi tự nhiên, kết cấu da chân thực, ánh sáng ấm dịu, mang lại cảm giác mở hộp cao cấp.
+
+Cảnh 3 (4–6 giây): Cảnh quay cận cảnh sản phẩm chủ đạo (hero shot). Chai đứng thẳng, xung quanh là hạt ca cao, bơ ca cao và những chiếc lá xanh tươi. Máy quay từ từ di chuyển từ trái sang phải với độ sâu trường ảnh điện ảnh trang nhã.
+
+Cảnh 4 (6–7 giây): Cận cảnh cực độ kết cấu sữa dưỡng mịn màng được thoa nhẹ nhàng trên da. Thể hiện kết cấu mỏng nhẹ, béo mịn và lớp kết thúc dưỡng ẩm bóng mượt trong chi tiết macro chân thực.
+
+Cảnh 5 (7–9 giây): Chai được cầm trang nhã bằng một tay và từ từ xoay về phía máy quay. Làm nổi bật khái niệm Bơ Ca Cao (Cocoa Butter) và Serum-in-Lotion với ánh sáng quảng cáo sắc đẹp cao cấp.
+
+Cảnh 6 (9–10 giây): Cảnh quay sản phẩm chủ đạo cuối cùng của chai Cheng Guang Cocoa Soft Glow được bao quanh bởi hạt ca cao và lá cây. Máy quay từ từ tiến lại gần, hiệu ứng lấp lánh nhẹ nhàng, phông nền ấm áp sang trọng, bố cục gọn gàng tập trung vào sản phẩm.
+
+Phong cách: chân thực như ảnh chụp, quảng cáo sắc đẹp cao cấp, ánh sáng điện ảnh, chuyển động tay chân thực, chuyển cảnh máy quay mượt mà, độ sâu trường ảnh nông, bokeh mềm mại, tông màu vàng ấm áp, 4K, độ chi tiết cao, chuyển động tự nhiên, không biến dạng, không có sản phẩm thừa, không thay đổi nhãn mác chai hoặc thương hiệu.
 ```
 
 [↑ Về danh mục](#catalog)

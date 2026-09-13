@@ -2829,20 +2829,34 @@ Ekli görseli fotoğraf konsepti referansı olarak kullanın. Pozlama ilişkisin
 
 <a name="prompt-2099184782538395709"></a>
 
-### Çeviri sürüyor
+### Kutu açma, şişeyi alma, ana ürün sergileme, doku uygulama ve döndürmeli kapanış içeren 10 saniyelik dikey ekran cilt bakımı reklamı storyboard video istemi.
 
 Yazar：[@Andy4aicreate](https://x.com/Andy4aicreate) · [Orijinal gönderi](https://x.com/Andy4aicreate/status/2099184782538395709)
 
 Çizgi Roman / Hikaye Taslağı · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Kutu açma, şişeyi alma, ana ürün sergileme, doku uygulama ve döndürmeli kapanış içeren 10 saniyelik dikey ekran cilt bakımı reklamı storyboard video istemi.
 
 <img src="covers/2099184782538395709.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Yüklenen görseli birebir görsel referans olarak kullanarak yüksek kaliteli, fotogerçekçi, 10 saniyelik, dikey 9:16 formatında bir cilt bakımı reklamı oluşturun. Kurgusal "澄光 / CHENG GUANG Cocoa Soft Glow" şişe tasarımını, etiketini, renklerini, ambalajını ve genel kompozisyonunu aslına tam olarak sadık kalarak koruyun. Gerçek dünyadaki Vaseline ticari markalarını kopyalamayın.
+
+1. Sahne (0–2 sn): Açık hediye kutusuna doğru akıcı ve sinematik kamera yaklaşması (push-in). Cheng Guang Cocoa Soft Glow şişesi, yumuşak pembe ambalaj kağıdı ve dekoratif unsurların arasında zarif bir şekilde ortaya çıkıyor. Sıcak ve samimi aydınlatma, ince parıltılar.
+
+2. Sahne (2–4 sn): Bir kadının elleri Cheng Guang şişesini kutudan nazikçe çıkarıyor. Yavaş ve doğal el hareketi, gerçekçi cilt dokusu, yumuşak sıcak aydınlatma, birinci sınıf kutu açma (unboxing) hissi.
+
+3. Sahne (4–6 sn): Ana ürün çekimi (hero shot). Şişe; kakao çekirdekleri, kakao yağı ve taze yeşil yapraklarla çevrili olarak dik duruyor. Kamera, zarif bir sinematik alan derinliğiyle soldan sağa yavaşça hareket ediyor.
+
+4. Sahne (6–7 sn): Cilde nazikçe yayılan pürüzsüz losyon dokusunun aşırı yakın çekimi (extreme close-up). Kremsi, hafif dokuyu ve parlak nemlendirici bitişi gerçekçi makro ayrıntılarla gösterin.
+
+5. Sahne (7–9 sn): Şişe tek elle zarifçe tutuluyor ve yavaşça kameraya doğru döndürülüyor. Kakao Yağı ve Serum-in-Lotion konseptini birinci sınıf güzellik reklamı aydınlatmasıyla vurgulayın.
+
+6. Sahne (9–10 sn): Kakao çekirdekleri ve yapraklarla çevrili Cheng Guang Cocoa Soft Glow şişesinin son ana ürün çekimi. Kamera yavaşça yaklaşıyor, ince parıltı efektleri, lüks sıcak arka plan, temiz ve ürün odaklı kompozisyon.
+
+Tarz: fotogerçekçi, birinci sınıf güzellik reklamı, sinematik aydınlatma, gerçekçi el hareketleri, akıcı kamera geçişleri, sığ alan derinliği, yumuşak bokeh, sıcak altın tonları, 4K, son derece ayrıntılı, doğal hareket, bozulma yok, fazladan ürün yok, şişe etiketinde veya markasında değişiklik yok.
 ```
 
 [↑ Kategorilere dön](#catalog)

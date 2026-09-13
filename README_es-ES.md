@@ -2873,20 +2873,34 @@ Usa la imagen adjunta como referencia para el esquema fotográfico. Mantén la r
 
 <a name="prompt-2099184782538395709"></a>
 
-### Traducción en curso
+### 10秒竖屏护肤商业广告分镜视频提示词，包含开箱、取瓶、主体展示、涂抹质地与旋转收尾。
 
 Autor：[@Andy4aicreate](https://x.com/Andy4aicreate) · [Publicación original](https://x.com/Andy4aicreate/status/2099184782538395709)
 
 Cómic / Guion gráfico · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** 10秒竖屏护肤商业广告分镜视频提示词，包含开箱、取瓶、主体展示、涂抹质地与旋转收尾。
 
 <img src="covers/2099184782538395709.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un anuncio comercial de cuidado de la piel vertical de 9:16 de 10 segundos, fotorrealista y de alta calidad, utilizando la imagen subida como referencia visual exacta. Conserva con precisión el diseño de la botella, la etiqueta, los colores, el empaque y la composición general del producto ficticio “澄光 / CHENG GUANG Cocoa Soft Glow”. No copies marcas registradas reales de Vaseline.
+
+Escena 1 (0–2 s): Acercamiento (push-in) suave y cinematográfico de la cámara hacia la caja de regalo abierta. La botella de Cheng Guang Cocoa Soft Glow se revela hermosamente entre papel de regalo rosa suave y elementos decorativos. Iluminación cálida y acogedora, sutiles destellos.
+
+Escena 2 (2–4 s): Las manos de una mujer toman suavemente la botella de Cheng Guang de la caja. Movimiento lento y natural de las manos, textura de piel realista, iluminación suave y cálida, sensación de desempaquetado premium.
+
+Escena 3 (4–6 s): Plano principal del producto (hero shot). La botella se encuentra en posición vertical rodeada de granos de cacao, manteca de cacao y hojas verdes frescas. La cámara se mueve lentamente de izquierda a derecha con una elegante profundidad de campo cinematográfica.
+
+Escena 4 (6–7 s): Primer plano extremo de la textura suave de una loción que se esparce delicadamente sobre la piel. Muestra la textura cremosa y ligera y el acabado hidratante brillante en un detalle macro realista.
+
+Escena 5 (7–9 s): La botella se sostiene con elegancia con una mano y se gira lentamente hacia la cámara. Destaca el concepto de manteca de cacao y Serum-in-Lotion con una iluminación publicitaria de belleza de primera calidad.
+
+Escena 6 (9–10 s): Plano principal final de la botella de Cheng Guang Cocoa Soft Glow rodeada de granos de cacao y hojas. La cámara se acerca lentamente, sutiles efectos de destellos, fondo cálido y lujoso, composición limpia centrada en el producto.
+
+Estilo: fotorrealista, anuncio de belleza premium, iluminación cinematográfica, movimientos de manos realistas, transiciones de cámara fluidas, profundidad de campo reducida, bokeh suave, tonos dorados cálidos, 4K, altamente detallado, movimiento natural, sin distorsiones, sin productos adicionales, sin cambios en la etiqueta o marca de la botella.
 ```
 
 [↑ Volver a categorías](#catalog)

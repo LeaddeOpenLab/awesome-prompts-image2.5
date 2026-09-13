@@ -2829,20 +2829,34 @@ Use a imagem anexada como referência para o plano fotográfico. Mantenha a rela
 
 <a name="prompt-2099184782538395709"></a>
 
-### Tradução em andamento
+### Prompt de vídeo de storyboard para comercial de cuidados com a pele vertical de 10 segundos, apresentando unboxing, retirada do frasco, exibição principal, textura de aplicação e rotação de encerramento.
 
 Autor：[@Andy4aicreate](https://x.com/Andy4aicreate) · [Publicação original](https://x.com/Andy4aicreate/status/2099184782538395709)
 
 Quadrinhos / Storyboard · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt de vídeo de storyboard para comercial de cuidados com a pele vertical de 10 segundos, apresentando unboxing, retirada do frasco, exibição principal, textura de aplicação e rotação de encerramento.
 
 <img src="covers/2099184782538395709.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Crie um comercial de cuidados com a pele vertical de 9:16 de 10 segundos, fotorrealista e de alta qualidade, usando a imagem enviada como referência visual exata. Preserve o design fictício do frasco "澄光 / CHENG GUANG Cocoa Soft Glow", o rótulo, as cores, a embalagem e a composição geral com precisão. Não copie marcas registradas reais da Vaseline.
+
+Cena 1 (0–2s): Movimento suave e cinematográfico de aproximação da câmera (push-in) em direção à caixa de presente aberta. O frasco de Cheng Guang Cocoa Soft Glow é revelado com beleza em meio ao papel de embrulho rosa suave e elementos decorativos. Iluminação quente e aconchegante, brilhos sutis.
+
+Cena 2 (2–4s): As mãos de uma mulher pegam delicadamente o frasco de Cheng Guang da caixa. Movimento lento e natural das mãos, textura de pele realista, iluminação suave e quente, sensação premium de unboxing.
+
+Cena 3 (4–6s): Foto principal do produto (hero shot). O frasco fica em pé, cercado por grãos de cacau, manteiga de cacau e folhas verdes frescas. A câmera se move lentamente da esquerda para a direita com uma elegante profundidade de campo cinematográfica.
+
+Cena 4 (6–7s): Close-up extremo de uma textura suave de loção sendo espalhada delicadamente sobre a pele. Mostre a textura cremosa e leve e o acabamento hidratante brilhante em detalhes macro realistas.
+
+Cena 5 (7–9s): O frasco é segurado elegantemente com uma mão e girado lentamente em direção à câmera. Destaque o conceito de Manteiga de Cacau e Serum-in-Lotion com iluminação premium de comercial de beleza.
+
+Cena 6 (9–10s): Tomada principal final do frasco de Cheng Guang Cocoa Soft Glow cercado por grãos de cacau e folhas. A câmera se aproxima lentamente (push-in), efeitos sutis de brilho, fundo quente e luxuoso, composição limpa com foco no produto.
+
+Estilo: fotorrealista, anúncio de beleza premium, iluminação cinematográfica, movimentos de mão realistas, transições de câmera suaves, profundidade de campo rasa, bokeh suave, tons dourados quentes, 4K, altamente detalhado, movimento natural, sem distorção, sem produtos adicionais, sem alteração no rótulo ou na marca do frasco.
 ```
 
 [↑ Voltar às categorias](#catalog)
