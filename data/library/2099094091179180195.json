@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-13T13:54:44.375Z",
+  "model": "image2",
+  "prompt": "Ultra-realistic candid 9:16 street photograph of two adult East Asian women in stylish short skirts, sitting casually at a window-side counter inside McDonald’s, naturally chatting together. Photographed from the sidewalk through the glass window, with realistic reflections, warm interior lighting, natural body language, authentic expressions, detailed skin and clothing textures, shallow depth of field, and an unposed smartphone photography feel.",
+  "promptTranslations": {
+    "en": "Ultra-realistic candid 9:16 street photograph of two adult East Asian women in stylish short skirts, sitting casually at a window-side counter inside McDonald’s, naturally chatting together. Photographed from the sidewalk through the glass window, with realistic reflections, warm interior lighting, natural body language, authentic expressions, detailed skin and clothing textures, shallow depth of field, and an unposed smartphone photography feel."
+  },
+  "summaryTranslations": {
+    "en": "Candid street-style photo of two East Asian women conversing by a McDonald's window."
+  },
+  "translationVersion": 2,
+  "summary": "Candid street-style photo of two East Asian women conversing by a McDonald's window.",
+  "summaryEn": "Candid street-style photo of two East Asian women conversing by a McDonald's window.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2099094091179180195",
+    "canonicalUrl": "https://x.com/Aqsahere_/status/2099094091179180195",
+    "author": {
+      "username": "Aqsahere_",
+      "displayName": "Aqsa",
+      "profileUrl": "https://x.com/Aqsahere_"
+    },
+    "publishedAt": "2026-09-13T11:13:25.000Z",
+    "collectedAt": "2026-09-13T12:39:48.421Z",
+    "language": "en",
+    "originalText": "Bro this McDonald’s looks suspiciously perfect 😭\n\nGPT image 2 prompt :\nUltra-realistic candid 9:16 street photograph of two adult East Asian women in stylish short skirts, sitting casually at a window-side counter inside McDonald’s, naturally chatting together. Photographed from the sidewalk through the glass window, with realistic reflections, warm interior lighting, natural body language, authentic expressions, detailed skin and clothing textures, shallow depth of field, and an unposed smartphone photography feel.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSF68i5aAAArcir.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSF68i5aAAArcir.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 18,
+      "repostCount": 2,
+      "replyCount": 14,
+      "quoteCount": 0,
+      "viewCount": 553
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Aqsahere_/status/2099094091179180195",
+  "coverUrl": "https://pbs.twimg.com/media/HSF68i5aAAArcir.jpg",
+  "coverPath": "images/2099094091179180195-1.jpg",
+  "imagePaths": [
+    "images/2099094091179180195-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSF68i5aAAArcir",
+    "x-post:2099094091179180195"
+  ],
+  "analysis": {
+    "summary": "Candid street-style photo of two East Asian women conversing by a McDonald's window.",
+    "summaryEn": "Candid street-style photo of two East Asian women conversing by a McDonald's window.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Image shows two East Asian women in short skirts sitting at a McDonald's window counter, viewed from outside through glass."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Ultra-realistic candid 9:16 street photograph of two adult East Asian women in stylish short skirts, sitting casually at a window-side counter inside McDonald’s, naturally chatting together. Photographed from the sidewalk through the glass window, with realistic reflections, warm interior lighting, natural body language, authentic expressions, detailed skin and clothing textures, shallow depth of field, and an unposed smartphone photography feel.",
+    "sourceRange": {
+      "start": 71,
+      "end": 521
+    },
+    "translations": {
+      "zh": "超逼真抓拍 9:16 街头照片，两名身着时尚短裙的成年东亚女性闲坐于麦当劳靠窗吧台前自然闲聊。从人行道透过玻璃窗拍摄，带真实反光、温暖室内光、自然肢体语言与神情、细致皮肤衣物纹理、浅景深及未摆拍手机质感。",
+      "en": "Ultra-realistic candid 9:16 street photograph of two adult East Asian women in stylish short skirts, sitting casually at a window-side counter inside McDonald’s, naturally chatting together. Photographed from the sidewalk through the glass window, with realistic reflections, warm interior lighting, natural body language, authentic expressions, detailed skin and clothing textures, shallow depth of field, and an unposed smartphone photography feel."
+    },
+    "targetModels": [
+      "image2"
+    ],
+    "category": "text-to-image",
+    "useCase": "street photography",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": [
+        "McDonald's trademark/logo"
+      ]
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
