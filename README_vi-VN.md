@@ -1659,20 +1659,42 @@ Nhiếp ảnh · Minh họa · Cyberpunk / Khoa học viễn tưởng · Phong c
 
 <a name="prompt-2098901467956461671"></a>
 
-### Đang dịch
+### Lời nhắc chụp ảnh chân dung phong cách cyberpunk về một người phụ nữ mặc trang phục đen bò trên sàn trong phòng chơi game rực rỡ ánh neon hồng và xanh.
 
 Tác giả：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Bài gốc](https://x.com/CyberTotal2026/status/2098901467956461671)
 
 Nhiếp ảnh · Cyberpunk / Khoa học viễn tưởng · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc chụp ảnh chân dung phong cách cyberpunk về một người phụ nữ mặc trang phục đen bò trên sàn trong phòng chơi game rực rỡ ánh neon hồng và xanh.
 
 <img src="images/2098901467956461671-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Chủ đề:
+Trang phục đen dưới ánh neon hồng xanh
+
+Chủ thể:
+Bức ảnh chụp dọc một người phụ nữ trưởng thành mặc trang phục màu đen đang bò bốn chi trên sàn nhà trong một phòng chơi game rực rỡ ánh đèn neon màu hồng và xanh dương. Nhân vật được bố trí lấy tâm khung hình làm chuẩn.
+
+Nhân vật & Biểu cảm:
+Tóc màu nâu sẫm tết thành hai bím hai bên, mái thưa, đeo kính tròn. Khuôn mặt trái xoan thon gọn, đôi mắt nâu dài nằm ngang, lông mày mảnh, mũi nhỏ, môi hồng. Ngẩng mặt nhìn thẳng vào máy ảnh với vẻ nghiêm nghị.
+
+Trang phục & Tư thế:
+Áo hai dây kiểu corset màu đen, quần soóc ngắn màu đen, đai harness mảnh ở cổ, găng tay dài màu đen qua khuỷu tay. Chống cả hai tay và hai đầu gối xuống sàn, uốn cong lưng và ngẩng mặt lên.
+
+Bối cảnh & Ánh sáng:
+Thiết bị chơi game phát sáng, màn hình, các dải đèn LED hồng và xanh, chữ neon "GAME OVER" ở góc trên bên phải. Ánh sáng màu tạo thành đường viền sáng hai màu viền quanh trang phục đen và làn da. Nguồn sáng chính của hậu cảnh là ánh sáng mềm mại từ các nguồn đèn neon hai bên trái phải.
+
+Bố cục & Máy ảnh:
+Bố cục dọc 3:4, máy ảnh đặt sát sàn góc chính diện chếch chụp gần toàn thân. Đặt tay ở tiền cảnh phía dưới, khuôn mặt ở trung tâm, chữ ở góc trên bên phải. Lấy nét vào khuôn mặt, kính mắt, đai harness đen, hậu cảnh xóa phông ánh đèn neon. Thu trọn nhân vật với kích thước lớn, tập trung tiêu điểm vào nhân vật chính, hậu cảnh làm mờ nhẹ.
+
+Chất cảm & Phong cách:
+Ảnh chụp trong nhà phong cách cyberpunk chân thực. Thể hiện chi tiết với độ tương phản cao chất liệu vải giả da đen, găng tay dài, kính mắt, neon hồng xanh và sự phản chiếu trên làn da.
+
+Tiêu cực:
+Không bỏ qua tư thế bò bốn chi và kính mắt tròn; Không để bối cảnh thành căn phòng ban ngày sáng sủa
 ```
 
 [↑ Về danh mục](#catalog)

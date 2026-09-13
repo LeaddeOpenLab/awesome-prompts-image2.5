@@ -1632,20 +1632,42 @@ Traduzione in corso
 
 <a name="prompt-2098901467956461671"></a>
 
-### Traduzione in corso
+### Prompt per ritratto in stile cyberpunk di una donna vestita di nero a quattro zampe sul pavimento di una gaming room illuminata da neon rosa e blu.
 
 Autore：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Post originale](https://x.com/CyberTotal2026/status/2098901467956461671)
 
 Fotografia · Cyberpunk / Sci-Fi · Ritratto / Selfie · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per ritratto in stile cyberpunk di una donna vestita di nero a quattro zampe sul pavimento di una gaming room illuminata da neon rosa e blu.
 
 <img src="images/2098901467956461671-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Tema:
+Abiti neri sotto neon rosa e blu
+
+Soggetto:
+Fotografia verticale di una donna adulta in abito nero carponi sul pavimento in una stanza da gaming illuminata da neon rosa e blu. La figura è posizionata prendendo come riferimento il centro dell'inquadratura.
+
+Personaggio ed espressione:
+Capelli castano scuro raccolti in due trecce laterali, frangia sottile, occhiali rotondi. Contorno del viso ovale e sottile, occhi castani allungati, sopracciglia fini, naso piccolo, labbra rosee. Alza il viso e guarda l'obiettivo con serietà.
+
+Abbigliamento e posa:
+Top nero a corsetto con spalline, pantaloncini corti neri, imbracatura sottile al collo, guanti lunghi neri fin sopra il gomito. Entrambe le mani e le ginocchia a terra, inarcando la schiena e alzando la testa.
+
+Sfondo e luce:
+Dispositivi di gioco luminosi, monitor, strisce LED rosa e blu, scritta al neon "GAME OVER" in alto a destra. La luce colorata crea una luminescenza di contorno bicolore sui vestiti neri e sulla pelle. La luce principale dello sfondo è una luce morbida proveniente dalle sorgenti al neon a sinistra e a destra.
+
+Composizione e fotocamera:
+Inquadratura verticale 3:4, fotocamera vicina al pavimento con ripresa frontale diagonale a figura intera ravvicinata. Mani in primo piano in basso, viso al centro, testo in alto a destra. Messa a fuoco su viso, occhiali e imbracatura nera, sfondo con bokeh al neon. Il soggetto occupa un'ampia porzione dell'inquadratura, con messa a fuoco sulla protagonista e sfondo leggermente sfocato.
+
+Texture e stile:
+Fotografia d'interni cyberpunk fotorealistica. Resa ad alto contrasto e dettagliata di tessuto effetto pelle nera, guanti lunghi, occhiali, neon rosa e blu e riflessi sulla pelle.
+
+Negativo:
+Non omettere la postura a quattro zampe e gli occhiali rotondi; non rendere la stanza illuminata a giorno
 ```
 
 [↑ Torna alle categorie](#catalog)

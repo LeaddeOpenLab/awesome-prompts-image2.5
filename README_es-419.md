@@ -1632,20 +1632,42 @@ Traducción en curso
 
 <a name="prompt-2098901467956461671"></a>
 
-### Traducción en curso
+### Prompt de retrato estilo cyberpunk de una mujer con atuendo negro a cuatro patas en el piso de un cuarto de juegos iluminado por neón rosa y azul.
 
 Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicación original](https://x.com/CyberTotal2026/status/2098901467956461671)
 
 Fotografía · Cyberpunk / Ciencia ficción · Retrato / Selfie · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de retrato estilo cyberpunk de una mujer con atuendo negro a cuatro patas en el piso de un cuarto de juegos iluminado por neón rosa y azul.
 
 <img src="images/2098901467956461671-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Tema:
+Atuendo negro bajo neón rosa y azul
+
+Sujeto:
+Fotografía vertical de una mujer adulta con atuendo negro en cuatro puntos de apoyo en el suelo en un cuarto gamer iluminado con luces de neón rosa y azul. La figura se ubica tomando como referencia el centro del encuadre.
+
+Personaje y expresión:
+Cabello castaño oscuro recogido en dos trenzas laterales, flequillo ligero, lentes redondos. Rostro ovalado y delgado, ojos cafés alargados, cejas delgadas, nariz pequeña, labios rosados. Levanta la mirada y observa fijamente a la cámara con seriedad.
+
+Vestimenta y pose:
+Top negro de tirantes tipo corsé, shorts negros cortos, arnés delgado en el cuello, guantes largos negros que sobrepasan el codo. Apoyando ambas manos y rodillas en el suelo, arqueando la espalda y levantando la cara.
+
+Fondo e iluminación:
+Dispositivos gamer iluminados, monitores, tiras LED rosas y azules, y en la parte superior derecha el letrero de neón «GAME OVER». La luz de color genera un contorno de ambos tonos sobre la ropa negra y la piel. La luz principal del fondo es una luz suave que proviene de las fuentes de neón de ambos lados.
+
+Composición y cámara:
+Composición vertical 3:4, cámara casi a ras de piso con ángulo frontal diagonal de cuerpo entero cercano. Manos en el primer plano inferior, rostro al centro, texto en la esquina superior derecha. Enfoque nítido en el rostro, los lentes y el arnés negro, con bokeh de neón al fondo. Figura en plano protagónico amplio, enfocando al sujeto con un leve desenfoque de fondo.
+
+Textura y estilo:
+Fotografía de interiores cyberpunk fotorrealista. Textura tipo piel sintética negra, guantes largos, lentes, luces de neón rosa y azul, y reflejos en la piel representados con alto contraste y detalle fino.
+
+Negativo:
+No omitir la postura a cuatro patas ni los lentes redondos; no situar en una habitación iluminada de día
 ```
 
 [↑ Volver a categorías](#catalog)

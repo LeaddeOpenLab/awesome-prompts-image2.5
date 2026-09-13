@@ -1617,20 +1617,42 @@ Tradução em andamento
 
 <a name="prompt-2098901467956461671"></a>
 
-### Tradução em andamento
+### Prompt de retrato estilo cyberpunk de uma mulher vestida de preto de quatro apoios no chão de um quarto gamer iluminado por néon rosa e azul.
 
 Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicação original](https://x.com/CyberTotal2026/status/2098901467956461671)
 
 Fotografia · Cyberpunk / Ficção Científica · Retrato / Selfie · Personagem · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt de retrato estilo cyberpunk de uma mulher vestida de preto de quatro apoios no chão de um quarto gamer iluminado por néon rosa e azul.
 
 <img src="images/2098901467956461671-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Tema:
+Roupas pretas sob néon rosa e azul
+
+Sujeito:
+Fotografia vertical de uma mulher adulta em traje preto engatinhando no chão em uma sala de jogos iluminada por néon rosa e azul. A figura é posicionada tendo como referência o centro da imagem.
+
+Personagem e expressão:
+Cabelo castanho-escuro em duas tranças laterais, franja fina, óculos redondos. Rosto oval e fino, olhos castanhos amendoados, sobrancelhas finas, nariz pequeno, lábios rosados. Ergue o rosto e olha seriamente para a câmera.
+
+Vestuário e pose:
+Top preto estilo espartilho com alças, shorts curtos pretos, arnês fino no pescoço, luvas pretas compridas acima do cotovelo. Ambas as mãos e joelhos apoiados no chão, arqueando as costas e levantando a cabeça.
+
+Fundo e iluminação:
+Equipamentos de jogos luminosos, monitores, faixas de LED rosa e azul, e no canto superior direito as letras em néon "GAME OVER". A luz colorida cria um contorno de iluminação de borda bicolor sobre a roupa preta e a pele. A luz principal do fundo é uma luz suave proveniente das fontes de néon à esquerda e à direita.
+
+Composição e câmera:
+Composição vertical 3:4, câmera rente ao chão em ângulo frontal oblíquo de corpo quase inteiro. Mãos no primeiro plano inferior, rosto ao centro, texto no canto superior direito. Foco nítido no rosto, nos óculos e no arnês preto, com efeito bokeh de néon ao fundo. Figura em destaque amplo, com foco no sujeito principal e fundo levemente desfocado.
+
+Textura e estilo:
+Fotografia de interiores cyberpunk fotorrealista. Tecido preto estilo couro, luvas compridas, óculos, néon rosa e azul e reflexos na pele retratados com alto contraste e precisão de detalhes.
+
+Negativo:
+Não omitir a postura de quatro apoios nem os óculos redondos; não ambientar em um quarto claro de dia
 ```
 
 [↑ Voltar às categorias](#catalog)

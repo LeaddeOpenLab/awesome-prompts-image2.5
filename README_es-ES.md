@@ -1661,20 +1661,42 @@ Traducción en curso
 
 <a name="prompt-2098901467956461671"></a>
 
-### Traducción en curso
+### Prompt de retrato estilo cyberpunk de una mujer vestida de negro a cuatro patas en el suelo dentro de una sala de juegos iluminada por neones rosas y azules.
 
 Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicación original](https://x.com/CyberTotal2026/status/2098901467956461671)
 
 Fotografía · Ciberpunk / Ciencia ficción · Retrato / Selfie · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de retrato estilo cyberpunk de una mujer vestida de negro a cuatro patas en el suelo dentro de una sala de juegos iluminada por neones rosas y azules.
 
 <img src="images/2098901467956461671-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Tema:
+Atuendo negro bajo neón rosa y azul
+
+Sujeto:
+Fotografía vertical de una mujer adulta con atuendo negro a cuatro patas sobre el suelo en una sala de juegos iluminada con neón rosa y azul. La figura está colocada con referencia al centro del encuadre.
+
+Personaje y expresión:
+Cabello castaño oscuro en dos trenzas laterales, flequillo fino, gafas redondas. Rostro ovalado y esbelto, ojos castaños rasgados, cejas finas, nariz pequeña, labios rosados. Levanta la cara y mira a la cámara con seriedad.
+
+Vestimenta y pose:
+Top negro de tirantes estilo corsé, pantalones cortos negros, arnés fino en el cuello, guantes largos negros por encima del codo. Con ambas manos y rodillas en el suelo, arqueando la espalda y levantando la cabeza.
+
+Fondo e iluminación:
+Equipos de juego luminosos, monitores, líneas LED rosas y azules, y en la esquina superior derecha las letras de neón «GAME OVER». La luz de color crea un perfilado de ambos tonos en la ropa negra y la piel. La luz principal del fondo es una luz suave proveniente de las fuentes de neón de izquierda y derecha.
+
+Composición y cámara:
+Composición vertical 3:4, cámara cerca del suelo en una toma frontal oblicua de cuerpo casi entero. Las manos en primer plano inferior, el rostro en el centro, el texto en la esquina superior derecha. Enfoque nítido en el rostro, las gafas y el arnés negro, con desenfoque de neón en el fondo. La figura ocupa un gran tamaño, enfocando al sujeto principal con un ligero desenfoque de fondo.
+
+Textura y estilo:
+Fotografía de interiores cyberpunk fotorrealista. Tejido negro con efecto de cuero, guantes largos, gafas, neón rosa y azul, y reflejos en la piel capturados con alto contraste y precisión.
+
+Negativo:
+No omitir la postura a cuatro patas ni las gafas redondas; no hacer que sea una habitación iluminada de día
 ```
 
 [↑ Volver a categorías](#catalog)

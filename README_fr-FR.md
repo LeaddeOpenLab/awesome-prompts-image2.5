@@ -1632,20 +1632,42 @@ Traduction en cours
 
 <a name="prompt-2098901467956461671"></a>
 
-### Traduction en cours
+### Prompt de portrait cyberpunk d'une femme vêtue de noir à quatre pattes sur le sol dans une salle de jeux baignée de néons roses et bleus.
 
 Auteur：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publication originale](https://x.com/CyberTotal2026/status/2098901467956461671)
 
 Photographie · Cyberpunk / Science-fiction · Portrait / Selfie · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de portrait cyberpunk d'une femme vêtue de noir à quatre pattes sur le sol dans une salle de jeux baignée de néons roses et bleus.
 
 <img src="images/2098901467956461671-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Thème :
+Tenue noire sous néons rose et bleu
+
+Sujet :
+Photographie verticale d'une femme adulte vêtue d'une tenue noire, à quatre pattes sur le sol dans une salle de jeu illuminée de néons roses et bleus. Le personnage est positionné en référence au centre de l'image.
+
+Personnage & Expression :
+Cheveux châtain foncé coiffés en deux tresses latérales, frange fine, lunettes rondes. Visage ovale et fin, yeux bruns étirés, sourcils fins, petit nez, lèvres rosées. Elle relève la tête et regarde l'objectif avec sérieux.
+
+Vêtements & Pose :
+Haut à bretelles noir style corset, short court noir, harnais fin au cou, longs gants noirs montant au-dessus du coude. Les deux mains et les deux genoux au sol, cambrant le dos et relevant la tête.
+
+Arrière-plan & Lumière :
+Équipements de jeu lumineux, écrans, lignes LED roses et bleues, inscription au néon « GAME OVER » en haut à droite. La lumière colorée crée un liseré bicolore sur les vêtements noirs et la peau. La lumière principale de l'arrière-plan est une lueur douce émise par les sources néon latérales gauche et droite.
+
+Composition & Caméra :
+Composition verticale 3:4, caméra près du sol en vue frontale oblique de presque plein pied. Les mains au premier plan en bas, le visage au centre, le texte en haut à droite. Mise au point sur le visage, les lunettes et le harnais noir, avec un flou bokeh de néon en arrière-plan. Personnage cadré en grand, netteté sur le sujet principal et arrière-plan légèrement flou.
+
+Texture & Style :
+Photographie d'intérieur cyberpunk photoréaliste. Contraste élevé et précision détaillée sur le tissu aspect cuir noir, les longs gants, les lunettes, les néons rose et bleu et les reflets sur la peau.
+
+Négatif :
+Ne pas omettre la posture à quatre pattes ni les lunettes rondes ; ne pas transformer en pièce lumineuse en plein jour
 ```
 
 [↑ Retour aux catégories](#catalog)

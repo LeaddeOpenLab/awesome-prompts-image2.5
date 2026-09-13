@@ -1617,20 +1617,42 @@ Fotoğrafçılık · İllüstrasyon · Siberpunk / Bilim Kurgu · Manzara / Doğ
 
 <a name="prompt-2098901467956461671"></a>
 
-### Çeviri sürüyor
+### Pembe ve mavi neon ışıklarla aydınlatılmış bir oyun odasında siyah giysiler içinde yerde dört ayak üstünde duran kadının cyberpunk tarzı portre istemi.
 
 Yazar：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Orijinal gönderi](https://x.com/CyberTotal2026/status/2098901467956461671)
 
 Fotoğrafçılık · Siberpunk / Bilim Kurgu · Portre / Selfie · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Pembe ve mavi neon ışıklarla aydınlatılmış bir oyun odasında siyah giysiler içinde yerde dört ayak üstünde duran kadının cyberpunk tarzı portre istemi.
 
 <img src="images/2098901467956461671-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Tema:
+Pembe-mavi neonda siyah giysiler
+
+Özne:
+Pembe ve mavi neon ışıkların parladığı bir oyun odasında, siyah kıyafetler içinde yerde dört ayak üstünde duran yetişkin bir kadının dikey fotoğrafı. Figür, karenin merkezi baz alınarak konumlandırılır.
+
+Kişi ve İfade:
+Koyu kahverengi saçları her iki yanda örgülü, ince kâküller, yuvarlak gözlükler. İnce oval yüz hatları, yatay çekik kahverengi gözler, ince kaşlar, küçük bir burun, pembe dudaklar. Başını kaldırmış, kameraya ciddi bir bakışla bakıyor.
+
+Giysi ve Poz:
+Siyah korse tarzı askılı üst, siyah kısa şort, boyunda ince koşum (harness), dirsek üzerine kadar uzanan uzun siyah eldivenler. İki eli ve iki dizi yerde, sırtını hafifçe kavislendirmiş ve başını yukarı kaldırmış.
+
+Arka Plan ve Işık:
+Işık saçan oyun donanımları, monitörler, pembe ve mavi LED çizgiler, sağ üst köşede "GAME OVER" neon yazısı. Renkli ışık, siyah giysiler ve ten üzerinde her iki renkte kenar ışığı çizgileri oluşturur. Arka planın ana ışığı, sağ ve sol neon ışık kaynaklarından gelen yumuşak bir ışıktır.
+
+Kompozisyon ve Kamera:
+3:4 dikey kompozisyon, zemin hizasından çekilmiş hafif çapraz tam boya yakın plan. Eller alt ön planda, yüz merkezde, yazı sağ üstte yer alır. Yüz, gözlükler ve siyah koşum üzerine netleme yapılmış, arka plan neon bokehli. Figür karede geniş yer kaplar, odağın ana figürde olduğu hafif bulanık bir arka plan mevcuttur.
+
+Doku ve Stil:
+Fotogerçekçi cyberpunk iç mekân fotoğrafı. Siyah deri görünümlü kumaş, uzun eldivenler, gözlükler, pembe-mavi neon ve ciltteki yansımalar yüksek kontrast ve ince ayrıntılarla işlenmiştir.
+
+Negatif:
+Dört ayak üstündeki duruşu ve yuvarlak gözlükleri atlamayın; gündüz aydınlığında bir oda yapmayın
 ```
 
 [↑ Kategorilere dön](#catalog)

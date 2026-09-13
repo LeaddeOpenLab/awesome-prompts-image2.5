@@ -1632,20 +1632,42 @@ Fotografie · Illustration · Cyberpunk / Sci-Fi · Landschaft / Natur · Veröf
 
 <a name="prompt-2098901467956461671"></a>
 
-### Übersetzung läuft
+### Cyberpunk-Porträt-Prompt einer schwarz gekleideten Frau, die auf dem Boden eines von pinkfarbenem und blauem Neonlicht erfüllten Gaming-Zimmers auf allen vieren kniet.
 
 Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Originalbeitrag](https://x.com/CyberTotal2026/status/2098901467956461671)
 
 Fotografie · Cyberpunk / Sci-Fi · Porträt / Selfie · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Cyberpunk-Porträt-Prompt einer schwarz gekleideten Frau, die auf dem Boden eines von pinkfarbenem und blauem Neonlicht erfüllten Gaming-Zimmers auf allen vieren kniet.
 
 <img src="images/2098901467956461671-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Thema:
+Schwarzgekleidet in rosa-blauem Neonlicht
+
+Hauptmotiv:
+Vertikales Foto einer erwachsenen Frau in schwarzer Kleidung, die in einem von pinkfarbenem und blauem Neonlicht beleuchteten Gaming-Zimmer auf allen vieren auf dem Boden kniet. Die Person ist an der Bildmitte ausgerichtet.
+
+Person & Ausdruck:
+Dunkelbraunes Haar, das zu zwei seitlichen Flechtzöpfen gebunden ist, dünner Pony, runde Brille. Schmales, ovales Gesicht, mandelförmige braune Augen, schmale Augenbrauen, kleine Nase, zartrosa Lippen. Sie hebt den Kopf und blickt ernst in die Kamera.
+
+Kleidung & Pose:
+Schwarzes Spaghettiträger-Oberteil im Korsett-Stil, kurze schwarze Hose, schmales Harness um den Hals, ellbogenlange schwarze Handschuhe. Beide Hände und Knie auf dem Boden aufgestützt, der Rücken leicht durchgedrückt, während sie den Kopf hebt.
+
+Hintergrund & Licht:
+Leuchtende Gaming-Hardware, Monitore, pinke und blaue LED-Streifen, oben rechts der Neonschriftzug „GAME OVER“. Das Farblicht erzeugt eine zweifarbige Kantenbeleuchtung auf der schwarzen Kleidung und der Haut. Das Hauptlicht des Hintergrunds ist ein weiches Licht aus den seitlichen Neonquellen.
+
+Komposition & Kamera:
+Vertikale Komposition im Format 3:4, Kamera nahe am Boden in schräger Frontalansicht als Nah-Ganzkörperaufnahme. Hände im unteren Vordergrund, Gesicht im Zentrum, Schriftzug oben rechts. Fokus scharf auf Gesicht, Brille und schwarzes Harness, der Hintergrund in sanftem Neon-Bokeh. Die Figur ist groß im Bild eingefasst, Fokus auf der Hauptfigur, der Hintergrund leicht unscharf.
+
+Textur & Stil:
+Fotorealistische Cyberpunk-Innenaufnahme. Hoher Kontrast und feine Details bei schwarzem Lederimitatstoff, langen Handschuhen, Brille, pink-blauem Neon und Reflexionen auf der Haut.
+
+Negativ-Prompt:
+Die Haltung auf allen vieren und die runde Brille nicht weglassen; kein taghell erleuchteter Raum
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
