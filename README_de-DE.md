@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**92** Prompts · Zuletzt hinzugefügt: **2026-09-13**
+**93** Prompts · Zuletzt hinzugefügt: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -361,6 +361,28 @@ Fotografie · Landschaft / Natur · Veröffentlicht
 
 ```text
 Foto einer Waldlichtung mit viel grünem Blattwerk, sehr detailliert
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2099094091179180195"></a>
+
+### Übersetzung läuft
+
+Autor：[@Aqsahere\_](https://x.com/Aqsahere_) · [Originalbeitrag](https://x.com/Aqsahere_/status/2099094091179180195)
+
+Fotografie · Stadtbild / Straße · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2099094091179180195-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**92** Prompts · Latest addition: **2026-09-13**
+**93** Prompts · Latest addition: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -416,6 +416,28 @@ Photography · Landscape / Nature · Published
 
 ```text
 Photo of a clearing in the woods with lots of green foliage, highly detailed
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2099094091179180195"></a>
+
+### Candid street-style photo of two East Asian women conversing by a McDonald's window.
+
+Author：[@Aqsahere\_](https://x.com/Aqsahere_) · [Source](https://x.com/Aqsahere_/status/2099094091179180195)
+
+Photography · Cityscape / Street · Published
+
+**Summary:** Candid street-style photo of two East Asian women conversing by a McDonald's window.
+
+<img src="images/2099094091179180195-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Ultra-realistic candid 9:16 street photograph of two adult East Asian women in stylish short skirts, sitting casually at a window-side counter inside McDonald’s, naturally chatting together. Photographed from the sidewalk through the glass window, with realistic reflections, warm interior lighting, natural body language, authentic expressions, detailed skin and clothing textures, shallow depth of field, and an unposed smartphone photography feel.
 ```
 
 [↑ Back to categories](#catalog)

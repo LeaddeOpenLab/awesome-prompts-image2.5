@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**92** Prompt · Bổ sung mới nhất: **2026-09-13**
+**93** Prompt · Bổ sung mới nhất: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -366,6 +366,28 @@ Nhiếp ảnh · Phong cảnh / Thiên nhiên · Đã xuất bản
 
 ```text
 Ảnh chụp một bãi đất trống trong rừng với nhiều tán lá xanh tươi, rất chi tiết
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2099094091179180195"></a>
+
+### Đang dịch
+
+Tác giả：[@Aqsahere\_](https://x.com/Aqsahere_) · [Bài gốc](https://x.com/Aqsahere_/status/2099094091179180195)
+
+Nhiếp ảnh · Quang cảnh thành phố / Đường phố · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2099094091179180195-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
 ```
 
 [↑ Về danh mục](#catalog)
