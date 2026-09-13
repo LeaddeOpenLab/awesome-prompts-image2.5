@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**88** Prompts · Adição mais recente: **2026-09-13**
+**89** Prompts · Adição mais recente: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -1843,6 +1843,30 @@ Tranquilo, poético, refinado, minimalista, inocente, artístico, ponderado, sof
 <a name="category-other"></a>
 
 ## Outros
+
+<a name="prompt-2098960216792682600"></a>
+
+### Tradução em curso
+
+Autor：[@AI\_GIRL\_DESIGN](https://x.com/AI_GIRL_DESIGN) · [Publicação original](https://x.com/AI_GIRL_DESIGN/status/2098960216792682600)
+
+Retrato / Selfie · Item de Moda · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2098960216792682600-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2098960216792682600-2.jpg" alt="Imagem 2" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2098634675057238254"></a>
 

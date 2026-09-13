@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**88** Prompts · Latest addition: **2026-09-13**
+**89** Prompts · Latest addition: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -1930,6 +1930,30 @@ Create ONE independent high-end editorial poster for EACH uploaded photo. Never 
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2098960216792682600"></a>
+
+### Mandala Gothic style costume design prompt detailing a translucent tunic and accessories.
+
+Author：[@AI\_GIRL\_DESIGN](https://x.com/AI_GIRL_DESIGN) · [Source](https://x.com/AI_GIRL_DESIGN/status/2098960216792682600)
+
+Portrait / Selfie · Fashion Item · Published
+
+**Summary:** Mandala Gothic style costume design prompt detailing a translucent tunic and accessories.
+
+<img src="images/2098960216792682600-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2098960216792682600-2.jpg" alt="Image 2" width="480" />
+
+**Prompt**
+
+```text
+A gray short-sleeved tunic with an enormous boxy silhouette that covers from above the waist down to the hips. It is made of a special material that looks like layers of thick translucent organza, coarse mesh, and a thin resin film, featuring wide sleeves that project broadly sideways from the shoulders to the cuffs. At the neckline is a small black shirt collar and a black ribbon tie. Thick black cords are sewn across the entire tunic as abstract embroidery, meandering like a continuous, random one-stroke line, with small vermilion to coral-colored butterflies, knots, and petal-shaped appliqués scattered at intersections and edges. The insides of the cuffs are black. The fabric features realistic creases, folds, seam allowances, raised threads, and subtle translucency. Black knee-high socks. Red mules. On the back right of the head is an enormous matte-black bow-shaped chignon. Long, slender chain earrings of red and black beads hang down from both ears to near the chest.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098634675057238254"></a>
 
