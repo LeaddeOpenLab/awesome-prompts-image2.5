@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-13T05:14:44.654Z",
+  "model": "image2",
+  "prompt": "主題：\n夜灯のスマホ鏡\n\n主体：\n暖色ランプの寝室で、成人女性がベッドへあぐらで座り、大きなスマートフォンで鏡越しに自撮りする縦位置写真。 人物は画面中央を基準に配置する。\n\n人物・表情：\n長い黒髪を後ろでまとめ、薄い前髪。スマートフォンが顔中央を大きく隠し、片目と頬、艶のある桃色の唇の一部だけが見える。 顔を正面へ向ける。 落ち着いた表情。\n\n服装・ポーズ：\n白いリブ細肩紐キャミソールは胸元にレースと小ボタン、灰色のドローストリングショーツ、白い膝丈ソックス。あぐらで座り、片手で大型の銅色スマートフォンを顔前へ持つ。 白いトップと灰色のパンツ。\n\n背景・光：\n白い寝具、木のサイドテーブル、暖色の卓上ランプ、暗い窓。橙色の光が人物と寝具へ柔らかな陰影を作る。 画面背景の主光は窓側からの柔らかな光。\n\n構図・カメラ：\n2:3の縦構図、カメラは鏡面を正面から写した座り全身寄り。人物を中央、大きなスマートフォンを顔中央、白ソックスの脚を下へ配置。鏡像と服に焦点。 人物を大きく収め、主役へ焦点を合わせ、背景は軽いボケ。\n\n質感・スタイル：\nフォトリアルな夜の鏡自撮り。鏡面、銅色端末、白リブとレース、灰色布、暖色ランプを自然に写す。\n\nネガティブ：\nスマートフォンで顔中央を大きく隠す構図を変えない",
+  "promptTranslations": {
+    "en": "Theme:\nNight lamp smartphone mirror\n\nSubject:\nA vertical photograph of an adult woman sitting cross-legged on a bed in a bedroom with a warm-toned lamp, taking a mirror selfie with a large smartphone. The subject is positioned centered in the frame.\n\nPerson / Expression:\nLong black hair tied back, wispy bangs. The smartphone largely obscures the center of her face, with only one eye, cheek, and a portion of her glossy pink lips visible. Face directed straight ahead. A calm expression.\n\nClothing / Pose:\nA white ribbed spaghetti-strap camisole with lace and small buttons at the bust, gray drawstring shorts, and white knee-high socks. Sitting cross-legged, holding a large copper-colored smartphone in front of her face with one hand. White top and gray shorts.\n\nBackground / Lighting:\nWhite bedding, a wooden side table, a warm-toned table lamp, a dark window. Orange light creates soft shadows across the person and bedding. The main ambient background light is a soft light coming from the window side.\n\nComposition / Camera:\n2:3 vertical composition, camera capturing a sitting, nearly full-body view directly facing the mirror surface. The person is centered, the large smartphone is at the center of the face, and the legs in white socks are positioned downward. Focus is on the mirror reflection and clothing. Capturing the subject prominently, focused on the main figure, with a light bokeh in the background.\n\nTexture / Style:\nPhotorealistic nighttime mirror selfie. Naturally captures the mirror surface, copper-colored device, white ribbing and lace, gray fabric, and warm-toned lamp.\n\nNegative:\nDo not change the composition where the smartphone largely obscures the center of the face"
+  },
+  "summaryTranslations": {
+    "en": "A realistic vertical-composition portrait prompt of a woman sitting cross-legged on a bed in a bedroom with a warm-toned lamp, taking a mirror selfie."
+  },
+  "translationVersion": 2,
+  "summary": "暖色ランプの寝室でベッドにあぐらで座り、鏡越しに自撮りする女性のリアルな縦構図ポートレートプロンプト。",
+  "summaryEn": "A detailed realistic text-to-image prompt for a cozy night mirror selfie of a woman sitting on a bed in a warm-lit room.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098975203866837026",
+    "canonicalUrl": "https://x.com/CyberTotal2026/status/2098975203866837026",
+    "author": {
+      "username": "CyberTotal2026",
+      "displayName": "Prompt アトリエ｜AI画像プロンプト",
+      "profileUrl": "https://x.com/CyberTotal2026"
+    },
+    "publishedAt": "2026-09-13T03:21:00.000Z",
+    "collectedAt": "2026-09-13T05:12:35.790Z",
+    "language": "ja",
+    "originalText": "夜灯の前で一枚だけ、鏡の中に残しておきたい部屋時間。📱🌙🤍\n\n#AIart #AI写真 #ミラーセルフィー\n\n【GPT Image2プロンプト】\n\n主題：\n夜灯のスマホ鏡\n\n主体：\n暖色ランプの寝室で、成人女性がベッドへあぐらで座り、大きなスマートフォンで鏡越しに自撮りする縦位置写真。 人物は画面中央を基準に配置する。\n\n人物・表情：\n長い黒髪を後ろでまとめ、薄い前髪。スマートフォンが顔中央を大きく隠し、片目と頬、艶のある桃色の唇の一部だけが見える。 顔を正面へ向ける。 落ち着いた表情。\n\n服装・ポーズ：\n白いリブ細肩紐キャミソールは胸元にレースと小ボタン、灰色のドローストリングショーツ、白い膝丈ソックス。あぐらで座り、片手で大型の銅色スマートフォンを顔前へ持つ。 白いトップと灰色のパンツ。\n\n背景・光：\n白い寝具、木のサイドテーブル、暖色の卓上ランプ、暗い窓。橙色の光が人物と寝具へ柔らかな陰影を作る。 画面背景の主光は窓側からの柔らかな光。\n\n構図・カメラ：\n2:3の縦構図、カメラは鏡面を正面から写した座り全身寄り。人物を中央、大きなスマートフォンを顔中央、白ソックスの脚を下へ配置。鏡像と服に焦点。 人物を大きく収め、主役へ焦点を合わせ、背景は軽いボケ。\n\n質感・スタイル：\nフォトリアルな夜の鏡自撮り。鏡面、銅色端末、白リブとレース、灰色布、暖色ランプを自然に写す。\n\nネガティブ：\nスマートフォンで顔中央を大きく隠す構図を変えない",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR1AqIzb0AEWnTY.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR1AqIzb0AEWnTY.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 16,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 837
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/CyberTotal2026/status/2098975203866837026",
+  "coverUrl": "https://pbs.twimg.com/media/HR1AqIzb0AEWnTY.jpg",
+  "coverPath": "images/2098975203866837026-1.jpg",
+  "imagePaths": [
+    "images/2098975203866837026-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HR1AqIzb0AEWnTY",
+    "x-post:2098975203866837026"
+  ],
+  "analysis": {
+    "summary": "暖色ランプの寝室でベッドにあぐらで座り、鏡越しに自撮りする女性のリアルな縦構図ポートレートプロンプト。",
+    "summaryEn": "A detailed realistic text-to-image prompt for a cozy night mirror selfie of a woman sitting on a bed in a warm-lit room.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The image precisely matches the prompt: woman cross-legged on bed, white ribbed camisole, grey shorts, white socks, holding a bronze-colored phone partially covering face, beside a warm lamp."
+    },
+    "videoQuality": null,
+    "originalPrompt": "主題：\n夜灯のスマホ鏡\n\n主体：\n暖色ランプの寝室で、成人女性がベッドへあぐらで座り、大きなスマートフォンで鏡越しに自撮りする縦位置写真。 人物は画面中央を基準に配置する。\n\n人物・表情：\n長い黒髪を後ろでまとめ、薄い前髪。スマートフォンが顔中央を大きく隠し、片目と頬、艶のある桃色の唇の一部だけが見える。 顔を正面へ向ける。 落ち着いた表情。\n\n服装・ポーズ：\n白いリブ細肩紐キャミソールは胸元にレースと小ボタン、灰色のドローストリングショーツ、白い膝丈ソックス。あぐらで座り、片手で大型の銅色スマートフォンを顔前へ持つ。 白いトップと灰色のパンツ。\n\n背景・光：\n白い寝具、木のサイドテーブル、暖色の卓上ランプ、暗い窓。橙色の光が人物と寝具へ柔らかな陰影を作る。 画面背景の主光は窓側からの柔らかな光。\n\n構図・カメラ：\n2:3の縦構図、カメラは鏡面を正面から写した座り全身寄り。人物を中央、大きなスマートフォンを顔中央、白ソックスの脚を下へ配置。鏡像と服に焦点。 人物を大きく収め、主役へ焦点を合わせ、背景は軽いボケ。\n\n質感・スタイル：\nフォトリアルな夜の鏡自撮り。鏡面、銅色端末、白リブとレース、灰色布、暖色ランプを自然に写す。\n\nネガティブ：\nスマートフォンで顔中央を大きく隠す構図を変えない",
+    "sourceRange": {
+      "start": 74,
+      "end": 626
+    },
+    "translations": {
+      "zh": "主题：\n夜灯下的手机镜面\n\n主体：\n在暖色台灯的卧室中，成年女性盘腿坐在床上，用大屏手机对着镜子自拍的竖构图照片。人物居中排列。\n\n人物与表情：\n黑色长发束在脑后，空气刘海。手机遮挡大半脸部，仅露出单眼、脸颊和粉润嘴唇。面朝正面，表情沉静。\n\n服装与姿势：\n白色细肩带罗纹吊带（胸前饰蕾丝与小纽扣），灰色抽绳短裤，白色过膝袜。盘腿而坐，单手持大型铜金色手机置于面前。\n\n背景与光影：\n白色寝具、木质床头柜、暖色台灯、暗窗。橙色暖光在人物和床具上形成柔和阴影，背景主光来自窗边微光。\n\n构图与相机：\n2:3竖构图，镜前正面拍摄近全身坐姿。人物居中，大手机置于脸中，白袜双腿在下方。焦点对准镜中人与服饰，背景微虚。\n\n质感与风格：\n写实风格的夜间镜面自拍，自然呈现镜面、铜色手机、蕾丝罗纹、灰色布料与暖光灯。\n\n负面提示：\n不可改变手机遮挡面部中心的构图",
+      "en": "Theme:\nNight lamp mirror selfie\n\nSubject:\nVertical photo of an adult woman sitting cross-legged on a bed in a warm-lit bedroom, taking a mirror selfie with a large smartphone. Centered placement.\n\nPerson & Expression:\nLong black hair tied back, thin bangs. The smartphone obscures most of the face, revealing only one eye, cheek, and glossy pink lips. Facing forward with a calm expression.\n\nOutfit & Pose:\nWhite ribbed thin-strap camisole with lace trim and small buttons, gray drawstring shorts, white knee-high socks. Sitting cross-legged, holding a large bronze-tone phone.\n\nBackground & Lighting:\nWhite bedding, wooden side table, warm desk lamp, dark window. Soft orange glow creating gentle shadows, soft light from the window.\n\nComposition & Camera:\n2:3 vertical framing, seated near-full-body mirror view. Main focus on the reflection and attire, slight background blur.\n\nTexture & Style:\nPhotorealistic night mirror selfie with natural textures of mirror, bronze phone, lace knit, and warm lamp.\n\nNegative:\nDo not alter the composition where the smartphone largely hides the face"
+    },
+    "targetModels": [
+      "image2"
+    ],
+    "category": "text-to-image",
+    "useCase": "AI photography generation prompt",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
