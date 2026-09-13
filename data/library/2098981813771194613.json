@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-13T05:23:03.335Z",
+  "model": "image2",
+  "prompt": "Create an ultra-realistic full-body outdoor fashion portrait of a young woman walking confidently along a peaceful garden pathway. She has shoulder-length voluminous wavy auburn-brown hair, neatly styled with a small delicate butterfly hair accessory, natural realistic skin texture, defined eyebrows, subtle eye makeup, soft blush, and elegant pink lipstick.\nShe is wearing a dark navy-blue sequin sleeveless top with a matching sheer, lightweight long open-front shrug/kimono flowing naturally behind her, paired with high-waisted cream/off-white straight-leg trousers and simple nude heels. A delicate long black beaded necklace completes the look.\nWarm golden-hour sunlight, lush green trees and plants, colorful small flowers, an old rustic brick wall in the background, natural bokeh, soft cinematic depth of field. The sheer outer layer moves gently with her walk, creating a graceful flowing effect.\nPhotography: ultra-realistic DSLR photography, full-body composition, eye-level camera, 50mm lens, natural proportions, realistic fabric textures, detailed hair strands, soft warm lighting, sharp subject with beautifully blurred background, premium fashion editorial aesthetic, photorealistic, high resolution, vertical 9:16.\nNegative prompt: distorted face, extra fingers, extra limbs, deformed hands, unnatural body proportions, plastic skin, oversmoothing, blurry face, duplicate person, warped clothing, artificial-looking background.",
+  "promptTranslations": {
+    "en": "Create an ultra-realistic full-body outdoor fashion portrait of a young woman walking confidently along a peaceful garden pathway. She has shoulder-length voluminous wavy auburn-brown hair, neatly styled with a small delicate butterfly hair accessory, natural realistic skin texture, defined eyebrows, subtle eye makeup, soft blush, and elegant pink lipstick.\\nShe is wearing a dark navy-blue sequin sleeveless top with a matching sheer, lightweight long open-front shrug/kimono flowing naturally behind her, paired with high-waisted cream/off-white straight-leg trousers and simple nude heels. A delicate long black beaded necklace completes the look.\\nWarm golden-hour sunlight, lush green trees and plants, colorful small flowers, an old rustic brick wall in the background, natural bokeh, soft cinematic depth of field. The sheer outer layer moves gently with her walk, creating a graceful flowing effect.\\nPhotography: ultra-realistic DSLR photography, full-body composition, eye-level camera, 50mm lens, natural proportions, realistic fabric textures, detailed hair strands, soft warm lighting, sharp subject with beautifully blurred background, premium fashion editorial aesthetic, photorealistic, high resolution, vertical 9:16.\\nNegative prompt: distorted face, extra fingers, extra limbs, deformed hands, unnatural body proportions, plastic skin, oversmoothing, blurry face, duplicate person, warped clothing, artificial-looking background."
+  },
+  "summaryTranslations": {
+    "en": "Full-body outdoor fashion portrait of a woman in navy sequin top, flowing sheer kimono, and beige trousers walking in a garden."
+  },
+  "translationVersion": 2,
+  "summary": "Full-body outdoor fashion portrait of a woman in navy sequin top, flowing sheer kimono, and beige trousers walking in a garden.",
+  "summaryEn": "Full-body outdoor fashion portrait of a woman in navy sequin top, flowing sheer kimono, and beige trousers walking in a garden.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098981813771194613",
+    "canonicalUrl": "https://x.com/ZarnishNael/status/2098981813771194613",
+    "author": {
+      "username": "ZarnishNael",
+      "displayName": "Zarnish",
+      "profileUrl": "https://x.com/ZarnishNael"
+    },
+    "publishedAt": "2026-09-13T03:47:16.000Z",
+    "collectedAt": "2026-09-13T05:12:35.790Z",
+    "language": "en",
+    "originalText": "Created with GPT Image 2 on Chatgpt\n\nPrompt.\n\nCreate an ultra-realistic full-body outdoor fashion portrait of a young woman walking confidently along a peaceful garden pathway. She has shoulder-length voluminous wavy auburn-brown hair, neatly styled with a small delicate butterfly hair accessory, natural realistic skin texture, defined eyebrows, subtle eye makeup, soft blush, and elegant pink lipstick.\nShe is wearing a dark navy-blue sequin sleeveless top with a matching sheer, lightweight long open-front shrug/kimono flowing naturally behind her, paired with high-waisted cream/off-white straight-leg trousers and simple nude heels. A delicate long black beaded necklace completes the look.\nWarm golden-hour sunlight, lush green trees and plants, colorful small flowers, an old rustic brick wall in the background, natural bokeh, soft cinematic depth of field. The sheer outer layer moves gently with her walk, creating a graceful flowing effect.\nPhotography: ultra-realistic DSLR photography, full-body composition, eye-level camera, 50mm lens, natural proportions, realistic fabric textures, detailed hair strands, soft warm lighting, sharp subject with beautifully blurred background, premium fashion editorial aesthetic, photorealistic, high resolution, vertical 9:16.\nNegative prompt: distorted face, extra fingers, extra limbs, deformed hands, unnatural body proportions, plastic skin, oversmoothing, blurry face, duplicate person, warped clothing, artificial-looking background.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSEU04DbUAAzKS4.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSEU04DbUAAzKS4.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 9,
+      "repostCount": 1,
+      "replyCount": 7,
+      "quoteCount": 0,
+      "viewCount": 320
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/ZarnishNael/status/2098981813771194613",
+  "coverUrl": "https://pbs.twimg.com/media/HSEU04DbUAAzKS4.jpg",
+  "coverPath": "images/2098981813771194613-1.jpg",
+  "imagePaths": [
+    "images/2098981813771194613-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSEU04DbUAAzKS4",
+    "x-post:2098981813771194613"
+  ],
+  "analysis": {
+    "summary": "Full-body outdoor fashion portrait of a woman in navy sequin top, flowing sheer kimono, and beige trousers walking in a garden.",
+    "summaryEn": "Full-body outdoor fashion portrait of a woman in navy sequin top, flowing sheer kimono, and beige trousers walking in a garden.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Matches the woman's outfit (navy sequin top, blue sheer long shrug, off-white trousers), hair style with butterfly clip, pose walking forward, and garden pathway background."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Create an ultra-realistic full-body outdoor fashion portrait of a young woman walking confidently along a peaceful garden pathway. She has shoulder-length voluminous wavy auburn-brown hair, neatly styled with a small delicate butterfly hair accessory, natural realistic skin texture, defined eyebrows, subtle eye makeup, soft blush, and elegant pink lipstick.\nShe is wearing a dark navy-blue sequin sleeveless top with a matching sheer, lightweight long open-front shrug/kimono flowing naturally behind her, paired with high-waisted cream/off-white straight-leg trousers and simple nude heels. A delicate long black beaded necklace completes the look.\nWarm golden-hour sunlight, lush green trees and plants, colorful small flowers, an old rustic brick wall in the background, natural bokeh, soft cinematic depth of field. The sheer outer layer moves gently with her walk, creating a graceful flowing effect.\nPhotography: ultra-realistic DSLR photography, full-body composition, eye-level camera, 50mm lens, natural proportions, realistic fabric textures, detailed hair strands, soft warm lighting, sharp subject with beautifully blurred background, premium fashion editorial aesthetic, photorealistic, high resolution, vertical 9:16.\nNegative prompt: distorted face, extra fingers, extra limbs, deformed hands, unnatural body proportions, plastic skin, oversmoothing, blurry face, duplicate person, warped clothing, artificial-looking background.",
+    "sourceRange": {
+      "start": 46,
+      "end": 1492
+    },
+    "translations": {
+      "zh": "创作一张极其逼真的户外全身时尚肖像，展现一位自信走在宁静花园小径上的年轻女性。她留着齐肩微卷红棕色浓密秀发，点缀精致小巧的蝴蝶发饰，肤质自然真实，妆容精致，涂有优雅粉色唇膏。她身穿深海军蓝亮片无袖上衣，外搭同色轻薄飘逸的长款开襟外衫，下着高腰米白色直筒长裤配素色裸跟鞋，佩戴长黑珠项链。背景为温暖金色余晖、葱郁绿植鲜花及古朴砖墙，伴有自然散景与柔和景深。超写实单反全画幅构图，眼平视角，50mm镜头，高级时尚画报质感，9:16竖构图。",
+      "en": "Create an ultra-realistic full-body outdoor fashion portrait of a young woman walking along a garden pathway with auburn wavy hair and butterfly accessory. She wears a navy sequin sleeveless top, matching sheer kimono shrug, high-waisted off-white trousers, and nude heels. Golden hour lighting, lush greenery, rustic brick wall bokeh background, 50mm DSLR photography aesthetic."
+    },
+    "targetModels": [
+      "image2"
+    ],
+    "category": "text-to-image",
+    "useCase": "Fashion editorial portrait photography",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
