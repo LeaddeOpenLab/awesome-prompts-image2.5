@@ -369,20 +369,42 @@ Foto einer Waldlichtung mit viel grünem Blattwerk, sehr detailliert
 
 <a name="prompt-2098975203866837026"></a>
 
-### Übersetzung läuft
+### Realistischer Porträt-Prompt im Hochformat einer Frau, die im warm beleuchteten Schlafzimmer im Schneidersitz auf dem Bett sitzt und ein Selfie im Spiegel macht.
 
 Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Originalbeitrag](https://x.com/CyberTotal2026/status/2098975203866837026)
 
 Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Realistischer Porträt-Prompt im Hochformat einer Frau, die im warm beleuchteten Schlafzimmer im Schneidersitz auf dem Bett sitzt und ein Selfie im Spiegel macht.
 
 <img src="images/2098975203866837026-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Thema:
+Smartphone-Spiegel bei Nachtbeleuchtung
+
+Motiv:
+Vertikales Foto einer erwachsenen Frau, die im Schneidersitz auf dem Bett in einem Schlafzimmer mit warmem Lampenlicht sitzt und mit einem großen Smartphone ein Spiegel-Selfie aufnimmt. Die Person ist an der Bildmitte ausgerichtet.
+
+Person & Ausdruck:
+Langes schwarzes Haar hinten zusammengebunden, dünner Pony. Das Smartphone verdeckt den zentralen Teil des Gesichts weitgehend; nur ein Auge, eine Wange und ein Teil der glänzenden rosafarbenen Lippen sind sichtbar. Das Gesicht ist nach vorne gerichtet. Ruhiger Gesichtsausdruck.
+
+Kleidung & Pose:
+Weißes geripptes Spaghettiträger-Top mit Spitze und kleinen Knöpfen am Dekolleté, graue Shorts mit Kordelzug, weiße kniehohe Socken. Im Schneidersitz sitzend, hält sie mit einer Hand ein großes kupferfarbenes Smartphone vor das Gesicht. Weißes Oberteil und graue Hose.
+
+Hintergrund & Licht:
+Weißes Bettzeug, hölzerner Nachttisch, Tischlampe mit warmem Licht, dunkles Fenster. Warmes oranges Licht wirft weiche Schatten auf die Person und das Bettzeug. Das Hauptlicht im Bildhintergrund ist sanftes Licht von der Fensterseite.
+
+Komposition & Kamera:
+Vertikale 2:3-Komposition, die Kamera nimmt die Spiegelfläche frontal auf, als sitzende Fast-Ganzkörperaufnahme. Die Person im Zentrum, das große Smartphone mitten im Gesicht, die Beine mit weißen Socken im unteren Bereich platziert. Fokus auf Spiegelbild und Kleidung. Die Person nimmt einen großen Bildbereich ein, die Hauptfigur ist scharf fokussiert, der Hintergrund hat ein leichtes Bokeh.
+
+Textur & Stil:
+Fotorealistisches nächtliches Spiegel-Selfie. Spiegelfläche, kupferfarbenes Gerät, weißer Rippenstoff mit Spitze, grauer Stoff und warme Lampe wirken vollkommen natürlich.
+
+Negativ:
+Die Komposition, bei der das Smartphone die Mitte des Gesichts weitgehend verdeckt, nicht verändern
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

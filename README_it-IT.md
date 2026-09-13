@@ -369,20 +369,42 @@ Foto di una radura nel bosco con abbondante fogliame verde, altamente dettagliat
 
 <a name="prompt-2098975203866837026"></a>
 
-### Traduzione in corso
+### Prompt per un ritratto realistico a figura verticale di una donna seduta a gambe incrociate sul letto che scatta un selfie allo specchio in una camera da letto con luce calda.
 
 Autore：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Post originale](https://x.com/CyberTotal2026/status/2098975203866837026)
 
 Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per un ritratto realistico a figura verticale di una donna seduta a gambe incrociate sul letto che scatta un selfie allo specchio in una camera da letto con luce calda.
 
 <img src="images/2098975203866837026-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Tema:
+Specchio e smartphone con luce notturna
+
+Soggetto:
+Foto verticale di una donna adulta seduta a gambe incrociate sul letto in una camera illuminata da una lampada a luce calda, intenta a scattarsi un selfie allo specchio con un grande smartphone. La figura è posizionata al centro dell'inquadratura.
+
+Persona ed espressione:
+Lunghi capelli neri raccolti dietro, frangia sottile. Lo smartphone copre in gran parte il centro del viso, lasciando intravedere solo un occhio, una guancia e parte di labbra rosee e lucide. Il viso è rivolto in avanti. Espressione serena.
+
+Abbigliamento e posa:
+Canotta a costine bianca con spalline sottili, pizzo e bottoncini sul petto, pantaloncini grigi con coulisse, calze bianche fino al ginocchio. Seduta a gambe incrociate, tiene con una mano un grande smartphone color rame davanti al viso. Top bianco e pantaloni grigi.
+
+Sfondo e luce:
+Biancheria da letto bianca, comodino in legno, lampada da tavolo a luce calda, finestra scura. Una luce arancione crea ombre morbide sulla figura e sul letto. La luce principale sullo sfondo è una luce morbida proveniente dal lato della finestra.
+
+Composizione e fotocamera:
+Inquadratura verticale 2:3, la fotocamera riprende frontalmente la superficie dello specchio, a figura quasi intera seduta. Persona al centro, grande smartphone a metà del viso, gambe con calze bianche in basso. Messa a fuoco sul riflesso dello specchio e sui vestiti. Inquadratura ampia del soggetto, fuoco sulla protagonista e leggero sfocato sullo sfondo.
+
+Texture e stile:
+Selfie allo specchio notturno fotorealistico. Resa naturale della superficie dello specchio, del dispositivo color rame, delle costine e del pizzo bianchi, del tessuto grigio e della lampada calda.
+
+Negativo:
+Non modificare la composizione in cui lo smartphone copre in gran parte il centro del viso
 ```
 
 [↑ Torna alle categorie](#catalog)

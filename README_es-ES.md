@@ -374,20 +374,42 @@ Foto de un claro en el bosque con abundante follaje verde, altamente detallada
 
 <a name="prompt-2098975203866837026"></a>
 
-### Traducción en curso
+### Prompt para un retrato realista en composición vertical de una mujer sentada con las piernas cruzadas en la cama frente al espejo en un dormitorio con luz cálida.
 
 Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicación original](https://x.com/CyberTotal2026/status/2098975203866837026)
 
 Fotografía · Retrato / Selfie · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt para un retrato realista en composición vertical de una mujer sentada con las piernas cruzadas en la cama frente al espejo en un dormitorio con luz cálida.
 
 <img src="images/2098975203866837026-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Tema:
+Espejo con smartphone bajo luz nocturna
+
+Sujeto:
+Fotografía vertical de una mujer adulta sentada con las piernas cruzadas en la cama de un dormitorio iluminado por una lámpara de luz cálida, tomándose un selfi frente al espejo con un smartphone grande. La persona está centrada en el encuadre.
+
+Persona y expresión:
+Pelo largo y negro recogido detrás, flequillo fino. El smartphone oculta en gran parte el centro del rostro, dejando ver únicamente un ojo, la mejilla y parte de unos labios rosados y brillantes. Con el rostro mirando al frente. Expresión tranquila.
+
+Vestimenta y pose:
+Camisola blanca acanalada de tirantes finos con encaje y pequeños botones en el escote, pantalones cortos grises con cordón ajustable, calcetines blancos hasta la rodilla. Sentada con las piernas cruzadas, sosteniendo con una mano un smartphone grande de color cobre frente a la cara. Top blanco y pantalón gris.
+
+Fondo e iluminación:
+Ropa de cama blanca, mesita de noche de madera, lámpara de mesa de luz cálida, ventana oscura. La luz anaranjada genera sombras suaves sobre la persona y la cama. La luz principal del fondo proviene suavemente del lado de la ventana.
+
+Composición y cámara:
+Composición vertical 2:3, la cámara capta la superficie del espejo de frente, con un plano casi de cuerpo entero sentada. La persona en el centro, el smartphone grande en el centro del rostro y las piernas con calcetines blancos situadas en la parte inferior. Enfoque en el reflejo del espejo y la ropa. Encuadre amplio del sujeto, foco nítido en la protagonista y fondo ligeramente desenfocado.
+
+Textura y estilo:
+Selfi en el espejo de noche con realismo fotográfico. Reproducción natural de la superficie del espejo, el terminal cobrizo, el tejido acanalado blanco y el encaje, la tela gris y la lámpara cálida.
+
+Negativo:
+No alterar la composición en la que el smartphone oculta en gran medida el centro del rostro
 ```
 
 [↑ Volver a categorías](#catalog)

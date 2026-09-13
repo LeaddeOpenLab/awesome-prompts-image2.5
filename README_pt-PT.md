@@ -369,20 +369,42 @@ Fotografia de uma clareira na floresta com muita folhagem verde, altamente detal
 
 <a name="prompt-2098975203866837026"></a>
 
-### Tradução em curso
+### Prompt de retrato realista em formato vertical de uma mulher sentada de pernas cruzadas na cama a tirar uma selfie ao espelho num quarto com luz quente.
 
 Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicação original](https://x.com/CyberTotal2026/status/2098975203866837026)
 
 Fotografia · Retrato / Selfie · Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt de retrato realista em formato vertical de uma mulher sentada de pernas cruzadas na cama a tirar uma selfie ao espelho num quarto com luz quente.
 
 <img src="images/2098975203866837026-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Tema:
+Espelho e smartphone sob luz noturna
+
+Objeto principal:
+Fotografia vertical de uma mulher adulta sentada de pernas cruzadas na cama, num quarto iluminado por um candeeiro de tom quente, a tirar uma selfie ao espelho com um smartphone grande. A figura está centrada no enquadramento.
+
+Pessoa e expressão:
+Cabelo preto comprido apanhado atrás, franja fina. O smartphone esconde em grande parte o centro do rosto, revelando apenas um olho, a bochecha e parte de lábios rosados e brilhantes. Rosto virado para a frente. Expressão serena.
+
+Vestuário e pose:
+Top de alças finas canelado branco com renda e pequenos botões no decote, calções cinzentos com cordão, meias brancas até ao joelho. Sentada de pernas cruzadas, a segurar com uma mão um smartphone grande de cor cobre em frente ao rosto. Top branco e calções cinzentos.
+
+Fundo e iluminação:
+Roupa de cama branca, mesa de cabeceira em madeira, candeeiro de mesa com luz quente, janela escura. A luz alaranjada cria sombras suaves sobre a pessoa e a cama. A luz principal no fundo é uma luz suave vinda do lado da janela.
+
+Composição e câmara:
+Composição vertical 2:3, a câmara capta a superfície do espelho de frente, num plano quase de corpo inteiro sentada. A pessoa ao centro, o smartphone grande no meio do rosto, as pernas com meias brancas posicionadas em baixo. Foco no reflexo do espelho e no vestuário. Enquadramento amplo da protagonista, foco nítido nela e fundo com um ligeiro efeito bokeh.
+
+Textura e estilo:
+Selfie noturna ao espelho fotorrealista. Reprodução natural da superfície do espelho, do dispositivo de tom cobre, do canelado branco com renda, do tecido cinzento e do candeeiro quente.
+
+Negativo:
+Não alterar a composição na qual o smartphone esconde em grande parte o centro do rosto
 ```
 
 [↑ Voltar às categorias](#catalog)

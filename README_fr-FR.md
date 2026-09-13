@@ -369,20 +369,42 @@ Photo d'une clairière dans les bois avec un feuillage vert abondant, très dét
 
 <a name="prompt-2098975203866837026"></a>
 
-### Traduction en cours
+### Prompt de portrait réaliste en composition verticale d'une femme assise en tailleur sur un lit dans une chambre à la lumière chaude, prenant un selfie devant le miroir.
 
 Auteur：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publication originale](https://x.com/CyberTotal2026/status/2098975203866837026)
 
 Photographie · Portrait / Selfie · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de portrait réaliste en composition verticale d'une femme assise en tailleur sur un lit dans une chambre à la lumière chaude, prenant un selfie devant le miroir.
 
 <img src="images/2098975203866837026-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Thème :
+Miroir et smartphone sous la veilleuse
+
+Sujet :
+Photo verticale d'une femme adulte assise en tailleur sur un lit dans une chambre éclairée par une lampe aux tons chauds, prenant un selfie dans le miroir avec un grand smartphone. Le personnage est centré dans l'image.
+
+Personnage et expression :
+Longs cheveux noirs attachés à l'arrière, frange fine. Le smartphone masque en grande partie le centre du visage, ne laissant apparaître qu'un œil, une joue et une partie de lèvres roses et brillantes. Visage tourné vers l'avant. Expression sereine.
+
+Vêtements et pose :
+Caraco blanc côtelé à fines bretelles avec dentelle et petits boutons sur la poitrine, short gris à cordon de serrage, chaussettes montantes blanches. Assise en tailleur, tenant d'une main un grand smartphone de couleur cuivre devant le visage. Haut blanc et bas gris.
+
+Arrière-plan et lumière :
+Literie blanche, table de chevet en bois, lampe de table à lumière chaude, fenêtre sombre. Une lumière orangée projette des ombres douces sur le personnage et la literie. La lumière principale en arrière-plan est une douce clarté provenant du côté de la fenêtre.
+
+Composition et caméra :
+Composition verticale 2:3, la caméra capture la surface du miroir de face, en plan presque entier assise. Le personnage est au centre, le grand smartphone au milieu du visage, les jambes avec les chaussettes blanches en bas. Mise au point sur le reflet dans le miroir et les vêtements. Le sujet occupe une grande partie du cadre, la mise au point est nette sur lui, avec un léger flou d'arrière-plan.
+
+Texture et style :
+Selfie nocturne dans le miroir photoréaliste. Rendu naturel de la surface du miroir, de l'appareil cuivré, des côtes et de la dentelle blanches, du tissu gris et de la lampe à lumière chaude.
+
+Négatif :
+Ne pas modifier la composition où le smartphone dissimule en grande partie le centre du visage
 ```
 
 [↑ Retour aux catégories](#catalog)

@@ -369,20 +369,42 @@ Ormanda bol yeşil yaprakları olan bir açıklığın fotoğrafı, son derece d
 
 <a name="prompt-2098975203866837026"></a>
 
-### Çeviri sürüyor
+### Sıcak ışıklı yatak odasında yatakta bağdaş kurarak oturup aynadan selfie çeken kadının gerçekçi dikey kompozisyon portre istemi.
 
 Yazar：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Orijinal gönderi](https://x.com/CyberTotal2026/status/2098975203866837026)
 
 Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Sıcak ışıklı yatak odasında yatakta bağdaş kurarak oturup aynadan selfie çeken kadının gerçekçi dikey kompozisyon portre istemi.
 
 <img src="images/2098975203866837026-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Tema:
+Gece lambası ışığında akıllı telefon ve ayna
+
+Ana Özne:
+Sıcak ışıklı bir lambayla aydınlatılmış yatak odasında, yatakta bağdaş kurarak oturan ve büyük bir akıllı telefonla aynadan selfie çeken yetişkin bir kadının dikey fotoğrafı. Kişi kadrajın merkezine hizalanmıştır.
+
+Kişi ve İfade:
+Arkada toplanmış uzun siyah saçlar, ince kaküller. Akıllı telefon yüzün merkezini büyük ölçüde gizlemekte, yalnızca tek bir gözü, yanağı ve parlak pembe dudaklarının bir kısmını görünür kılmaktadır. Yüz doğrudan öne dönüktür. Sakin bir yüz ifadesi.
+
+Giyim ve Duruş:
+Göğüs kısmında dantel ve küçük düğmeler bulunan beyaz ribana ince askılı atlet, gri bağcıklı şort, beyaz diz boyu çoraplar. Bağdaş kurmuş şekilde oturuyor, tek eliyle büyük bakır rengi akıllı telefonu yüzünün önünde tutuyor. Beyaz üst ve gri alt giyim.
+
+Arka Plan ve Işık:
+Beyaz yatak takımı, ahşap komodin, sıcak ışıklı masa lambası, karanlık pencere. Turuncu ışık kişi ve yatak takımı üzerinde yumuşak gölgeler oluşturur. Arka plandaki ana ışık kaynağı pencere tarafından gelen yumuşak ışıktır.
+
+Kompozisyon ve Kamera:
+2:3 dikey kompozisyon, kamera ayna yüzeyini tam karşıdan çekmekte olup oturuş pozisyonunda neredeyse tam boy kadrajdır. Kişi merkezde, büyük akıllı telefon yüzün ortasında, beyaz çoraplı bacaklar alt kısımda konumlandırılmıştır. Odak ayna yansıması ve giysilerdedir. Kişi kadrajı dolduracak şekilde geniş yer alır, odak ana karakterdedir ve arka plan hafifçe bulanıktır.
+
+Doku ve Stil:
+Fotogerçekçi gece ayna selfiesi. Ayna yüzeyi, bakır rengi cihaz, beyaz ribana dokusu ve dantel, gri kumaş ile sıcak lambanın doğal yansıması.
+
+Negatif:
+Akıllı telefonun yüzün merkezini büyük ölçüde kapattığı kompozisyonu değiştirme
 ```
 
 [↑ Kategorilere dön](#catalog)

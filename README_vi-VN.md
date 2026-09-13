@@ -374,20 +374,42 @@ Nhiếp ảnh · Phong cảnh / Thiên nhiên · Đã xuất bản
 
 <a name="prompt-2098975203866837026"></a>
 
-### Đang dịch
+### Lời nhắc chân dung bố cục dọc chân thực về một phụ nữ ngồi xếp bằng trên giường trong phòng ngủ có ánh đèn ấm áp, chụp ảnh tự sướng qua gương.
 
 Tác giả：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Bài gốc](https://x.com/CyberTotal2026/status/2098975203866837026)
 
 Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc chân dung bố cục dọc chân thực về một phụ nữ ngồi xếp bằng trên giường trong phòng ngủ có ánh đèn ấm áp, chụp ảnh tự sướng qua gương.
 
 <img src="images/2098975203866837026-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Chủ đề:
+Gương điện thoại dưới ánh đèn đêm
+
+Chủ thể:
+Bức ảnh chụp dọc một phụ nữ trưởng thành ngồi xếp bằng trên giường trong phòng ngủ có đèn ánh sáng ấm áp, đang chụp ảnh tự sướng qua gương bằng một chiếc điện thoại thông minh cỡ lớn. Nhân vật được căn chỉnh ở giữa khung hình.
+
+Nhân vật · Biểu cảm:
+Mái tóc đen dài buộc gọn phía sau, mái thưa. Chiếc điện thoại che phần lớn trung tâm khuôn mặt, chỉ để lộ một bên mắt, gò má và một phần đôi môi hồng bóng bẩy. Khuôn mặt hướng thẳng về phía trước. Biểu cảm điềm tĩnh.
+
+Trang phục · Tư thế:
+Áo hai dây gân tăm màu trắng có viền ren và cúc nhỏ ở ngực, quần soóc rút dây màu xám, tất trắng dài đến đầu gối. Ngồi xếp bằng, một tay cầm chiếc điện thoại lớn màu đồng trước mặt. Áo trắng và quần xám.
+
+Bối cảnh · Ánh sáng:
+Bộ chăn ga gối màu trắng, bàn cạnh giường bằng gỗ, đèn bàn ánh sáng ấm, cửa sổ tối. Ánh sáng màu cam tạo nên những mảng bóng đổ mềm mại lên nhân vật và ga giường. Nguồn sáng chính ở hậu cảnh là ánh sáng êm dịu từ phía cửa sổ.
+
+Bố cục · Máy ảnh:
+Bố cục dọc 2:3, máy ảnh chụp thẳng vào mặt gương, gần như lấy toàn thân ở tư thế ngồi. Nhân vật ở trung tâm, điện thoại thông minh lớn ở giữa mặt, đôi chân mang tất trắng ở phía dưới. Tiêu điểm lấy nét vào hình phản chiếu trong gương và trang phục. Khung hình ôm trọn nhân vật, tập trung vào chủ thể, hậu cảnh hơi mờ nhẹ.
+
+Chất cảm · Phong cách:
+Ảnh selfie qua gương ban đêm chân thực như ảnh chụp thực tế. Thể hiện tự nhiên bề mặt gương, thiết bị màu đồng, vải gân trắng cùng ren, vải xám và ánh đèn ấm áp.
+
+Phủ định:
+Không thay đổi bố cục trong đó điện thoại thông minh che phần lớn trung tâm khuôn mặt
 ```
 
 [↑ Về danh mục](#catalog)
