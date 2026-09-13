@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**90** Prompt · Ultima aggiunta: **2026-09-13**
+**91** Prompt · Ultima aggiunta: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -1924,6 +1924,28 @@ Silenzioso, poetico, raffinato, minimale, innocente, artistico, riflessivo, prem
 <a name="category-other"></a>
 
 ## Altro
+
+<a name="prompt-2098980048703467897"></a>
+
+### Traduzione in corso
+
+Autore：[@SSSS\_CRYPTOMAN](https://x.com/SSSS_CRYPTOMAN) · [Post originale](https://x.com/SSSS_CRYPTOMAN/status/2098980048703467897)
+
+Altro · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2098980048703467897.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2098960216792682600"></a>
 

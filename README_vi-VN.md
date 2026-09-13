@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**90** Prompt · Bổ sung mới nhất: **2026-09-13**
+**91** Prompt · Bổ sung mới nhất: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -1931,6 +1931,28 @@ Tạo MỘT áp phích biên tập cao cấp độc lập cho MỖI bức ảnh 
 <a name="category-other"></a>
 
 ## Khác
+
+<a name="prompt-2098980048703467897"></a>
+
+### Đang dịch
+
+Tác giả：[@SSSS\_CRYPTOMAN](https://x.com/SSSS_CRYPTOMAN) · [Bài gốc](https://x.com/SSSS_CRYPTOMAN/status/2098980048703467897)
+
+Khác · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2098980048703467897.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2098960216792682600"></a>
 

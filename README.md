@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**90** Prompts · Latest addition: **2026-09-13**
+**91** Prompts · Latest addition: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -1974,6 +1974,44 @@ Create ONE independent high-end editorial poster for EACH uploaded photo. Never 
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2098980048703467897"></a>
+
+### A 30-second gameplay video prompt for an authentic AAA-style racing game featuring grandmas on mobility scooters set in rural Japan.
+
+Author：[@SSSS\_CRYPTOMAN](https://x.com/SSSS_CRYPTOMAN) · [Source](https://x.com/SSSS_CRYPTOMAN/status/2098980048703467897)
+
+Other · Published
+
+**Summary:** A 30-second gameplay video prompt for an authentic AAA-style racing game featuring grandmas on mobility scooters set in rural Japan.
+
+<img src="covers/2098980048703467897.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+A 30-second continuous video sequence. Gameplay footage in the style of an authentic racing game featuring battles exclusively with senior mobility scooters. Rendered not as a live-action film, but as high-definition real-time 3DCG of a cutting-edge AAA racing game. People, mobility scooters, roads, mountains, rice paddies, residential houses, utility poles, guardrails, sky, lighting, shadows, reflections, dust clouds, and the sense of speed are all unified with realistic yet distinctly game-CG textures. The highest priority is presenting it as an in-game screen, consistently maintaining authentic racing game UI and camerawork throughout.
+
+0–3 seconds: Title sequence. Opening from a black background, delivering brief, stylish close-ups of mobility scooter tires, motor, handlebars, battery, and shopping basket just like a serious racing game. Emphasize metallic sheen, plastic textures, minute scratches, and light reflections. Afterwards, the title logo from the reference image is displayed prominently in the center of the screen. The logo display exudes high quality and weight, resembling the title screen of a genuine racing simulator.
+
+3–6 seconds: Starting grid. Set in rural Japan. Broad rice paddies, farm roads, weathered houses, mini kei-trucks, irrigation ditches, and a clear morning atmosphere framed by mountain ridges. Six mobility scooters are lined up side-by-side. All drivers are grandmothers in their 70s to 90s. Dressed in typical countryside attire—straw hats, floral jackets, arm covers, and monpe-style baggy trousers—yet every single one wears an unnervingly dead-serious expression. The protagonist is positioned near the front. The red start signal lights illuminate sequentially and shut off for a simultaneous start.
+
+6–10 seconds: Immediately after race start. Initially rolling out slowly around 6 km/h like authentic mobility scooters. The HUD displays position, lap, speed, remaining battery, mini-map, and a tachometer-style motor output gauge. Top of the screen shows "1/3 LAP", top left displays position "3/6", bottom right shows speedometer at "6 km/h". The camera alternates naturally between authentic racing chase cam, low tracking cam, onboard-style corner entry cam, and side overtaking cam, all flowing seamlessly as gameplay footage.
+
+10–15 seconds: The protagonist presses a red button beside the handlebars, and a large "SPORT+" UI appears on screen. An absurd, uncharacteristic surge of acceleration erupts from the scooter. The speedometer rockets from 6 → 18 → 35 → 52 → 68 → 80 km/h. The motor whine rises sharply, the chassis vibrates, and the green onions and grocery bags in the front basket flutter violently. Blazing down the narrow agricultural road at 80 km/h, overtaking other mobility scooters one by one. "OVERTAKE" text may appear on the screen.
+
+15–21 seconds: Ultra-high-speed rural road racing. The track spans narrow paved paths between rice fields, treacherous straights beside irrigation ditches, and tight alleys weaving between houses. A fierce, side-by-side battle against two rival mobility scooters. Tiny wheels bounce over bumps, shaking the chassis unstably, yet they charge forward at nearly 80 km/h. Red racing lines, braking points, split times, and position shifts appear on screen. The protagonist overtakes a kei-truck by mere hairbreadth, kicking up dust clouds while diving onto a dirt farm track. Top priority is an authentic racing game sensation of speed.
+
+21–26 seconds: The climax showcase. A sharp right turn looms ahead, bordered on the outside by an irrigation canal. A "BRAKE" guide flashes on screen. The protagonist maintains 80 km/h until the last split second, executing heavy braking. Speedometer plunges 80 → 54 → 41 km/h. Tires screech, the body rolls heavily, and one wheel nearly lifts off the ground, barely maintaining grip. The camera drops lower behind the vehicle, amplifying tension. Accelerating cleanly the moment the corner is cleared, triggering a "PERFECT CORNER" UI pop-up.
+
+26–30 seconds: Final straight. The protagonist and a rival grandma race neck-and-neck. Both deadpan and expressionless. Speed reaches 76–82 km/h. Battery level is nearly depleted. "FINAL LAP" and "BOOST" flashes on screen. The protagonist unleashes one final burst of acceleration, edging ahead by a hair. Crossing the finish line just tens of centimeters ahead. "1st PLACE" is splashed across the screen. The mobility scooter comes to a halt, heat haze rising faintly from the motor. Battery displays 1%. The grandmother stares blankly at the meter and mutters a single line: "How'm I gonna get home now?" ("帰り、どうすんべ。"). Concludes like a race results screen, showing mobility scooters parked along the country path alongside the protagonist's victory banner.
+
+Throughout the entire piece, humor stems solely from the absurdity of the premise, while the footage itself is portrayed completely as a serious, authentic racing game. The critical elements are rural mobility scooters impossibly accelerating from 6 to 80 km/h to aggressively attack farm roads and canal banks, accompanied by full UI, dynamic camera angles, standings, speedometer, racing line, and braking prompts, unmistakable to any viewer as "authentic racing game gameplay footage."
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098960216792682600"></a>
 
