@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-13T16:30:04.970Z",
+  "model": "image2.5",
+  "prompt": "中式梦幻 × CCD直闪柔焦 × 无人游泳池",
+  "promptTranslations": {
+    "en": "Chinese dreamlike aesthetic × CCD direct flash soft focus × empty swimming pool"
+  },
+  "summaryTranslations": {
+    "en": "Chinese dreamlike courtyard and modern empty swimming pool, CCD soft focus texture"
+  },
+  "translationVersion": 2,
+  "summary": "中式梦幻庭院与现代无人泳池，CCD柔焦质感",
+  "summaryEn": "Chinese dreamscape courtyard with an empty swimming pool in CCD soft focus style",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2099065219259761109",
+      "canonicalUrl": "https://x.com/DeepBlueX0/status/2099065219259761109",
+      "author": {
+        "username": "DeepBlueX0",
+        "displayName": "DeepBlue深藍",
+        "profileUrl": "https://x.com/DeepBlueX0"
+      },
+      "originalText": "神仙也有可爱的一面～\n\n🔵 GPT image 2.5 Prompt:\n\n破格惊鸿 × 随机实验镜头 × Y2K× 观世音菩萨 https://t.co/pFx0C4iIZI"
+    },
+    "id": "2099141066784215478",
+    "canonicalUrl": "https://x.com/DeepBlueX0/status/2099141066784215478",
+    "author": {
+      "username": "DeepBlueX0",
+      "displayName": "DeepBlue深藍",
+      "profileUrl": "https://x.com/DeepBlueX0"
+    },
+    "publishedAt": "2026-09-13T14:20:05.000Z",
+    "collectedAt": "2026-09-13T16:16:58.485Z",
+    "language": "zh",
+    "originalText": "古风庭院配现代泳池，梦幻又真实～\n\n🔵 GPT image 2.5 Prompt:\n\n中式梦幻 × CCD直闪柔焦 × 无人游泳池 https://t.co/SJU4l3BTJS",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSGlqs8akAINKjD.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSGlqs8akAINKjD.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSFgr3BaUAAWQcK.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSFgr3BaUAAWQcK.jpg",
+        "sourcePostId": "2099065219259761109"
+      }
+    ],
+    "metrics": {
+      "likeCount": 4,
+      "repostCount": 1,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 451
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/DeepBlueX0/status/2099141066784215478",
+  "coverUrl": "https://pbs.twimg.com/media/HSGlqs8akAINKjD.jpg",
+  "coverPath": "images/2099141066784215478-1.jpg",
+  "imagePaths": [
+    "images/2099141066784215478-1.jpg",
+    "images/2099141066784215478-2.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSGlqs8akAINKjD",
+    "x-image:/media/HSFgr3BaUAAWQcK",
+    "x-post:2099141066784215478",
+    "x-post:2099065219259761109"
+  ],
+  "analysis": {
+    "summary": "中式梦幻庭院与现代无人泳池，CCD柔焦质感",
+    "summaryEn": "Chinese dreamscape courtyard with an empty swimming pool in CCD soft focus style",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "画面展现了中式庭院与现代无人泳池结合的夜景，呈现CCD柔焦质感，与提示词完全吻合。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "中式梦幻 × CCD直闪柔焦 × 无人游泳池",
+    "sourceRange": {
+      "start": 43,
+      "end": 65
+    },
+    "translations": {
+      "zh": "中式梦幻 × CCD直闪柔焦 × 无人游泳池",
+      "en": "Chinese dreamscape × CCD direct flash soft focus × empty swimming pool"
+    },
+    "targetModels": [
+      "image2.5"
+    ],
+    "category": "text-to-image",
+    "useCase": "text-to-image",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.9,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
