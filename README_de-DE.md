@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**97** Prompts · Zuletzt hinzugefügt: **2026-09-13**
+**98** Prompts · Zuletzt hinzugefügt: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -391,20 +391,42 @@ Foto einer Waldlichtung mit viel grünem Blattwerk, sehr detailliert
 
 <a name="prompt-2099123682249732440"></a>
 
-### Übersetzung läuft
+### Prompt für ein realistisches morgendliches Lifestyle-Foto einer Frau, die auf einem weißen Wohnzimmerteppich sitzt und der Kamera eine weiße Blume entgegenstreckt.
 
 Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Originalbeitrag](https://x.com/CyberTotal2026/status/2099123682249732440)
 
 Fotografie · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt für ein realistisches morgendliches Lifestyle-Foto einer Frau, die auf einem weißen Wohnzimmerteppich sitzt und der Kamera eine weiße Blume entgegenstreckt.
 
 <img src="images/2099123682249732440-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Thema:
+Entgegengestreckte weiße Blume
+
+Motiv:
+Vertikales Foto einer erwachsenen Frau, die mit angewinkelten Knien auf einem weißen Teppich in einem sonnendurchfluteten Wohnzimmer sitzt und eine einzelne weiße Blume in Richtung des Objektivs reicht. Die Person ist an der Bildmitte ausgerichtet.
+
+Person und Gesichtsausdruck:
+Schulterlanges, hellbraunes, gewelltes Haar mit dünnem Pony. Ovales Gesicht, runde braune Augen, feine Augenbrauen, kleine Nase, glänzende korallenfarbene Lippen. Leicht geöffneter Mund, der in die Kamera lächelt. Das Gesicht ist frontal zur Kamera gerichtet.
+
+Kleidung und Pose:
+Weißes Mini-Spaghetti-Trägerkleid mit rotem Streublumenmuster. Weiße Spitze am Ausschnitt und am kurzen Saum. Sitzt mit einem zur Seite angewinkelten Bein, die linke Hand auf dem Teppich, den rechten Arm gerade zum Objektiv ausgestreckt und eine weiße Blume haltend. Minikleid mit feinem Blumenmuster.
+
+Hintergrund und Licht:
+Niedriger Holztisch mit Spitzentischdecke, Brot, Vase, gestapelten Blumenbüchern, großem Fenster und grüner Terrasse. Die Morgensonne wirft ein Gittermuster aus Schatten auf den weißen Teppich. Das Hauptlicht im Bildhintergrund ist weiches Licht von der Fensterseite.
+
+Komposition und Kamera:
+Vertikale Komposition im Format 3:4, Kamera aus leicht erhöhter Frontalansicht fast als Ganzkörperaufnahme. Die weiße Blume im Vordergrund ist groß abgebildet, das Gesicht in der Mitte, angewinkelte Beine und Bücher unten platziert. Fokus auf Gesicht und Blume, der Hintergrund weich verschwommen. Die Person ist groß im Bild, Fokus auf die Hauptfigur, Hintergrund mit leichtem Bokeh.
+
+Textur und Stil:
+Fotorealistisches, helles Lifestyle-Foto. Das feine Blumenmuster, weiße Spitze, Blütenblätter, der hochflorige Teppich, Holz und das Morgenlicht sind in reinen, sauberen Farben abgebildet.
+
+Negativ:
+Den zum Objektiv ausgestreckten Arm und die einzelne Blume im Vordergrund nicht weglassen
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -2056,6 +2078,32 @@ Ruhig, poetisch, raffiniert, minimalistisch, unschuldig, künstlerisch, nachdenk
 <a name="category-other"></a>
 
 ## Sonstige
+
+<a name="prompt-2099141066784215478"></a>
+
+### Übersetzung läuft
+
+Autor：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Originalbeitrag](https://x.com/DeepBlueX0/status/2099141066784215478)
+
+Sonstige · Veröffentlicht
+
+Originalbeitrag：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Originalbeitrag](https://x.com/DeepBlueX0/status/2099065219259761109)
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2099141066784215478-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2099141066784215478-2.jpg" alt="Bild 2" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2098980048703467897"></a>
 

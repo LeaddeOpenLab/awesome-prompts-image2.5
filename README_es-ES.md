@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**97** Prompts · Última incorporación: **2026-09-13**
+**98** Prompts · Última incorporación: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -396,20 +396,42 @@ Foto de un claro en el bosque con abundante follaje verde, altamente detallada
 
 <a name="prompt-2099123682249732440"></a>
 
-### Traducción en curso
+### Prompt de fotografía de estilo de vida matutina realista de una mujer sentada en una alfombra blanca en la sala de estar que ofrece una flor blanca a la cámara.
 
 Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicación original](https://x.com/CyberTotal2026/status/2099123682249732440)
 
 Fotografía · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de fotografía de estilo de vida matutina realista de una mujer sentada en una alfombra blanca en la sala de estar que ofrece una flor blanca a la cámara.
 
 <img src="images/2099123682249732440-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Tema:
+Flor blanca ofrecida
+
+Sujeto:
+Fotografía vertical de una mujer adulta sentada con las rodillas dobladas sobre una alfombra blanca en una sala de estar iluminada por el sol, ofreciendo una sola flor blanca hacia el objetivo. El sujeto se sitúa tomando como referencia el centro del encuadre.
+
+Persona y expresión:
+Pelo ondulado castaño claro por debajo de los hombros con flequillo ligero. Rostro ovalado, ojos castaños redondos, cejas finas, nariz pequeña y labios brillantes de color coral. Boca ligeramente abierta sonriendo a la cámara. Con el rostro orientado hacia la cámara frontal.
+
+Vestimenta y pose:
+Minivestido lencero de tirantes finos blanco con estampado de pequeñas flores rojas. Encaje blanco en el escote y en el bajo corto. Sentada con una pierna doblada hacia un lado, la mano izquierda apoyada en la alfombra y el brazo derecho extendido en línea recta hacia el objetivo sosteniendo una flor blanca. Minivestido con estampado de pequeñas flores.
+
+Fondo e iluminación:
+Mesa baja de madera con mantel de encaje, pan, jarrón, libros apilados sobre flores, gran ventanal y terraza verde. La luz matinal proyecta una sombra enrejada sobre la alfombra blanca. La luz principal del fondo del encuadre es una luz suave proveniente del lado de la ventana.
+
+Composición y cámara:
+Composición vertical 3:4, cámara frontal ligeramente elevada capturando casi todo el cuerpo. La flor blanca del primer plano en tamaño grande, el rostro en el centro, las piernas dobladas y los libros situados en la parte inferior. Enfoque nítido en el rostro y la flor, con el fondo desenfocado suavemente. Encuadre amplio del sujeto, enfoque en la protagonista y un ligero desenfoque (bokeh) de fondo.
+
+Textura y estilo:
+Fotografía de estilo de vida luminosa y fotorrealista. Los estampados de florecitas, el encaje blanco, los pétalos, la alfombra de pelo largo, la madera y la luz de la mañana capturados con colores limpios y frescos.
+
+Negativo:
+No omitir el brazo extendido hacia el objetivo ni la flor individual del primer plano
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -2085,6 +2107,32 @@ Tranquilo, poético, refinado, minimalista, inocente, artístico, reflexivo, pr�
 <a name="category-other"></a>
 
 ## Otros
+
+<a name="prompt-2099141066784215478"></a>
+
+### Traducción en curso
+
+Autor：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicación original](https://x.com/DeepBlueX0/status/2099141066784215478)
+
+Otros · Publicado
+
+Publicación original：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicación original](https://x.com/DeepBlueX0/status/2099065219259761109)
+
+**Resumen:** Traducción en curso
+
+<img src="images/2099141066784215478-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2099141066784215478-2.jpg" alt="Imagen 2" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2098980048703467897"></a>
 

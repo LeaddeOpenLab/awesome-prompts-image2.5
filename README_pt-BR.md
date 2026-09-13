@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**97** Prompts · Última adição: **2026-09-13**
+**98** Prompts · Última adição: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -391,20 +391,42 @@ Foto de uma clareira na floresta com muita folhagem verde, altamente detalhada
 
 <a name="prompt-2099123682249732440"></a>
 
-### Tradução em andamento
+### Prompt de fotografia realista de estilo de vida matinal de uma mulher sentada em um tapete branco na sala estendendo uma flor branca para a câmera.
 
 Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicação original](https://x.com/CyberTotal2026/status/2099123682249732440)
 
 Fotografia · Personagem · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt de fotografia realista de estilo de vida matinal de uma mulher sentada em um tapete branco na sala estendendo uma flor branca para a câmera.
 
 <img src="images/2099123682249732440-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Tema:
+Flor branca oferecida à frente
+
+Sujeito:
+Foto vertical de uma mulher adulta sentada com os joelhos dobrados sobre um tapete branco em uma sala de estar banhada pela luz do sol, oferecendo uma única flor branca em direção à lente. O sujeito é posicionado com base no centro da tela.
+
+Pessoa e expressão:
+Cabelo ondulado castanho-claro abaixo dos ombros com franja rala. Rosto oval, olhos castanhos redondos, sobrancelhas finas, nariz pequeno, lábios cor de coral brilhantes. Boca ligeiramente aberta sorrindo para a câmera. Rosto virado de frente para a câmera.
+
+Traje e pose:
+Vestido curto tipo slip dress de alças finas branco com estampa de pequenas flores vermelhas. Renda branca no decote e na bainha curta. Sentada com uma das pernas dobrada para o lado, mão esquerda no tapete e braço direito estendido reto em direção à lente segurando uma flor branca. Minivestido com estampa floral miúda.
+
+Cenário e luz:
+Mesa de centro de madeira com toalha de renda, pão, vaso, livros sobre flores empilhados, janela ampla e terraço verdejante. A luz do sol da manhã projeta sombras em padrão quadriculado no tapete branco. A luz principal do fundo do enquadramento é uma luz suave vinda do lado da janela.
+
+Composição e câmera:
+Composição vertical 3:4, câmera de frente um pouco alta enquadrando quase o corpo inteiro. A flor branca em primeiro plano em destaque, o rosto no centro, e as pernas dobradas e os livros dispostos na parte inferior. Foco no rosto e na flor, com o fundo suavemente desfocado. Pessoa enquadrada de forma ampla, foco na protagonista e fundo com leve efeito bokeh.
+
+Textura e estilo:
+Foto de estilo de vida fotorrealista e luminosa. Estampa de pequenas flores, renda branca, pétalas, tapete de pelos compridos, madeira e luz da manhã retratados com cores limpas e puras.
+
+Negativo:
+Não omitir o braço estendido em direção à lente nem a flor única em primeiro plano
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -2041,6 +2063,32 @@ Tranquilo, poético, refinado, minimalista, inocente, artístico, ponderado, sof
 <a name="category-other"></a>
 
 ## Outros
+
+<a name="prompt-2099141066784215478"></a>
+
+### Tradução em andamento
+
+Autor：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicação original](https://x.com/DeepBlueX0/status/2099141066784215478)
+
+Outros · Publicado
+
+Publicação original：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicação original](https://x.com/DeepBlueX0/status/2099065219259761109)
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2099141066784215478-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2099141066784215478-2.jpg" alt="Imagem 2" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2098980048703467897"></a>
 

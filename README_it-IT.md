@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**97** Prompt · Ultima aggiunta: **2026-09-13**
+**98** Prompt · Ultima aggiunta: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -391,20 +391,42 @@ Foto di una radura nel bosco con abbondante fogliame verde, altamente dettagliat
 
 <a name="prompt-2099123682249732440"></a>
 
-### Traduzione in corso
+### Prompt per una foto realistica di lifestyle mattutino con una donna seduta su un tappeto bianco in soggiorno che porge un fiore bianco alla fotocamera.
 
 Autore：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Post originale](https://x.com/CyberTotal2026/status/2099123682249732440)
 
 Fotografia · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per una foto realistica di lifestyle mattutino con una donna seduta su un tappeto bianco in soggiorno che porge un fiore bianco alla fotocamera.
 
 <img src="images/2099123682249732440-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Tema:
+Fiore bianco teso in avanti
+
+Soggetto:
+Foto verticale di una donna adulta seduta a ginocchia piegate su un tappeto bianco in un soggiorno inondato dal sole, mentre porge un singolo fiore bianco verso l'obiettivo. La figura è posizionata prendendo come riferimento il centro dell'inquadratura.
+
+Persona ed espressione:
+Capelli mossi castano chiaro sotto le spalle con frangetta sottile. Viso ovale, occhi castani rotondi, sopracciglia sottili, naso minuto, labbra color corallo lucide. Bocca leggermente socchiusa che sorride alla fotocamera. Il volto è rivolto frontalmente verso la fotocamera.
+
+Abbigliamento e posa:
+Sottoveste corta con spalline sottili bianca a fiorellini rossi. Pizzo bianco sulla scollatura e sull'orlo corto. Seduta con una gamba piegata di lato, la mano sinistra sul tappeto e il braccio destro teso dritto verso l'obiettivo tenendo in mano un fiore bianco. Minidress a fiorellini.
+
+Sfondo e luce:
+Tavolino basso in legno con tovaglietta di pizzo, pane, vaso, libri di fiori impilati, grande finestra e terrazza verde. Il sole del mattino proietta un'ombra a griglia sul tappeto bianco. La luce principale dello sfondo dell'inquadratura è una luce morbida proveniente dal lato della finestra.
+
+Composizione e fotocamera:
+Composizione verticale 3:4, fotocamera leggermente dall'alto di fronte che riprende quasi l'intera figura. Il fiore bianco in primo piano in grande, il viso al centro, le gambe piegate e i libri posizionati in basso. Messa a fuoco su viso e fiore, sfondo sfocato morbidamente. Inquadratura ampia della persona, messa a fuoco sul soggetto principale e leggero effetto bokeh di sfondo.
+
+Texture e stile:
+Foto di vita quotidiana luminosa e fotorealistica. Motivi a piccoli fiori, pizzo bianco, petali, tappeto a pelo lungo, legno e luce mattutina riprodotti con colori puliti e freschi.
+
+Negativo:
+Non omettere il braccio teso verso l'obiettivo né il singolo fiore in primo piano
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -2056,6 +2078,32 @@ Silenzioso, poetico, raffinato, minimale, innocente, artistico, riflessivo, prem
 <a name="category-other"></a>
 
 ## Altro
+
+<a name="prompt-2099141066784215478"></a>
+
+### Traduzione in corso
+
+Autore：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Post originale](https://x.com/DeepBlueX0/status/2099141066784215478)
+
+Altro · Pubblicato
+
+Post originale：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Post originale](https://x.com/DeepBlueX0/status/2099065219259761109)
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2099141066784215478-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2099141066784215478-2.jpg" alt="Immagine 2" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2098980048703467897"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**97** Prompt · Son eklenen: **2026-09-13**
+**98** Prompt · Son eklenen: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -391,20 +391,42 @@ Ormanda bol yeşil yaprakları olan bir açıklığın fotoğrafı, son derece d
 
 <a name="prompt-2099123682249732440"></a>
 
-### Çeviri sürüyor
+### Oturma odasındaki beyaz halıda oturup kameraya beyaz bir çiçek uzatan kadının gerçekçi sabah yaşam tarzı fotoğrafı istemi.
 
 Yazar：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Orijinal gönderi](https://x.com/CyberTotal2026/status/2099123682249732440)
 
 Fotoğrafçılık · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Oturma odasındaki beyaz halıda oturup kameraya beyaz bir çiçek uzatan kadının gerçekçi sabah yaşam tarzı fotoğrafı istemi.
 
 <img src="images/2099123682249732440-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Tema:
+Uzatılan beyaz çiçek
+
+Ana Özne:
+Güneş ışığıyla dolu bir oturma odasındaki beyaz halı üzerinde dizlerini kırarak oturan ve lense doğru tek bir beyaz çiçek uzatan yetişkin bir kadının dikey fotoğrafı. Kişi kadrajın merkezi baz alınarak yerleştirilir.
+
+Kişi ve İfade:
+Omuzların altına inen açık kahverengi dalgalı saçlar ve ince kahküller. Oval yüz hatları, yuvarlak kahverengi gözler, ince kaşlar, küçük bir burun, parlak mercan rengi dudaklar. Ağzı hafifçe aralık kameraya gülümsüyor. Yüzü doğrudan karşıdaki kameraya dönük.
+
+Kıyafet ve Duruş:
+Beyaz zemin üzerine kırmızı minik çiçek desenli, ince askılı mini kombinezon elbise. Göğüs kısmında ve kısa etek ucunda beyaz dantel. Bir bacağını yana doğru kırarak oturmuş, sol eli halıda, sağ kolunu ise elinde beyaz bir çiçek tutarak lense doğru düz bir şekilde uzatmış. Minik çiçek desenli mini elbise.
+
+Arka Plan ve Işık:
+Ahşap alçak sehpa ve dantel örtü, ekmek, vazo, üst üste konmuş çiçek kitapları, büyük pencere ve yeşil teras. Sabah güneşi beyaz halının üzerine ızgara şeklinde gölgeler düşürür. Kadraj arka planının ana ışığı, pencere tarafından gelen yumuşak ışıktır.
+
+Kompozisyon ve Kamera:
+3:4 dikey kompozisyon, kamera hafif yukarıdan cepheden çekimle neredeyse tüm vücudu kapsar. Ön plandaki beyaz çiçek büyük, yüz ortada, kırılmış bacaklar ve kitaplar aşağıda yer alır. Yüz ve çiçek odaktadır, arka plan yumuşak bir şekilde bulanıktır. Kişi kadraja genişçe sığdırılmış, odak ana karakterde ve arka planda hafif bokeh mevcuttur.
+
+Doku ve Stil:
+Fotogerçekçi, aydınlık bir yaşam tarzı fotoğrafı. Minik çiçek deseni, beyaz dantel, çiçek yaprakları, uzun tüylü halı, ahşap ve sabah ışığı temiz bir his uyandıran renklerle aktarılır.
+
+Negatif:
+Lense uzatılan kolu ve ön plandaki tek çiçeği çıkarmayın
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -2041,6 +2063,32 @@ Sakin, şiirsel, zarif, minimal, masum, sanatsal, düşünceli, birinci sınıf 
 <a name="category-other"></a>
 
 ## Diğer
+
+<a name="prompt-2099141066784215478"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Orijinal gönderi](https://x.com/DeepBlueX0/status/2099141066784215478)
+
+Diğer · Yayımlandı
+
+Orijinal gönderi：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Orijinal gönderi](https://x.com/DeepBlueX0/status/2099065219259761109)
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2099141066784215478-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2099141066784215478-2.jpg" alt="Görsel 2" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2098980048703467897"></a>
 

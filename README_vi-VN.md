@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**97** Prompt · Bổ sung mới nhất: **2026-09-13**
+**98** Prompt · Bổ sung mới nhất: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -396,20 +396,42 @@ Nhiếp ảnh · Phong cảnh / Thiên nhiên · Đã xuất bản
 
 <a name="prompt-2099123682249732440"></a>
 
-### Đang dịch
+### Prompt ảnh chụp đời thường buổi sáng chân thực về một phụ nữ ngồi trên thảm trắng phòng khách, đưa bông hoa trắng về phía máy ảnh.
 
 Tác giả：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Bài gốc](https://x.com/CyberTotal2026/status/2099123682249732440)
 
 Nhiếp ảnh · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Prompt ảnh chụp đời thường buổi sáng chân thực về một phụ nữ ngồi trên thảm trắng phòng khách, đưa bông hoa trắng về phía máy ảnh.
 
 <img src="images/2099123682249732440-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Chủ đề:
+Bông hoa trắng đưa ra phía trước
+
+Chủ thể:
+Bức ảnh chụp dọc một phụ nữ trưởng thành ngồi gập gối trên tấm thảm trắng trong phòng khách tràn ngập ánh nắng, đưa một bông hoa trắng về phía ống kính. Nhân vật được bố trí lấy tâm khung hình làm chuẩn.
+
+Nhân vật · Biểu cảm:
+Tóc uốn gợn sóng màu nâu nhạt dài quá vai cùng mái thưa. Khuôn mặt trái xoan, đôi mắt nâu tròn, lông mày thanh mảnh, mũi nhỏ nhắn, đôi môi màu san hô bóng mướt. Hé môi mỉm cười nhẹ nhàng với máy ảnh. Hướng thẳng mặt vào ống kính phía trước.
+
+Trang phục · Tư thế:
+Váy ngủ mini hai dây quai mảnh màu trắng in họa tiết hoa nhí đỏ. Ren trắng ở phần viền ngực và gấu váy ngắn. Ngồi gập một chân sang bên, tay trái đặt trên thảm, cánh tay phải duỗi thẳng về phía ống kính cầm một bông hoa trắng. Váy ngắn mini hoa nhí.
+
+Bối cảnh · Ánh sáng:
+Bàn trà thấp bằng gỗ phủ khăn trải bàn ren, bánh mì, bình hoa, chồng sách về hoa, cửa sổ lớn và ban công ngập tràn cây xanh. Nắng sớm chiếu bóng lưới caro lên tấm thảm trắng. Nguồn sáng chính trong hậu cảnh là ánh sáng dịu nhẹ đến từ phía cửa sổ.
+
+Bố cục · Máy ảnh:
+Bố cục dọc tỷ lệ 3:4, góc máy chính diện hơi cao chụp gần toàn thân. Bông hoa trắng cận cảnh ở tiền cảnh có kích thước lớn, khuôn mặt ở trung tâm, đôi chân gập và sách đặt ở phía dưới. Lấy nét vào khuôn mặt và bông hoa, hậu cảnh mờ nhòe dịu nhẹ. Khung hình chụp nhân vật tương đối lớn, lấy nét vào chủ thể chính, hậu cảnh có hiệu ứng bokeh nhẹ.
+
+Chất cảm · Phong cách:
+Ảnh chụp đời thường sáng sủa, chân thực như ảnh chụp thực tế. Thể hiện họa tiết hoa nhí, ren trắng, cánh hoa, thảm lông dài, chất gỗ và ánh nắng mai bằng màu sắc tươi tắn, thanh sạch.
+
+Phủ định:
+Không bỏ sót cánh tay vươn về phía ống kính và bông hoa đơn lẻ ở tiền cảnh
 ```
 
 [↑ Về danh mục](#catalog)
@@ -2063,6 +2085,32 @@ Tạo MỘT áp phích biên tập cao cấp độc lập cho MỖI bức ảnh 
 <a name="category-other"></a>
 
 ## Khác
+
+<a name="prompt-2099141066784215478"></a>
+
+### Đang dịch
+
+Tác giả：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Bài gốc](https://x.com/DeepBlueX0/status/2099141066784215478)
+
+Khác · Đã xuất bản
+
+Bài gốc：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Bài gốc](https://x.com/DeepBlueX0/status/2099065219259761109)
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2099141066784215478-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2099141066784215478-2.jpg" alt="Hình ảnh 2" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2098980048703467897"></a>
 

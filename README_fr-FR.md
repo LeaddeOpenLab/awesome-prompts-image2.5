@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**97** Prompts · Dernier ajout: **2026-09-13**
+**98** Prompts · Dernier ajout: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -391,20 +391,42 @@ Photo d'une clairière dans les bois avec un feuillage vert abondant, très dét
 
 <a name="prompt-2099123682249732440"></a>
 
-### Traduction en cours
+### Prompt pour une photo de vie quotidienne matinale et réaliste d'une femme assise sur un tapis blanc dans un salon, tendant une fleur blanche vers l'appareil photo.
 
 Auteur：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publication originale](https://x.com/CyberTotal2026/status/2099123682249732440)
 
 Photographie · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt pour une photo de vie quotidienne matinale et réaliste d'une femme assise sur un tapis blanc dans un salon, tendant une fleur blanche vers l'appareil photo.
 
 <img src="images/2099123682249732440-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Thème :
+Fleur blanche tendue en avant
+
+Sujet :
+Photo verticale d'une femme adulte assise les genoux repliés sur un tapis blanc dans un salon baigné de soleil, tendant une unique fleur blanche vers l'objectif. Le personnage est positionné par rapport au centre de l'image.
+
+Personnage et expression :
+Cheveux ondulés châtain clair descendant sous les épaules avec une frange légère. Visage ovale, yeux bruns ronds, sourcils fins, petit nez, lèvres corail brillantes. Bouche légèrement entrouverte souriant à l'appareil photo. Visage orienté de face vers l'objectif.
+
+Tenue et pose :
+Nuisette courte à fines bretelles blanche ornée de petits motifs floraux rouges. Dentelle blanche au niveau du décolleté et sur l'ourlet court. Assise avec une jambe repliée sur le côté, la main gauche sur le tapis, le bras droit tendu tout droit vers l'objectif tenant une fleur blanche. Robe courte à petits motifs floraux.
+
+Arrière-plan et lumière :
+Table basse en bois avec nappe en dentelle, pain, vase, livres de fleurs empilés, grande baie vitrée et terrasse verdoyante. Le soleil du matin projette une ombre quadrillée sur le tapis blanc. La lumière principale à l'arrière-plan de l'image est une douce lumière provenant de la fenêtre.
+
+Composition et appareil photo :
+Composition verticale 3:4, appareil photo légèrement en plongée de face cadrant presque tout le corps. La fleur blanche au premier plan est agrandie, le visage au centre, les jambes repliées et les livres disposés en bas. Mise au point sur le visage et la fleur, arrière-plan flouté en douceur. Personnage cadré largement, netteté sur le sujet principal et léger effet bokeh en arrière-plan.
+
+Texture et style :
+Photo de vie quotidienne lumineuse et photoréaliste. Petits motifs floraux, dentelle blanche, pétales, tapis à poils longs, bois et lumière matinale restitués avec des teintes fraîches et nettes.
+
+Négatif :
+Ne pas omettre le bras tendu vers l'objectif ni la fleur unique au premier plan
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -2056,6 +2078,32 @@ Calme, poétique, raffiné, minimaliste, innocent, artistique, réfléchi, haut 
 <a name="category-other"></a>
 
 ## Autres
+
+<a name="prompt-2099141066784215478"></a>
+
+### Traduction en cours
+
+Auteur：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publication originale](https://x.com/DeepBlueX0/status/2099141066784215478)
+
+Autres · Publié
+
+Publication originale：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publication originale](https://x.com/DeepBlueX0/status/2099065219259761109)
+
+**Résumé:** Traduction en cours
+
+<img src="images/2099141066784215478-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2099141066784215478-2.jpg" alt="Image 2" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2098980048703467897"></a>
 

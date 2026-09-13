@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**97** Prompts · Última incorporación: **2026-09-13**
+**98** Prompts · Última incorporación: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -391,20 +391,42 @@ Foto de un claro en el bosque con mucho follaje verde, muy detallada
 
 <a name="prompt-2099123682249732440"></a>
 
-### Traducción en curso
+### Prompt de fotografía fotorrealista de estilo de vida matutino de una mujer sentada en una alfombra blanca en la sala ofreciendo una flor blanca a la cámara.
 
 Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicación original](https://x.com/CyberTotal2026/status/2099123682249732440)
 
 Fotografía · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de fotografía fotorrealista de estilo de vida matutino de una mujer sentada en una alfombra blanca en la sala ofreciendo una flor blanca a la cámara.
 
 <img src="images/2099123682249732440-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Tema:
+Flor blanca extendida hacia el frente
+
+Sujeto:
+Fotografía vertical de una mujer adulta sentada de rodillas dobladas sobre una alfombra blanca en una sala llena de luz solar, extendiendo una sola flor blanca hacia el lente. La persona se ubica con base en el centro del encuadre.
+
+Persona y expresión:
+Cabello ondulado castaño claro por debajo de los hombros con flequillo fino. Rostro ovalado, ojos castaños redondos, cejas delgadas, nariz pequeña y labios lustrosos de color coral. Sonríe a la cámara con la boca ligeramente entreabierta. Con el rostro dirigido hacia la cámara de frente.
+
+Vestimenta y pose:
+Minivestido lencero de tirantes finos blanco con estampado de florecitas rojas. Encaje blanco en el escote y en el dobladillo corto. Sentada con una pierna doblada de lado, la mano izquierda apoyada en la alfombra y el brazo derecho extendido directamente hacia el lente sosteniendo una flor blanca. Minivestido de florecitas.
+
+Fondo e iluminación:
+Mesa baja de madera con mantel de encaje, pan, florero, libros apilados sobre flores, ventanal grande y terraza con vegetación. La luz de la mañana proyecta una sombra cuadriculada sobre la alfombra blanca. La luz principal del fondo del encuadre es una luz suave que proviene de la ventana.
+
+Composición y cámara:
+Composición vertical 3:4, cámara frontal ligeramente en plano picado capturando casi el cuerpo entero. La flor blanca en primer plano grande, el rostro al centro, y las piernas dobladas y los libros colocados abajo. Enfoque en el rostro y la flor, fondo desenfocado suavemente. Encuadre amplio de la persona, enfoque en la protagonista y fondo con ligero desenfoque.
+
+Textura y estilo:
+Fotografía de estilo de vida luminosa y fotorrealista. Florecitas estampadas, encaje blanco, pétalos, alfombra de pelo largo, madera y luz matutina retratados con tonos limpios.
+
+Negativo:
+No omitir el brazo extendido hacia el lente ni la flor única en primer plano
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -2056,6 +2078,32 @@ Tranquilo, poético, refinado, minimalista, inocente, artístico, reflexivo, pr�
 <a name="category-other"></a>
 
 ## Otros
+
+<a name="prompt-2099141066784215478"></a>
+
+### Traducción en curso
+
+Autor：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicación original](https://x.com/DeepBlueX0/status/2099141066784215478)
+
+Otros · Publicado
+
+Publicación original：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicación original](https://x.com/DeepBlueX0/status/2099065219259761109)
+
+**Resumen:** Traducción en curso
+
+<img src="images/2099141066784215478-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2099141066784215478-2.jpg" alt="Imagen 2" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2098980048703467897"></a>
 

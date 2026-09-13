@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**97** Prompts · Latest addition: **2026-09-13**
+**98** Prompts · Latest addition: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -2172,6 +2172,32 @@ Create ONE independent high-end editorial poster for EACH uploaded photo. Never 
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2099141066784215478"></a>
+
+### Chinese dreamlike courtyard and modern empty swimming pool, CCD soft focus texture
+
+Author：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Source](https://x.com/DeepBlueX0/status/2099141066784215478)
+
+Other · Published
+
+Source：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Source](https://x.com/DeepBlueX0/status/2099065219259761109)
+
+**Summary:** Chinese dreamlike courtyard and modern empty swimming pool, CCD soft focus texture
+
+<img src="images/2099141066784215478-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2099141066784215478-2.jpg" alt="Image 2" width="480" />
+
+**Prompt**
+
+```text
+Chinese dreamlike aesthetic × CCD direct flash soft focus × empty swimming pool
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098980048703467897"></a>
 
