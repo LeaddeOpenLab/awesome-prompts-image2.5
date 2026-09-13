@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**96** Prompts · Latest addition: **2026-09-13**
+**97** Prompts · Latest addition: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -438,6 +438,50 @@ Photography · Landscape / Nature · Published
 
 ```text
 Photo of a clearing in the woods with lots of green foliage, highly detailed
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2099123682249732440"></a>
+
+### A realistic morning lifestyle photo prompt of a woman sitting on a white rug in a living room, holding out a white flower toward the camera.
+
+Author：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Source](https://x.com/CyberTotal2026/status/2099123682249732440)
+
+Photography · Character · Published
+
+**Summary:** A realistic morning lifestyle photo prompt of a woman sitting on a white rug in a living room, holding out a white flower toward the camera.
+
+<img src="images/2099123682249732440-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Subject:
+A White Flower Held Out
+
+Main Subject:
+A vertical photograph of an adult woman sitting with her knees bent on a white rug in a sun-drenched living room, holding out a single white flower toward the lens. The subject is positioned relative to the center of the frame.
+
+Person/Expression:
+Light brown wavy hair falling below the shoulders with wispy bangs. Oval face shape, round brown eyes, slender eyebrows, a petite nose, and glossy coral lips. Smiling slightly at the camera with her mouth gently parted. Facing the camera straight on.
+
+Attire/Pose:
+A spaghetti-strap mini slip dress with a red ditsy floral print on white. White lace along the neckline and short hem. Sitting with one leg bent to the side, her left hand on the rug, and her right arm stretched straight toward the lens holding a white flower. A ditsy floral mini dress.
+
+Background/Lighting:
+A wooden low table with a lace cloth, bread, a vase, a stack of flower books, a large window, and a green terrace. Morning sunlight casts lattice-like shadows onto the white rug. The primary light in the background of the shot is soft light coming from the window side.
+
+Composition/Camera:
+3:4 vertical composition, camera positioned slightly high from the front capturing a near full-body shot. The white flower in the foreground is large, the face is in the center, and the bent legs and books are placed toward the bottom. Focused on the face and flower, with the background softly blurred. The subject is prominently framed, with sharp focus on the focal point and light bokeh in the background.
+
+Texture/Style:
+A photorealistic, bright lifestyle photograph. Capturing the ditsy floral pattern, white lace, flower petals, deep-pile rug, wood, and morning light in clean, fresh tones.
+
+Negative:
+Do not omit the arm extended toward the lens or the single flower in the foreground
 ```
 
 [↑ Back to categories](#catalog)
