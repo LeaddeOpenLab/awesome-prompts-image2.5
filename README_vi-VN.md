@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**100** Prompt · Bổ sung mới nhất: **2026-09-13**
+**101** Prompt · Bổ sung mới nhất: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -2825,6 +2825,28 @@ Nhân vật · Đã xuất bản
 
 ```text
 Sử dụng hình ảnh đính kèm làm tài liệu tham khảo cho phương án chụp ảnh. Giữ nguyên mối quan hệ phơi sáng, hướng ánh sáng, chất liệu vải và nhịp điệu bố cục; thiết kế lại nhân vật và phối màu chủ đề. Nhân vật là người lớn, không sao chép khuôn mặt của người trong ảnh tham khảo. Sau khi tạo xong, hãy đối chiếu kiểm tra với ảnh gốc: Có tự ý thay đổi cách bố trí ánh sáng, làm dày trang phục hoặc chỉnh sửa da mịn màng quá mức hay không?
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2099184782538395709"></a>
+
+### Đang dịch
+
+Tác giả：[@Andy4aicreate](https://x.com/Andy4aicreate) · [Bài gốc](https://x.com/Andy4aicreate/status/2099184782538395709)
+
+Truyện tranh / Bảng phân cảnh · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2099184782538395709.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
 ```
 
 [↑ Về danh mục](#catalog)

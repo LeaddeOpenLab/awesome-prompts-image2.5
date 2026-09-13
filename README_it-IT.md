@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**100** Prompt · Ultima aggiunta: **2026-09-13**
+**101** Prompt · Ultima aggiunta: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -2818,6 +2818,28 @@ Personaggio · Pubblicato
 
 ```text
 Usa l'immagine allegata come riferimento per il set fotografico. Mantieni il rapporto di esposizione, la direzione della luce, la consistenza dei tessuti e il ritmo compositivo; riprogetta il personaggio e la palette di colori tematica. Il personaggio deve essere un adulto, senza copiare il viso della persona di riferimento. Dopo la generazione, confrontala con l'immagine originale per verificare: l'illuminazione è stata modificata arbitrariamente, gli abiti sono stati appesantiti o la pelle è stata ritoccata risultando eccessivamente liscia?
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2099184782538395709"></a>
+
+### Traduzione in corso
+
+Autore：[@Andy4aicreate](https://x.com/Andy4aicreate) · [Post originale](https://x.com/Andy4aicreate/status/2099184782538395709)
+
+Fumetto / Storyboard · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2099184782538395709.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)

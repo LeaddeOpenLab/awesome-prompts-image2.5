@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**100** Prompt · Son eklenen: **2026-09-13**
+**101** Prompt · Son eklenen: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -2803,6 +2803,28 @@ Karakter · Yayımlandı
 
 ```text
 Ekli görseli fotoğraf konsepti referansı olarak kullanın. Pozlama ilişkisini, ışık yönünü, kumaş dokusunu ve kompozisyon ritmini koruyun; karakteri ve tematik renk paletini yeniden tasarlayın. Karakter bir yetişkin olmalı, referanstaki kişinin yüzü kopyalanmamalıdır. Üretimden sonra orijinal görselle karşılaştırarak kontrol edin: Işıklandırma izinsiz olarak değiştirildi mi, giysiler kalınlaştırıldı mı veya cilt aşırı derecede pürüzsüzleştirildi mi?
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2099184782538395709"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@Andy4aicreate](https://x.com/Andy4aicreate) · [Orijinal gönderi](https://x.com/Andy4aicreate/status/2099184782538395709)
+
+Çizgi Roman / Hikaye Taslağı · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2099184782538395709.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
 ```
 
 [↑ Kategorilere dön](#catalog)

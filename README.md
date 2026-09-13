@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**100** Prompts · Latest addition: **2026-09-13**
+**101** Prompts · Latest addition: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -2965,6 +2965,42 @@ Character · Published
 
 ```text
 Use the attached image as a photography reference. Preserve its exposure balance, lighting direction, fabric textures, and compositional rhythm; redesign the character and the theme's color palette. The character is an adult, do not replicate the face of the reference figure. After generation, check against the original image: Did you arbitrarily alter the lighting setup, thicken the clothing, or make the skin overly airbrushed/smooth?
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2099184782538395709"></a>
+
+### 10-second vertical skincare commercial storyboard video prompt, featuring unboxing, picking up the bottle, hero display, lotion application texture, and a rotating closing shot.
+
+Author：[@Andy4aicreate](https://x.com/Andy4aicreate) · [Source](https://x.com/Andy4aicreate/status/2099184782538395709)
+
+Comic / Storyboard · Published
+
+**Summary:** 10-second vertical skincare commercial storyboard video prompt, featuring unboxing, picking up the bottle, hero display, lotion application texture, and a rotating closing shot.
+
+<img src="covers/2099184782538395709.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create a high-quality photorealistic 10-second vertical 9:16 skincare commercial using the uploaded image as the exact visual reference. Preserve the fictional “澄光 / CHENG GUANG Cocoa Soft Glow” bottle design, label, colors, packaging, and overall composition accurately. Do not copy real-world Vaseline trademarks.
+
+Scene 1 (0–2s): Smooth cinematic camera push-in toward the open gift box. The Cheng Guang Cocoa Soft Glow bottle is beautifully revealed among soft pink wrapping paper and decorative elements. Warm cozy lighting, subtle sparkles.
+
+Scene 2 (2–4s): A woman's hands gently pick up the Cheng Guang bottle from the box. Slow natural hand movement, realistic skin texture, soft warm lighting, premium unboxing feeling.
+
+Scene 3 (4–6s): Hero product shot. The bottle stands upright surrounded by cocoa beans, cocoa butter and fresh green leaves. Camera slowly moves from left to right with elegant cinematic depth of field.
+
+Scene 4 (6–7s): Extreme close-up of a smooth lotion texture being spread gently across skin. Show the creamy, lightweight texture and glossy moisturizing finish in realistic macro detail.
+
+Scene 5 (7–9s): The bottle is held elegantly in one hand and slowly rotated toward the camera. Highlight the Cocoa Butter and Serum-in-Lotion concept with premium beauty-commercial lighting.
+
+Scene 6 (9–10s): Final hero shot of the Cheng Guang Cocoa Soft Glow bottle surrounded by cocoa beans and leaves. Camera slowly pushes in, subtle sparkling effects, luxurious warm background, clean product-focused composition.
+
+Style: photorealistic, premium beauty advertisement, cinematic lighting, realistic hand movements, smooth camera transitions, shallow depth of field, soft bokeh, warm golden tones, 4K, highly detailed, natural motion, no distortion, no extra products, no change to bottle label or branding.
 ```
 
 [↑ Back to categories](#catalog)
