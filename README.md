@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**87** Prompts · Latest addition: **2026-09-13**
+**88** Prompts · Latest addition: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -416,6 +416,50 @@ Photography · Landscape / Nature · Published
 
 ```text
 Photo of a clearing in the woods with lots of green foliage, highly detailed
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2098945760817479956"></a>
+
+### A realistic natural-light portrait photo prompt of a woman in a black satin mini slip looking back on a sunlit bed.
+
+Author：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Source](https://x.com/CyberTotal2026/status/2098945760817479956)
+
+Photography · Character · Published
+
+**Summary:** A realistic natural-light portrait photo prompt of a woman in a black satin mini slip looking back on a sunlit bed.
+
+<img src="images/2098945760817479956-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Subject:
+Black Satin in Morning Light
+
+Main Subject:
+A vertical photograph of an adult woman sitting with her back to the camera on a white bed bathed in morning light, wearing a black satin mini slip dress. The subject is centered in the frame.
+
+Subject and Expression:
+Shoulder-length, loosely waved dark brown hair with thin bangs. A slender oval face, elongated brown eyes, natural eyebrows, a small nose, and glossy pink lips. A calm expression looking at the camera over her shoulder. Her face is turned over her shoulder toward the camera.
+
+Attire and Pose:
+A black glossy satin mini slip with thin spaghetti straps. The back is deeply open nearly to the waist, featuring multiple thin lace-up strings and small bows on both sides. She sits with her legs folded to the side, placing one hand on the bedding. A black mini dress.
+
+Background and Lighting:
+White sheets and pillows, light-colored walls, large windows. Strong morning sunlight creates thin white reflections on the black satin, warmly illuminating her back and hair. The main background light is a soft light entering from the window.
+
+Composition and Camera:
+A 4:5 vertical composition, with the camera positioned obliquely behind from the edge of the bed for an above-the-knee shot. The subject is prominently placed in the center, highlighting the open back and the side lace-up ties. Focus is on the turned face and the satin. Framing the subject prominently with focus on the main elements, and a soft background blur.
+
+Texture and Style:
+A photorealistic natural light photograph. Sharply capturing the specular gloss of the black satin, the thin lace-up strings, the white bedding, and the morning light on the hair and skin.
+
+Negative:
+Do not omit the deeply open back and the lace-up strings on both sides
 ```
 
 [↑ Back to categories](#catalog)
