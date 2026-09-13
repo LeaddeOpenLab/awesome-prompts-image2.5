@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**91** Prompt · Son eklenen: **2026-09-13**
+**92** Prompt · Son eklenen: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -361,6 +361,28 @@ Fotoğrafçılık · Manzara / Doğa · Yayımlandı
 
 ```text
 Ormanda bol yeşil yaprakları olan bir açıklığın fotoğrafı, son derece detaylı
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2098981813771194613"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@ZarnishNael](https://x.com/ZarnishNael) · [Orijinal gönderi](https://x.com/ZarnishNael/status/2098981813771194613)
+
+Fotoğrafçılık · Portre / Selfie · Karakter · Moda Ürünü · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2098981813771194613-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
 ```
 
 [↑ Kategorilere dön](#catalog)

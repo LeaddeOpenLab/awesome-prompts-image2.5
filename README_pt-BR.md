@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**91** Prompts · Última adição: **2026-09-13**
+**92** Prompts · Última adição: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -361,6 +361,28 @@ Fotografia · Paisagem / Natureza · Publicado
 
 ```text
 Foto de uma clareira na floresta com muita folhagem verde, altamente detalhada
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2098981813771194613"></a>
+
+### Tradução em andamento
+
+Autor：[@ZarnishNael](https://x.com/ZarnishNael) · [Publicação original](https://x.com/ZarnishNael/status/2098981813771194613)
+
+Fotografia · Retrato / Selfie · Personagem · Item de Moda · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2098981813771194613-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
 ```
 
 [↑ Voltar às categorias](#catalog)

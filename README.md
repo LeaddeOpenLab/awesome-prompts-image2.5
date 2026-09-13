@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**91** Prompts · Latest addition: **2026-09-13**
+**92** Prompts · Latest addition: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -416,6 +416,28 @@ Photography · Landscape / Nature · Published
 
 ```text
 Photo of a clearing in the woods with lots of green foliage, highly detailed
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2098981813771194613"></a>
+
+### Full-body outdoor fashion portrait of a woman in navy sequin top, flowing sheer kimono, and beige trousers walking in a garden.
+
+Author：[@ZarnishNael](https://x.com/ZarnishNael) · [Source](https://x.com/ZarnishNael/status/2098981813771194613)
+
+Photography · Portrait / Selfie · Character · Fashion Item · Published
+
+**Summary:** Full-body outdoor fashion portrait of a woman in navy sequin top, flowing sheer kimono, and beige trousers walking in a garden.
+
+<img src="images/2098981813771194613-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create an ultra-realistic full-body outdoor fashion portrait of a young woman walking confidently along a peaceful garden pathway. She has shoulder-length voluminous wavy auburn-brown hair, neatly styled with a small delicate butterfly hair accessory, natural realistic skin texture, defined eyebrows, subtle eye makeup, soft blush, and elegant pink lipstick.\nShe is wearing a dark navy-blue sequin sleeveless top with a matching sheer, lightweight long open-front shrug/kimono flowing naturally behind her, paired with high-waisted cream/off-white straight-leg trousers and simple nude heels. A delicate long black beaded necklace completes the look.\nWarm golden-hour sunlight, lush green trees and plants, colorful small flowers, an old rustic brick wall in the background, natural bokeh, soft cinematic depth of field. The sheer outer layer moves gently with her walk, creating a graceful flowing effect.\nPhotography: ultra-realistic DSLR photography, full-body composition, eye-level camera, 50mm lens, natural proportions, realistic fabric textures, detailed hair strands, soft warm lighting, sharp subject with beautifully blurred background, premium fashion editorial aesthetic, photorealistic, high resolution, vertical 9:16.\nNegative prompt: distorted face, extra fingers, extra limbs, deformed hands, unnatural body proportions, plastic skin, oversmoothing, blurry face, duplicate person, warped clothing, artificial-looking background.
 ```
 
 [↑ Back to categories](#catalog)

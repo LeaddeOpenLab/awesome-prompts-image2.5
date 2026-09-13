@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**91** Prompts · Dernier ajout: **2026-09-13**
+**92** Prompts · Dernier ajout: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -361,6 +361,28 @@ Photographie · Paysage / Nature · Publié
 
 ```text
 Photo d'une clairière dans les bois avec un feuillage vert abondant, très détaillée
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2098981813771194613"></a>
+
+### Traduction en cours
+
+Auteur：[@ZarnishNael](https://x.com/ZarnishNael) · [Publication originale](https://x.com/ZarnishNael/status/2098981813771194613)
+
+Photographie · Portrait / Selfie · Personnage · Article de mode · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2098981813771194613-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
 ```
 
 [↑ Retour aux catégories](#catalog)
