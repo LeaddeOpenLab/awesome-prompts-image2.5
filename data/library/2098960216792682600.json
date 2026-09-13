@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-13T05:14:13.413Z",
+  "model": "image2.5",
+  "prompt": "腰上からヒップを覆う巨大なボックスシルエットのグレー半袖チュニック。厚みのある半透明オーガンジー、荒いメッシュ、薄い樹脂膜を重ねたような特殊素材で、肩から袖口まで大きく横へ張り出したワイドスリーブ。首元には小さな黒いシャツカラーと黒いリボンタイ。チュニック全面には太い黒のコードがランダムな一筆書きのようにうねる抽象刺繍として縫い付けられ、交差部分や縁に小さな朱赤〜珊瑚色の蝶、結び目、花弁状のアップリケが散る。袖口内側は黒。布には現実的な折れ、たわみ、縫い代、糸の浮き、微細な透過。黒いニーハイソックス。赤いミュール。右後頭部には巨大なマットブラックの蝶結び型シニヨン。左右の耳からは細長い赤黒ビーズのチェーンイヤリングが胸元近くまで垂れる。",
+  "promptTranslations": {
+    "en": "A gray short-sleeved tunic with an enormous boxy silhouette that covers from above the waist down to the hips. It is made of a special material that looks like layers of thick translucent organza, coarse mesh, and a thin resin film, featuring wide sleeves that project broadly sideways from the shoulders to the cuffs. At the neckline is a small black shirt collar and a black ribbon tie. Thick black cords are sewn across the entire tunic as abstract embroidery, meandering like a continuous, random one-stroke line, with small vermilion to coral-colored butterflies, knots, and petal-shaped appliqués scattered at intersections and edges. The insides of the cuffs are black. The fabric features realistic creases, folds, seam allowances, raised threads, and subtle translucency. Black knee-high socks. Red mules. On the back right of the head is an enormous matte-black bow-shaped chignon. Long, slender chain earrings of red and black beads hang down from both ears to near the chest."
+  },
+  "summaryTranslations": {
+    "en": "Mandala Gothic style costume design prompt detailing a translucent tunic and accessories."
+  },
+  "translationVersion": 2,
+  "summary": "曼荼羅ゴシックスタイルの半透明チュニックとアクセサリーを詳細に指定した衣装デザインPrompt。",
+  "summaryEn": "Detailed fashion design prompt featuring a translucent gothic tunic with butterfly appliqués and accessories.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098960216792682600",
+    "canonicalUrl": "https://x.com/AI_GIRL_DESIGN/status/2098960216792682600",
+    "author": {
+      "username": "AI_GIRL_DESIGN",
+      "displayName": "AI Girl's Photo Studio",
+      "profileUrl": "https://x.com/AI_GIRL_DESIGN"
+    },
+    "publishedAt": "2026-09-13T02:21:27.000Z",
+    "collectedAt": "2026-09-13T05:12:35.790Z",
+    "language": "ja",
+    "originalText": "曼荼羅ゴシック\n1枚目：GrokImagine2.0\n2枚目：GPTImage2.5\n透け感をフルに生かすとGPTもGrokも更によいです😌\n品質系PromptをGrok寄りにしてしまっているので比較フェアではないですが、衣装デザインは同等です。\n\n◆衣装Prompt\n腰上からヒップを覆う巨大なボックスシルエットのグレー半袖チュニック。厚みのある半透明オーガンジー、荒いメッシュ、薄い樹脂膜を重ねたような特殊素材で、肩から袖口まで大きく横へ張り出したワイドスリーブ。首元には小さな黒いシャツカラーと黒いリボンタイ。チュニック全面には太い黒のコードがランダムな一筆書きのようにうねる抽象刺繍として縫い付けられ、交差部分や縁に小さな朱赤〜珊瑚色の蝶、結び目、花弁状のアップリケが散る。袖口内側は黒。布には現実的な折れ、たわみ、縫い代、糸の浮き、微細な透過。黒いニーハイソックス。赤いミュール。右後頭部には巨大なマットブラックの蝶結び型シニヨン。左右の耳からは細長い赤黒ビーズのチェーンイヤリングが胸元近くまで垂れる。",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSEBHr1aoAAIgxk.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSEBHr1aoAAIgxk.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSD_YSfbIAAfnYl.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSD_YSfbIAAfnYl.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 18,
+      "repostCount": 2,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 847
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/AI_GIRL_DESIGN/status/2098960216792682600",
+  "coverUrl": "https://pbs.twimg.com/media/HSEBHr1aoAAIgxk.jpg",
+  "coverPath": "images/2098960216792682600-1.jpg",
+  "imagePaths": [
+    "images/2098960216792682600-1.jpg",
+    "images/2098960216792682600-2.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSEBHr1aoAAIgxk",
+    "x-image:/media/HSD_YSfbIAAfnYl",
+    "x-post:2098960216792682600"
+  ],
+  "analysis": {
+    "summary": "曼荼羅ゴシックスタイルの半透明チュニックとアクセサリーを詳細に指定した衣装デザインPrompt。",
+    "summaryEn": "Detailed fashion design prompt featuring a translucent gothic tunic with butterfly appliqués and accessories.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Images clearly depict the grey sheer boxy tunic with black cord embroidery, red butterfly appliqués, black collar and tie, black high socks, red mules, and black bow accessory as described."
+    },
+    "videoQuality": null,
+    "originalPrompt": "腰上からヒップを覆う巨大なボックスシルエットのグレー半袖チュニック。厚みのある半透明オーガンジー、荒いメッシュ、薄い樹脂膜を重ねたような特殊素材で、肩から袖口まで大きく横へ張り出したワイドスリーブ。首元には小さな黒いシャツカラーと黒いリボンタイ。チュニック全面には太い黒のコードがランダムな一筆書きのようにうねる抽象刺繍として縫い付けられ、交差部分や縁に小さな朱赤〜珊瑚色の蝶、結び目、花弁状のアップリケが散る。袖口内側は黒。布には現実的な折れ、たわみ、縫い代、糸の浮き、微細な透過。黒いニーハイソックス。赤いミュール。右後頭部には巨大なマットブラックの蝶結び型シニヨン。左右の耳からは細長い赤黒ビーズのチェーンイヤリングが胸元近くまで垂れる。",
+    "sourceRange": {
+      "start": 135,
+      "end": 457
+    },
+    "translations": {
+      "zh": "覆盖从腰部到臀部的超大版型灰色短袖束腰外衣。特殊多层材质融合厚质半透明欧根纱、粗网眼与轻薄树脂膜，宽大袖口横向夸张展开。黑色衬衫小领与黑缎带领结。衣身缝有黑色线条抽象刺绣，交汇处与边缘点缀朱红至珊瑚色蝴蝶、结饰与花瓣贴片。黑色过膝袜、红色穆勒鞋、右脑后哑光黑巨大蝴蝶结发饰、长至胸前的红黑珠链耳坠。",
+      "en": "Oversized boxy grey short-sleeved tunic covering waist to hips, made of layered translucent organza, coarse mesh, and thin resin film with wide sleeves. Black mini shirt collar and ribbon tie. Abstract thick black cord embroidery with vermilion-to-coral butterfly, knot, and petal appliqués. Black over-the-knee socks, red mules, oversized matte black bow chignon on the back right, and long red-black beaded chain earrings."
+    },
+    "targetModels": [
+      "image2.5"
+    ],
+    "category": "text-to-image",
+    "useCase": "fashion design prompt for gothic aesthetic portrait",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
