@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**86** Prompt · Son eklenen: **2026-09-13**
+**87** Prompt · Son eklenen: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -361,6 +361,34 @@ Fotoğrafçılık · Manzara / Doğa · Yayımlandı
 
 ```text
 Ormanda bol yeşil yaprakları olan bir açıklığın fotoğrafı, son derece detaylı
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2098925376554811573"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@splash\_GL](https://x.com/splash_GL) · [Orijinal gönderi](https://x.com/splash_GL/status/2098925376554811573)
+
+Fotoğrafçılık · Hayvan / Yaratık · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2098925376554811573-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2098925376554811573-2.jpg" alt="Görsel 2" width="480" />
+
+<img src="images/2098925376554811573-3.jpg" alt="Görsel 3" width="480" />
+
+<img src="images/2098925376554811573-4.jpg" alt="Görsel 4" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
 ```
 
 [↑ Kategorilere dön](#catalog)

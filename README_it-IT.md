@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**86** Prompt · Ultima aggiunta: **2026-09-13**
+**87** Prompt · Ultima aggiunta: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -361,6 +361,34 @@ Fotografia · Paesaggio / Natura · Pubblicato
 
 ```text
 Foto di una radura nel bosco con abbondante fogliame verde, altamente dettagliata
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2098925376554811573"></a>
+
+### Traduzione in corso
+
+Autore：[@splash\_GL](https://x.com/splash_GL) · [Post originale](https://x.com/splash_GL/status/2098925376554811573)
+
+Fotografia · Animale / Creatura · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2098925376554811573-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2098925376554811573-2.jpg" alt="Immagine 2" width="480" />
+
+<img src="images/2098925376554811573-3.jpg" alt="Immagine 3" width="480" />
+
+<img src="images/2098925376554811573-4.jpg" alt="Immagine 4" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)

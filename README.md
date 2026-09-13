@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**86** Prompts · Latest addition: **2026-09-13**
+**87** Prompts · Latest addition: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -416,6 +416,76 @@ Photography · Landscape / Nature · Published
 
 ```text
 Photo of a clearing in the woods with lots of green foliage, highly detailed
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2098925376554811573"></a>
+
+### Prompt for a 4-photo realistic candid series of Japanese women cosplaying original animal-themed heroines \(Alligator, Black Panther, Frog, Sumo\) at an American comic convention.
+
+Author：[@splash\_GL](https://x.com/splash_GL) · [Source](https://x.com/splash_GL/status/2098925376554811573)
+
+Photography · Animal / Creature · Published
+
+**Summary:** Prompt for a 4-photo realistic candid series of Japanese women cosplaying original animal-themed heroines \(Alligator, Black Panther, Frog, Sumo\) at an American comic convention.
+
+<img src="images/2098925376554811573-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2098925376554811573-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2098925376554811573-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2098925376554811573-4.jpg" alt="Image 4" width="480" />
+
+**Prompt**
+
+```text
+Create a series of 4 standalone photographic portraits in a 9:16 aspect ratio.
+Generate four completely separate image files, not a collage, contact sheet, split screen, or a single combined canvas. Each image must use the same event venue, the same photographer perspective setting, the same lighting mood, and the same snapshot photography style.
+
+- COMMON LOCK
+{Story}
+At a weekend American-comic-style cosplay convention hall. The protagonist is an amateur photographer who came to shoot attractive cosplayers. While casually wandering through the venue, a series of slightly unpolished, reflexive candid snapshots are captured almost by chance using a neck-slung FUJIFILM X-T50. Each image features a different Japanese woman in her early 20s present at the venue. Each woman is completely immersed in embodying her favorite fictional superhero, striking serious poses and expressions. However, the mixture of the mundane hallway space, the presence of nearby attendees, the impromptu backgrounds, and the amateur photographer's candid unpredictability creates a gap between their superhero mindset and the everyday reality of the convention hall. The subject is not the figures' bodies themselves, but rather the cosplayers' energetic commitment, the humorous and spirited parody ethos born from the juxtaposition between dramatic action poses and the cluttered venue ambiance, the hallway foot traffic, the human presence, and the accidental framing. The four-image progression follows a classic narrative arc: Introduction (First encounter), Development (Finding the next subject down the hall), Twist (Encountering an even more impactful persona), and Conclusion (A final, memorable lingering impression).
+
+{Character Portrayals}:
+The subject in each image is a distinctly different, clearly adult Japanese woman in her early 20s. All possess healthy, natural, slender adult female physiques, with bell-shaped, voluminous natural busts that naturally droop with gravity. They carry an upbeat, self-motivated excitement typical of event attendees. Their facial features possess the natural individuality of real Japanese women, with subtle differences in eye shapes, profiles, jawlines, makeup intensity, and hairstyles. Each displays intense enthusiasm for "becoming their beloved hero," visible in their gaze, mouth tension, engaged shoulders, and hand positioning. The costumes are alluring and daring superhero outfits, yet maintained within the reasonable boundaries of fan-made convention costumes rather than explicit displays. They must not directly replicate actual famous characters, but instead be designed as original fictional heroines inspired by animal motifs.
+
+{Attire}:
+Each image features a different fictional American-comic-style heroine costume with a deep neckline, tailored specifically to each subject. Materials tastefully blend faux leather, stretch fabrics, mesh, and matte decorative components. Each costume possesses a realistic level of craftsmanship indicative of fan-made or convention-prepared cosplay, with theme colors, headpieces, gloves, boots, and accents like tails, ears, or capes designed along the heroine's animal motif. Costumes are bold yet structurally sound, developing natural wrinkles and tension according to movement, stance, and pose. Even where revealing, exposure stays within standard convention norms, showing no underwear or improper exposure. No brand logos, franchise logos, chest emblem text, or symbols are permitted.
+
+{Location}:
+A weekend cosplay event held inside a large commercial facility or convention exhibition hall. Broad hallways, temporary booths, partitions, makeshift photo backdrops, queue stanchions, transitions in floor materials, resting benches along the walls, and distant glimpses of attendees and other photographers are partially visible. Background elements strictly follow the venue's logistical flow, positioned where subjects would genuinely pause to pose: along walkways, beside booths, along walls, around corners, or near rest zones. The clutter remains strictly authentic to an event space, avoiding meaningless random scatter. Any posters or directional signage present must feature unreadable, illegible text.
+
+{Lighting and Cinematography}:
+Faces, expressions, skin, and hair are not overly beautified; they retain the natural asymmetry and distinctive individuality of real Japanese women, carefully rendering skin pores, mild shine, makeup textures, bangs, and flyaway hair strands. Venue lighting relies mainly on ceiling-mounted white LEDs and commercial ambient light, creating mild brightness variations across the room. Areas closer to the subject are slightly brighter, while the hall depths and wall perimeters fall into soft shadows. The frame avoids overly uniform lighting, capturing the mixed-temperature venue illumination and natural shadows. The photographer is an amateur attendee who reflexively raises a neck-worn FUJIFILM X-T50 while walking, snapping before fully framing the shot. Allow slightly delayed framing, subtle camera tilt, informal cropping, and accidental foreground obstructions or background passersby.
+FUJIFILM REALA ACE-inspired rendering, soft natural skin tones.
+
+{Consistency}:
+All four images maintain the identical convention atmosphere, amateur photographer viewpoint, spontaneous FUJIFILM X-T50 snapshot aesthetic, and humorous, energetic spirit of an American comic convention. While subjects and outfits vary, each maintains natural adult female anatomical integrity, with seamless continuity in limbs, faces, attire, and backgrounds. Avoid direct replication of copyrighted franchise costumes or logos; unify the set under an original parody spirit of animal-motif heroines. Do not include text, logos, watermarks, or UI overlays.
+
+image_1 [Introduction]:
+A Japanese woman in her early 20s who is a passionate fan of "Alligator Girl." Standing near a hallway partition, she wears an assertive alligator-themed heroine costume predominantly in green and dark olive. It includes a short cropped top, textured scale-like panels, a tail-like rear accent, a headpiece featuring a stylized mini-alligator head, elbow-length gloves, and knee-high boots. With a stern, focused expression, she turns three-quarters, thrusting one arm forward while slightly flexing the other in an explosive "ready to pounce" hero stance. Her face turns toward the camera, but her piercing gaze looks slightly past it. The photographer noticed her on the move and quickly hit the shutter, slightly catching a passerby's shoulder and a blurred piece of camera gear at the frame's edge. Medium full shot, chest-to-eye level, candid slightly angled perspective.
+
+image_2 [Development]:
+A Japanese woman in her early 20s who is a passionate fan of "Black Panther Woman." In an open area just past a corridor corner, she wears a fictional feline heroine outfit styled in black and deep purple. Over a form-fitting matte bodysuit-style base, she features light armor-style plates on her shoulders and forearms, a cat-ear headpiece, a flexible tail-like accent, and fitted long boots. Dropping her center of gravity low with one leg extended forward, she poses with splayed fingers in a dedicated "stalking predator" prowl. Her expression is utterly serious—cool and dedicated to the heroine persona—with a firm mouth and a gaze cutting sharply just above the lens. In the background, other attendees waiting near a wall appear softly blurred, adding venue authenticity. Full shot, waist-height camera angle tilted slightly upward from a hasty stance.
+
+image_3 [Twist]:
+A Japanese woman in her early 20s who is a passionate fan of "Frog Woman." In an open corridor near a rest bench, she wears an amphibian-themed fictional heroine costume in vibrant lime green and black. It features a sleek bodysuit with a glossy short cape, a headpiece evoking rounded frog eyes, long boots accentuating her legs, and webbed cuff details along her wrists and forearms. Crouching deep into a wide squat, she extends one hand toward the floor and the other diagonally upward, faithfully striking an exaggerated "ready to leap" power pose. Facing the camera almost straight-on with wide eyes and a set jaw, the contrast between her theatrical intensity and the mundane venue hallway is wonderfully humorous. Snapped hastily while stopping mid-stride, the camera has a slight candid tilt, with background benches and resting participants appearing softly cluttered in blur. Medium full shot, low camera angle from knee-to-waist height.
+
+image_4 [Conclusion]:
+A Japanese woman in her early 20s who is a passionate fan of "Nippon Rikishi Girl." Wearing a completely original Japanese-style comic superhero costume in red, white, and black, she reimagines sumo design elements—kesho-mawashi apron, loincloth motifs, braided tassels, gauntlets, and boots—into an opaque, convention-safe event hero suit. Emulating an exaggerated ring-entering ritual (dohyo-iri), she stands in a deep wide squat, raising one arm forward and thrusting the other skyward in a signature finishing pose. Standing in a large exhibition hall walkway, her face points diagonally upward as if glaring at a distant nemesis, her brow furrowed in intense seriousness. Right behind her, another attendee waiting for a turn stands casually holding a beverage, accentuating the gap between her grand hero performance and reality.
+Full shot. The photographer reflexively pointed the FUJIFILM X-T50 right before walking past, capturing a sliver of a booth support pillar on the right edge, shifting the subject slightly off-center to the left. Natural chest-level eye line, candid slightly oblique front angle.
+
+Output 4 separate image files. Do not combine them into a single page.
+Ensure variations (deltas) for each image are independent so each stands alone as complete instructions. If the model processes prompts individually, avoid phrases like "same as above except..." and instead place the unchanging "COMMON LOCK" settings at the start of each individual prompt.
+
+{Output Constraints}:
+Maintain consistency in hands, ears, joints, clothing, background continuity, light sources, shadows, color temperature, venue depth, and the subjects' adult maturity. Prioritize humor, energy, and the authentic, slightly cluttered festive convention atmosphere over vulgarity, avoiding explicit sexualization, excessive post-processing, CG aesthetics, and typical AI gloss. Realize each cosplay as an original animal-themed heroine, strictly omitting official designs, franchise logos, or readable text. Eliminate distortions, blur artifacts, melting, extra limbs, and excessive background clutter, prioritizing the naturalism of a real candid snapshot. Do not include text, logos, watermarks, or UI elements.
+
+Negative prompt: collage, grid, 2x2 grid, split screen, four panel, contact sheet, multi-panel, layout, comic panel, one canvas, combined image, readable text, logo, watermark, UI, extra limbs, extra fingers, fused fingers, distorted anatomy, broken hands, deformed costume, hyper-polished studio look, official superhero logo, exact copyrighted costume.
 ```
 
 [↑ Back to categories](#catalog)

@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**86** Prompts · Dernier ajout: **2026-09-13**
+**87** Prompts · Dernier ajout: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -361,6 +361,34 @@ Photographie · Paysage / Nature · Publié
 
 ```text
 Photo d'une clairière dans les bois avec un feuillage vert abondant, très détaillée
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2098925376554811573"></a>
+
+### Traduction en cours
+
+Auteur：[@splash\_GL](https://x.com/splash_GL) · [Publication originale](https://x.com/splash_GL/status/2098925376554811573)
+
+Photographie · Animal / Créature · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2098925376554811573-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2098925376554811573-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2098925376554811573-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2098925376554811573-4.jpg" alt="Image 4" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
 ```
 
 [↑ Retour aux catégories](#catalog)

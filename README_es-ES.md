@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**86** Prompts · Última incorporación: **2026-09-13**
+**87** Prompts · Última incorporación: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -366,6 +366,34 @@ Fotografía · Paisaje / Naturaleza · Publicado
 
 ```text
 Foto de un claro en el bosque con abundante follaje verde, altamente detallada
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2098925376554811573"></a>
+
+### Traducción en curso
+
+Autor：[@splash\_GL](https://x.com/splash_GL) · [Publicación original](https://x.com/splash_GL/status/2098925376554811573)
+
+Fotografía · Animal / Criatura · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2098925376554811573-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2098925376554811573-2.jpg" alt="Imagen 2" width="480" />
+
+<img src="images/2098925376554811573-3.jpg" alt="Imagen 3" width="480" />
+
+<img src="images/2098925376554811573-4.jpg" alt="Imagen 4" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
 ```
 
 [↑ Volver a categorías](#catalog)
