@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**95** Prompts · Latest addition: **2026-09-13**
+**96** Prompts · Latest addition: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -438,6 +438,50 @@ Photography · Landscape / Nature · Published
 
 ```text
 Photo of a clearing in the woods with lots of green foliage, highly detailed
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2099093734906613857"></a>
+
+### Fantasy photography prompt depicting a woman in a bikini bathed in a beam of light from a giant unidentified flying object \(UFO\) on a rural road at dusk.
+
+Author：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Source](https://x.com/CyberTotal2026/status/2099093734906613857)
+
+Photography · Character · Published
+
+**Summary:** Fantasy photography prompt depicting a woman in a bikini bathed in a beam of light from a giant unidentified flying object \(UFO\) on a rural road at dusk.
+
+<img src="images/2099093734906613857-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Subject:
+White beam of light in an evening sky
+
+Main subject:
+A vertical fantasy photograph taken from behind of an adult woman bathed in a white beam of light from a giant disc-shaped flying object on a country road at dusk. The figure is positioned centered in the frame.
+
+Person & Expression:
+Waist-length light brown wavy hair and thin bangs. Slender oval face contour, horizontally wide brown eyes, natural eyebrows, petite nose, glossy pink lips. One hand resting atop her head, looking at the camera over her shoulder. Turning her face over her shoulder toward the camera. Calm expression.
+
+Attire & Pose:
+White thin-string triangle bikini top, short white lace skirt. Standing in the middle of the road with her back turned, twisting her upper body, bending one arm above her head.
+
+Background & Lighting:
+A narrow road lined with houses and utility poles, distant mountains, a blue-purple evening sky. A giant metallic disc covers the upper half of the frame, with a wide white conical beam of light projecting downward from its center onto the person and the road. The main background light is soft light coming from the left of the frame.
+
+Composition & Camera:
+13:18 vertical composition, camera at a low rear-diagonal angle capturing a knee-up shot. The person is positioned at the lower center, the giant disc completely filling the top edge, with the white beam of light connecting the two. Focus on the turning face and the underside of the disc. The subject is framed prominently in sharp focus, with a gentle bokeh in the background.
+
+Texture & Style:
+Photorealistic cinematic fantasy photography. Depict realistic textures in fine detail for the metallic disc, white volumetric light, evening sky, lace, and backlit hair.
+
+Negative:
+Do not omit the giant disc in the sky and the conical light beam falling upon the person
 ```
 
 [↑ Back to categories](#catalog)

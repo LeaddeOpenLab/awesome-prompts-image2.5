@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**95** Prompt · Bổ sung mới nhất: **2026-09-13**
+**96** Prompt · Bổ sung mới nhất: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -35,20 +35,20 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 
 <a name="prompt-2099106601538097211"></a>
 
-### Đang dịch
+### Ảnh chụp lén chân thực góc nhìn từ người ngồi trên tàu điện về cô gái trẻ Nhật Bản nắm tay cầm và mặc áo hai dây cổ V sâu.
 
 Tác giả：[@SGRationalnvest](https://x.com/SGRationalnvest) · [Bài gốc](https://x.com/SGRationalnvest/status/2099106601538097211)
 
 Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Phương tiện · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Ảnh chụp lén chân thực góc nhìn từ người ngồi trên tàu điện về cô gái trẻ Nhật Bản nắm tay cầm và mặc áo hai dây cổ V sâu.
 
 <img src="images/2099106601538097211-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+24 tuổi, phụ nữ Nhật Bản, trên tàu điện, chính diện, người nghiêng về phía trước, nắm lấy tay cầm phía trên cao, để lộ nách, áo hai dây cổ chữ V sâu, ánh mắt nhìn thẳng phía trước, biểu cảm nhìn xuống, góc nhìn từ người đang ngồi, ảnh chụp bằng điện thoại, kết cấu chân thực, chụp dọc
 ```
 
 [↑ Về danh mục](#catalog)
@@ -388,6 +388,28 @@ Nhiếp ảnh · Phong cảnh / Thiên nhiên · Đã xuất bản
 
 ```text
 Ảnh chụp một bãi đất trống trong rừng với nhiều tán lá xanh tươi, rất chi tiết
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2099093734906613857"></a>
+
+### Đang dịch
+
+Tác giả：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Bài gốc](https://x.com/CyberTotal2026/status/2099093734906613857)
+
+Nhiếp ảnh · Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2099093734906613857-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
 ```
 
 [↑ Về danh mục](#catalog)

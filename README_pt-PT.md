@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**95** Prompts · Adição mais recente: **2026-09-13**
+**96** Prompts · Adição mais recente: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -35,20 +35,20 @@ Adicione uma estrela a este repositório para acompanhar a nossa seleção diár
 
 <a name="prompt-2099106601538097211"></a>
 
-### Tradução em curso
+### Instantâneo realista da perspetiva de uma pessoa sentada no comboio de uma jovem japonesa a segurar uma pega suspensa e a vestir um top de alças com decote em V profundo.
 
 Autor：[@SGRationalnvest](https://x.com/SGRationalnvest) · [Publicação original](https://x.com/SGRationalnvest/status/2099106601538097211)
 
 Fotografia · Retrato / Selfie · Personagem · Veículo · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Instantâneo realista da perspetiva de uma pessoa sentada no comboio de uma jovem japonesa a segurar uma pega suspensa e a vestir um top de alças com decote em V profundo.
 
 <img src="images/2099106601538097211-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+24 anos, mulher japonesa, comboio, vista frontal, corpo inclinado para a frente, a segurar uma pega suspensa alta, axila visível, alças com decote em V profundo, olhar em frente, expressão a olhar para baixo, ponto de vista de uma pessoa sentada, fotografia de telemóvel, textura realista, plano vertical
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -383,6 +383,28 @@ Fotografia · Paisagem / Natureza · Publicado
 
 ```text
 Fotografia de uma clareira na floresta com muita folhagem verde, altamente detalhada
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2099093734906613857"></a>
+
+### Tradução em curso
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicação original](https://x.com/CyberTotal2026/status/2099093734906613857)
+
+Fotografia · Personagem · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2099093734906613857-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
 ```
 
 [↑ Voltar às categorias](#catalog)

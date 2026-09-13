@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**95** Prompts · Zuletzt hinzugefügt: **2026-09-13**
+**96** Prompts · Zuletzt hinzugefügt: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -35,20 +35,20 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 
 <a name="prompt-2099106601538097211"></a>
 
-### Übersetzung läuft
+### Realistischer Schnappschuss aus der Sitzperspektive im Zug einer jungen japanischen Frau, die sich an einer Halteschlaufe festhält und ein Trägertop mit tiefem V-Ausschnitt trägt.
 
 Autor：[@SGRationalnvest](https://x.com/SGRationalnvest) · [Originalbeitrag](https://x.com/SGRationalnvest/status/2099106601538097211)
 
 Fotografie · Porträt / Selfie · Charakter · Fahrzeug · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Realistischer Schnappschuss aus der Sitzperspektive im Zug einer jungen japanischen Frau, die sich an einer Halteschlaufe festhält und ein Trägertop mit tiefem V-Ausschnitt trägt.
 
 <img src="images/2099106601538097211-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+24 Jahre alt, japanische Frau, Zug, Frontalansicht, vorgebeugter Körper, greift nach einer hohen Halteschlaufe, sichtbare Achselhöhle, Träger-Top mit tiefem V-Ausschnitt, Blick nach vorne, herabblickender Gesichtsausdruck, Perspektive einer sitzenden Person, Handyfoto, realistische Textur, Hochformat
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -383,6 +383,28 @@ Fotografie · Landschaft / Natur · Veröffentlicht
 
 ```text
 Foto einer Waldlichtung mit viel grünem Blattwerk, sehr detailliert
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2099093734906613857"></a>
+
+### Übersetzung läuft
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Originalbeitrag](https://x.com/CyberTotal2026/status/2099093734906613857)
+
+Fotografie · Charakter · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2099093734906613857-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

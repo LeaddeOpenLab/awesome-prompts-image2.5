@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**95** Prompts · Última incorporación: **2026-09-13**
+**96** Prompts · Última incorporación: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -35,20 +35,20 @@ Dale una estrella a este repositorio para seguir nuestra selección diaria y des
 
 <a name="prompt-2099106601538097211"></a>
 
-### Traducción en curso
+### Instantánea realista desde la perspectiva de alguien sentado en el tren de una joven japonesa sosteniendo un pasamanos y vistiendo un top de tirantes con escote en V profundo.
 
 Autor：[@SGRationalnvest](https://x.com/SGRationalnvest) · [Publicación original](https://x.com/SGRationalnvest/status/2099106601538097211)
 
 Fotografía · Retrato / Selfie · Personaje · Vehículo · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Instantánea realista desde la perspectiva de alguien sentado en el tren de una joven japonesa sosteniendo un pasamanos y vistiendo un top de tirantes con escote en V profundo.
 
 <img src="images/2099106601538097211-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+24 años, mujer japonesa, tren, vista frontal, cuerpo inclinado hacia adelante, sosteniendo un pasamanos colgante alto, axila visible, tirantes con escote en V profundo, mirada hacia el frente, expresión mirando hacia abajo, punto de vista de una persona sentada, foto de celular, textura realista, toma vertical
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -383,6 +383,28 @@ Fotografía · Paisaje / Naturaleza · Publicado
 
 ```text
 Foto de un claro en el bosque con mucho follaje verde, muy detallada
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2099093734906613857"></a>
+
+### Traducción en curso
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicación original](https://x.com/CyberTotal2026/status/2099093734906613857)
+
+Fotografía · Personaje · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2099093734906613857-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
 ```
 
 [↑ Volver a categorías](#catalog)

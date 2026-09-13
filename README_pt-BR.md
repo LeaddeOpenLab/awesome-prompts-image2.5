@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**95** Prompts · Última adição: **2026-09-13**
+**96** Prompts · Última adição: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -35,20 +35,20 @@ Dê uma estrela a este repositório para acompanhar nossa seleção diária de p
 
 <a name="prompt-2099106601538097211"></a>
 
-### Tradução em andamento
+### Instantâneo realista da perspectiva de alguém sentado no trem de uma jovem japonesa segurando a alça e usando uma blusa de alcinha com decote em V profundo.
 
 Autor：[@SGRationalnvest](https://x.com/SGRationalnvest) · [Publicação original](https://x.com/SGRationalnvest/status/2099106601538097211)
 
 Fotografia · Retrato / Selfie · Personagem · Veículo · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Instantâneo realista da perspectiva de alguém sentado no trem de uma jovem japonesa segurando a alça e usando uma blusa de alcinha com decote em V profundo.
 
 <img src="images/2099106601538097211-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+24 anos, mulher japonesa, trem, visão frontal, corpo inclinado para a frente, segurando uma alça suspensa alta, axila à mostra, alças finas com decote em V profundo, olhar para frente, expressão olhando para baixo, ponto de vista de uma pessoa sentada, foto de celular, textura realista, foto vertical
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -383,6 +383,28 @@ Fotografia · Paisagem / Natureza · Publicado
 
 ```text
 Foto de uma clareira na floresta com muita folhagem verde, altamente detalhada
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2099093734906613857"></a>
+
+### Tradução em andamento
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicação original](https://x.com/CyberTotal2026/status/2099093734906613857)
+
+Fotografia · Personagem · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2099093734906613857-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
 ```
 
 [↑ Voltar às categorias](#catalog)

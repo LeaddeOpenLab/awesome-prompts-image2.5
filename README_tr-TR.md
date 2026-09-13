@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**95** Prompt · Son eklenen: **2026-09-13**
+**96** Prompt · Son eklenen: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -35,20 +35,20 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 
 <a name="prompt-2099106601538097211"></a>
 
-### Çeviri sürüyor
+### Trende oturan birinin bakış açısından, tutamağı tutan ve derin V yakalı askılı üst giymiş genç bir Japon kadının gerçekçi enstantane fotoğrafı.
 
 Yazar：[@SGRationalnvest](https://x.com/SGRationalnvest) · [Orijinal gönderi](https://x.com/SGRationalnvest/status/2099106601538097211)
 
 Fotoğrafçılık · Portre / Selfie · Karakter · Araç · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Trende oturan birinin bakış açısından, tutamağı tutan ve derin V yakalı askılı üst giymiş genç bir Japon kadının gerçekçi enstantane fotoğrafı.
 
 <img src="images/2099106601538097211-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+24 yaşında, Japon kadın, tren, önden görünüm, öne eğilmiş vücut, yüksekteki tutamağı tutuyor, koltuk altı görünüyor, derin V yakalı askılı üst, doğrudan öne bakan bakış, aşağı bakan ifade, oturan birinin bakış açısı, cep telefonu fotoğrafı, gerçekçi doku, dikey çekim
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -383,6 +383,28 @@ Fotoğrafçılık · Manzara / Doğa · Yayımlandı
 
 ```text
 Ormanda bol yeşil yaprakları olan bir açıklığın fotoğrafı, son derece detaylı
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2099093734906613857"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Orijinal gönderi](https://x.com/CyberTotal2026/status/2099093734906613857)
+
+Fotoğrafçılık · Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2099093734906613857-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
 ```
 
 [↑ Kategorilere dön](#catalog)

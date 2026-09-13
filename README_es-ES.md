@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**95** Prompts · Última incorporación: **2026-09-13**
+**96** Prompts · Última incorporación: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -35,20 +35,20 @@ Marca este repositorio con una estrella para seguir nuestra selección diaria e 
 
 <a name="prompt-2099106601538097211"></a>
 
-### Traducción en curso
+### Instantánea realista desde la perspectiva de alguien sentado en el tren de una joven japonesa agarrada a una correa con top de tirantes y escote en V pronunciado.
 
 Autor：[@SGRationalnvest](https://x.com/SGRationalnvest) · [Publicación original](https://x.com/SGRationalnvest/status/2099106601538097211)
 
 Fotografía · Retrato / Selfie · Personaje · Vehículo · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Instantánea realista desde la perspectiva de alguien sentado en el tren de una joven japonesa agarrada a una correa con top de tirantes y escote en V pronunciado.
 
 <img src="images/2099106601538097211-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+24 años, mujer japonesa, tren, vista frontal, cuerpo inclinado hacia adelante, agarrando una correa de sujeción alta, axila visible, tirantes con escote en V pronunciado, mirada al frente, expresión de mirar hacia abajo, perspectiva de una persona sentada, foto de teléfono móvil, textura realista, toma vertical
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -388,6 +388,28 @@ Fotografía · Paisaje / Naturaleza · Publicado
 
 ```text
 Foto de un claro en el bosque con abundante follaje verde, altamente detallada
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2099093734906613857"></a>
+
+### Traducción en curso
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicación original](https://x.com/CyberTotal2026/status/2099093734906613857)
+
+Fotografía · Personaje · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2099093734906613857-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
 ```
 
 [↑ Volver a categorías](#catalog)

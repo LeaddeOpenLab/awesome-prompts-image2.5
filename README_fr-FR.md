@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**95** Prompts · Dernier ajout: **2026-09-13**
+**96** Prompts · Dernier ajout: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -35,20 +35,20 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 
 <a name="prompt-2099106601538097211"></a>
 
-### Traduction en cours
+### Cliché réaliste du point de vue d'une personne assise dans un train montrant une jeune femme japonaise tenant une poignée suspendue et vêtue d'un débardeur à décolleté plongeant en V.
 
 Auteur：[@SGRationalnvest](https://x.com/SGRationalnvest) · [Publication originale](https://x.com/SGRationalnvest/status/2099106601538097211)
 
 Photographie · Portrait / Selfie · Personnage · Véhicule · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Cliché réaliste du point de vue d'une personne assise dans un train montrant une jeune femme japonaise tenant une poignée suspendue et vêtue d'un débardeur à décolleté plongeant en V.
 
 <img src="images/2099106601538097211-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+24 ans, femme japonaise, train, vue de face, corps penché en avant, tenant une poignée suspendue en hauteur, aisselle visible, bretelles avec décolleté plongeant en V, regard droit devant, expression regardant vers le bas, point de vue d'une personne assise, photo de smartphone, texture réaliste, prise de vue verticale
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -383,6 +383,28 @@ Photographie · Paysage / Nature · Publié
 
 ```text
 Photo d'une clairière dans les bois avec un feuillage vert abondant, très détaillée
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2099093734906613857"></a>
+
+### Traduction en cours
+
+Auteur：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publication originale](https://x.com/CyberTotal2026/status/2099093734906613857)
+
+Photographie · Personnage · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2099093734906613857-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
 ```
 
 [↑ Retour aux catégories](#catalog)

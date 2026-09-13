@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**95** Prompt · Ultima aggiunta: **2026-09-13**
+**96** Prompt · Ultima aggiunta: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -35,20 +35,20 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 
 <a name="prompt-2099106601538097211"></a>
 
-### Traduzione in corso
+### Scatto realistico dalla prospettiva di una persona seduta in treno di una giovane donna giapponese che afferra la maniglia indossando un top a spalline con profondo scollo a V.
 
 Autore：[@SGRationalnvest](https://x.com/SGRationalnvest) · [Post originale](https://x.com/SGRationalnvest/status/2099106601538097211)
 
 Fotografia · Ritratto / Selfie · Personaggio · Veicolo · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Scatto realistico dalla prospettiva di una persona seduta in treno di una giovane donna giapponese che afferra la maniglia indossando un top a spalline con profondo scollo a V.
 
 <img src="images/2099106601538097211-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+24 anni, donna giapponese, treno, vista frontale, corpo inclinato in avanti, afferra una maniglia sospesa alta, ascella visibile, spalline con profonda scollatura a V, sguardo dritto davanti, espressione che guarda verso il basso, prospettiva di una persona seduta, foto da smartphone, texture realistica, scatto verticale
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -383,6 +383,28 @@ Fotografia · Paesaggio / Natura · Pubblicato
 
 ```text
 Foto di una radura nel bosco con abbondante fogliame verde, altamente dettagliata
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2099093734906613857"></a>
+
+### Traduzione in corso
+
+Autore：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Post originale](https://x.com/CyberTotal2026/status/2099093734906613857)
+
+Fotografia · Personaggio · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2099093734906613857-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)
