@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-13T05:19:58.835Z",
+  "model": "image2.5",
+  "prompt": "30秒の連続映像。シニアカーだけで戦う、本格レーシングゲーム風のプレイ映像。実写映画ではなく、最新AAAレーシングゲームの高精細なリアルタイム3DCGとして描く。人物、シニアカー、道路、山、田んぼ、民家、電柱、ガードレール、空、光、影、反射、土煙、スピード感まで、リアルだが明確にゲームCGらしい質感で統一する。ゲーム画面として見せることを最優先し、常にレースゲームらしいUIとカメラワークを維持する。\n\n冒頭0〜3秒はタイトル演出。黒背景から始まり、シニアカーのタイヤ、モーター、ハンドル、バッテリー、買い物カゴを超本格レーシングゲームのように格好よく短く見せる。金属感、樹脂感、細かな傷、光の反射を強調する。その後、参照画像のタイトルロゴを画面中央に大きく表示する。ロゴ表示は高級感があり、重厚で本格レースゲームのタイトル画面のように見せる。\n\n3〜6秒。スターティンググリッド。舞台は日本の田舎。広い田んぼ、農道、古い民家、軽トラ、用水路、山並みが見える朝の澄んだ空気。6台のシニアカーが横一列に並ぶ。ドライバーは全員70〜90代のおばあちゃん。麦わら帽子、花柄の上着、腕カバー、もんぺ風パンツなど、田舎らしい服装だが、全員異様に真剣な表情。主人公は先頭付近の1台。スタートシグナルの赤ランプが順番に点灯し、消灯で一斉スタート。\n\n6〜10秒。レース開始直後。最初は本物のシニアカーらしく時速6km前後でゆっくり発進。HUDには順位、ラップ、速度、バッテリー残量、ミニマップ、タコメーター風のモーター出力ゲージを表示する。画面上部に「1/3 LAP」、左上に順位「3/6」、右下に速度計「6 km/h」。カメラは本格レーシングゲームのチェイスカメラ、低い追従カメラ、コーナー進入時の車載風カメラ、追い抜き時のサイドカメラを使い分けるが、すべてゲームプレイ映像として自然につながるようにする。\n\n10〜15秒。主人公がハンドル横の赤いスイッチを押し、「SPORT+」のUIが大きく表示される。ここからシニアカーとは思えない異常な加速。速度計が6→18→35→52→68→80km/hまで一気に上昇。モーター音が高まり、車体が震え、買い物カゴのネギや買い物袋が激しくはためく。細い農道を80km/hで疾走し、他のシニアカーを次々に追い抜く。画面に「OVERTAKE」の文字を表示してもよい。\n\n15〜21秒。超高速の田舎道レース。舞台は田んぼの間の細い舗装路、用水路脇の危険なストレート、民家の間を抜ける細道。ライバルのシニアカー2台と横並びで激しく競り合う。地面の凹凸で小さなタイヤが跳ね、車体が不安定に揺れるが、それでも80km/h近い速度で突っ込んでいく。画面には赤いレーシングライン、ブレーキングポイント、スプリットタイム、順位変動を表示。主人公が軽トラをギリギリで追い抜き、土煙を上げながら農道へ進入する。レーシングゲームらしい本格的なスピード感を最優先する。\n\n21〜26秒。最大の見せ場。前方に鋭い右コーナー、その外側は用水路。画面に「BRAKE」のガイド表示。主人公はギリギリまで80km/hを維持し、強烈なブレーキング。速度計が80→54→41km/hまで落ちる。タイヤが鳴き、車体が大きくロールし、片輪が一瞬浮きそうになるがギリギリで踏ん張る。カメラは後方追従視点から少し低く寄り、緊迫感を強める。コーナーを抜けた瞬間に再加速し、「PERFECT CORNER」のUIを表示する。\n\n26〜30秒。最終ストレート。主人公とライバルのおばあちゃんが横並び。両者とも真顔。速度は76〜82km/h。バッテリー残量は残りわずか。「FINAL LAP」「BOOST」の表示。主人公が最後の加速をかけ、ほんのわずかに前へ出る。ゴールラインを数十センチ差で先着。画面に「1st PLACE」を大きく表示。シニアカーが停止し、モーターから少し熱気が立ちのぼる。バッテリー残量は1%。おばあちゃんが無表情でメーターを見て、一言だけ「帰り、どうすんべ。」と言う。最後はリザルト画面風に、田舎道に並ぶシニアカーと主人公の勝利表示で終了。\n\n全編を通して、笑いは設定の absurd さから生まれるだけで、映像自体は完全に本格的なレーシングゲームとして描く。重要なのは、田舎のシニアカーが時速6〜80kmであり得ない速度域まで加速し、農道や用水路脇を本気で攻めること、そしてUI、カメラ、順位表示、速度計、レーシングライン、ブレーキング表示などをしっかり入れて、誰が見ても「本格レースゲームのプレイ映像」に見えること",
+  "promptTranslations": {
+    "en": "A 30-second continuous video sequence. Gameplay footage in the style of an authentic racing game featuring battles exclusively with senior mobility scooters. Rendered not as a live-action film, but as high-definition real-time 3DCG of a cutting-edge AAA racing game. People, mobility scooters, roads, mountains, rice paddies, residential houses, utility poles, guardrails, sky, lighting, shadows, reflections, dust clouds, and the sense of speed are all unified with realistic yet distinctly game-CG textures. The highest priority is presenting it as an in-game screen, consistently maintaining authentic racing game UI and camerawork throughout.\n\n0–3 seconds: Title sequence. Opening from a black background, delivering brief, stylish close-ups of mobility scooter tires, motor, handlebars, battery, and shopping basket just like a serious racing game. Emphasize metallic sheen, plastic textures, minute scratches, and light reflections. Afterwards, the title logo from the reference image is displayed prominently in the center of the screen. The logo display exudes high quality and weight, resembling the title screen of a genuine racing simulator.\n\n3–6 seconds: Starting grid. Set in rural Japan. Broad rice paddies, farm roads, weathered houses, mini kei-trucks, irrigation ditches, and a clear morning atmosphere framed by mountain ridges. Six mobility scooters are lined up side-by-side. All drivers are grandmothers in their 70s to 90s. Dressed in typical countryside attire—straw hats, floral jackets, arm covers, and monpe-style baggy trousers—yet every single one wears an unnervingly dead-serious expression. The protagonist is positioned near the front. The red start signal lights illuminate sequentially and shut off for a simultaneous start.\n\n6–10 seconds: Immediately after race start. Initially rolling out slowly around 6 km/h like authentic mobility scooters. The HUD displays position, lap, speed, remaining battery, mini-map, and a tachometer-style motor output gauge. Top of the screen shows \"1/3 LAP\", top left displays position \"3/6\", bottom right shows speedometer at \"6 km/h\". The camera alternates naturally between authentic racing chase cam, low tracking cam, onboard-style corner entry cam, and side overtaking cam, all flowing seamlessly as gameplay footage.\n\n10–15 seconds: The protagonist presses a red button beside the handlebars, and a large \"SPORT+\" UI appears on screen. An absurd, uncharacteristic surge of acceleration erupts from the scooter. The speedometer rockets from 6 → 18 → 35 → 52 → 68 → 80 km/h. The motor whine rises sharply, the chassis vibrates, and the green onions and grocery bags in the front basket flutter violently. Blazing down the narrow agricultural road at 80 km/h, overtaking other mobility scooters one by one. \"OVERTAKE\" text may appear on the screen.\n\n15–21 seconds: Ultra-high-speed rural road racing. The track spans narrow paved paths between rice fields, treacherous straights beside irrigation ditches, and tight alleys weaving between houses. A fierce, side-by-side battle against two rival mobility scooters. Tiny wheels bounce over bumps, shaking the chassis unstably, yet they charge forward at nearly 80 km/h. Red racing lines, braking points, split times, and position shifts appear on screen. The protagonist overtakes a kei-truck by mere hairbreadth, kicking up dust clouds while diving onto a dirt farm track. Top priority is an authentic racing game sensation of speed.\n\n21–26 seconds: The climax showcase. A sharp right turn looms ahead, bordered on the outside by an irrigation canal. A \"BRAKE\" guide flashes on screen. The protagonist maintains 80 km/h until the last split second, executing heavy braking. Speedometer plunges 80 → 54 → 41 km/h. Tires screech, the body rolls heavily, and one wheel nearly lifts off the ground, barely maintaining grip. The camera drops lower behind the vehicle, amplifying tension. Accelerating cleanly the moment the corner is cleared, triggering a \"PERFECT CORNER\" UI pop-up.\n\n26–30 seconds: Final straight. The protagonist and a rival grandma race neck-and-neck. Both deadpan and expressionless. Speed reaches 76–82 km/h. Battery level is nearly depleted. \"FINAL LAP\" and \"BOOST\" flashes on screen. The protagonist unleashes one final burst of acceleration, edging ahead by a hair. Crossing the finish line just tens of centimeters ahead. \"1st PLACE\" is splashed across the screen. The mobility scooter comes to a halt, heat haze rising faintly from the motor. Battery displays 1%. The grandmother stares blankly at the meter and mutters a single line: \"How'm I gonna get home now?\" (\"帰り、どうすんべ。\"). Concludes like a race results screen, showing mobility scooters parked along the country path alongside the protagonist's victory banner.\n\nThroughout the entire piece, humor stems solely from the absurdity of the premise, while the footage itself is portrayed completely as a serious, authentic racing game. The critical elements are rural mobility scooters impossibly accelerating from 6 to 80 km/h to aggressively attack farm roads and canal banks, accompanied by full UI, dynamic camera angles, standings, speedometer, racing line, and braking prompts, unmistakable to any viewer as \"authentic racing game gameplay footage.\""
+  },
+  "summaryTranslations": {
+    "en": "A 30-second gameplay video prompt for an authentic AAA-style racing game featuring grandmas on mobility scooters set in rural Japan."
+  },
+  "translationVersion": 2,
+  "summary": "日本の田舎を舞台にした、おばあちゃん達のシニアカーによる本格AAA風レースゲームの30秒プレイ映像プロンプト。",
+  "summaryEn": "A detailed 30-second prompt depicting a parody AAA racing game where grandmothers race mobility scooters on rural Japanese roads.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098980048703467897",
+    "canonicalUrl": "https://x.com/SSSS_CRYPTOMAN/status/2098980048703467897",
+    "author": {
+      "username": "SSSS_CRYPTOMAN",
+      "displayName": "SSSS.CRYPTOMAN⚡️AI",
+      "profileUrl": "https://x.com/SSSS_CRYPTOMAN"
+    },
+    "publishedAt": "2026-09-13T03:40:15.000Z",
+    "collectedAt": "2026-09-13T05:12:35.790Z",
+    "language": "ja",
+    "originalText": "グランマーリスモ🏁🏎\n\n使用ツール\nSeedance 2.5 ＆ GPT Image 2.5\n\n👇プロンプト\n30秒の連続映像。シニアカーだけで戦う、本格レーシングゲーム風のプレイ映像。実写映画ではなく、最新AAAレーシングゲームの高精細なリアルタイム3DCGとして描く。人物、シニアカー、道路、山、田んぼ、民家、電柱、ガードレール、空、光、影、反射、土煙、スピード感まで、リアルだが明確にゲームCGらしい質感で統一する。ゲーム画面として見せることを最優先し、常にレースゲームらしいUIとカメラワークを維持する。\n\n冒頭0〜3秒はタイトル演出。黒背景から始まり、シニアカーのタイヤ、モーター、ハンドル、バッテリー、買い物カゴを超本格レーシングゲームのように格好よく短く見せる。金属感、樹脂感、細かな傷、光の反射を強調する。その後、参照画像のタイトルロゴを画面中央に大きく表示する。ロゴ表示は高級感があり、重厚で本格レースゲームのタイトル画面のように見せる。\n\n3〜6秒。スターティンググリッド。舞台は日本の田舎。広い田んぼ、農道、古い民家、軽トラ、用水路、山並みが見える朝の澄んだ空気。6台のシニアカーが横一列に並ぶ。ドライバーは全員70〜90代のおばあちゃん。麦わら帽子、花柄の上着、腕カバー、もんぺ風パンツなど、田舎らしい服装だが、全員異様に真剣な表情。主人公は先頭付近の1台。スタートシグナルの赤ランプが順番に点灯し、消灯で一斉スタート。\n\n6〜10秒。レース開始直後。最初は本物のシニアカーらしく時速6km前後でゆっくり発進。HUDには順位、ラップ、速度、バッテリー残量、ミニマップ、タコメーター風のモーター出力ゲージを表示する。画面上部に「1/3 LAP」、左上に順位「3/6」、右下に速度計「6 km/h」。カメラは本格レーシングゲームのチェイスカメラ、低い追従カメラ、コーナー進入時の車載風カメラ、追い抜き時のサイドカメラを使い分けるが、すべてゲームプレイ映像として自然につながるようにする。\n\n10〜15秒。主人公がハンドル横の赤いスイッチを押し、「SPORT+」のUIが大きく表示される。ここからシニアカーとは思えない異常な加速。速度計が6→18→35→52→68→80km/hまで一気に上昇。モーター音が高まり、車体が震え、買い物カゴのネギや買い物袋が激しくはためく。細い農道を80km/hで疾走し、他のシニアカーを次々に追い抜く。画面に「OVERTAKE」の文字を表示してもよい。\n\n15〜21秒。超高速の田舎道レース。舞台は田んぼの間の細い舗装路、用水路脇の危険なストレート、民家の間を抜ける細道。ライバルのシニアカー2台と横並びで激しく競り合う。地面の凹凸で小さなタイヤが跳ね、車体が不安定に揺れるが、それでも80km/h近い速度で突っ込んでいく。画面には赤いレーシングライン、ブレーキングポイント、スプリットタイム、順位変動を表示。主人公が軽トラをギリギリで追い抜き、土煙を上げながら農道へ進入する。レーシングゲームらしい本格的なスピード感を最優先する。\n\n21〜26秒。最大の見せ場。前方に鋭い右コーナー、その外側は用水路。画面に「BRAKE」のガイド表示。主人公はギリギリまで80km/hを維持し、強烈なブレーキング。速度計が80→54→41km/hまで落ちる。タイヤが鳴き、車体が大きくロールし、片輪が一瞬浮きそうになるがギリギリで踏ん張る。カメラは後方追従視点から少し低く寄り、緊迫感を強める。コーナーを抜けた瞬間に再加速し、「PERFECT CORNER」のUIを表示する。\n\n26〜30秒。最終ストレート。主人公とライバルのおばあちゃんが横並び。両者とも真顔。速度は76〜82km/h。バッテリー残量は残りわずか。「FINAL LAP」「BOOST」の表示。主人公が最後の加速をかけ、ほんのわずかに前へ出る。ゴールラインを数十センチ差で先着。画面に「1st PLACE」を大きく表示。シニアカーが停止し、モーターから少し熱気が立ちのぼる。バッテリー残量は1%。おばあちゃんが無表情でメーターを見て、一言だけ「帰り、どうすんべ。」と言う。最後はリザルト画面風に、田舎道に並ぶシニアカーと主人公の勝利表示で終了。\n\n全編を通して、笑いは設定の absurd さから生まれるだけで、映像自体は完全に本格的なレーシングゲームとして描く。重要なのは、田舎のシニアカーが時速6〜80kmであり得ない速度域まで加速し、農道や用水路脇を本気で攻めること、そしてUI、カメラ、順位表示、速度計、レーシングライン、ブレーキング表示などをしっかり入れて、誰が見ても「本格レースゲームのプレイ映像」に見えること",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/SSSS_CRYPTOMAN/status/2098980048703467897",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2098979100753031168/img/u1O7KTj-t4lf_RV4.jpg",
+        "analysisUrl": "https://x.com/SSSS_CRYPTOMAN/status/2098980048703467897"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSES64YakAAn4D-.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSES64YakAAn4D-.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 13,
+      "repostCount": 2,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 918
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/SSSS_CRYPTOMAN/status/2098980048703467897",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2098979100753031168/img/u1O7KTj-t4lf_RV4.jpg",
+  "coverPath": "covers/2098980048703467897.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2098979100753031168",
+    "x-image:/media/HSES64YakAAn4D-",
+    "x-post:2098980048703467897"
+  ],
+  "analysis": {
+    "summary": "日本の田舎を舞台にした、おばあちゃん達のシニアカーによる本格AAA風レースゲームの30秒プレイ映像プロンプト。",
+    "summaryEn": "A detailed 30-second prompt depicting a parody AAA racing game where grandmothers race mobility scooters on rural Japanese roads.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video precisely replicates the timeline cuts, elderly racers, HUD elements (SPORT+, speedometers, OVERTAKE, BRAKE), and logo."
+    },
+    "videoQuality": null,
+    "originalPrompt": "30秒の連続映像。シニアカーだけで戦う、本格レーシングゲーム風のプレイ映像。実写映画ではなく、最新AAAレーシングゲームの高精細なリアルタイム3DCGとして描く。人物、シニアカー、道路、山、田んぼ、民家、電柱、ガードレール、空、光、影、反射、土煙、スピード感まで、リアルだが明確にゲームCGらしい質感で統一する。ゲーム画面として見せることを最優先し、常にレースゲームらしいUIとカメラワークを維持する。\n\n冒頭0〜3秒はタイトル演出。黒背景から始まり、シニアカーのタイヤ、モーター、ハンドル、バッテリー、買い物カゴを超本格レーシングゲームのように格好よく短く見せる。金属感、樹脂感、細かな傷、光の反射を強調する。その後、参照画像のタイトルロゴを画面中央に大きく表示する。ロゴ表示は高級感があり、重厚で本格レースゲームのタイトル画面のように見せる。\n\n3〜6秒。スターティンググリッド。舞台は日本の田舎。広い田んぼ、農道、古い民家、軽トラ、用水路、山並みが見える朝の澄んだ空気。6台のシニアカーが横一列に並ぶ。ドライバーは全員70〜90代のおばあちゃん。麦わら帽子、花柄の上着、腕カバー、もんぺ風パンツなど、田舎らしい服装だが、全員異様に真剣な表情。主人公は先頭付近の1台。スタートシグナルの赤ランプが順番に点灯し、消灯で一斉スタート。\n\n6〜10秒。レース開始直後。最初は本物のシニアカーらしく時速6km前後でゆっくり発進。HUDには順位、ラップ、速度、バッテリー残量、ミニマップ、タコメーター風のモーター出力ゲージを表示する。画面上部に「1/3 LAP」、左上に順位「3/6」、右下に速度計「6 km/h」。カメラは本格レーシングゲームのチェイスカメラ、低い追従カメラ、コーナー進入時の車載風カメラ、追い抜き時のサイドカメラを使い分けるが、すべてゲームプレイ映像として自然につながるようにする。\n\n10〜15秒。主人公がハンドル横の赤いスイッチを押し、「SPORT+」のUIが大きく表示される。ここからシニアカーとは思えない異常な加速。速度計が6→18→35→52→68→80km/hまで一気に上昇。モーター音が高まり、車体が震え、買い物カゴのネギや買い物袋が激しくはためく。細い農道を80km/hで疾走し、他のシニアカーを次々に追い抜く。画面に「OVERTAKE」の文字を表示してもよい。\n\n15〜21秒。超高速の田舎道レース。舞台は田んぼの間の細い舗装路、用水路脇の危険なストレート、民家の間を抜ける細道。ライバルのシニアカー2台と横並びで激しく競り合う。地面の凹凸で小さなタイヤが跳ね、車体が不安定に揺れるが、それでも80km/h近い速度で突っ込んでいく。画面には赤いレーシングライン、ブレーキングポイント、スプリットタイム、順位変動を表示。主人公が軽トラをギリギリで追い抜き、土煙を上げながら農道へ進入する。レーシングゲームらしい本格的なスピード感を最優先する。\n\n21〜26秒。最大の見せ場。前方に鋭い右コーナー、その外側は用水路。画面に「BRAKE」のガイド表示。主人公はギリギリまで80km/hを維持し、強烈なブレーキング。速度計が80→54→41km/hまで落ちる。タイヤが鳴き、車体が大きくロールし、片輪が一瞬浮きそうになるがギリギリで踏ん張る。カメラは後方追従視点から少し低く寄り、緊迫感を強める。コーナーを抜けた瞬間に再加速し、「PERFECT CORNER」のUIを表示する。\n\n26〜30秒。最終ストレート。主人公とライバルのおばあちゃんが横並び。両者とも真顔。速度は76〜82km/h。バッテリー残量は残りわずか。「FINAL LAP」「BOOST」の表示。主人公が最後の加速をかけ、ほんのわずかに前へ出る。ゴールラインを数十センチ差で先着。画面に「1st PLACE」を大きく表示。シニアカーが停止し、モーターから少し熱気が立ちのぼる。バッテリー残量は1%。おばあちゃんが無表情でメーターを見て、一言だけ「帰り、どうすんべ。」と言う。最後はリザルト画面風に、田舎道に並ぶシニアカーと主人公の勝利表示で終了。\n\n全編を通して、笑いは設定の absurd さから生まれるだけで、映像自体は完全に本格的なレーシングゲームとして描く。重要なのは、田舎のシニアカーが時速6〜80kmであり得ない速度域まで加速し、農道や用水路脇を本気で攻めること、そしてUI、カメラ、順位表示、速度計、レーシングライン、ブレーキング表示などをしっかり入れて、誰が見ても「本格レースゲームのプレイ映像」に見えること",
+    "sourceRange": {
+      "start": 55,
+      "end": 1963
+    },
+    "translations": {
+      "zh": "一段30秒的老年电动代步车写实AAA赛车风格游玩视频。包含标题特写、日本乡村田野赛道、老奶奶赛手、比赛UI界面、高速超车、急转弯以及冲线夺冠结算全过程。",
+      "en": "A 30-second AAA-style racing gameplay video featuring mobility scooters driven by elderly women across Japanese rural roads, complete with racing HUD, high-speed drifts, and finishing sequences."
+    },
+    "targetModels": [
+      "image2.5"
+    ],
+    "category": "text-to-video",
+    "useCase": "concept_video",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": [
+        "Gran Turismo parody"
+      ]
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
