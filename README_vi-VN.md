@@ -2110,7 +2110,7 @@ Tạo MỘT áp phích biên tập cao cấp độc lập cho MỖI bức ảnh 
 
 <a name="prompt-2099213523947864179"></a>
 
-### Đang dịch
+### Mẫu gợi ý poster nhân vật trừu tượng hình học dựa trên Chủ nghĩa Cấu trúc, Chủ nghĩa Tối cao và Chủ nghĩa Vị lai.
 
 Tác giả：[@VoxcatAI](https://x.com/VoxcatAI) · [Bài gốc](https://x.com/VoxcatAI/status/2099213523947864179)
 
@@ -2118,7 +2118,7 @@ Tác giả：[@VoxcatAI](https://x.com/VoxcatAI) · [Bài gốc](https://x.com/V
 
 Bài gốc：[@VoxcatAI](https://x.com/VoxcatAI) · [Bài gốc](https://x.com/VoxcatAI/status/2054455196298932406)
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Mẫu gợi ý poster nhân vật trừu tượng hình học dựa trên Chủ nghĩa Cấu trúc, Chủ nghĩa Tối cao và Chủ nghĩa Vị lai.
 
 <img src="images/2099213523947864179-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -2139,7 +2139,25 @@ Bài gốc：[@VoxcatAI](https://x.com/VoxcatAI) · [Bài gốc](https://x.com/V
 **Câu lệnh**
 
 ```text
-Đang dịch
+{Chủ thể / Nhân vật / Khái niệm}, Constructivism Chủ nghĩa Cấu trúc Nga × Suprematism Chủ nghĩa Tối cao × Futurism Chủ nghĩa Vị lai × Swiss International Style Thiết kế Đồ họa Phong cách Quốc tế Thụy Sĩ × Geometric Neo-Modernism Chủ nghĩa Tân Hiện đại Hình học.
+
+Phân rã và chuyển hóa chủ thể thành một hệ thống thị giác hình học mang tính đồ họa cao, không nhấn mạnh vào việc tạo hình tả thực truyền thống, mà chắt lọc những đường nét cốt lõi nhất, đặc điểm nhận dạng, màu sắc đại diện, mối quan hệ cấu trúc và hướng chuyển động của chủ thể, sau đó tái cấu trúc thành các mảng hình học, trục nghiêng, hình tròn, hình chữ nhật, hình tam giác, đường định hướng, mô-đun và không gian âm (negative space). Con người, động vật, kiến trúc, máy móc, đồ vật hay các khái niệm trừu tượng đều được quy chuẩn vào logic cấu thành hình học này nhưng vẫn giữ nguyên độ nhận diện rõ ràng.
+
+Tổng thể áp dụng Path-based Shape Construction (Cấu tạo hình dạng dựa trên đường path), lấy Geometric Blocking (Phân khối hình học), Hard-edge Abstraction (Trừu tượng góc cạnh sắc nét), Modular Repetition (Lặp lại mô-đun), Directional Cutting (Cắt định hướng) làm trọng tâm. Sử dụng nhiều trục nghiêng 15°, 30°, 45° để tạo động lực, khiến chủ thể tạo ra cảm giác tiến tới, xoay chuyển, va chạm, cắt xẻ hoặc mở rộng một cách rõ rệt.
+
+Bố cục áp dụng Constructivist Cropping (Cắt cúp kiểu Cấu trúc) và Asymmetrical Balance (Cân bằng bất đối xứng). Chủ thể có thể tràn một phần ra ngoài mép khung hình, bị các mảng màu cắt xiên diện tích lớn xuyên qua hoặc che khuất, cấu trúc cục bộ có thể phóng to, lặp lại, xoay hoặc phản chiếu đối xứng, tạo nên nhịp điệu thị giác mạnh mẽ. Khung hình duy trì một trọng tâm thị giác rõ ràng, nhưng tránh kiểu bố cục chân dung căn giữa truyền thống quá ổn định.
+
+Biểu hiện chất liệu sử dụng Vector Graphics × Screen Print × Risograph Simulation × Digital Collage. Chủ thể được cấu tạo bởi các đường viền vector sắc sảo và các mảng màu phẳng đơn sắc lớn, mô phỏng cục bộ hiệu ứng xếp lớp mực in lụa, độ lệch màu in risograph, thớ sợi của giấy, hạt trame in nhẹ và sự lệch biên, giúp bức tranh vừa có độ chính xác của thiết kế kỹ thuật số, vừa mang cảm giác vật chất của ấn phẩm in ấn thực tế.
+
+Ánh sáng làm giảm nhẹ tính chiếu sáng tự nhiên, sử dụng Flat Tonal Structure (Cấu trúc sắc độ phẳng) × Graphic Contrast (Tương phản đồ họa) × Optical Depth (Không gian giả quang học). Chủ yếu dựa vào sự chênh lệch sắc độ của các mảng màu, sự che khuất hình học, thay đổi kích thước, lớp chồng trong suốt và mối quan hệ trước sau để tạo không gian, không phụ thuộc vào việc chuyển màu gradient phức tạp để tạo khối. Có thể thêm một lượng nhỏ hình học phát sáng hoặc viền nổi bật ở một số vùng để tạo thành Luminous Graphic Field (Trường đồ họa phát quang), nhưng về tổng thể vẫn ưu tiên cấu thành phẳng.
+
+Phối màu sử dụng bảng màu giới hạn có độ nhận diện cao, lấy màu đen, trắng, đỏ, xanh coban, xanh ultramarine, vàng sáng, cam, xám lạnh, trắng ngà làm nòng cốt, có thể tự động chọn 2–4 màu chủ đạo tùy theo chủ thể. Giữa các màu duy trì độ tương phản cao, trật tự mạnh mẽ và tỷ lệ diện tích rõ ràng, không sử dụng gradient rối mắt hay quá nhiều màu pha trộn tạp nham. Cho phép sự chồng màu in lụa cục bộ tạo ra màu thứ ba.
+
+Tổng thể thị giác tham chiếu không gian hình học Proun Composition của El Lissitzky, áp phích cấu trúc và góc cắt cúp táo bạo của Alexander Rodchenko, các hình khối cơ bản của Chủ nghĩa Tối cao từ Kazimir Malevich, hình học quang học Bauhaus của László Moholy-Nagy, và trật tự lưới Swiss Grid System của Josef Müller-Brockmann, nhưng sau cùng vẫn duy trì một cấu trúc thị giác nguyên bản.
+
+Thêm yếu tố VOXCAT: Góc trên bên trái thêm logo hình học tối giản cách điệu “V” + cat, hòa nhập tự nhiên vào bố cục cấu trúc; góc dưới bên phải thêm chữ ký kích thước nhỏ “voxCAT”. Có thể chuyển dịch thêm đường viền tai mèo, mắt mèo, góc vát chữ V, đường cong đuôi mèo thành hình tròn, tam giác, đường chéo hoặc các biểu tượng hình học mô-đun, đóng vai trò như họa tiết (motif) thị giác VOXCAT lặp lại bên trong bức tranh.
+
+Biện pháp tổng thể: Cấu trúc rõ ràng, quan hệ hình học chặt chẽ, cạnh sắc nhọn, mảng màu hoàn chỉnh, bố cục vững vàng, cảm giác tốc độ rõ rệt, không gian âm đầy đủ, độ nhiễu thấp, không có hạt bụi, không có nền tả thực phức tạp, độ hoàn thiện cao. Ngoài logo VOXCAT và chữ ký voxCAT, không xuất hiện bất kỳ chữ viết, số hiệu, UI, watermark hay logo không liên quan nào khác.
 ```
 
 [↑ Về danh mục](#catalog)

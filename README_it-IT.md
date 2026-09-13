@@ -2103,7 +2103,7 @@ Silenzioso, poetico, raffinato, minimale, innocente, artistico, riflessivo, prem
 
 <a name="prompt-2099213523947864179"></a>
 
-### Traduzione in corso
+### Template di prompt per poster di personaggi in astrazione geometrica basato su costruttivismo, suprematismo e futurismo.
 
 Autore：[@VoxcatAI](https://x.com/VoxcatAI) · [Post originale](https://x.com/VoxcatAI/status/2099213523947864179)
 
@@ -2111,7 +2111,7 @@ Poster / Volantino · Personaggio · Abstract / Contesto · Pubblicato
 
 Post originale：[@VoxcatAI](https://x.com/VoxcatAI) · [Post originale](https://x.com/VoxcatAI/status/2054455196298932406)
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Template di prompt per poster di personaggi in astrazione geometrica basato su costruttivismo, suprematismo e futurismo.
 
 <img src="images/2099213523947864179-1.jpg" alt="Immagine 1" width="480" />
 
@@ -2132,7 +2132,25 @@ Post originale：[@VoxcatAI](https://x.com/VoxcatAI) · [Post originale](https:/
 **Prompt**
 
 ```text
-Traduzione in corso
+{Soggetto / Personaggio / Concetto}, Constructivism Costruttivismo russo × Suprematism Suprematismo × Futurism Futurismo × Swiss International Style Stile tipografico internazionale svizzero × Geometric Neo-Modernism Neomodernismo geometrico.
+
+Scomponi e trasponi il soggetto in un sistema visivo geometrico altamente grafico, senza enfatizzare la modellazione realistica tradizionale, ma estraendo i contorni più essenziali del soggetto, i suoi tratti identitari, i colori rappresentativi, le relazioni strutturali e le direttrici di movimento, per poi ricostruirlo mediante campiture geometriche piane, assi diagonali, cerchi, rettangoli, triangoli, linee direzionali, moduli e spazio negativo. Figure umane, animali, architetture, macchinari, manufatti o concetti astratti confluiscono tutti in questa logica compositiva geometrica, pur mantenendo una piena riconoscibilità.
+
+L'impostazione generale adotta una costruzione basata su tracciati (Path-based Shape Construction), incentrata su campiture geometriche (Geometric Blocking), astrazione a contorni netti (Hard-edge Abstraction), ripetizione modulare (Modular Repetition) e tagli direzionali (Directional Cutting). Ampio uso di assi diagonali a 15°, 30° e 45° per infondere slancio, conferendo al soggetto un senso esplicito di avanzamento, rotazione, collisione, cesura o espansione.
+
+La composizione si avvale del ritaglio costruttivista (Constructivist Cropping) e dell'equilibrio asimmetrico (Asymmetrical Balance). Il soggetto può oltrepassare parzialmente i margini dell'inquadratura, venire intersecato o parzialmente celato da ampie campiture cromatiche tagliate in diagonale; dettagli strutturali possono essere ingranditi, ripetuti, ruotati o specchiati per generare un ritmo visivo energico. L'immagine preserva un chiaro centro focale, evitando tuttavia la statica disposizione centrica del ritratto classico.
+
+La resa visiva impiega Vector Graphics × Screen Print × Risograph Simulation × Digital Collage. Il soggetto è strutturato mediante bordi vettoriali precisi e ampie campiture a tinte piatte, con la simulazione locale di inchiostri serigrafici sovrapposti, disallineamenti di registro tipici del risograph, fibre della carta, retini di stampa appena percettibili e lievi sfalsamenti di contorno, conferendo all'opera l'accuratezza del disegno digitale unita alla matericità dell'artefatto stampato.
+
+Luce e ombra rifuggono l'illuminazione naturalistica a favore di una struttura tonale piatta (Flat Tonal Structure) × contrasto grafico (Graphic Contrast) × pseudoprofondità ottica (Optical Depth). Lo spazio è definito prevalentemente dallo stacco di luminosità tra i blocchi di colore, dalle occlusioni geometriche, dalle variazioni dimensionali, dalle stratificazioni trasparenti e dai rapporti di sovrapposizione tra piani, senza l'ausilio di complessi chiaroscuri sfumati. È possibile inserire puntualmente geometrie luminescenti o profili brillanti a formare un campo grafico luminoso (Luminous Graphic Field), garantendo comunque il primato della composizione bidimensionale.
+
+La palette cromatica adotta una selezione limitata ad alta riconoscibilità basata su nero, bianco, rosso, blu cobalto, blu oltremare, giallo acceso, arancione, grigio freddo e bianco crema, con la selezione autonoma di 2–4 tinte principali in funzione del soggetto. I colori mantengono un contrasto netto, un ordine rigoroso e precise gerarchie dimensionali, rifuggendo sfumature disordinate e tinte ibride eccessive. È ammessa la sovrapposizione serigrafica localizzata atta a generare una terza tonalità.
+
+Il linguaggio visivo complessivo si ispira alle geometrie spaziali delle composizioni Proun di El Lissitzky, ai manifesti costruttivisti e alle inquadrature audaci di Alexander Rodchenko, alle forme primarie suprematiste di Kazimir Malevich, alla geometria ottica del Bauhaus di László Moholy-Nagy e alla griglia modulare svizzera (Swiss Grid System) di Josef Müller-Brockmann, salvaguardando un'architettura visiva del tutto inedita.
+
+Integra elementi VOXCAT: nell'angolo in alto a sinistra inserisci un logo geometrico e minimale stilizzato con “V” + gatto, fondendolo armoniosamente con la tipografia costruttivista; nell'angolo in basso a destra aggiungi la firma discreta “voxCAT”. Le sagome delle orecchie feline, gli occhi, i tagli a V o le linee curve della coda possono essere ulteriormente rielaborati in cerchi, triangoli, diagonali o glifi modulari, agendo da motivi geometrici ricorrenti di VOXCAT all'interno dell'opera.
+
+Requisiti complessivi: intelaiatura limpida, relazioni geometriche incisive, contorni taglienti, blocchi cromatici uniformi, equilibrio d'impaginazione, senso di dinamismo definito, generoso spazio negativo, grana minima, assenza di particelle, nessun fondale realistico complesso, elevato grado di finitura. Fatta eccezione per il marchio VOXCAT e la dicitura voxCAT, non deve comparire alcun altro testo, numero, interfaccia, watermark o logo estraneo.
 ```
 
 [↑ Torna alle categorie](#catalog)

@@ -2088,7 +2088,7 @@ Sakin, şiirsel, zarif, minimal, masum, sanatsal, düşünceli, birinci sınıf 
 
 <a name="prompt-2099213523947864179"></a>
 
-### Çeviri sürüyor
+### Konstrüktivizm, süprematizm ve fütürizme dayalı geometrik soyut karakter afişi prompt şablonu.
 
 Yazar：[@VoxcatAI](https://x.com/VoxcatAI) · [Orijinal gönderi](https://x.com/VoxcatAI/status/2099213523947864179)
 
@@ -2096,7 +2096,7 @@ Poster / El İlanı · Karakter · Özet / Arka Plan · Yayımlandı
 
 Orijinal gönderi：[@VoxcatAI](https://x.com/VoxcatAI) · [Orijinal gönderi](https://x.com/VoxcatAI/status/2054455196298932406)
 
-**Özet:** Çeviri sürüyor
+**Özet:** Konstrüktivizm, süprematizm ve fütürizme dayalı geometrik soyut karakter afişi prompt şablonu.
 
 <img src="images/2099213523947864179-1.jpg" alt="Görsel 1" width="480" />
 
@@ -2117,7 +2117,25 @@ Orijinal gönderi：[@VoxcatAI](https://x.com/VoxcatAI) · [Orijinal gönderi](h
 **İstem**
 
 ```text
-Çeviri sürüyor
+{Özne / Karakter / Konsept}, Constructivism Rus Konstrüktivizmi × Suprematism Süprematizm × Futurism Fütürizm × Swiss International Style İsviçre Uluslararası Tipografik Stil × Geometric Neo-Modernism Geometrik Neo-Modernizm.
+
+Özneyi geleneksel gerçekçi modellemeye odaklanmadan, son derece grafiksel ve geometrik bir görsel sisteme ayrıştırıp dönüştürün; bunun yerine öznenin en temel silüetini, kimlik özelliklerini, temsilî renklerini, yapısal ilişkilerini ve hareket yönelimlerini damıtarak bunları geometrik blok yüzeylere, eğik eksenlere, dairelere, dikdörtgenlere, üçgenlere, yön çizgilerine, modüllere ve negatif alana yeniden inşa edin. İnsan figürleri, hayvanlar, mimari, makineler, nesneler veya soyut kavramlar bu geometrik kompozisyon mantığı altında birleşmeli, ancak yine de yeterli düzeyde tanınabilir kalmalıdır.
+
+Genel olarak Yol Tabanlı Biçim Oluşturma (Path-based Shape Construction) benimsenir; Geometrik Bloklama (Geometric Blocking), Keskin Kenarlı Soyutlama (Hard-edge Abstraction), Modüler Tekrar (Modular Repetition) ve Yönsel Kesim (Directional Cutting) temel unsurlardır. Hareketi ve dinamizmi kurgulamak için 15°, 30° ve 45°'lik eğik eksenler yoğun şekilde kullanılır; bu sayede özneye belirgin bir ilerleme, dönme, çarpışma, kesilme veya genişleme hissi kazandırılır.
+
+Kompozisyonda Konstrüktivist Kırpma (Constructivist Cropping) ve Asimetrik Denge (Asymmetrical Balance) ilkeleri uygulanır. Özne kısmen çerçevenin dışına taşabilir, geniş açılı eğik renk blokları tarafından kesilebilir veya örtülebilir; belirli yapısal kısımlar büyütülebilir, tekrarlanabilir, döndürülebilir veya aynalanarak güçlü bir görsel ritim yaratılabilir. Geleneksel merkezi portre düzeninin durağanlığından kaçınılırken görsel merkez net bir şekilde korunur.
+
+Medya sunumu Vector Graphics × Screen Print × Risograph Simulation × Digital Collage tekniklerinden yararlanır. Özne keskin vektörel kenarlar ve geniş düz renk bloklarıyla oluşturulur; yer yer serigrafi mürekkep katmanları, risograf renk kaymaları, kâğıt lifi dokuları, hafif baskı tram noktaları ve kenar hizalama sapmaları taklit edilerek hem dijital tasarımın netliği hem de fiziksel bir baskı nesnesinin somut dokusu yansıtılır.
+
+Işık ve gölgede natüralist aydınlatma zayıflatılarak Düz Ton Yapısı (Flat Tonal Structure) × Grafiksel Kontrast (Graphic Contrast) × Optik Sahte Derinlik (Optical Depth) tercih edilir. Hacim kazandırmak için karmaşık degradelere dayanmak yerine; derinlik hissi temel olarak renk bloklarının parlaklık farkları, geometrik örtüşmeler, boyut değişimleri, şeffaf katmanlar ve ön-arka ilişkileri aracılığıyla sağlanır. Işıltılı bir grafik alan (Luminous Graphic Field) meydana getirmek amacıyla bölgesel olarak az miktarda parlak geometri veya parlak hatlar eklenebilir, fakat öncelik daima düzlemsel kompozisyondadır.
+
+Renk paletinde yüksek tanınırlığa sahip sınırlı bir seçki kullanılır; siyah, beyaz, kırmızı, kobalt mavisi, lacivert, parlak sarı, turuncu, soğuk gri ve kırık beyaz temel alınır ve özneye bağlı olarak otomatikman 2–4 baskın renk belirlenir. Renkler arasında dağınık degradeler ve aşırı karma renkler kullanılmadan yüksek kontrast, güçlü bir nizam ve net alan oranları korunur. Yerel serigrafi renk üst üste binmelerinin üçüncü bir renk oluşturmasına izin verilir.
+
+Genel görsel yaklaşım, El Lissitzky'nin Proun kompozisyonlarındaki mekânsal geometrisine, Alexander Rodchenko'nun konstrüktivist afişlerine ve cesur kırpmalarına, Kazimir Malevich'in süprematist temel formlarına, László Moholy-Nagy'nin Bauhaus optik geometrisine ve Josef Müller-Brockmann'ın İsviçre Izgara Sistemine (Swiss Grid System) atıfta bulunur; ancak nihayetinde tamamen özgün bir görsel yapı oluşturulur.
+
+VOXCAT öğelerini dâhil edin: Sol üst köşeye stilize edilmiş, minimalist ve geometrik bir “V” + kedi logosu ekleyerek bunu konstrüktivist mizanpaja doğal biçimde entegre edin; sağ alt köşeye küçük puntolu “voxCAT” imzasını yerleştirin. Kedi kulağı konturu, kedi gözü, V biçimli kesikler veya kedi kuyruğu kıvrımları dairelere, üçgenlere, eğik çizgilere veya modüler geometrik sembollere dönüştürülerek görsel içerisinde tekrarlanan VOXCAT görsel motifleri olarak kullanılabilir.
+
+Genel gereksinimler: Net yapı, güçlü geometrik ilişkiler, keskin kenarlar, eksiksiz renk blokları, dengeli mizanpaj, hissedilir hız duygusu, bol negatif alan, düşük parazit, partikülsüzlük, karmaşık gerçekçi arka planlardan kaçınma ve yüksek tamamlanmışlık derecesi. VOXCAT logosu ve voxCAT imzası dışında hiçbir metin, sayı, arayüz unsuru, filigran veya alakasız logo yer almamalıdır.
 ```
 
 [↑ Kategorilere dön](#catalog)

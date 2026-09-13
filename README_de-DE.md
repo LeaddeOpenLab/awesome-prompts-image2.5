@@ -2103,7 +2103,7 @@ Ruhig, poetisch, raffiniert, minimalistisch, unschuldig, künstlerisch, nachdenk
 
 <a name="prompt-2099213523947864179"></a>
 
-### Übersetzung läuft
+### Prompt-Vorlage für geometrisch-abstrakte Charakterplakate auf Basis von Konstruktivismus, Suprematismus und Futurismus.
 
 Autor：[@VoxcatAI](https://x.com/VoxcatAI) · [Originalbeitrag](https://x.com/VoxcatAI/status/2099213523947864179)
 
@@ -2111,7 +2111,7 @@ Plakat / Flyer · Charakter · Zusammenfassung / Hintergrund · Veröffentlicht
 
 Originalbeitrag：[@VoxcatAI](https://x.com/VoxcatAI) · [Originalbeitrag](https://x.com/VoxcatAI/status/2054455196298932406)
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt-Vorlage für geometrisch-abstrakte Charakterplakate auf Basis von Konstruktivismus, Suprematismus und Futurismus.
 
 <img src="images/2099213523947864179-1.jpg" alt="Bild 1" width="480" />
 
@@ -2132,7 +2132,25 @@ Originalbeitrag：[@VoxcatAI](https://x.com/VoxcatAI) · [Originalbeitrag](https
 **Prompt**
 
 ```text
-Übersetzung läuft
+{Subjekt / Charakter / Konzept}, Constructivism Russischer Konstruktivismus × Suprematism Suprematismus × Futurism Futurismus × Swiss International Style Schweizer internationale Typografie × Geometric Neo-Modernism Geometrischer Neomodernismus.
+
+Zerlege und übertrage das Subjekt in ein hochgradig grafisches, geometrisches visuelles System, ohne traditionelle realistische Modellierung zu betonen, sondern indem die wesentlichsten Konturen, Identitätsmerkmale, repräsentativen Farben, strukturellen Beziehungen und Bewegungsrichtungen des Subjekts herausgearbeitet und anschließend in geometrische Blockflächen, diagonale Achsen, Kreise, Rechtecke, Dreiecke, Richtungslinien, Module und Negativräume rekonstruiert werden. Menschliche Figuren, Tiere, Architektur, Maschinen, Artefakte oder abstrakte Konzepte werden einheitlich dieser geometrischen Kompositionslogik unterworfen, behalten jedoch stets ausreichende Erkennbarkeit.
+
+Insgesamt wird eine pfadbasierte Formkonstruktion (Path-based Shape Construction) verwendet, mit Geometric Blocking (geometrische Farbblöcke), Hard-edge Abstraction (scharfkantige Abstraktion), Modular Repetition (modulare Wiederholung) und Directional Cutting (direktionales Schneiden) als Kern. Es werden intensiv diagonale Achsen von 15°, 30° und 45° genutzt, um Dynamik aufzubauen und dem Subjekt ein deutliches Gefühl von Vorwärtsbewegung, Rotation, Kollision, Schnitt oder Expansion zu verleihen.
+
+Die Komposition nutzt konstruktivistisches Beschneiden (Constructivist Cropping) und asymmetrisches Gleichgewicht (Asymmetrical Balance). Das Subjekt darf teilweise über den Bildrand hinausragen, von großflächigen, diagonal angeschnittenen Farbblöcken durchkreuzt oder verdeckt werden; lokale Strukturen können vergrößert, wiederholt, rotiert oder gespiegelt werden, um einen kraftvollen visuellen Rhythmus zu erzeugen. Das Bild behält ein klares visuelles Zentrum, vermeidet jedoch das stabile Layout traditioneller zentrierter Porträts.
+
+Die mediale Umsetzung erfolgt als Vector Graphics × Screen Print × Risograph Simulation × Digital Collage. Das Subjekt besteht aus gestochen scharfen Vektorkanten und großen, flächigen Farbfeldern, wobei stellenweise Siebdruckfarbschichten, Risographie-Passerungenauigkeiten, Papierfasern, feine Druckrasterpunkte und minimale Kantenverschiebungen simuliert werden, sodass das Bild sowohl digitale Präzision als auch die Haptik eines gedruckten Objekts aufweist.
+
+Licht und Schatten schwächen naturalistische Beleuchtung ab und nutzen eine flache Tonwertstruktur (Flat Tonal Structure) × grafischen Kontrast (Graphic Contrast) × optische Pseudotiefe (Optical Depth). Räumlichkeit entsteht primär durch Helligkeitsunterschiede der Farbblöcke, geometrische Verdeckungen, Größenvariationen, transparente Überlagerungen sowie Vordergrund-Hintergrund-Beziehungen, ohne auf komplexe Verläufe zur plastischen Ausformung angewiesen zu sein. Gelegentlich können dezent leuchtende Geometrien oder Glanzkanten eingefügt werden, um ein leuchtendes Grafikfeld (Luminous Graphic Field) zu erzeugen, wobei die Priorität stets auf der flächigen Komposition liegt.
+
+Die Farbgebung stützt sich auf eine stark wiedererkennbare, limitierte Palette mit Schwarz, Weiß, Rot, Kobaltblau, Ultramarin, leuchtendem Gelb, Orange, Kaltgrau und Cremeweiß als Basis, aus der je nach Subjekt automatisch 2–4 Hauptfarben gewählt werden. Die Farben zeichnen sich durch hohen Kontrast, strenge Ordnung und eindeutige Flächenverhältnisse aus, unter Verzicht auf unruhige Verläufe und übermäßige Mischfarben. Lokale Überlagerungen im Siebdruckstil zur Erzeugung einer dritten Farbe sind zulässig.
+
+Die visuelle Gesamterscheinung orientiert sich an El Lissitzkys räumlicher Proun-Geometrie, den konstruktivistischen Plakaten und radikalen Anschnitten von Alexander Rodtschenko, Kazimir Malewitschs suprematistischen Grundformen, László Moholy-Nagys Bauhaus-Optikgeometrie sowie Josef Müller-Brockmanns Schweizer Rastersystem (Swiss Grid System), bewahrt jedoch eine vollkommen eigenständige visuelle Struktur.
+
+VOXCAT-Elemente integrieren: In der oberen linken Ecke ist ein stilisiertes, minimalistisch-geometrisches Logo aus „V“ + Katze einzubinden, das sich nahtlos in das konstruktivistische typografische Layout einfügt; in der unteren rechten Ecke wird eine kleine Signatur „voxCAT“ platziert. Katzenohren-Silhouetten, Katzenaugen, V-förmige Einschnitte oder Katzenschwanz-Schwünge können weiter in Kreise, Dreiecke, Diagonalen oder modulare geometrische Symbole abstrahiert werden, die als wiederkehrende visuelle VOXCAT-Motive im Bild fungieren.
+
+Gesamtanforderungen: klare Struktur, ausgeprägte geometrische Bezüge, scharfe Kanten, geschlossene Farbblöcke, stabiles Layout, spürbare Dynamik, reichlich Negativraum, geringes Bildrauschen, keine Partikel, keine komplexen realistischen Hintergründe, hoher Vollendungsgrad. Außer dem VOXCAT-Logo und der voxCAT-Signatur dürfen keine weiteren Texte, Ziffern, UI-Elemente, Wasserzeichen oder irrelevanten Logos vorkommen.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

@@ -2103,7 +2103,7 @@ Calme, poétique, raffiné, minimaliste, innocent, artistique, réfléchi, haut 
 
 <a name="prompt-2099213523947864179"></a>
 
-### Traduction en cours
+### Modèle de prompt d'affiche de personnage en abstraction géométrique inspiré du constructivisme, du suprématisme et du futurisme.
 
 Auteur：[@VoxcatAI](https://x.com/VoxcatAI) · [Publication originale](https://x.com/VoxcatAI/status/2099213523947864179)
 
@@ -2111,7 +2111,7 @@ Affiche / Flyer · Personnage · Résumé / Contexte · Publié
 
 Publication originale：[@VoxcatAI](https://x.com/VoxcatAI) · [Publication originale](https://x.com/VoxcatAI/status/2054455196298932406)
 
-**Résumé:** Traduction en cours
+**Résumé:** Modèle de prompt d'affiche de personnage en abstraction géométrique inspiré du constructivisme, du suprématisme et du futurisme.
 
 <img src="images/2099213523947864179-1.jpg" alt="Image 1" width="480" />
 
@@ -2132,7 +2132,25 @@ Publication originale：[@VoxcatAI](https://x.com/VoxcatAI) · [Publication orig
 **Consigne**
 
 ```text
-Traduction en cours
+{Sujet / Personnage / Concept}, Constructivism Constructivisme russe × Suprematism Suprématisme × Futurism Futurisme × Swiss International Style Style typographique international suisse × Geometric Neo-Modernism Néo-modernisme géométrique.
+
+Déconstruire et transposer le sujet en un système visuel géométrique hautement graphique, sans insister sur le modelé réaliste traditionnel, mais en extrayant les contours les plus essentiels du sujet, ses traits d'identité, ses couleurs représentatives, ses relations structurelles et ses directions de mouvement, pour ensuite le reconstruire sous forme de blocs géométriques plans, d'axes obliques, de cercles, de rectangles, de triangles, de lignes directrices, de modules et d'espaces négatifs. Personnages, animaux, architecture, machines, objets ou concepts abstraits s'intègrent tous uniformément dans cette logique de composition géométrique, tout en conservant une lisibilité évidente.
+
+L'ensemble adopte une construction de formes basée sur les tracés (Path-based Shape Construction), avec pour axes majeurs le blocage géométrique (Geometric Blocking), l'abstraction à contours nets (Hard-edge Abstraction), la répétition modulaire (Modular Repetition) et les découpes directionnelles (Directional Cutting). Utilisation intensive d'axes obliques à 15°, 30° et 45° pour insuffler un élan dynamique, conférant au sujet une nette sensation d'avancée, de rotation, d'impact, de tranchage ou d'expansion.
+
+La composition applique le recadrage constructiviste (Constructivist Cropping) et l'équilibre asymétrique (Asymmetrical Balance). Le sujet peut dépasser partiellement les bords de l'image, être traversé ou occulté par de grands blocs de couleur coupés en biseau ; des portions structurelles peuvent être agrandies, répétées, pivotées ou inversées en miroir, instaurant un rythme visuel percutant. L'ensemble préserve un centre visuel identifiable, tout en évitant la disposition stable et centrée du portrait conventionnel.
+
+Le rendu s'exprime par Vector Graphics × Screen Print × Risograph Simulation × Digital Collage. Le sujet se structure à partir d'arêtes vectorielles nettes et de larges aplats de couleur unie, avec la simulation ponctuelle de superpositions d'encres sérigraphiques, de décalages de repérage risographiques, de fibres de papier, de fines trames d'impression et de légers décalages de bords, conférant à l'œuvre la rigueur de la conception numérique associée à la texture tangible d'un document imprimé.
+
+Lumière et ombre éclipsent l'éclairage naturaliste au profit d'une structure tonale plane (Flat Tonal Structure) × contraste graphique (Graphic Contrast) × profondeur optique suggérée (Optical Depth). L'espace est principalement généré par les écarts de valeur des aplats, les recouvrements géométriques, les variations d'échelle, les superpositions transparentes et les rapports de plans avant/arrière, sans recourir à des dégradés complexes pour façonner les volumes. Il est possible d'intégrer çà et là de discrètes géométries luminescentes ou des bordures éclatantes pour créer un champ graphique lumineux (Luminous Graphic Field), tout en maintenant la primauté absolue de la composition en aplats.
+
+La palette de couleurs adopte une gamme restreinte hautement identifiable, axée sur le noir, le blanc, le rouge, le bleu cobalt, le bleu outremer, le jaune vif, l'orange, le gris froid et le blanc cassé, avec une sélection automatique de 2 à 4 teintes majeures selon le sujet. Les couleurs entretiennent des contrastes élevés, un ordre rigoureux et des proportions de surface bien définies, bannissant les dégradés anarchiques et les mélanges confus. Des superpositions de sérigraphie locales générant une troisième teinte sont autorisées.
+
+L'esthétique visuelle globale fait référence à la géométrie spatiale des Proun d'El Lissitzky, aux affiches constructivistes et cadrages radicaux d'Alexandre Rodtchenko, aux formes fondamentales suprématistes de Kazimir Malevitch, à la géométrie optique Bauhaus de László Moholy-Nagy et à la rigueur de la grille suisse (Swiss Grid System) de Josef Müller-Brockmann, tout en préservant une structure visuelle originale.
+
+Intégrer les éléments VOXCAT : placer dans le coin supérieur gauche un logo géométrique minimaliste et stylisé associant le « V » et le chat, parfaitement intégré à la mise en page constructiviste ; inscrire dans le coin inférieur droit la signature discrète « voxCAT ». Les contours d'oreilles de chat, les yeux félins, les biseaux en V ou les courbes de queue peuvent également être déclinés en cercles, triangles, diagonales ou symboles géométriques modulaires, agissant comme des motifs visuels VOXCAT récurrents au sein de l'image.
+
+Exigences globales : structure claire, relations géométriques affirmées, arêtes vives, aplats impeccables, mise en page équilibrée, dynamisme marqué, espaces négatifs généreux, faible bruit, absence de particules, aucun arrière-plan réaliste complexe, niveau de finition irréprochable. En dehors du logo VOXCAT et de la signature voxCAT, aucun autre texte, chiffre, élément d'interface, filigrane ou logo tiers ne doit figurer.
 ```
 
 [↑ Retour aux catégories](#catalog)

@@ -2110,7 +2110,7 @@ App / 網站設計 · 3D 渲染 · 角色 · 已推流
 
 <a name="prompt-2099213523947864179"></a>
 
-### 翻譯中
+### 基於構成主義、至上主義與未來主義的幾何抽象角色海報提示詞模板。
 
 作者：[@VoxcatAI](https://x.com/VoxcatAI) · [查看 X 原帖](https://x.com/VoxcatAI/status/2099213523947864179)
 
@@ -2118,7 +2118,7 @@ App / 網站設計 · 3D 渲染 · 角色 · 已推流
 
 查看 X 原帖：[@VoxcatAI](https://x.com/VoxcatAI) · [查看 X 原帖](https://x.com/VoxcatAI/status/2054455196298932406)
 
-**概括:** 翻譯中
+**概括:** 基於構成主義、至上主義與未來主義的幾何抽象角色海報提示詞模板。
 
 <img src="images/2099213523947864179-1.jpg" alt="圖片 1" width="480" />
 
@@ -2139,7 +2139,25 @@ App / 網站設計 · 3D 渲染 · 角色 · 已推流
 **提示詞**
 
 ```text
-翻譯中
+{主體 / 角色 / 概念}，Constructivism 俄國構成主義 × Suprematism 至上主義 × Futurism 未來主義 × Swiss International Style 瑞士國際主義平面設計 × Geometric Neo-Modernism 幾何新現代主義。
+
+將主體重新拆解並轉譯為一套高度圖形化的幾何視覺系統，不強調傳統寫實塑形，而是提煉主體最核心的輪廓、身份特徵、代表色、結構關係與運動方向，再將其重構為幾何塊面、斜軸、圓形、矩形、三角形、方向線、模組與負空間。人物、動物、建築、機械、器物或抽象概念都統一進入這一幾何構成邏輯，但仍保留足夠識別性。
+
+整體採用 Path-based Shape Construction 路徑式形狀構成，以 Geometric Blocking 幾何塊面、Hard-edge Abstraction 硬邊抽象、Modular Repetition 模組化重複、Directional Cutting 方向性切割為核心。大量使用 15°、30°、45° 斜軸建立動勢，讓主體形成明顯的前進、旋轉、衝撞、切割或擴張感。
+
+構圖採用 Constructivist Cropping 構成主義裁切與 Asymmetrical Balance 非對稱平衡。主體可局部超出畫面邊緣，被大面積斜切色塊穿過或遮擋，局部結構可放大、重複、旋轉、鏡像，形成強烈視覺節奏。畫面保持明確視覺中心，但避免傳統居中肖像式穩定佈局。
+
+介質表現採用 Vector Graphics × Screen Print × Risograph Simulation × Digital Collage。主體以清晰向量邊緣與大面積純色色塊構成，局部模擬絲網印刷油墨疊層、孔版印刷套色偏移、紙張纖維、輕微印刷網點與邊緣錯位，使畫面既具有數位設計精度，又帶實體印刷物的物質感。
+
+光影弱化自然主義照明，採用 Flat Tonal Structure 平面明度結構 × Graphic Contrast 圖形化對比 × Optical Depth 光學偽空間。主要通過色塊明度差、幾何遮擋、尺寸變化、透明疊層與前後關係製造空間，不依賴複雜漸變塑形。可局部加入少量發光幾何或高亮邊緣，形成 Luminous Graphic Field 發光圖形場，但整體保持平面構成優先。
+
+配色採用高識別有限色盤，以黑、白、紅、鈷藍、群青、亮黃、橙色、冷灰、米白為核心，可根據主體自動選擇 2–4 個主色。色彩之間保持高對比、強秩序與明確面積關係，不使用雜亂漸變和過多綜合色。允許局部絲網印刷疊色產生第三色。
+
+整體視覺參考 El Lissitzky 的 Proun Composition 空間幾何、Alexander Rodchenko 的構成主義海報與激進裁切、Kazimir Malevich 的至上主義基本形、László Moholy-Nagy 的 Bauhaus 光學幾何，以及 Josef Müller-Brockmann 的 Swiss Grid System 網格秩序，但最終保持原創視覺結構。
+
+加入 VOXCAT 元素：左上角加入 stylized “V” + cat 的極簡幾何標誌，並使其自然融入構成主義版式；右下角加入小號簽名「voxCAT」。可將貓耳輪廓、貓眼、V 形切角、貓尾曲線進一步轉譯為圓形、三角形、斜線或模組化幾何符號，作為畫面內部重複出現的 VOXCAT 視覺母題。
+
+整體要求：結構清晰、幾何關係強、邊緣銳利、色塊完整、版式穩定、速度感明確、負空間充足、低噪聲、無粒子、無複雜寫實背景、高完成度。除 VOXCAT 標誌與 voxCAT 簽名外，不出現其他文字、編號、UI、浮水印或無關 Logo。
 ```
 
 [↑ 返回分類目錄](#catalog)

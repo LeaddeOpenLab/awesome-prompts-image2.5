@@ -2132,7 +2132,7 @@ Tranquilo, poético, refinado, minimalista, inocente, artístico, reflexivo, pr�
 
 <a name="prompt-2099213523947864179"></a>
 
-### Traducción en curso
+### Plantilla de prompt para póster de personaje en abstracción geométrica basada en constructivismo, suprematismo y futurismo.
 
 Autor：[@VoxcatAI](https://x.com/VoxcatAI) · [Publicación original](https://x.com/VoxcatAI/status/2099213523947864179)
 
@@ -2140,7 +2140,7 @@ Póster / Folleto · Personaje · Resumen / Antecedentes · Publicado
 
 Publicación original：[@VoxcatAI](https://x.com/VoxcatAI) · [Publicación original](https://x.com/VoxcatAI/status/2054455196298932406)
 
-**Resumen:** Traducción en curso
+**Resumen:** Plantilla de prompt para póster de personaje en abstracción geométrica basada en constructivismo, suprematismo y futurismo.
 
 <img src="images/2099213523947864179-1.jpg" alt="Imagen 1" width="480" />
 
@@ -2161,7 +2161,25 @@ Publicación original：[@VoxcatAI](https://x.com/VoxcatAI) · [Publicación ori
 **Prompt**
 
 ```text
-Traducción en curso
+{Sujeto / Personaje / Concepto}, Constructivism Constructivismo ruso × Suprematism Suprematismo × Futurism Futurismo × Swiss International Style Diseño gráfico de estilo internacional suizo × Geometric Neo-Modernism Neomodernismo geométrico.
+
+Descomponer y reinterpretar el sujeto en un sistema visual geométrico altamente gráfico, sin enfatizar el modelado realista tradicional, sino extrayendo el contorno más esencial del sujeto, sus rasgos de identidad, colores representativos, relaciones estructurales y dirección de movimiento, para luego reconstruirlo en bloques geométricos, ejes inclinados, círculos, rectángulos, triángulos, líneas de dirección, módulos y espacio negativo. Figuras humanas, animales, arquitectura, maquinaria, objetos o conceptos abstractos se integran uniformemente en esta lógica de composición geométrica, conservando al mismo tiempo una clara legibilidad e identidad.
+
+En general, se adopta Path-based Shape Construction (construcción de formas basada en trazados), tomando como núcleo Geometric Blocking (bloqueo geométrico), Hard-edge Abstraction (abstracción de bordes duros), Modular Repetition (repetición modular) y Directional Cutting (corte direccional). Se utiliza ampliamente ejes inclinados de 15°, 30° y 45° para generar dinamismo, logrando que el sujeto transmita una marcada sensación de avance, rotación, colisión, seccionamiento o expansión.
+
+La composición emplea Constructivist Cropping (encuadre constructivista) y Asymmetrical Balance (equilibrio asimétrico). El sujeto puede desbordar parcialmente los bordes del encuadre, ser atravesado o tapado por grandes bloques de color con cortes diagonales; las estructuras locales pueden ampliarse, repetirse, rotarse o reflejarse en espejo, generando un potente ritmo visual. La imagen conserva un centro visual claro, evitando disposiciones centradas y estables propias del retrato tradicional.
+
+La representación del soporte emplea Vector Graphics × Screen Print × Risograph Simulation × Digital Collage. El sujeto se construye con bordes vectoriales nítidos y grandes bloques de color plano, simulando puntualmente la superposición de tintas de serigrafía, desfases de color risográficos, fibras de papel, leves tramas de puntos de impresión y desalineaciones de bordes, dotando a la imagen de la precisión del diseño digital combinada con la tangibilidad física de los medios impresos.
+
+La iluminación atenúa el enfoque naturalista mediante Flat Tonal Structure (estructura tonal plana) × Graphic Contrast (contraste gráfico) × Optical Depth (profundidad óptica ilusoria). El espacio se construye principalmente mediante diferencias tonales entre bloques de color, oclusión geométrica, variaciones de escala, capas transparentes superpuestas y relaciones de plano anterior/posterior, sin depender de degradados complejos para modelar el volumen. Se pueden incorporar localmente pequeñas geometrías luminosas o bordes resaltados para crear un Luminous Graphic Field (campo gráfico luminoso), manteniendo siempre la primacía de la composición bidimensional plana.
+
+La paleta cromática utiliza una gama limitada de alta visibilidad, basada en negro, blanco, rojo, azul cobalto, azul ultramar, amarillo brillante, naranja, gris frío y blanco roto, seleccionando automáticamente de 2 a 4 colores principales según el sujeto. Los colores mantienen un alto contraste, un orden riguroso y una estricta relación de áreas, prescindiendo de degradados confusos y de una excesiva mezcla de tonos. Se permite la aparición de un tercer color derivado de la superposición de tintas serigráficas locales.
+
+El referente visual general alude a la geometría espacial de Proun Composition de El Lissitzky, a los carteles constructivistas y encuadres radicales de Alexander Rodchenko, a las formas básicas suprematistas de Kazimir Malevich, a la geometría óptica Bauhaus de László Moholy-Nagy y al orden reticular de Swiss Grid System de Josef Müller-Brockmann, preservando en última instancia una estructura visual original.
+
+Incorporar elementos VOXCAT: en la esquina superior izquierda, añadir un logotipo geométrico minimalista estilizado “V” + cat, integrado con fluidez en la diagramación constructivista; en la esquina inferior derecha, añadir la firma en tamaño pequeño “voxCAT”. La silueta de las orejas de gato, los ojos felinos, los cortes en ángulo en V y las curvas de la cola de gato pueden reinterpretarse adicionalmente como círculos, triángulos, diagonales o símbolos geométricos modulares, funcionando como motivos visuales VOXCAT recurrentes dentro de la composición.
+
+Requisitos generales: estructura nítida, relaciones geométricas sólidas, bordes definidos, masas de color íntegras, maquetación equilibrada, marcada sensación de velocidad, abundante espacio negativo, bajo nivel de ruido, sin partículas, sin fondos realistas complejos y un acabado impecable. A excepción del logotipo VOXCAT y la firma voxCAT, no debe aparecer ningún otro texto, numeración, elementos de interfaz (UI), marcas de agua ni logotipos ajenos.
 ```
 
 [↑ Volver a categorías](#catalog)
