@@ -1905,13 +1905,13 @@ Silenzioso, poetico, raffinato, minimale, innocente, artistico, riflessivo, prem
 
 <a name="prompt-2098960216792682600"></a>
 
-### Traduzione in corso
+### Prompt di costume design che specifica nel dettaglio una tunica semitransparente e accessori in stile mandala gothic.
 
 Autore：[@AI\_GIRL\_DESIGN](https://x.com/AI_GIRL_DESIGN) · [Post originale](https://x.com/AI_GIRL_DESIGN/status/2098960216792682600)
 
 Ritratto / Selfie · Articolo di moda · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt di costume design che specifica nel dettaglio una tunica semitransparente e accessori in stile mandala gothic.
 
 <img src="images/2098960216792682600-1.jpg" alt="Immagine 1" width="480" />
 
@@ -1920,7 +1920,7 @@ Ritratto / Selfie · Articolo di moda · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+Tunica grigia a maniche corte con una gigantesca silhouette squadrata che copre da sopra la vita fino ai fianchi. Realizzata in uno speciale materiale che sembra sovrapporre spesso organza semitrasparente, rete grezza e una sottile pellicola di resina, con ampie maniche che sporgono notevolmente verso l'esterno dalle spalle ai polsini. Al collo, un piccolo colletto da camicia nero e un fiocco nero. L'intera tunica è cucita con un grosso cordone nero in un ricamo astratto che serpeggia come una linea continua casuale, con piccole farfalle dal rosso cinabro al corallo, nodi e applicazioni a forma di petalo sparsi alle intersezioni e lungo i bordi. L'interno dei polsini è nero. Il tessuto presenta pieghe realistiche, incurvature, margini di cucitura, fili sollevati e una sottile trasparenza. Calze parigine nere. Mule rosse. Sulla parte posteriore destra della testa, un gigantesco chignon a forma di fiocco nero opaco. Da entrambi i lobi pendono lunghi e sottili orecchini a catena con perline rosse e nere che scendono fin quasi al petto.
 ```
 
 [↑ Torna alle categorie](#catalog)

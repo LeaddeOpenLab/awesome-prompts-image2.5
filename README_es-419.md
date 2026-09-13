@@ -1905,13 +1905,13 @@ Tranquilo, poético, refinado, minimalista, inocente, artístico, reflexivo, pr�
 
 <a name="prompt-2098960216792682600"></a>
 
-### Traducción en curso
+### Prompt de diseño de vestuario que detalla una túnica semitransparente y accesorios en estilo gótico mandala.
 
 Autor：[@AI\_GIRL\_DESIGN](https://x.com/AI_GIRL_DESIGN) · [Publicación original](https://x.com/AI_GIRL_DESIGN/status/2098960216792682600)
 
 Retrato / Selfie · Artículo de moda · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de diseño de vestuario que detalla una túnica semitransparente y accesorios en estilo gótico mandala.
 
 <img src="images/2098960216792682600-1.jpg" alt="Imagen 1" width="480" />
 
@@ -1920,7 +1920,7 @@ Retrato / Selfie · Artículo de moda · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+Túnica gris de manga corta con una silueta cuadrada gigante que cubre desde la cintura hasta las caderas. Confeccionada con un material especial que parece superponer organza semitransparente gruesa, malla áspera y una fina película de resina, con mangas anchas que sobresalen ampliamente hacia los lados desde los hombros hasta los puños. En el cuello, un pequeño cuello camisero negro y una corbata de lazo negro. Toda la superficie de la túnica está cosida con un cordón negro grueso en un bordado abstracto que serpentea como un trazo continuo aleatorio, con pequeñas mariposas de color rojo bermellón a coral, nudos y aplicaciones en forma de pétalos dispersos en las intersecciones y bordes. El interior de los puños es negro. La tela presenta pliegues realistas, caída natural, márgenes de costura, hilos flotantes y una sutil transparencia. Medias negras por encima de la rodilla. Mules rojos. En la parte posterior derecha de la cabeza, un chongo gigante en forma de lazo en color negro mate. De ambas orejas cuelgan aretes largos y delgados de cadena con cuentas rojas y negras que llegan cerca del pecho.
 ```
 
 [↑ Volver a categorías](#catalog)

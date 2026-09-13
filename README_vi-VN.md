@@ -1912,13 +1912,13 @@ Tạo MỘT áp phích biên tập cao cấp độc lập cho MỖI bức ảnh 
 
 <a name="prompt-2098960216792682600"></a>
 
-### Đang dịch
+### Prompt thiết kế trang phục chỉ định chi tiết áo tunic bán trong suốt và phụ kiện theo phong cách Mandala Gothic.
 
 Tác giả：[@AI\_GIRL\_DESIGN](https://x.com/AI_GIRL_DESIGN) · [Bài gốc](https://x.com/AI_GIRL_DESIGN/status/2098960216792682600)
 
 Chân dung / Ảnh tự chụp · Mặt hàng thời trang · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Prompt thiết kế trang phục chỉ định chi tiết áo tunic bán trong suốt và phụ kiện theo phong cách Mandala Gothic.
 
 <img src="images/2098960216792682600-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -1927,7 +1927,7 @@ Chân dung / Ảnh tự chụp · Mặt hàng thời trang · Đã xuất bản
 **Câu lệnh**
 
 ```text
-Đang dịch
+Áo tunic ngắn tay màu xám phom hộp khổng lồ phủ từ trên eo xuống hông. Chất liệu đặc biệt như được xếp lớp từ vải organza bán trong suốt dày dặn, lưới thô và màng nhựa mỏng, tay áo rộng nhô hẳn sang hai bên từ vai đến cổ tay áo. Cổ áo có cổ áo sơ mi đen nhỏ và nơ thắt ruy băng màu đen. Toàn bộ áo tunic được đính dây thừng đen dày uốn lượn như một nét vẽ trừu tượng ngẫu nhiên, tại các điểm giao nhau và mép áo điểm xuyết những cánh bướm nhỏ màu đỏ son đến san hô, các nút thắt và hoa văn đính dạng cánh hoa. Bên trong cổ tay áo màu đen. Vải có các nếp gấp, độ chùng, mép may, sợi chỉ nổi và độ xuyên thấu tinh tế chân thực. Tất dài qua đầu gối màu đen. Giày mule màu đỏ. Phía sau đầu bên phải là một búi tóc hình nơ bướm màu đen mờ khổng lồ. Từ hai tai buông thõng chuỗi hoa tai hạt cườm đỏ đen thanh mảnh dài đến gần ngực.
 ```
 
 [↑ Về danh mục](#catalog)

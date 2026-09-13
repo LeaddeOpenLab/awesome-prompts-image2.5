@@ -1890,13 +1890,13 @@ Tranquilo, poético, refinado, minimalista, inocente, artístico, ponderado, sof
 
 <a name="prompt-2098960216792682600"></a>
 
-### Tradução em curso
+### Prompt de design de guarda-roupa especificando detalhadamente uma túnica semitransparente e acessórios em estilo gótico mandala.
 
 Autor：[@AI\_GIRL\_DESIGN](https://x.com/AI_GIRL_DESIGN) · [Publicação original](https://x.com/AI_GIRL_DESIGN/status/2098960216792682600)
 
 Retrato / Selfie · Item de Moda · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt de design de guarda-roupa especificando detalhadamente uma túnica semitransparente e acessórios em estilo gótico mandala.
 
 <img src="images/2098960216792682600-1.jpg" alt="Imagem 1" width="480" />
 
@@ -1905,7 +1905,7 @@ Retrato / Selfie · Item de Moda · Publicado
 **Prompt**
 
 ```text
-Tradução em curso
+Túnica cinzenta de manga curta com uma gigantesca silhueta quadrada que cobre desde acima da cintura até às ancas. Confecionada num material especial que parece sobrepor organza espessa semitransparente, malha grosseira e uma fina película de resina, com mangas largas que sobressaem amplamente para os lados dos ombros até aos punhos. No decote, um pequeno colarinho de camisa preto e um laço preto de fita. Toda a superfície da túnica é cosida com um cordão preto espesso num bordado abstrato que serpenteia como um traço contínuo aleatório, com pequenas borboletas de tom vermelho-cúbico a coral, nós e aplicações em forma de pétalas dispersas nas interseções e orlas. O interior dos punhos é preto. O tecido apresenta vincos realistas, folgas, margens de costura, fios levantados e uma sutil transparência. Meias pretas até acima do joelho. Mules vermelhas. Na parte posterior direita da cabeça, um gigantesco carrapito em forma de laço em preto mate. De ambas as orelhas pendem brincos compridos e finos de corrente com contas vermelhas e pretas que descem quase até ao peito.
 ```
 
 [↑ Voltar às categorias](#catalog)

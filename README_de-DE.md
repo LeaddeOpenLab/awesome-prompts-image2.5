@@ -1905,13 +1905,13 @@ Ruhig, poetisch, raffiniert, minimalistisch, unschuldig, künstlerisch, nachdenk
 
 <a name="prompt-2098960216792682600"></a>
 
-### Übersetzung läuft
+### Kostümdesign-Prompt mit detaillierten Angaben zu einer halbtransparenten Tunika und Accessoires im Mandala-Gothic-Stil.
 
 Autor：[@AI\_GIRL\_DESIGN](https://x.com/AI_GIRL_DESIGN) · [Originalbeitrag](https://x.com/AI_GIRL_DESIGN/status/2098960216792682600)
 
 Porträt / Selfie · Modeartikel · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Kostümdesign-Prompt mit detaillierten Angaben zu einer halbtransparenten Tunika und Accessoires im Mandala-Gothic-Stil.
 
 <img src="images/2098960216792682600-1.jpg" alt="Bild 1" width="480" />
 
@@ -1920,7 +1920,7 @@ Porträt / Selfie · Modeartikel · Veröffentlicht
 **Prompt**
 
 ```text
-Übersetzung läuft
+Eine graue, kurzärmelige Tunika mit riesiger Kasten-Silhouette, die von der Taille bis über die Hüften reicht. Aus einem speziellen Material gefertigt, das wie geschichteter, dicker, halbtransparenter Organza, grobes Netzgewebe und eine dünne Harzmembran wirkt, mit weiten Ärmeln, die von den Schultern bis zu den Bündchen weit nach außen ragen. Am Hals ein kleiner schwarzer Hemdkragen und eine schwarze Schleifenkrawatte. Über die gesamte Tunika ist eine dicke schwarze Kordel als abstrakte Stickerei aufgenäht, die sich wie eine zufällige Einlinienzeichnung windet, mit winzigen zinnoberrot- bis korallenfarbenen Schmetterlingen, Knoten und blütenblattartigen Applikationen an Schnittpunkten und Kanten. Die Innenseite der Ärmelbündchen ist schwarz. Der Stoff zeigt realistische Falten, Wölbungen, Nahtzugaben, Fadenhebungen und feine Transparenz. Schwarze Overknee-Strümpfe. Rote Mules. Am rechten Hinterkopf ein riesiger mattschwarzer Dutt in Form einer Schleife. An beiden Ohren hängen lange, dünne Kettenteil-Ohrringe aus roten und schwarzen Perlen fast bis zur Brust hinab.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

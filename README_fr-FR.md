@@ -1905,13 +1905,13 @@ Calme, poétique, raffiné, minimaliste, innocent, artistique, réfléchi, haut 
 
 <a name="prompt-2098960216792682600"></a>
 
-### Traduction en cours
+### Prompt de conception de costume détaillant une tunique semi-transparente et des accessoires de style gothique mandala.
 
 Auteur：[@AI\_GIRL\_DESIGN](https://x.com/AI_GIRL_DESIGN) · [Publication originale](https://x.com/AI_GIRL_DESIGN/status/2098960216792682600)
 
 Portrait / Selfie · Article de mode · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de conception de costume détaillant une tunique semi-transparente et des accessoires de style gothique mandala.
 
 <img src="images/2098960216792682600-1.jpg" alt="Image 1" width="480" />
 
@@ -1920,7 +1920,7 @@ Portrait / Selfie · Article de mode · Publié
 **Consigne**
 
 ```text
-Traduction en cours
+Tunique grise à manches courtes avec une silhouette carrée géante couvrant du dessus de la taille jusqu'aux hanches. Fabriquée dans une matière spéciale semblant superposer un organza semi-transparent épais, un filet grossier et un mince film de résine, avec des manches larges s'évasant considérablement sur les côtés depuis les épaules jusqu'aux poignets. Au niveau du cou, un petit col de chemise noir et une lavallière noire. Toute la tunique est ornée d'un gros cordon noir cousu en broderie abstraite ondulant comme un dessin à ligne continue aléatoire, avec de petits papillons rouge vermillon à corail, des nœuds et des appliqués en forme de pétales dispersés aux intersections et sur les bords. L'intérieur des poignets est noir. Le tissu présente des plis réalistes, des affaissements, des marges de couture, des fils flottants et une subtile transparence. Chaussettes hautes noires montant au-dessus du genou. Mules rouges. À l'arrière droit de la tête, un chignon géant en forme de nœud papillon noir mat. Aux oreilles pendent de longues et fines boucles d'oreilles en chaîne de perles rouges et noires descendant presque jusqu'à la poitrine.
 ```
 
 [↑ Retour aux catégories](#catalog)

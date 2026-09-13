@@ -1890,13 +1890,13 @@ Sakin, şiirsel, zarif, minimal, masum, sanatsal, düşünceli, birinci sınıf 
 
 <a name="prompt-2098960216792682600"></a>
 
-### Çeviri sürüyor
+### Mandala gotik tarzı yarı saydam tunik ve aksesuarları ayrıntılı olarak belirten kostüm tasarımı Prompt'u.
 
 Yazar：[@AI\_GIRL\_DESIGN](https://x.com/AI_GIRL_DESIGN) · [Orijinal gönderi](https://x.com/AI_GIRL_DESIGN/status/2098960216792682600)
 
 Portre / Selfie · Moda Ürünü · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Mandala gotik tarzı yarı saydam tunik ve aksesuarları ayrıntılı olarak belirten kostüm tasarımı Prompt'u.
 
 <img src="images/2098960216792682600-1.jpg" alt="Görsel 1" width="480" />
 
@@ -1905,7 +1905,7 @@ Portre / Selfie · Moda Ürünü · Yayımlandı
 **İstem**
 
 ```text
-Çeviri sürüyor
+Belin üstünden kalçayı örten devasa kutu siluetli gri kısa kollu tunik. Kalın yarı saydam organze, kaba file ve ince reçine filminin üst üste bindirilmiş gibi durduğu özel bir malzemeden üretilmiş olup, omuzlardan manşetlere kadar yanlara doğru genişçe uzanan geniş kollara sahiptir. Yaka kısmında küçük siyah bir gömlek yakası ve siyah kurdele kravat bulunur. Tuniğin tamamına, rastgele tek bir çizgi gibi kıvrılan soyut bir nakış şeklinde kalın siyah kordon dikilmiş olup, kesişim noktalarında ve kenarlarda zencefre kırmızısından mercan rengine uzanan küçük kelebekler, düğümler ve taç yaprak şeklinde aplikeler serpiştirilmiştir. Kol manşetlerinin iç kısmı siyahtır. Kumaşta gerçekçi kırışıklıklar, sarkmalar, dikiş payları, belirginleşen iplikler ve ince bir şeffaflık yer alır. Siyah diz üstü çoraplar. Kırmızı katır terlikler (mule). Başın sağ arka tarafında devasa mat siyah fiyonk şeklinde bir topuz. Her iki kulaktan göğüs hizasına kadar sarkan kırmızı ve siyah boncuklu ince uzun zincir küpeler.
 ```
 
 [↑ Kategorilere dön](#catalog)

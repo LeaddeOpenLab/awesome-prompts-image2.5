@@ -1890,13 +1890,13 @@ Tranquilo, poético, refinado, minimalista, inocente, artístico, ponderado, sof
 
 <a name="prompt-2098960216792682600"></a>
 
-### Tradução em andamento
+### Prompt de design de figurino especificando detalhadamente uma túnica semitransparente e acessórios em estilo gótico mandala.
 
 Autor：[@AI\_GIRL\_DESIGN](https://x.com/AI_GIRL_DESIGN) · [Publicação original](https://x.com/AI_GIRL_DESIGN/status/2098960216792682600)
 
 Retrato / Selfie · Item de Moda · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt de design de figurino especificando detalhadamente uma túnica semitransparente e acessórios em estilo gótico mandala.
 
 <img src="images/2098960216792682600-1.jpg" alt="Imagem 1" width="480" />
 
@@ -1905,7 +1905,7 @@ Retrato / Selfie · Item de Moda · Publicado
 **Prompt**
 
 ```text
-Tradução em andamento
+Túnica cinza de mangas curtas com uma silhueta quadrada gigante cobrindo desde acima da cintura até o quadril. Confeccionada em um material especial que parece sobrepor organza espessa semitransparente, malha áspera e uma fina película de resina, com mangas largas que se projetam amplamente para os lados a partir dos ombros até os punhos. Na gola, um pequeno colarinho de camisa preto e uma fita preta em laço. Toda a túnica é costurada com um cordão preto grosso em bordado abstrato que ondula como um desenho contínuo aleatório, com pequenas borboletas em tons de vermelho-vermelhão a coral, nós e apliques em forma de pétalas espalhados nas interseções e bordas. A parte interna dos punhos é preta. O tecido apresenta dobras realistas, caimento natural, margens de costura, fios soltos e sutil transparência. Meias pretas acima do joelho. Mules vermelhos. Na parte posterior direita da cabeça, um coque gigante em formato de laço em preto fosco. De ambas as orelhas pendem brincos longos e finos de corrente com contas pretas e vermelhas que chegam perto do peito.
 ```
 
 [↑ Voltar às categorias](#catalog)
