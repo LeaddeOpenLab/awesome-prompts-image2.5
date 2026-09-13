@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-13T16:32:01.065Z",
+  "model": "image2",
+  "prompt": "ULTRA-REALISTIC NATURAL SMARTPHONE PHOTOGRAPH, vertical 3:4, candid outdoor lifestyle portrait of a young East Asian woman relaxing in a lush tropical garden café.\nShe has long, naturally wavy dark brown hair falling softly over her shoulders and down her back, with a natural center-parted hairstyle. Her face has delicate youthful features, clear realistic skin, and a soft relaxed smile as she looks directly toward the camera.\nShe is wearing a fitted brown and muted mauve plaid sleeveless mini dress with thin spaghetti straps and a softly gathered, slightly flared skirt. The dress has a subtle vintage-inspired checkered pattern and natural fabric folds.\nShe is seated casually on a simple light-colored outdoor chair, leaning slightly toward one side in a relaxed candid pose. One arm rests naturally on the chair while her other hand gently touches her hair. Her posture feels effortless and unposed.\nThe setting is a beautiful tropical garden with dense lush greenery, large banana leaves, broad tropical plants, ferns, trees, and potted plants surrounding the seating area. A dark modern outdoor staircase with wooden steps and black vertical railings is visible behind her, blending naturally into the garden architecture. A textured gravel pathway extends into the background.\nSoft natural daylight filters through the trees, creating realistic highlights and gentle shadows across her face, hair, dress, and surrounding foliage. Slightly shaded garden atmosphere with beautiful natural depth.\nRAW smartphone photography aesthetic, ultra-realistic skin texture, individual hair strands, realistic fabric texture, authentic natural lighting, subtle imperfections, realistic body proportions, natural facial details, no excessive retouching, no beauty filter, no plastic skin, no CGI appearance, realistic background, gentle depth of field, candid vacation lifestyle photography, vertical 3:4 composition.",
+  "promptTranslations": {
+    "en": "ULTRA-REALISTIC NATURAL SMARTPHONE PHOTOGRAPH, vertical 3:4, candid outdoor lifestyle portrait of a young East Asian woman relaxing in a lush tropical garden café.\nShe has long, naturally wavy dark brown hair falling softly over her shoulders and down her back, with a natural center-parted hairstyle. Her face has delicate youthful features, clear realistic skin, and a soft relaxed smile as she looks directly toward the camera.\nShe is wearing a fitted brown and muted mauve plaid sleeveless mini dress with thin spaghetti straps and a softly gathered, slightly flared skirt. The dress has a subtle vintage-inspired checkered pattern and natural fabric folds.\nShe is seated casually on a simple light-colored outdoor chair, leaning slightly toward one side in a relaxed candid pose. One arm rests naturally on the chair while her other hand gently touches her hair. Her posture feels effortless and unposed.\nThe setting is a beautiful tropical garden with dense lush greenery, large banana leaves, broad tropical plants, ferns, trees, and potted plants surrounding the seating area. A dark modern outdoor staircase with wooden steps and black vertical railings is visible behind her, blending naturally into the garden architecture. A textured gravel pathway extends into the background.\nSoft natural daylight filters through the trees, creating realistic highlights and gentle shadows across her face, hair, dress, and surrounding foliage. Slightly shaded garden atmosphere with beautiful natural depth.\nRAW smartphone photography aesthetic, ultra-realistic skin texture, individual hair strands, realistic fabric texture, authentic natural lighting, subtle imperfections, realistic body proportions, natural facial details, no excessive retouching, no beauty filter, no plastic skin, no CGI appearance, realistic background, gentle depth of field, candid vacation lifestyle photography, vertical 3:4 composition."
+  },
+  "summaryTranslations": {
+    "en": "ULTRA-REALISTIC NATURAL SMARTPHONE PHOTOGRAPH candid portrait of a young East Asian woman in a plaid dress relaxing in a lush tropical garden café."
+  },
+  "translationVersion": 2,
+  "summary": "ULTRA-REALISTIC NATURAL SMARTPHONE PHOTOGRAPH candid portrait of a young East Asian woman in a plaid dress relaxing in a lush tropical garden café.",
+  "summaryEn": "ULTRA-REALISTIC NATURAL SMARTPHONE PHOTOGRAPH candid portrait of a young East Asian woman in a plaid dress relaxing in a lush tropical garden café.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2099152153722159320",
+    "canonicalUrl": "https://x.com/Aqsahere_/status/2099152153722159320",
+    "author": {
+      "username": "Aqsahere_",
+      "displayName": "Aqsa",
+      "profileUrl": "https://x.com/Aqsahere_"
+    },
+    "publishedAt": "2026-09-13T15:04:08.000Z",
+    "collectedAt": "2026-09-13T16:16:58.485Z",
+    "language": "en",
+    "originalText": "GPT image 2 in chatgpt \n\nPrompt:\nULTRA-REALISTIC NATURAL SMARTPHONE PHOTOGRAPH, vertical 3:4, candid outdoor lifestyle portrait of a young East Asian woman relaxing in a lush tropical garden café.\nShe has long, naturally wavy dark brown hair falling softly over her shoulders and down her back, with a natural center-parted hairstyle. Her face has delicate youthful features, clear realistic skin, and a soft relaxed smile as she looks directly toward the camera.\nShe is wearing a fitted brown and muted mauve plaid sleeveless mini dress with thin spaghetti straps and a softly gathered, slightly flared skirt. The dress has a subtle vintage-inspired checkered pattern and natural fabric folds.\nShe is seated casually on a simple light-colored outdoor chair, leaning slightly toward one side in a relaxed candid pose. One arm rests naturally on the chair while her other hand gently touches her hair. Her posture feels effortless and unposed.\nThe setting is a beautiful tropical garden with dense lush greenery, large banana leaves, broad tropical plants, ferns, trees, and potted plants surrounding the seating area. A dark modern outdoor staircase with wooden steps and black vertical railings is visible behind her, blending naturally into the garden architecture. A textured gravel pathway extends into the background.\nSoft natural daylight filters through the trees, creating realistic highlights and gentle shadows across her face, hair, dress, and surrounding foliage. Slightly shaded garden atmosphere with beautiful natural depth.\nRAW smartphone photography aesthetic, ultra-realistic skin texture, individual hair strands, realistic fabric texture, authentic natural lighting, subtle imperfections, realistic body proportions, natural facial details, no excessive retouching, no beauty filter, no plastic skin, no CGI appearance, realistic background, gentle depth of field, candid vacation lifestyle photography, vertical 3:4 composition.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSGvwPJbgAAmqBg.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSGvwPJbgAAmqBg.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 38,
+      "repostCount": 3,
+      "replyCount": 17,
+      "quoteCount": 0,
+      "viewCount": 732
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Aqsahere_/status/2099152153722159320",
+  "coverUrl": "https://pbs.twimg.com/media/HSGvwPJbgAAmqBg.jpg",
+  "coverPath": "images/2099152153722159320-1.jpg",
+  "imagePaths": [
+    "images/2099152153722159320-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSGvwPJbgAAmqBg",
+    "x-post:2099152153722159320"
+  ],
+  "analysis": {
+    "summary": "ULTRA-REALISTIC NATURAL SMARTPHONE PHOTOGRAPH candid portrait of a young East Asian woman in a plaid dress relaxing in a lush tropical garden café.",
+    "summaryEn": "ULTRA-REALISTIC NATURAL SMARTPHONE PHOTOGRAPH candid portrait of a young East Asian woman in a plaid dress relaxing in a lush tropical garden café.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The image precisely matches the prompt: an East Asian woman with long brown wavy hair touching her hair, wearing a brown/mauve plaid spaghetti strap mini dress, sitting in an outdoor chair with an iced beverage on a wooden table, in front of a tropical garden with an outdoor wooden and black railing staircase and gravel path."
+    },
+    "videoQuality": null,
+    "originalPrompt": "ULTRA-REALISTIC NATURAL SMARTPHONE PHOTOGRAPH, vertical 3:4, candid outdoor lifestyle portrait of a young East Asian woman relaxing in a lush tropical garden café.\nShe has long, naturally wavy dark brown hair falling softly over her shoulders and down her back, with a natural center-parted hairstyle. Her face has delicate youthful features, clear realistic skin, and a soft relaxed smile as she looks directly toward the camera.\nShe is wearing a fitted brown and muted mauve plaid sleeveless mini dress with thin spaghetti straps and a softly gathered, slightly flared skirt. The dress has a subtle vintage-inspired checkered pattern and natural fabric folds.\nShe is seated casually on a simple light-colored outdoor chair, leaning slightly toward one side in a relaxed candid pose. One arm rests naturally on the chair while her other hand gently touches her hair. Her posture feels effortless and unposed.\nThe setting is a beautiful tropical garden with dense lush greenery, large banana leaves, broad tropical plants, ferns, trees, and potted plants surrounding the seating area. A dark modern outdoor staircase with wooden steps and black vertical railings is visible behind her, blending naturally into the garden architecture. A textured gravel pathway extends into the background.\nSoft natural daylight filters through the trees, creating realistic highlights and gentle shadows across her face, hair, dress, and surrounding foliage. Slightly shaded garden atmosphere with beautiful natural depth.\nRAW smartphone photography aesthetic, ultra-realistic skin texture, individual hair strands, realistic fabric texture, authentic natural lighting, subtle imperfections, realistic body proportions, natural facial details, no excessive retouching, no beauty filter, no plastic skin, no CGI appearance, realistic background, gentle depth of field, candid vacation lifestyle photography, vertical 3:4 composition.",
+    "sourceRange": {
+      "start": 33,
+      "end": 1949
+    },
+    "translations": {
+      "zh": "超逼真自然智能手机照片，3:4 竖图，一位年轻东亚女性在郁郁葱葱的热带花园咖啡馆中放松的真实户外生活风肖像。\n她留着微卷深棕色长发，自然中分，柔顺地垂落在肩部和后背。五官清秀年轻，皮肤真实清透，微笑着直视镜头。\n身穿剪裁合身的棕色搭配淡紫灰色格子无袖细吊带迷你连衣裙，裙摆带有轻微褶皱与外展效果。裙子带有精致的复古格子花纹与天然织物褶皱。\n自然闲坐在一把浅色简易户外椅上，微微侧倾呈放松抓拍姿态。一条手臂随意搭在椅上，另一只手轻轻触碰头发，体态自然不造作。\n背景是一处绝美的热带花园，座位旁环绕着茂密的绿植、巨大的芭蕉叶、宽叶热带植物、蕨类、树木和盆栽。身后可见带有木制台阶和黑色竖向栏杆的深色现代户外楼梯，自然融入花园景观。一条质感明显的碎石小径延伸向背景。\n柔和自然的日光穿过树木，在脸庞、发丝、连衣裙和周围枝叶上形成逼真的高光与柔和阴影。带微阴凉的花园氛围，具有优美自然的景深。\nRAW 智能手机摄影质感，超逼真皮肤纹理、独立发丝、真实布料纹理、自然真实光线、微小瑕疵、逼真身材比例、自然面部细节，无过度修图，无美颜滤镜，无塑料感皮肤，无 CGI 痕迹，逼真背景，轻度景深，抓拍度假生活风摄影，3:4 竖幅构图。",
+      "en": "ULTRA-REALISTIC NATURAL SMARTPHONE PHOTOGRAPH, vertical 3:4, candid outdoor lifestyle portrait of a young East Asian woman relaxing in a lush tropical garden café.\nShe has long, naturally wavy dark brown hair falling softly over her shoulders and down her back, with a natural center-parted hairstyle. Her face has delicate youthful features, clear realistic skin, and a soft relaxed smile as she looks directly toward the camera.\nShe is wearing a fitted brown and muted mauve plaid sleeveless mini dress with thin spaghetti straps and a softly gathered, slightly flared skirt. The dress has a subtle vintage-inspired checkered pattern and natural fabric folds.\nShe is seated casually on a simple light-colored outdoor chair, leaning slightly toward one side in a relaxed candid pose. One arm rests naturally on the chair while her other hand gently touches her hair. Her posture feels effortless and unposed.\nThe setting is a beautiful tropical garden with dense lush greenery, large banana leaves, broad tropical plants, ferns, trees, and potted plants surrounding the seating area. A dark modern outdoor staircase with wooden steps and black vertical railings is visible behind her, blending naturally into the garden architecture. A textured gravel pathway extends into the background.\nSoft natural daylight filters through the trees, creating realistic highlights and gentle shadows across her face, hair, dress, and surrounding foliage. Slightly shaded garden atmosphere with beautiful natural depth.\nRAW smartphone photography aesthetic, ultra-realistic skin texture, individual hair strands, realistic fabric texture, authentic natural lighting, subtle imperfections, realistic body proportions, natural facial details, no excessive retouching, no beauty filter, no plastic skin, no CGI appearance, realistic background, gentle depth of field, candid vacation lifestyle photography, vertical 3:4 composition."
+    },
+    "targetModels": [
+      "image2"
+    ],
+    "category": "text-to-image",
+    "useCase": "portrait photography",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
