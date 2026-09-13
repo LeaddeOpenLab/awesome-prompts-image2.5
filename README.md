@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**93** Prompts · Latest addition: **2026-09-13**
+**95** Prompts · Latest addition: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2099106601538097211"></a>
+
+### Realistic snapshot of a young Japanese woman holding a strap handle in a deep V-neck camisole from the perspective of a seated person inside a train.
+
+Author：[@SGRationalnvest](https://x.com/SGRationalnvest) · [Source](https://x.com/SGRationalnvest/status/2099106601538097211)
+
+Photography · Portrait / Selfie · Character · Vehicle · Published
+
+**Summary:** Realistic snapshot of a young Japanese woman holding a strap handle in a deep V-neck camisole from the perspective of a seated person inside a train.
+
+<img src="images/2099106601538097211-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+24 years old, Japanese woman, train, front view, leaning forward, holding onto a high hanging strap, armpits exposed, deep V-neck camisole, looking directly forward, looking down expression, perspective from a seated person, smartphone photo, realistic texture, vertical shot
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098866288957551034"></a>
 
@@ -416,6 +438,50 @@ Photography · Landscape / Nature · Published
 
 ```text
 Photo of a clearing in the woods with lots of green foliage, highly detailed
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2099112358392033544"></a>
+
+### Portrait prompt of a woman with round glasses and a bun hairstyle, wearing a floral bralette and a sheer white cardigan, smiling in a living room bathed in morning light.
+
+Author：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Source](https://x.com/CyberTotal2026/status/2099112358392033544)
+
+Photography · Portrait / Selfie · Character · Published
+
+**Summary:** Portrait prompt of a woman with round glasses and a bun hairstyle, wearing a floral bralette and a sheer white cardigan, smiling in a living room bathed in morning light.
+
+<img src="images/2099112358392033544-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Theme:
+Round glasses and morning floral pattern
+
+Subject:
+A vertical close-up photograph of an adult woman sitting on the floor of a living room with flowers and morning sunlight, resting her cheek on a white sleeve. The subject is positioned based around the center of the frame.
+
+Person/Facial Expression:
+Light brown hair tied up in a high messy bun with a white scrunchie, thin bangs, and fine loose strands of hair. Round metal-framed glasses, closed eyes, long eyelashes, a petite nose, and glossy pink lips. A quiet smile. Her face is turned diagonally downward.
+
+Attire/Pose:
+A lace-trimmed bralette in off-white with blue ditsy floral print and matching short bottoms, draped with a sheer white long-sleeved cardigan slipped off the shoulders. Leaning on one elbow, supporting her cheek with a hand covered by the sleeve. Floral patterned swimwear.
+
+Background/Lighting:
+A large window, a garden, a white rug, flowers in a vase, and a clear drink with lemon in the lower right. Strong morning sunlight from the upper right edges her hair and shoulders. The main ambient light in the background is soft light coming from the window side.
+
+Composition/Camera:
+A 3:4 vertical composition, camera slightly from above, closer to below the chest. The face and round glasses are placed in the upper left, the floral pattern and white sleeves in the center, and the drink in the lower right. Focus on the face, glasses, and lace. Framing the subject largely, focusing on the main subject, with a soft blur in the background.
+
+Texture/Style:
+A photorealistic natural light photograph. Softly capturing the round glasses, sheer white fabric, ditsy floral lace, backlit hair, and the natural glow of the skin.
+
+Negative:
+Do not omit the round glasses or resting the cheek on the white sleeve; do not let hair down
 ```
 
 [↑ Back to categories](#catalog)

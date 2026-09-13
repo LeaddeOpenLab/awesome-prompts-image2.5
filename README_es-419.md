@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**93** Prompts · Última incorporación: **2026-09-13**
+**95** Prompts · Última incorporación: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Dale una estrella a este repositorio para seguir nuestra selección diaria y des
 <a name="category-photography"></a>
 
 ## Fotografía
+
+<a name="prompt-2099106601538097211"></a>
+
+### Traducción en curso
+
+Autor：[@SGRationalnvest](https://x.com/SGRationalnvest) · [Publicación original](https://x.com/SGRationalnvest/status/2099106601538097211)
+
+Fotografía · Retrato / Selfie · Personaje · Vehículo · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2099106601538097211-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2098866288957551034"></a>
 
@@ -367,22 +389,44 @@ Foto de un claro en el bosque con mucho follaje verde, muy detallada
 
 ---
 
-<a name="prompt-2099094091179180195"></a>
+<a name="prompt-2099112358392033544"></a>
 
 ### Traducción en curso
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicación original](https://x.com/CyberTotal2026/status/2099112358392033544)
+
+Fotografía · Retrato / Selfie · Personaje · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2099112358392033544-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2099094091179180195"></a>
+
+### Foto espontánea de estilo callejero de dos mujeres del este de Asia conversando junto a la ventana de un McDonald's.
 
 Autor：[@Aqsahere\_](https://x.com/Aqsahere_) · [Publicación original](https://x.com/Aqsahere_/status/2099094091179180195)
 
 Fotografía · Paisaje urbano / Calle · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Foto espontánea de estilo callejero de dos mujeres del este de Asia conversando junto a la ventana de un McDonald's.
 
 <img src="images/2099094091179180195-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Fotografía callejera espontánea y ultrarrealista en formato 9:16 de dos mujeres adultas del este de Asia con faldas cortas elegantes, sentadas de manera casual en una barra junto a la ventana dentro de un McDonald's, charlando con naturalidad. Fotografiada desde la acera a través de la ventana de vidrio, con reflejos realistas, iluminación interior cálida, lenguaje corporal natural, expresiones auténticas, texturas detalladas de piel y ropa, profundidad de campo reducida y una sensación de fotografía con smartphone sin poses.
 ```
 
 [↑ Volver a categorías](#catalog)

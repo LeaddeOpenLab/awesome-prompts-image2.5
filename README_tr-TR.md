@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**93** Prompt · Son eklenen: **2026-09-13**
+**95** Prompt · Son eklenen: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 <a name="category-photography"></a>
 
 ## Fotoğrafçılık
+
+<a name="prompt-2099106601538097211"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@SGRationalnvest](https://x.com/SGRationalnvest) · [Orijinal gönderi](https://x.com/SGRationalnvest/status/2099106601538097211)
+
+Fotoğrafçılık · Portre / Selfie · Karakter · Araç · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2099106601538097211-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2098866288957551034"></a>
 
@@ -367,22 +389,44 @@ Ormanda bol yeşil yaprakları olan bir açıklığın fotoğrafı, son derece d
 
 ---
 
-<a name="prompt-2099094091179180195"></a>
+<a name="prompt-2099112358392033544"></a>
 
 ### Çeviri sürüyor
+
+Yazar：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Orijinal gönderi](https://x.com/CyberTotal2026/status/2099112358392033544)
+
+Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2099112358392033544-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2099094091179180195"></a>
+
+### Bir McDonald's penceresinin kenarında sohbet eden iki Doğu Asyalı kadının sokak tarzı samimi fotoğrafı.
 
 Yazar：[@Aqsahere\_](https://x.com/Aqsahere_) · [Orijinal gönderi](https://x.com/Aqsahere_/status/2099094091179180195)
 
 Fotoğrafçılık · Şehir Manzarası / Sokak · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Bir McDonald's penceresinin kenarında sohbet eden iki Doğu Asyalı kadının sokak tarzı samimi fotoğrafı.
 
 <img src="images/2099094091179180195-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Şık kısa etekler giymiş iki Doğu Asyalı yetişkin kadının bir McDonald's içinde pencere kenarındaki barda rahatça oturup doğal bir şekilde sohbet ettiği, 9:16 formatında ultra gerçekçi, samimi bir sokak fotoğrafı. Kaldırımdan cam pencerenin ardından çekilmiş, gerçekçi yansımalar, sıcak iç mekan aydınlatması, doğal beden dili, sahici ifadeler, ayrıntılı cilt ve giysi dokuları, sığ alan derinliği ve poz verilmemiş akıllı telefon fotoğrafı hissi.
 ```
 
 [↑ Kategorilere dön](#catalog)

@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**93** Prompt · Ultima aggiunta: **2026-09-13**
+**95** Prompt · Ultima aggiunta: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 <a name="category-photography"></a>
 
 ## Fotografia
+
+<a name="prompt-2099106601538097211"></a>
+
+### Traduzione in corso
+
+Autore：[@SGRationalnvest](https://x.com/SGRationalnvest) · [Post originale](https://x.com/SGRationalnvest/status/2099106601538097211)
+
+Fotografia · Ritratto / Selfie · Personaggio · Veicolo · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2099106601538097211-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2098866288957551034"></a>
 
@@ -367,22 +389,44 @@ Foto di una radura nel bosco con abbondante fogliame verde, altamente dettagliat
 
 ---
 
-<a name="prompt-2099094091179180195"></a>
+<a name="prompt-2099112358392033544"></a>
 
 ### Traduzione in corso
+
+Autore：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Post originale](https://x.com/CyberTotal2026/status/2099112358392033544)
+
+Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2099112358392033544-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2099094091179180195"></a>
+
+### Foto spontanea in stile street di due donne dell'Asia orientale che conversano vicino alla finestra di un McDonald's.
 
 Autore：[@Aqsahere\_](https://x.com/Aqsahere_) · [Post originale](https://x.com/Aqsahere_/status/2099094091179180195)
 
 Fotografia · Paesaggio urbano / Strada · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Foto spontanea in stile street di due donne dell'Asia orientale che conversano vicino alla finestra di un McDonald's.
 
 <img src="images/2099094091179180195-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Fotografia di strada spontanea e ultra-realistica in 9:16 di due donne adulte dell'Asia orientale con eleganti gonne corte, sedute casualmente al bancone vicino alla finestra all'interno di un McDonald's, che chiacchierano naturalmente insieme. Fotografate dal marciapiede attraverso la vetrina di vetro, con riflessi realistici, calda illuminazione interna, linguaggio del corpo naturale, espressioni autentiche, texture dettagliate della pelle e dei vestiti, profondità di campo ridotta e l'effetto di una fotografia da smartphone non in posa.
 ```
 
 [↑ Torna alle categorie](#catalog)

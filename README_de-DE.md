@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**93** Prompts · Zuletzt hinzugefügt: **2026-09-13**
+**95** Prompts · Zuletzt hinzugefügt: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 <a name="category-photography"></a>
 
 ## Fotografie
+
+<a name="prompt-2099106601538097211"></a>
+
+### Übersetzung läuft
+
+Autor：[@SGRationalnvest](https://x.com/SGRationalnvest) · [Originalbeitrag](https://x.com/SGRationalnvest/status/2099106601538097211)
+
+Fotografie · Porträt / Selfie · Charakter · Fahrzeug · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2099106601538097211-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2098866288957551034"></a>
 
@@ -367,22 +389,44 @@ Foto einer Waldlichtung mit viel grünem Blattwerk, sehr detailliert
 
 ---
 
-<a name="prompt-2099094091179180195"></a>
+<a name="prompt-2099112358392033544"></a>
 
 ### Übersetzung läuft
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Originalbeitrag](https://x.com/CyberTotal2026/status/2099112358392033544)
+
+Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2099112358392033544-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2099094091179180195"></a>
+
+### Ungestelltes Foto im Street-Style von zwei ostasiatischen Frauen, die sich an einem McDonald's-Fenster unterhalten.
 
 Autor：[@Aqsahere\_](https://x.com/Aqsahere_) · [Originalbeitrag](https://x.com/Aqsahere_/status/2099094091179180195)
 
 Fotografie · Stadtbild / Straße · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Ungestelltes Foto im Street-Style von zwei ostasiatischen Frauen, die sich an einem McDonald's-Fenster unterhalten.
 
 <img src="images/2099094091179180195-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Ultra-realistische, ungestellte 9:16-Straßenfotografie von zwei erwachsenen ostasiatischen Frauen in eleganten kurzen Röcken, die lässig an einer Fenstertheke in einem McDonald’s sitzen und sich ganz natürlich unterhalten. Vom Bürgersteig aus durch die Glasscheibe fotografiert, mit realistischen Reflexionen, warmer Innenbeleuchtung, natürlicher Körpersprache, authentischen Gesichtsausdrücken, detaillierten Haut- und Kleidungsstrukturen, geringer Tiefenschärfe und dem ungestellten Gefühl eines Smartphone-Fotos.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

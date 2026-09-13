@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**93** Prompts · Última adição: **2026-09-13**
+**95** Prompts · Última adição: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Dê uma estrela a este repositório para acompanhar nossa seleção diária de p
 <a name="category-photography"></a>
 
 ## Fotografia
+
+<a name="prompt-2099106601538097211"></a>
+
+### Tradução em andamento
+
+Autor：[@SGRationalnvest](https://x.com/SGRationalnvest) · [Publicação original](https://x.com/SGRationalnvest/status/2099106601538097211)
+
+Fotografia · Retrato / Selfie · Personagem · Veículo · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2099106601538097211-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2098866288957551034"></a>
 
@@ -367,22 +389,44 @@ Foto de uma clareira na floresta com muita folhagem verde, altamente detalhada
 
 ---
 
-<a name="prompt-2099094091179180195"></a>
+<a name="prompt-2099112358392033544"></a>
 
 ### Tradução em andamento
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicação original](https://x.com/CyberTotal2026/status/2099112358392033544)
+
+Fotografia · Retrato / Selfie · Personagem · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2099112358392033544-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2099094091179180195"></a>
+
+### Foto espontânea em estilo de rua de duas mulheres do leste asiático conversando perto da janela de um McDonald's.
 
 Autor：[@Aqsahere\_](https://x.com/Aqsahere_) · [Publicação original](https://x.com/Aqsahere_/status/2099094091179180195)
 
 Fotografia · Paisagem Urbana / Rua · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Foto espontânea em estilo de rua de duas mulheres do leste asiático conversando perto da janela de um McDonald's.
 
 <img src="images/2099094091179180195-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Fotografia de rua espontânea e ultrarrealista em formato 9:16 de duas mulheres adultas do leste asiático usando saias curtas elegantes, sentadas casualmente em um balcão junto à janela dentro de um McDonald's, conversando naturalmente. Fotografadas a partir da calçada através da janela de vidro, com reflexos realistas, iluminação interna quente, linguagem corporal natural, expressões autênticas, texturas detalhadas de pele e roupas, profundidade de campo rasa e a sensação de fotografia com smartphone sem poses.
 ```
 
 [↑ Voltar às categorias](#catalog)

@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**93** Prompts · Dernier ajout: **2026-09-13**
+**95** Prompts · Dernier ajout: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 <a name="category-photography"></a>
 
 ## Photographie
+
+<a name="prompt-2099106601538097211"></a>
+
+### Traduction en cours
+
+Auteur：[@SGRationalnvest](https://x.com/SGRationalnvest) · [Publication originale](https://x.com/SGRationalnvest/status/2099106601538097211)
+
+Photographie · Portrait / Selfie · Personnage · Véhicule · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2099106601538097211-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2098866288957551034"></a>
 
@@ -367,22 +389,44 @@ Photo d'une clairière dans les bois avec un feuillage vert abondant, très dét
 
 ---
 
-<a name="prompt-2099094091179180195"></a>
+<a name="prompt-2099112358392033544"></a>
 
 ### Traduction en cours
+
+Auteur：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publication originale](https://x.com/CyberTotal2026/status/2099112358392033544)
+
+Photographie · Portrait / Selfie · Personnage · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2099112358392033544-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2099094091179180195"></a>
+
+### Photo de rue candide de deux femmes d'Asie de l'Est discutant près d'une fenêtre de McDonald's.
 
 Auteur：[@Aqsahere\_](https://x.com/Aqsahere_) · [Publication originale](https://x.com/Aqsahere_/status/2099094091179180195)
 
 Photographie · Paysage urbain / Rue · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Photo de rue candide de deux femmes d'Asie de l'Est discutant près d'une fenêtre de McDonald's.
 
 <img src="images/2099094091179180195-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Photographie de rue candide et ultra-réaliste au format 9:16 de deux femmes adultes d'Asie de l'Est vêtues de jupes courtes élégantes, assises de manière décontractée à un comptoir près de la fenêtre à l'intérieur d'un McDonald's, discutant naturellement ensemble. Photographiée depuis le trottoir à travers la vitre, avec des reflets réalistes, un éclairage intérieur chaleureux, un langage corporel naturel, des expressions authentiques, des textures détaillées de la peau et des vêtements, une faible profondeur de champ et une impression de photo prise sur le vif avec un smartphone.
 ```
 
 [↑ Retour aux catégories](#catalog)

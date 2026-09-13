@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**93** Prompt · Bổ sung mới nhất: **2026-09-13**
+**95** Prompt · Bổ sung mới nhất: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 <a name="category-photography"></a>
 
 ## Nhiếp ảnh
+
+<a name="prompt-2099106601538097211"></a>
+
+### Đang dịch
+
+Tác giả：[@SGRationalnvest](https://x.com/SGRationalnvest) · [Bài gốc](https://x.com/SGRationalnvest/status/2099106601538097211)
+
+Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Phương tiện · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2099106601538097211-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2098866288957551034"></a>
 
@@ -372,22 +394,44 @@ Nhiếp ảnh · Phong cảnh / Thiên nhiên · Đã xuất bản
 
 ---
 
-<a name="prompt-2099094091179180195"></a>
+<a name="prompt-2099112358392033544"></a>
 
 ### Đang dịch
+
+Tác giả：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Bài gốc](https://x.com/CyberTotal2026/status/2099112358392033544)
+
+Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2099112358392033544-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2099094091179180195"></a>
+
+### Ảnh chụp lén phong cách đường phố hai người phụ nữ Đông Á đang trò chuyện bên cửa sổ McDonald's.
 
 Tác giả：[@Aqsahere\_](https://x.com/Aqsahere_) · [Bài gốc](https://x.com/Aqsahere_/status/2099094091179180195)
 
 Nhiếp ảnh · Quang cảnh thành phố / Đường phố · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Ảnh chụp lén phong cách đường phố hai người phụ nữ Đông Á đang trò chuyện bên cửa sổ McDonald's.
 
 <img src="images/2099094091179180195-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Bức ảnh đường phố chụp lén tỉ lệ 9:16 siêu thực về hai phụ nữ Đông Á trưởng thành mặc váy ngắn sành điệu, đang ngồi thoải mái tại quầy cạnh cửa sổ bên trong McDonald's, trò chuyện tự nhiên cùng nhau. Được chụp từ vỉa hè qua cửa kính, với hình ảnh phản chiếu chân thực, ánh sáng ấm áp trong nhà, ngôn ngữ cơ thể tự nhiên, biểu cảm chân thật, chi tiết vân da và chất liệu quần áo rõ nét, độ sâu trường ảnh nông, và mang lại cảm giác chụp ảnh bằng điện thoại thông minh không tạo dáng.
 ```
 
 [↑ Về danh mục](#catalog)
