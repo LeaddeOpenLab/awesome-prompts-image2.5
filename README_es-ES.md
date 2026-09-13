@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**89** Prompts · Última incorporación: **2026-09-13**
+**90** Prompts · Última incorporación: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -372,22 +372,66 @@ Foto de un claro en el bosque con abundante follaje verde, altamente detallada
 
 ---
 
-<a name="prompt-2098945760817479956"></a>
+<a name="prompt-2098975203866837026"></a>
 
 ### Traducción en curso
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicación original](https://x.com/CyberTotal2026/status/2098975203866837026)
+
+Fotografía · Retrato / Selfie · Personaje · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2098975203866837026-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2098945760817479956"></a>
+
+### Prompt de fotografía de retrato realista con luz natural de una mujer con mini camisón de satén negro mirando atrás en una cama soleada.
 
 Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicación original](https://x.com/CyberTotal2026/status/2098945760817479956)
 
 Fotografía · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de fotografía de retrato realista con luz natural de una mujer con mini camisón de satén negro mirando atrás en una cama soleada.
 
 <img src="images/2098945760817479956-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Tema:
+Satén negro bajo la luz matinal
+
+Sujeto:
+Fotografía vertical de una mujer adulta sentada de espaldas en una cama blanca bañada por el sol de la mañana, vistiendo un mini camisón de satén negro. El sujeto está centrado en el encuadre.
+
+Persona y expresión:
+Cabello ondulado y suelto de color castaño oscuro por debajo de los hombros con flequillo ligero. Rostro ovalado fino, ojos castaños rasgados, cejas naturales, nariz pequeña y labios rosados brillantes. Expresión serena mirando a la cámara por encima del hombro. Rostro orientado hacia la cámara sobre el hombro.
+
+Vestimenta y postura:
+Mini camisón de tirantes finos en satén negro brillante. Espalda profundamente abierta casi hasta la cintura, con múltiples cordones finos cruzados y pequeños lazos en ambos costados. Sentada con las piernas dobladas hacia un lado y una mano apoyada sobre la ropa de cama. Minivestido negro.
+
+Fondo e iluminación:
+Sábanas y almohadas blancas, paredes de tono claro, ventanal grande. La intensa luz de la mañana crea finos reflejos blancos en el satén negro, iluminando cálidamente la espalda y el cabello. La luz principal del fondo es una suave iluminación que entra por la ventana.
+
+Composición y cámara:
+Composición vertical 4:5, toma por encima de las rodillas en ángulo diagonal trasero desde el borde de la cama. El sujeto ocupa un lugar destacado en el centro, destacando la espalda descubierta y los cordones laterales. Enfoque nítido en el rostro que se gira y en el satén. Encuadre amplio del sujeto, enfoque en el elemento principal y suave desenfoque de fondo.
+
+Textura y estilo:
+Fotografía fotorrealista con luz natural. Representación precisa del brillo especular del satén negro, los finos cordones, la ropa de cama blanca y la luz matinal sobre el cabello y la piel.
+
+Negativo:
+No omitir la espalda profundamente escotada ni los cordones cruzados de los laterales
 ```
 
 [↑ Volver a categorías](#catalog)

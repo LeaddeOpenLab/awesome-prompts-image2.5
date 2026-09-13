@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**89** Prompt · Ultima aggiunta: **2026-09-13**
+**90** Prompt · Ultima aggiunta: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -367,22 +367,66 @@ Foto di una radura nel bosco con abbondante fogliame verde, altamente dettagliat
 
 ---
 
-<a name="prompt-2098945760817479956"></a>
+<a name="prompt-2098975203866837026"></a>
 
 ### Traduzione in corso
+
+Autore：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Post originale](https://x.com/CyberTotal2026/status/2098975203866837026)
+
+Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2098975203866837026-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2098945760817479956"></a>
+
+### Prompt per fotografia ritrattistica realistica a luce naturale di una donna in mini sottoveste di raso nero che si volta su un letto illuminato dal sole.
 
 Autore：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Post originale](https://x.com/CyberTotal2026/status/2098945760817479956)
 
 Fotografia · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per fotografia ritrattistica realistica a luce naturale di una donna in mini sottoveste di raso nero che si volta su un letto illuminato dal sole.
 
 <img src="images/2098945760817479956-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Tema:
+Raso nero alla luce del mattino
+
+Soggetto:
+Fotografia verticale di una donna adulta seduta di schiena su un letto bianco inondato dal sole del mattino, mentre indossa una mini sottoveste di raso nero. Il soggetto è posizionato al centro dell'inquadratura.
+
+Persona ed espressione:
+Capelli castano scuro morbidamente ondulati sotto le spalle con frangia sottile. Viso ovale e affusolato, occhi castani allungati, sopracciglia naturali, naso piccolo, labbra rosee lucide. Espressione serena mentre guarda la fotocamera oltre la spalla. Il viso è rivolto verso l'obiettivo al di sopra della spalla.
+
+Abbigliamento e posa:
+Mini sottoveste con spalline sottili in raso nero lucido. Schiena ampiamente scoperta fin quasi alla vita, con molteplici stringhe sottili intrecciate e piccoli fiocchetti su entrambi i lati. Seduta con le gambe ripiegate di lato, una mano posata sulle lenzuola. Mini abito nero.
+
+Sfondo e luce:
+Lenzuola e cuscini bianchi, pareti di colore chiaro, grande finestra. La forte luce del mattino crea sottili riflessi bianchi sul raso nero, illuminando calorosamente schiena e capelli. La luce principale dello sfondo è una morbida luce proveniente dalla finestra.
+
+Composizione e fotocamera:
+Composizione verticale 4:5, inquadratura sopra il ginocchio in diagonale posteriore dal bordo del letto. Il soggetto occupa ampiamente il centro, mettendo in primo piano la schiena scoperta e i lacci laterali. Messa a fuoco sul viso che si volta e sul raso. Soggetto in primo piano ben visibile, fuoco sul protagonista e leggero bokeh di sfondo.
+
+Texture e stile:
+Fotografia fotorealistica a luce naturale. Resa dettagliata della lucentezza a specchio del raso nero, dei sottili lacci intrecciati, delle lenzuola bianche e della luce del mattino su capelli e pelle.
+
+Negativo:
+Non omettere la schiena profondamente scoperta né i dettagli dei lacci intrecciati su entrambi i lati
 ```
 
 [↑ Torna alle categorie](#catalog)

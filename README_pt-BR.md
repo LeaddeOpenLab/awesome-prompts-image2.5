@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**89** Prompts · Última adição: **2026-09-13**
+**90** Prompts · Última adição: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -367,22 +367,66 @@ Foto de uma clareira na floresta com muita folhagem verde, altamente detalhada
 
 ---
 
-<a name="prompt-2098945760817479956"></a>
+<a name="prompt-2098975203866837026"></a>
 
 ### Tradução em andamento
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicação original](https://x.com/CyberTotal2026/status/2098975203866837026)
+
+Fotografia · Retrato / Selfie · Personagem · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2098975203866837026-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2098945760817479956"></a>
+
+### Prompt de fotografia de retrato realista com luz natural de uma mulher de mini slip dress de cetim preto olhando para trás em uma cama ensolarada.
 
 Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicação original](https://x.com/CyberTotal2026/status/2098945760817479956)
 
 Fotografia · Personagem · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt de fotografia de retrato realista com luz natural de uma mulher de mini slip dress de cetim preto olhando para trás em uma cama ensolarada.
 
 <img src="images/2098945760817479956-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Tema:
+Cetim preto à luz da manhã
+
+Sujeito:
+Fotografia vertical de uma mulher adulta sentada de costas em uma cama branca iluminada pelo sol da manhã, vestindo um mini slip dress de cetim preto. A pessoa está posicionada com base no centro da imagem.
+
+Personagem e expressão:
+Cabelos castanho-escuros levemente ondulados abaixo dos ombros com franja rala. Rosto oval e delicado, olhos castanhos amendoados, sobrancelhas naturais, nariz pequeno, lábios rosados viçosos. Expressão serena olhando para a câmera por cima do ombro. Rosto voltado para a câmera por cima do ombro.
+
+Traje e pose:
+Mini slip dress com alças finas em cetim preto brilhante. As costas são amplamente abertas quase até a cintura, com múltiplos cordões finos trançados e pequenos laços em ambos os lados. Sentada com as pernas dobradas para o lado, com uma mão apoiada na roupa de cama. Minivestido preto.
+
+Fundo e iluminação:
+Lençóis e travesseiros brancos, paredes em tons claros, janela ampla. O sol forte da manhã cria finos reflexos brancos no cetim preto, iluminando calorosamente as costas e os cabelos. A luz principal de fundo é uma luz suave que entra pela janela.
+
+Composição e câmera:
+Composição vertical 4:5, foto tirada na diagonal traseira acima do joelho a partir da beirada da cama. A pessoa é posicionada de forma ampla no centro, destacando as costas abertas e os laços laterais. Foco no rosto que se vira e no cetim. Sujeito ocupando grande parte do quadro, foco nítido no elemento principal e fundo com leve desfoque (bokeh).
+
+Textura e estilo:
+Fotografia fotorrealista com iluminação natural. Detalhamento preciso do brilho espelhado do cetim preto, dos cordões finos trançados, da roupa de cama branca e da luz matinal sobre os cabelos e a pele.
+
+Negativo:
+Não omitir as costas profundamente abertas nem os detalhes dos cordões trançados nas duas laterais
 ```
 
 [↑ Voltar às categorias](#catalog)

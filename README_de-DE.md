@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**89** Prompts · Zuletzt hinzugefügt: **2026-09-13**
+**90** Prompts · Zuletzt hinzugefügt: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -367,22 +367,66 @@ Foto einer Waldlichtung mit viel grünem Blattwerk, sehr detailliert
 
 ---
 
-<a name="prompt-2098945760817479956"></a>
+<a name="prompt-2098975203866837026"></a>
 
 ### Übersetzung läuft
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Originalbeitrag](https://x.com/CyberTotal2026/status/2098975203866837026)
+
+Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2098975203866837026-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2098945760817479956"></a>
+
+### Fotorealistischer Porträt-Prompt im natürlichen Morgenlicht einer Frau im schwarzen Satin-Slipkleid, die sich im Bett umblickt.
 
 Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Originalbeitrag](https://x.com/CyberTotal2026/status/2098945760817479956)
 
 Fotografie · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Fotorealistischer Porträt-Prompt im natürlichen Morgenlicht einer Frau im schwarzen Satin-Slipkleid, die sich im Bett umblickt.
 
 <img src="images/2098945760817479956-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Thema:
+Schwarzer Satin im Morgenlicht
+
+Hauptmotiv:
+Vertikale Fotografie einer erwachsenen Frau, die in einem von der Morgensonne erhellten weißen Bett sitzt, ein schwarzes Satin-Mini-Slipkleid trägt und dem Betrachter den Rücken zuwendet. Die Person ist an der Bildmitte ausgerichtet.
+
+Person & Ausdruck:
+Schulterlanges, dunkelbraunes, sanft gewelltes Haar mit feinem Pony. Feine ovale Gesichtsform, mandelförmige braune Augen, natürliche Brauen, zierliche Nase, glänzende rosafarbene Lippen. Ruhiger Blick über die Schulter in die Kamera. Das Gesicht blickt über die Schulter zur Kamera.
+
+Kleidung & Pose:
+Schwarzes, glänzendes Satin-Mini-Slipkleid mit Spaghettiträgern. Der Rücken ist bis nahe an die Taille tief ausgeschnitten, an beiden Seiten mit mehreren feinen Schnürungen und kleinen Schleifen versehen. Sie sitzt mit seitlich angewinkelten Beinen da, eine Hand liegt auf dem Bettzeug. Schwarzes Minikleid.
+
+Hintergrund & Licht:
+Weiße Laken und Kissen, helle Wände, großes Fenster. Starkes Morgenlicht erzeugt feine weiße Reflexionen auf dem schwarzen Satin und beleuchtet Rücken und Haare warm. Das Hauptlicht im Bildhintergrund ist sanftes Licht von der Fensterseite.
+
+Komposition & Kamera:
+Vertikale 4:5-Komposition, Kamera am Bettrand für eine Aufnahme von schräg hinten oberhalb der Knie. Die Person ist dominant in der Mitte platziert, wobei der offene Rücken und die seitlichen Schnürungen im Mittelpunkt stehen. Fokus auf das sich umwendende Gesicht und den Satin. Person groß im Bild, Fokus auf das Hauptmotiv, Hintergrund mit sanftem Bokeh.
+
+Textur & Stil:
+Fotorealistische Fotografie bei natürlichem Licht. Spiegelnder Glanz des schwarzen Satins, feine Schnürbänder, weiße Bettwäsche, Morgenlicht auf Haar und Haut detailgetreu eingefangen.
+
+Negativ:
+Den tief ausgeschnittenen Rücken und die Schnürungen an beiden Seiten nicht weglassen
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

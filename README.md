@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**89** Prompts · Latest addition: **2026-09-13**
+**90** Prompts · Latest addition: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -416,6 +416,50 @@ Photography · Landscape / Nature · Published
 
 ```text
 Photo of a clearing in the woods with lots of green foliage, highly detailed
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2098975203866837026"></a>
+
+### A realistic vertical-composition portrait prompt of a woman sitting cross-legged on a bed in a bedroom with a warm-toned lamp, taking a mirror selfie.
+
+Author：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Source](https://x.com/CyberTotal2026/status/2098975203866837026)
+
+Photography · Portrait / Selfie · Character · Published
+
+**Summary:** A realistic vertical-composition portrait prompt of a woman sitting cross-legged on a bed in a bedroom with a warm-toned lamp, taking a mirror selfie.
+
+<img src="images/2098975203866837026-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Theme:
+Night lamp smartphone mirror
+
+Subject:
+A vertical photograph of an adult woman sitting cross-legged on a bed in a bedroom with a warm-toned lamp, taking a mirror selfie with a large smartphone. The subject is positioned centered in the frame.
+
+Person / Expression:
+Long black hair tied back, wispy bangs. The smartphone largely obscures the center of her face, with only one eye, cheek, and a portion of her glossy pink lips visible. Face directed straight ahead. A calm expression.
+
+Clothing / Pose:
+A white ribbed spaghetti-strap camisole with lace and small buttons at the bust, gray drawstring shorts, and white knee-high socks. Sitting cross-legged, holding a large copper-colored smartphone in front of her face with one hand. White top and gray shorts.
+
+Background / Lighting:
+White bedding, a wooden side table, a warm-toned table lamp, a dark window. Orange light creates soft shadows across the person and bedding. The main ambient background light is a soft light coming from the window side.
+
+Composition / Camera:
+2:3 vertical composition, camera capturing a sitting, nearly full-body view directly facing the mirror surface. The person is centered, the large smartphone is at the center of the face, and the legs in white socks are positioned downward. Focus is on the mirror reflection and clothing. Capturing the subject prominently, focused on the main figure, with a light bokeh in the background.
+
+Texture / Style:
+Photorealistic nighttime mirror selfie. Naturally captures the mirror surface, copper-colored device, white ribbing and lace, gray fabric, and warm-toned lamp.
+
+Negative:
+Do not change the composition where the smartphone largely obscures the center of the face
 ```
 
 [↑ Back to categories](#catalog)

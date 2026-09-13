@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**89** Prompts · Dernier ajout: **2026-09-13**
+**90** Prompts · Dernier ajout: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -367,22 +367,66 @@ Photo d'une clairière dans les bois avec un feuillage vert abondant, très dét
 
 ---
 
-<a name="prompt-2098945760817479956"></a>
+<a name="prompt-2098975203866837026"></a>
 
 ### Traduction en cours
+
+Auteur：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publication originale](https://x.com/CyberTotal2026/status/2098975203866837026)
+
+Photographie · Portrait / Selfie · Personnage · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2098975203866837026-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2098945760817479956"></a>
+
+### Prompt de photographie de portrait réaliste en lumière naturelle d'une femme en nuisette de satin noir se retournant sur un lit ensoleillé.
 
 Auteur：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publication originale](https://x.com/CyberTotal2026/status/2098945760817479956)
 
 Photographie · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de photographie de portrait réaliste en lumière naturelle d'une femme en nuisette de satin noir se retournant sur un lit ensoleillé.
 
 <img src="images/2098945760817479956-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Thème :
+Satin noir à la lumière du matin
+
+Sujet :
+Photographie verticale d'une femme adulte assise de dos dans un lit blanc baigné par le soleil du matin, vêtue d'une mini-nuisette en satin noir. Le personnage est centré dans l'image.
+
+Personnage et expression :
+Cheveux châtain foncé légèrement ondulés tombant sous les épaules avec une frange légère. Fin visage ovale, yeux marron étirés, sourcils naturels, petit nez, lèvres roses brillantes. Expression sereine regardant l'appareil photo par-dessus l'épaule. Visage tourné vers l'appareil par-dessus l'épaule.
+
+Tenue et pose :
+Mini-nuisette à fines bretelles en satin noir brillant. Dos largement échancré presque jusqu'à la taille, orné sur les côtés de multiples lacets fins noués en petits papillons. Assise les jambes repliées sur le côté, une main posée sur la literie. Mini-robe noire.
+
+Arrière-plan et lumière :
+Draps et oreillers blancs, murs de couleur claire, grande fenêtre. Le soleil éclatant du matin crée de fins reflets blancs sur le satin noir, éclairant chaleureusement le dos et les cheveux. La lumière principale en arrière-plan est une douce lumière provenant de la fenêtre.
+
+Composition et appareil photo :
+Composition verticale 4:5, prise de vue au-dessus des genoux en diagonale arrière depuis le bord du lit. Le personnage occupe largement le centre, mettant en vedette le dos nu et les laçages latéraux. Mise au point sur le visage qui se retourne et sur le satin. Sujet cadré en grand, netteté sur le sujet principal, arrière-plan légèrement flou.
+
+Texture et style :
+Photographie photoréaliste en lumière naturelle. Rendu précis de la brillance miroir du satin noir, des fins lacets, de la literie blanche et de la lumière matinale sur les cheveux et la peau.
+
+Négatif :
+Ne pas omettre le dos profondément échancré ni les lacets sur les côtés
 ```
 
 [↑ Retour aux catégories](#catalog)

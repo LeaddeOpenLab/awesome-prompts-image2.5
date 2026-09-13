@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**89** Prompt · Bổ sung mới nhất: **2026-09-13**
+**90** Prompt · Bổ sung mới nhất: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -372,22 +372,66 @@ Nhiếp ảnh · Phong cảnh / Thiên nhiên · Đã xuất bản
 
 ---
 
-<a name="prompt-2098945760817479956"></a>
+<a name="prompt-2098975203866837026"></a>
 
 ### Đang dịch
+
+Tác giả：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Bài gốc](https://x.com/CyberTotal2026/status/2098975203866837026)
+
+Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2098975203866837026-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2098945760817479956"></a>
+
+### Gợi ý tạo ảnh chân thực ánh sáng tự nhiên chụp người phụ nữ mặc váy ngủ satin đen ngoảnh đầu trên giường đón nắng mai.
 
 Tác giả：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Bài gốc](https://x.com/CyberTotal2026/status/2098945760817479956)
 
 Nhiếp ảnh · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Gợi ý tạo ảnh chân thực ánh sáng tự nhiên chụp người phụ nữ mặc váy ngủ satin đen ngoảnh đầu trên giường đón nắng mai.
 
 <img src="images/2098945760817479956-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Chủ đề:
+Lụa satin đen trong nắng sớm
+
+Chủ thể:
+Bức ảnh chụp dọc một người phụ nữ trưởng thành ngồi quay lưng trên chiếc giường màu trắng ngập tràn ánh nắng ban mai, mặc chiếc váy ngủ mini slip bằng lụa satin đen. Nhân vật được bố trí lấy tâm khung hình làm chuẩn.
+
+Nhân vật và biểu cảm:
+Thác tóc gợn sóng buông lơi màu nâu đậm dài qua vai cùng mái thưa. Khuôn mặt trái xoan thanh tú, đôi mắt nâu thuôn dài, lông mày tự nhiên, mũi nhỏ nhắn, đôi môi hồng căng bóng. Biểu cảm tĩnh lặng nhìn vào ống kính qua vai. Gương mặt ngoảnh lại nhìn máy ảnh qua vai.
+
+Trang phục và tư thế:
+Váy mini slip hai dây mảnh bằng vải satin đen bóng bẩy. Lưng áo khoét sâu gần tới eo, hai bên hông đan nhiều sợi dây mảnh thắt nơ nhỏ. Ngồi gập chân sang một bên, một tay đặt trên đệm giường. Váy ngắn màu đen.
+
+Bối cảnh và ánh sáng:
+Ga trải giường và gối màu trắng, tường màu nhạt, cửa sổ lớn. Ánh nắng sớm rực rỡ tạo nên những vệt sáng trắng mảnh phản chiếu trên nền satin đen, sưởi ấm lưng và mái tóc. Nguồn sáng chính trong hậu cảnh là ánh sáng dịu nhẹ hắt vào từ phía cửa sổ.
+
+Bố cục và máy ảnh:
+Bố cục dọc tỷ lệ 4:5, máy ảnh chụp từ mép giường góc chéo phía sau lấy từ đầu gối trở lên. Nhân vật chiếm khung hình lớn ở trung tâm, tôn lên tấm lưng trần và các dây đan hai bên sườn làm điểm nhấn. Tiêu điểm nét vào gương mặt ngoảnh lại và chất liệu satin. Đóng khung cận nhân vật, lấy nét chủ thể, phông nền mờ nhẹ.
+
+Chất cảm và phong cách:
+Nhiếp ảnh ánh sáng tự nhiên chân thực (photorealistic). Tái hiện chi tiết độ bóng như gương của satin đen, dây đan mảnh, bộ chăn ga trắng cùng ánh nắng sớm vương trên tóc và làn da.
+
+Phủ định:
+Không bỏ qua phần lưng khoét sâu và chi tiết dây đan thắt nơ ở hai bên hông
 ```
 
 [↑ Về danh mục](#catalog)

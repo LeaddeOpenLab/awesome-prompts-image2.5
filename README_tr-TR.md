@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**89** Prompt · Son eklenen: **2026-09-13**
+**90** Prompt · Son eklenen: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -367,22 +367,66 @@ Ormanda bol yeşil yaprakları olan bir açıklığın fotoğrafı, son derece d
 
 ---
 
-<a name="prompt-2098945760817479956"></a>
+<a name="prompt-2098975203866837026"></a>
 
 ### Çeviri sürüyor
+
+Yazar：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Orijinal gönderi](https://x.com/CyberTotal2026/status/2098975203866837026)
+
+Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2098975203866837026-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2098945760817479956"></a>
+
+### Güneşli yatakta siyah saten mini kombinezonuyla geriye bakan kadının gerçekçi doğal ışık portre fotoğrafı istemi.
 
 Yazar：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Orijinal gönderi](https://x.com/CyberTotal2026/status/2098945760817479956)
 
 Fotoğrafçılık · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Güneşli yatakta siyah saten mini kombinezonuyla geriye bakan kadının gerçekçi doğal ışık portre fotoğrafı istemi.
 
 <img src="images/2098945760817479956-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Tema:
+Sabah Işığında Siyah Saten
+
+Özne:
+Sabah güneşinin dolduğu beyaz bir yatakta, siyah saten mini kombinezon giymiş arkası dönük oturan yetişkin bir kadının dikey fotoğrafı. Kişi karenin merkezine göre konumlandırılmıştır.
+
+Kişi ve İfade:
+Omuzların altına inen koyu kahverengi hafif dalgalı saçlar ve ince kahküller. Zarif oval yüz hatları, yatay çekik kahverengi gözler, doğal kaşlar, küçük bir burun, parlak pembe dudaklar. Omzunun üzerinden kameraya bakan dingin bir ifade. Yüzü omzun üzerinden kameraya dönük.
+
+Kıyafet ve Duruş:
+İnce askılı, parlak siyah saten mini kombinezon. Sırtı neredeyse bele kadar açık, her iki yanında çok sayıda ince bağcık ve küçük fiyonklar yer alıyor. Bacaklarını yana kıvırarak oturmuş, bir eli yatak örtüsünün üzerinde. Siyah mini elbise.
+
+Arka Plan ve Işık:
+Beyaz çarşaflar ve yastıklar, açık renkli duvarlar, büyük pencere. Güçlü sabah güneşi, siyah saten üzerinde ince beyaz parıltılar oluşturarak sırtı ve saçları sıcak bir şekilde aydınlatıyor. Arka plandaki ana ışık pencere tarafından gelen yumuşak ışıktır.
+
+Kompozisyon ve Kamera:
+4:5 dikey kompozisyon, kameranın yatağın kenarından arkadan çapraz diz üstü çekimi. Kişi merkeze büyükçe yerleştirilmiş; açık sırt ve yanlardaki bağcıklar odak noktası yapılmıştır. Geriye bakan yüze ve satene odaklanılmıştır. Kişi kadrajı dolduracak biçimde, ana özne net, arka plan hafif bulanık.
+
+Doku ve Stil:
+Fotogerçekçi doğal ışık fotoğrafı. Siyah satenin ayna parlaklığı, ince bağcıklar, beyaz yatak takımı, saç ve ciltteki sabah ışığı ince ayrıntılarla yakalanmış.
+
+Negatif:
+Derin açık sırtı ve her iki yandaki çapraz bağcıkları eksik bırakmayın
 ```
 
 [↑ Kategorilere dön](#catalog)

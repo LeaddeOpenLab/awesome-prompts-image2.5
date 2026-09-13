@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**89** Prompts · Adição mais recente: **2026-09-13**
+**90** Prompts · Adição mais recente: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -367,22 +367,66 @@ Fotografia de uma clareira na floresta com muita folhagem verde, altamente detal
 
 ---
 
-<a name="prompt-2098945760817479956"></a>
+<a name="prompt-2098975203866837026"></a>
 
 ### Tradução em curso
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicação original](https://x.com/CyberTotal2026/status/2098975203866837026)
+
+Fotografia · Retrato / Selfie · Personagem · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2098975203866837026-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2098945760817479956"></a>
+
+### Prompt de fotografia de retrato realista com luz natural de uma mulher de mini camisa de noite em cetim preto a olhar para trás numa cama banhada pela luz matinal.
 
 Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicação original](https://x.com/CyberTotal2026/status/2098945760817479956)
 
 Fotografia · Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt de fotografia de retrato realista com luz natural de uma mulher de mini camisa de noite em cetim preto a olhar para trás numa cama banhada pela luz matinal.
 
 <img src="images/2098945760817479956-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Tema:
+Cetim preto à luz da manhã
+
+Sujeito:
+Fotografia vertical de uma mulher adulta sentada de costas numa cama branca banhada pelo sol da manhã, vestindo uma mini camisa de noite em cetim preto. A figura está posicionada com base no centro do enquadramento.
+
+Figura e expressão:
+Cabelo castanho-escuro suavemente ondulado abaixo dos ombros com franja ligeira. Rosto oval fino, olhos castanhos rasgados, sobrancelhas naturais, nariz pequeno, lábios rosados brilhantes. Expressão serena a olhar para a câmara por cima do ombro. Rosto voltado para a câmara por cima do ombro.
+
+Vestuário e pose:
+Mini camisa de noite de alças finas em cetim preto lustroso. Costas profundamente decotadas quase até à cintura, com múltiplos atacadores finos cruzados e pequenos laços em ambos os lados. Sentada com as pernas dobradas para o lado, com uma mão apoiada na roupa de cama. Minivestido preto.
+
+Fundo e iluminação:
+Lençóis e almofadas brancas, paredes de tom claro, janela ampla. A intensa luz matinal cria reflexos brancos finos no cetim preto, iluminando calorosamente as costas e o cabelo. A luz principal no fundo é uma luz suave que entra pela janela.
+
+Composição e câmara:
+Composição vertical 4:5, fotografia acima dos joelhos tirada na diagonal posterior a partir do bordo da cama. A figura surge em destaque no centro, evidenciando as costas desnudadas e os atacadores laterais. Foco no rosto que se volta e no cetim. Figura ampla no enquadramento, foco nítido no motivo principal e fundo com bokeh suave.
+
+Textura e estilo:
+Fotografia fotorrealista com iluminação natural. Reprodução fidedigna do brilho espelhado do cetim preto, dos atacadores finos, da roupa de cama branca e da luz da manhã no cabelo e na pele.
+
+Negativo:
+Não omitir as costas profundamente abertas nem os atacadores cruzados em ambos os lados
 ```
 
 [↑ Voltar às categorias](#catalog)
