@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-14T16:25:52.681Z",
+  "model": "image2.5",
+  "prompt": "9:16 竖版，都市夜景露台清吧 × 高位俯拍 × 超写实真人时尚摄影 × 高级夜景 Editorial。\n\n一位 22–25 岁、明确成年的漂亮东亚女性，身材高挑纤细，小头、小脸，腰身纤细，体态修长。肌肤非常白皙、细腻、通透，呈干净高级的冷白瓷肌色调，保留真实毛孔与自然皮肤纹理。\n\n人物拥有精致成熟的真人女性五官，流畅鹅蛋脸、清晰下颌线与微尖下巴。海藻般浓密的大波浪黑色长发慵懒散落在肩头和背后，部分发丝受到露台夜风影响轻轻飘动，不遮挡主要五官。\n\n人物坐在露台清吧的高脚凳上，身体轻微侧转，上半身自然后仰，肩颈舒展，脸部微微向上抬起看向高处镜头。眼神清冷、慵懒、带一点若即若离的妩媚感，嘴唇自然放松，整体气质成熟、克制、有距离感。\n\n身穿哑光羊脂质感真皮收腰长款风衣，皮革柔软高级，具有细腻哑光纹理与自然褶皱。腰部明显收束，强化纤细腰线；领口自然微松，形成低位 V 型领口，展现肩颈与精致锁骨。下身搭配简洁高级的黑色长靴，使整体造型保持统一的暗色都市时尚感。\n\n佩戴碎钻猫眼美甲、垂坠水晶长耳饰、蛇形细钻手链、V形碎钻锁骨链。手指纤细修长，一只手自然搭在高脚凳或腿侧，另一只手可轻触长发、锁骨链或自然扶住吧台边缘。珠宝与猫眼美甲在城市灯光下产生细小、锐利而克制的闪光。\n\n摄影机位于人物前上方约 40–50°，形成明显的高位俯视关系。人物坐在较低位置并微微仰脸，使眼睛、鼻梁、嘴唇、肩颈和皮衣领口形成清晰的视觉层次。避免完全垂直顶拍和严重广角畸变。\n\n背景为高层都市露台清吧，可见玻璃围栏、极简吧台、高脚桌椅以及远处密集的城市高楼、霓虹灯、道路车流和万家灯火。夜景自然环绕人物，形成丰富的纵深层次。\n\n采用冷白柔光作为人物主光，城市霓虹提供蓝紫、银灰与少量暖金色环境反射。重点强化鼻梁、眼睛、唇部、下颌线、锁骨、珠宝与手部的精致高光，同时让黑色哑光皮革保持丰富暗部纹理，不出现油亮塑料感。\n\n人物脸部、眼睛、手指、猫眼美甲、碎钻首饰和皮革纹理保持高清锐利；背景城市夜景采用柔和浅景深形成自然霓虹散景，人物轮廓仅做轻微柔化。\n\n整体采用低饱和黑灰、冷白、蓝紫与少量暖金色电影调色，加入轻微 Bloom、细腻胶片颗粒与柔和高光扩散。呈现高级、慵懒、清冷、妩媚但克制的都市夜生活时尚大片质感。\n\n负面提示词： 完全垂直顶拍，低机位仰拍，严重广角畸变，大头，大脸，皮衣油亮塑料感，廉价皮革，领口结构错误，珠宝悬浮，美甲畸形，手指融合，多手多指，头发遮脸，人物主体模糊，脸部失焦，鼻梁过曝，塑料皮肤，过度磨皮，背景完全虚化，夜景杂乱，动漫脸，CG脸，文字，Logo，水印。",
+  "promptTranslations": {
+    "en": "9:16 vertical format, urban nightscape rooftop lounge bar × high-angle overhead shot × hyperrealistic real-person fashion photography × high-end night scene editorial.\n\nA clearly adult, beautiful East Asian woman aged 22–25, tall and slender, small head, small face, slim waist, elongated posture. Skin is exceptionally fair, delicate, translucent, presenting a clean and sophisticated cool porcelain tone, retaining authentic pores and natural skin texture.\n\nThe subject features refined, mature real-female facial features, a smooth oval face, a defined jawline, and a slightly pointed chin. Voluminous, seaweed-like long wavy black hair drapes lazily over her shoulders and back, with loose strands gently fluttering in the rooftop night breeze without obscuring her main facial features.\n\nShe is seated on a high stool at the rooftop lounge bar, body slightly turned sideways, upper body naturally leaning back, relaxed shoulders and neck, face tilted slightly upward looking up into the high-angle camera. Her gaze is cool, languid, with a touch of elusive allure, lips naturally relaxed, projecting an overall mature, restrained, and distant demeanor.\n\nWearing a matte mutton-fat-textured genuine leather cinched-waist long trench coat made of soft, premium leather with a delicate matte grain and natural creases. Distinctly cinched at the waist to emphasize a slender waistline; collar naturally loosened to form a low V-neckline revealing the neck, shoulders, and delicate collarbones. Styled with minimalist, sophisticated black tall boots to keep the overall look unified in dark urban fashion.\n\nAdorned with crushed-diamond cat-eye manicured nails, dangling long crystal earrings, a slender serpentine diamond bracelet, and a V-shaped pavé diamond collarbone necklace. Fingers are slender and elongated; one hand rests naturally on the high stool or by her thigh, while the other can gently touch her long hair, collarbone necklace, or rest naturally against the edge of the bar counter. The jewelry and cat-eye nails produce subtle, sharp, and restrained glints under the city lights.\n\nThe camera is positioned at approximately 40–50° in front of and above the subject, establishing a clear high-angle overhead perspective. The subject sits lower and tilts her face slightly upward, creating a distinct visual layering of the eyes, bridge of the nose, lips, neck and shoulders, and the leather coat lapels. Avoid completely vertical top-down shots and severe wide-angle distortion.\n\nThe background is a high-rise urban rooftop lounge bar featuring glass railings, a minimalist bar counter, high-top tables and chairs, and dense city skyscrapers, neon lights, road traffic, and countless city lights in the distance. The nightscape naturally wraps around the subject, generating rich depth and layers.\n\nUsing cool white soft light as the key light for the subject, with city neon providing blue-violet, silver-gray, and subtle warm-gold ambient reflections. Key focus is placed on enhancing refined highlights along the nose bridge, eyes, lips, jawline, collarbones, jewelry, and hands, while maintaining rich shadow textures in the black matte leather without producing an oily plastic sheen.\n\nThe subject's face, eyes, fingers, cat-eye nails, pavé diamond jewelry, and leather textures remain ultra-sharp and in high definition; the background city nightscape utilizes a soft shallow depth of field to create natural neon bokeh, with the subject's outline only slightly softened.\n\nOverall low-saturation cinematic color grading of black-gray, cool white, blue-violet, and subtle warm gold, enhanced with gentle bloom, fine film grain, and soft highlight halation. Presenting a sophisticated, languid, cool, alluring yet restrained urban nightlife fashion editorial quality.\n\nNegative prompts: Complete vertical top-down shot, low-angle shot, severe wide-angle distortion, big head, large face, shiny plastic leather look, cheap leather, incorrect collar construction, floating jewelry, deformed manicure, fused fingers, extra hands, extra fingers, hair covering face, blurry main subject, out-of-focus face, overexposed nose bridge, plastic skin, over-smoothed skin, completely blurred background, chaotic nightscape, anime face, CG face, text, logo, watermark."
+  },
+  "summaryTranslations": {
+    "en": "High-end night scene fashion female portrait photography prompt from a high-angle overhead shot on an urban rooftop lounge bar."
+  },
+  "translationVersion": 2,
+  "summary": "都市露台清吧高位俯拍的高级夜景时尚女性人像摄影提示词。",
+  "summaryEn": "High-angle editorial night portrait prompt of an East Asian woman at an urban rooftop terrace bar.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2099520724121883039",
+    "canonicalUrl": "https://x.com/AIVideoHub_/status/2099520724121883039",
+    "author": {
+      "username": "AIVideoHub_",
+      "displayName": "AIVideoHub 🕊️",
+      "profileUrl": "https://x.com/AIVideoHub_"
+    },
+    "publishedAt": "2026-09-14T15:28:42.000Z",
+    "collectedAt": "2026-09-14T16:17:15.720Z",
+    "language": "zh",
+    "originalText": "夜色正浓，不想结束这一天\n\nGPT IMAGE2.5 提示词：\n9:16 竖版，都市夜景露台清吧 × 高位俯拍 × 超写实真人时尚摄影 × 高级夜景 Editorial。\n\n一位 22–25 岁、明确成年的漂亮东亚女性，身材高挑纤细，小头、小脸，腰身纤细，体态修长。肌肤非常白皙、细腻、通透，呈干净高级的冷白瓷肌色调，保留真实毛孔与自然皮肤纹理。\n\n人物拥有精致成熟的真人女性五官，流畅鹅蛋脸、清晰下颌线与微尖下巴。海藻般浓密的大波浪黑色长发慵懒散落在肩头和背后，部分发丝受到露台夜风影响轻轻飘动，不遮挡主要五官。\n\n人物坐在露台清吧的高脚凳上，身体轻微侧转，上半身自然后仰，肩颈舒展，脸部微微向上抬起看向高处镜头。眼神清冷、慵懒、带一点若即若离的妩媚感，嘴唇自然放松，整体气质成熟、克制、有距离感。\n\n身穿哑光羊脂质感真皮收腰长款风衣，皮革柔软高级，具有细腻哑光纹理与自然褶皱。腰部明显收束，强化纤细腰线；领口自然微松，形成低位 V 型领口，展现肩颈与精致锁骨。下身搭配简洁高级的黑色长靴，使整体造型保持统一的暗色都市时尚感。\n\n佩戴碎钻猫眼美甲、垂坠水晶长耳饰、蛇形细钻手链、V形碎钻锁骨链。手指纤细修长，一只手自然搭在高脚凳或腿侧，另一只手可轻触长发、锁骨链或自然扶住吧台边缘。珠宝与猫眼美甲在城市灯光下产生细小、锐利而克制的闪光。\n\n摄影机位于人物前上方约 40–50°，形成明显的高位俯视关系。人物坐在较低位置并微微仰脸，使眼睛、鼻梁、嘴唇、肩颈和皮衣领口形成清晰的视觉层次。避免完全垂直顶拍和严重广角畸变。\n\n背景为高层都市露台清吧，可见玻璃围栏、极简吧台、高脚桌椅以及远处密集的城市高楼、霓虹灯、道路车流和万家灯火。夜景自然环绕人物，形成丰富的纵深层次。\n\n采用冷白柔光作为人物主光，城市霓虹提供蓝紫、银灰与少量暖金色环境反射。重点强化鼻梁、眼睛、唇部、下颌线、锁骨、珠宝与手部的精致高光，同时让黑色哑光皮革保持丰富暗部纹理，不出现油亮塑料感。\n\n人物脸部、眼睛、手指、猫眼美甲、碎钻首饰和皮革纹理保持高清锐利；背景城市夜景采用柔和浅景深形成自然霓虹散景，人物轮廓仅做轻微柔化。\n\n整体采用低饱和黑灰、冷白、蓝紫与少量暖金色电影调色，加入轻微 Bloom、细腻胶片颗粒与柔和高光扩散。呈现高级、慵懒、清冷、妩媚但克制的都市夜生活时尚大片质感。\n\n负面提示词： 完全垂直顶拍，低机位仰拍，严重广角畸变，大头，大脸，皮衣油亮塑料感，廉价皮革，领口结构错误，珠宝悬浮，美甲畸形，手指融合，多手多指，头发遮脸，人物主体模糊，脸部失焦，鼻梁过曝，塑料皮肤，过度磨皮，背景完全虚化，夜景杂乱，动漫脸，CG脸，文字，Logo，水印。\n\n#今日提示词 #GPT  #IMAGE2",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSL-9mdaIAAxr3Q.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSL-9mdaIAAxr3Q.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSL-9mYbQAAuXNj.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSL-9mYbQAAuXNj.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 6,
+      "repostCount": 1,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 661
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/AIVideoHub_/status/2099520724121883039",
+  "coverUrl": "https://pbs.twimg.com/media/HSL-9mdaIAAxr3Q.jpg",
+  "coverPath": "images/2099520724121883039-1.jpg",
+  "imagePaths": [
+    "images/2099520724121883039-1.jpg",
+    "images/2099520724121883039-2.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSL-9mdaIAAxr3Q",
+    "x-image:/media/HSL-9mYbQAAuXNj",
+    "x-post:2099520724121883039"
+  ],
+  "analysis": {
+    "summary": "都市露台清吧高位俯拍的高级夜景时尚女性人像摄影提示词。",
+    "summaryEn": "High-angle editorial night portrait prompt of an East Asian woman at an urban rooftop terrace bar.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "图片精确呈现了提示词中所述的高空露台清吧、俯拍机位、东亚女性主体、夜景天际线及精致服饰妆容。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "9:16 竖版，都市夜景露台清吧 × 高位俯拍 × 超写实真人时尚摄影 × 高级夜景 Editorial。\n\n一位 22–25 岁、明确成年的漂亮东亚女性，身材高挑纤细，小头、小脸，腰身纤细，体态修长。肌肤非常白皙、细腻、通透，呈干净高级的冷白瓷肌色调，保留真实毛孔与自然皮肤纹理。\n\n人物拥有精致成熟的真人女性五官，流畅鹅蛋脸、清晰下颌线与微尖下巴。海藻般浓密的大波浪黑色长发慵懒散落在肩头和背后，部分发丝受到露台夜风影响轻轻飘动，不遮挡主要五官。\n\n人物坐在露台清吧的高脚凳上，身体轻微侧转，上半身自然后仰，肩颈舒展，脸部微微向上抬起看向高处镜头。眼神清冷、慵懒、带一点若即若离的妩媚感，嘴唇自然放松，整体气质成熟、克制、有距离感。\n\n身穿哑光羊脂质感真皮收腰长款风衣，皮革柔软高级，具有细腻哑光纹理与自然褶皱。腰部明显收束，强化纤细腰线；领口自然微松，形成低位 V 型领口，展现肩颈与精致锁骨。下身搭配简洁高级的黑色长靴，使整体造型保持统一的暗色都市时尚感。\n\n佩戴碎钻猫眼美甲、垂坠水晶长耳饰、蛇形细钻手链、V形碎钻锁骨链。手指纤细修长，一只手自然搭在高脚凳或腿侧，另一只手可轻触长发、锁骨链或自然扶住吧台边缘。珠宝与猫眼美甲在城市灯光下产生细小、锐利而克制的闪光。\n\n摄影机位于人物前上方约 40–50°，形成明显的高位俯视关系。人物坐在较低位置并微微仰脸，使眼睛、鼻梁、嘴唇、肩颈和皮衣领口形成清晰的视觉层次。避免完全垂直顶拍和严重广角畸变。\n\n背景为高层都市露台清吧，可见玻璃围栏、极简吧台、高脚桌椅以及远处密集的城市高楼、霓虹灯、道路车流和万家灯火。夜景自然环绕人物，形成丰富的纵深层次。\n\n采用冷白柔光作为人物主光，城市霓虹提供蓝紫、银灰与少量暖金色环境反射。重点强化鼻梁、眼睛、唇部、下颌线、锁骨、珠宝与手部的精致高光，同时让黑色哑光皮革保持丰富暗部纹理，不出现油亮塑料感。\n\n人物脸部、眼睛、手指、猫眼美甲、碎钻首饰和皮革纹理保持高清锐利；背景城市夜景采用柔和浅景深形成自然霓虹散景，人物轮廓仅做轻微柔化。\n\n整体采用低饱和黑灰、冷白、蓝紫与少量暖金色电影调色，加入轻微 Bloom、细腻胶片颗粒与柔和高光扩散。呈现高级、慵懒、清冷、妩媚但克制的都市夜生活时尚大片质感。\n\n负面提示词： 完全垂直顶拍，低机位仰拍，严重广角畸变，大头，大脸，皮衣油亮塑料感，廉价皮革，领口结构错误，珠宝悬浮，美甲畸形，手指融合，多手多指，头发遮脸，人物主体模糊，脸部失焦，鼻梁过曝，塑料皮肤，过度磨皮，背景完全虚化，夜景杂乱，动漫脸，CG脸，文字，Logo，水印。",
+    "sourceRange": {
+      "start": 32,
+      "end": 1116
+    },
+    "translations": {
+      "zh": "9:16 竖版，都市夜景露台清吧 × 高位俯拍 × 超写实真人时尚摄影 × 高级夜景 Editorial。\n\n一位 22–25 岁、明确成年的漂亮东亚女性，身材高挑纤细，小头、小脸，腰身纤细，体态修长。肌肤非常白皙、细腻、通透，呈干净高级的冷白瓷肌色调，保留真实毛孔与自然皮肤纹理。\n\n人物拥有精致成熟的真人女性五官，流畅鹅蛋脸、清晰下颌线与微尖下巴。海藻般浓密的大波浪黑色长发慵懒散落在肩头和背后，部分发丝受到露台夜风影响轻轻飘动，不遮挡主要五官。\n\n人物坐在露台清吧的高脚凳上，身体轻微侧转，上半身自然后仰，肩颈舒展，脸部微微向上抬起看向高处镜头。眼神清冷、慵懒、带一点若即若离的妩媚感，嘴唇自然放松，整体气质成熟、克制、有距离感。\n\n身穿哑光羊脂质感真皮收腰长款风衣，皮革柔软高级，具有细腻哑光纹理与自然褶皱。腰部明显收束，强化纤细腰线；领口自然微松，形成低位 V 型领口，展现肩颈与精致锁骨。下身搭配简洁高级的黑色长靴，使整体造型保持统一的暗色都市时尚感。\n\n佩戴碎钻猫眼美甲、垂坠水晶长耳饰、蛇形细钻手链、V形碎钻锁骨链。手指纤细修长，一只手自然搭在高脚凳或腿侧，另一只手可轻触长发、锁骨链或自然扶住吧台边缘。珠宝与猫眼美甲在城市灯光下产生细小、锐利而克制的闪光。\n\n摄影机位于人物前上方约 40–50°，形成明显的高位俯视关系。人物坐在较低位置并微微仰脸，使眼睛、鼻梁、嘴唇、肩颈和皮衣领口形成清晰的视觉层次。避免完全垂直顶拍和严重广角畸变。\n\n背景为高层都市露台清吧，可见玻璃围栏、极简吧台、高脚桌椅以及远处密集的城市高楼、霓虹灯、道路车流和万家灯火。夜景自然环绕人物，形成丰富的纵深层次。\n\n采用冷白柔光作为人物主光，城市霓虹提供蓝紫、银灰与少量暖金色环境反射。重点强化鼻梁、眼睛、唇部、下颌线、锁骨、珠宝与手部的精致高光，同时让黑色哑光皮革保持丰富暗部纹理，不出现油亮塑料感。\n\n人物脸部、眼睛、手指、猫眼美甲、碎钻首饰和皮革纹理保持高清锐利；背景城市夜景采用柔和浅景深形成自然霓虹散景，人物轮廓仅做轻微柔化。\n\n整体采用低饱和黑灰、冷白、蓝紫与少量暖金色电影调色，加入轻微 Bloom、细腻胶片颗粒与柔和高光扩散。呈现高级、慵懒、清冷、妩媚但克制的都市夜生活时尚大片质感。\n\n负面提示词： 完全垂直顶拍，低机位仰拍，严重广角畸变，大头，大脸，皮衣油亮塑料感，廉价皮革，领口结构错误，珠宝悬浮，美甲畸形，手指融合，多手多指，头发遮脸，人物主体模糊，脸部失焦，鼻梁过曝，塑料皮肤，过度磨皮，背景完全虚化，夜景杂乱，动漫脸，CG脸，文字，Logo，水印。",
+      "en": "9:16 vertical orientation, urban night terrace bar × high-angle overhead shot × hyper-realistic fashion photography × editorial night portrait. An East Asian woman in her early 20s with fair porcelain skin, seated on a rooftop bar high stool against an urban skyline with glowing city lights. Photographed from a 40–50 degree high angle overlooking the subject."
+    },
+    "targetModels": [
+      "image2.5"
+    ],
+    "category": "text-to-image",
+    "useCase": "AI 人像与夜景时尚摄影大片生成",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.9,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
