@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**106** Prompts · Latest addition: **2026-09-14**
+**107** Prompts · Latest addition: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -438,6 +438,50 @@ Photography · Landscape / Nature · Published
 
 ```text
 Photo of a clearing in the woods with lots of green foliage, highly detailed
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2099367790524219462"></a>
+
+### Photorealistic portrait prompt of a woman sitting on a wooden table by a lake.
+
+Author：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Source](https://x.com/CyberTotal2026/status/2099367790524219462)
+
+Photography · Portrait / Selfie · Character · Landscape / Nature · Published
+
+**Summary:** Photorealistic portrait prompt of a woman sitting on a wooden table by a lake.
+
+<img src="images/2099367790524219462-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Theme:
+White buttons by the lakeside
+
+Subject:
+A vertical portrait of an adult woman in a white crop top sitting by a wooden table near a blue mountain lake. The subject is positioned with reference to the center of the frame.
+
+Person and Expression:
+Chest-length dark brown straight hair with an off-center parting. A slender oval face, round brown eyes, natural eyebrows, a delicate small nose, and glossy peach-pink lips. Gently smiling toward the front.
+
+Clothing and Pose:
+A white ribbed short-sleeved crop top with a deep scoop neckline and thin lace trim, with small buttons aligned below the chest. Pale blue denim shorts. Sitting on the edge of the table with both arms lowered forward.
+
+Background and Lighting:
+A blue-green lake, coniferous forest, rugged mountains with snow streaks, blue sky, and white clouds. A clear cup of iced coffee in the lower left. Strong daylight and dappled sunlight filtering through trees. The primary light source in the background of the frame is harsh, direct light coming from above.
+
+Composition and Camera:
+2:3 vertical composition, straight-on medium waist-up shot. Subject in the center, lake and mountains in the upper half, and iced coffee in the lower left. In focus on the face and the line of white buttons, with the mountains softly blurred. Capturing the subject largely, focused on the main subject with a soft bokeh background.
+
+Texture and Style:
+Photorealistic travel photography. Crisp daylight capturing the white ribbing and lace, denim, cold drink, blue lake, and mountain ridges in vivid detail.
+
+Negative:
+Do not omit the mountain lake and the iced coffee in the lower left
 ```
 
 [↑ Back to categories](#catalog)
