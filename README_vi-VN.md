@@ -514,20 +514,42 @@ Không thay đổi ánh mắt nhìn qua vai ở góc nghiêng và chất liệu 
 
 <a name="prompt-2099367790524219462"></a>
 
-### Đang dịch
+### Lời nhắc chân dung chân thực chụp một phụ nữ ngồi bên chiếc bàn gỗ cạnh bờ hồ.
 
 Tác giả：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Bài gốc](https://x.com/CyberTotal2026/status/2099367790524219462)
 
 Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Phong cảnh / Thiên nhiên · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc chân dung chân thực chụp một phụ nữ ngồi bên chiếc bàn gỗ cạnh bờ hồ.
 
 <img src="images/2099367790524219462-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Chủ đề:
+Hàng cúc trắng bên bờ hồ
+
+Chủ thể:
+Bức ảnh chụp dọc một người phụ nữ trưởng thành mặc áo croptop màu trắng đang ngồi cạnh bàn gỗ bên hồ nước miền núi trong xanh. Bố cục nhân vật được căn giữa màn hình.
+
+Nhân vật và biểu cảm:
+Tóc thẳng màu nâu sẫm dài ngang ngực, rẽ ngôi hơi lệch giữa. Khuôn mặt trái xoan thon gọn, đôi mắt tròn màu nâu, lông mày tự nhiên, mũi nhỏ nhắn, đôi môi màu hồng đào căng bóng. Mỉm cười dịu dàng nhìn thẳng về phía trước.
+
+Trang phục và tư thế:
+Áo croptop ngắn tay chất len tăm màu trắng, cổ tròn sâu viền ren mảnh, có hàng cúc nhỏ chạy dọc xuống dưới ngực. Quần short denim màu xanh nhạt. Ngồi trên mép bàn, hai tay thả tự nhiên về phía trước.
+
+Bối cảnh và ánh sáng:
+Hồ nước màu xanh lam ánh lục, rừng lá kim, những ngọn núi hiểm trở lấm tấm vệt tuyết, bầu trời trong xanh và mây trắng. Góc dưới bên trái có một ly cà phê đá trong cốc trong suốt. Ánh nắng ban ngày chói chang cùng ánh sáng lọt qua kẽ lá. Nguồn sáng chính ở hậu cảnh là ánh sáng gắt chiếu thẳng từ trên cao xuống.
+
+Bố cục và máy ảnh:
+Bố cục dọc 2:3, góc chụp trực diện từ thắt lưng trở lên. Nhân vật ở trung tâm, hồ nước và núi non ở nửa trên, cà phê đá ở góc dưới bên trái. Lấy nét vào khuôn mặt và hàng cúc trắng, hậu cảnh núi làm mờ nhẹ. Khung hình chụp nhân vật lớn, lấy nét sắc nét vào chủ thể chính, hậu cảnh có độ mờ nhẹ (bokeh).
+
+Kết cấu và phong cách:
+Ảnh chụp du lịch chân thực. Thể hiện rõ chi tiết chất vải len tăm trắng và ren, vải denim, thức uống mát lạnh, hồ nước xanh biếc và các đường gờ núi dưới ánh sáng ban ngày rực rỡ.
+
+Phủ định:
+Không bỏ qua hồ nước miền núi và cốc cà phê đá ở góc dưới bên trái
 ```
 
 [↑ Về danh mục](#catalog)

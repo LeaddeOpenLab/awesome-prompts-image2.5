@@ -509,20 +509,42 @@ Não alterar o olhar de lado por cima do ombro nem a renda pêssego empoeirado
 
 <a name="prompt-2099367790524219462"></a>
 
-### Tradução em andamento
+### Prompt de retrato fotorrealista de uma mulher sentada em uma mesa de madeira à beira de um lago.
 
 Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicação original](https://x.com/CyberTotal2026/status/2099367790524219462)
 
 Fotografia · Retrato / Selfie · Personagem · Paisagem / Natureza · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt de retrato fotorrealista de uma mulher sentada em uma mesa de madeira à beira de um lago.
 
 <img src="images/2099367790524219462-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Tema:
+Botões brancos à beira do lago
+
+Objeto principal:
+Fotografia vertical de uma mulher adulta usando um cropped branco sentada ao lado de uma mesa de madeira junto a um lago alpino azul. A pessoa é posicionada com base no centro do enquadramento.
+
+Pessoa e expressão:
+Cabelo liso castanho-escuro até abaixo do peito com risca quase ao centro. Rosto fino e oval, olhos castanhos redondos, sobrancelhas naturais, nariz pequeno e lábios cor de pêssego brilhantes. Sorri suavemente para a frente.
+
+Roupa e pose:
+Cropped canelado branco de manga curta com decote redondo profundo e borda de renda fina, com uma fileira de botões pequenos descendo abaixo do peito. Shorts jeans azul-claro. Sentada na borda da mesa, com os dois braços caídos para a frente.
+
+Cenário e iluminação:
+Lago azul-esverdeado, floresta de coníferas, montanhas íngremes com veios de neve, céu azul e nuvens brancas. No canto inferior esquerdo, um café gelado em um copo transparente. Luz do dia forte e luz solar filtrada pelas árvores. A luz principal do fundo é uma luz dura e direta vinda de cima.
+
+Composição e câmera:
+Composição vertical 2:3, foto frontal da cintura para cima. A pessoa ao centro, o lago e as montanhas na metade superior, e o café gelado no canto inferior esquerdo. Foco no rosto e na fileira de botões brancos, com as montanhas levemente desfocadas. A protagonista ocupa boa parte do enquadramento em foco nítido, com leve desfoque de fundo.
+
+Textura e estilo:
+Fotografia de viagem fotorrealista. Retrata com clareza sob luz diurna nítida o canelado branco e a renda, o jeans, a bebida gelada, o lago azul e os cumes das montanhas.
+
+Negativo:
+Não omitir o lago de montanha nem o café gelado no canto inferior esquerdo
 ```
 
 [↑ Voltar às categorias](#catalog)

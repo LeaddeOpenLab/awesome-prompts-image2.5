@@ -509,20 +509,42 @@ Non modificare lo sguardo laterale da sopra la spalla e il pizzo color pesca pol
 
 <a name="prompt-2099367790524219462"></a>
 
-### Traduzione in corso
+### Prompt per un ritratto fotorealistico di una donna seduta a un tavolo di legno in riva al lago.
 
 Autore：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Post originale](https://x.com/CyberTotal2026/status/2099367790524219462)
 
 Fotografia · Ritratto / Selfie · Personaggio · Paesaggio / Natura · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per un ritratto fotorealistico di una donna seduta a un tavolo di legno in riva al lago.
 
 <img src="images/2099367790524219462-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Tema:
+Bottoni bianchi in riva al lago
+
+Soggetto:
+Fotografia verticale di una donna adulta con un crop top bianco seduta accanto a un tavolo di legno vicino a un lago alpino blu. La figura è posizionata prendendo come riferimento il centro dell'inquadratura.
+
+Persona ed espressione:
+Capelli lisci castano scuro fin sotto il petto con riga quasi al centro. Viso ovale e sottile, occhi castani rotondi, sopracciglia naturali, naso piccolo, labbra color pesca lucide. Sorride dolcemente in avanti.
+
+Abbigliamento e posa:
+Crop top a costine bianco a maniche corte con profondo scollo rotondo rifinito da un sottile pizzo e una fila di piccoli bottoni sotto il petto. Pantaloncini di jeans celeste chiaro. Seduta sul bordo del tavolo con entrambe le braccia distese in avanti.
+
+Sfondo e luce:
+Lago verde-blu, foresta di conifere, montagne aspre con striature di neve, cielo blu e nuvole bianche. In basso a sinistra, un caffè freddo in un bicchiere trasparente. Forte luce diurna e luce filtrata dagli alberi. La luce principale dello sfondo è una luce diretta e dura proveniente dall'alto.
+
+Composizione e fotocamera:
+Composizione verticale 2:3, inquadratura frontale dalla vita in su. Persona al centro, lago e montagne nella metà superiore, caffè freddo in basso a sinistra. Messa a fuoco sul viso e sulla fila di bottoni bianchi, montagne leggermente sfocate. Figura principale in primo piano con messa a fuoco nitida e sfondo leggermente sfocato.
+
+Texture e stile:
+Fotografia di viaggio fotorealistica. Cattura con una nitida luce diurna il tessuto a costine bianco e il pizzo, il denim, la bevanda fredda, il lago blu e le creste montuose.
+
+Negativo:
+Non omettere il lago alpino e il caffè freddo in basso a sinistra
 ```
 
 [↑ Torna alle categorie](#catalog)

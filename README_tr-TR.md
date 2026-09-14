@@ -509,20 +509,42 @@ Yandan omuz üzerinden bakışı ve mat şeftali pembesi danteli değiştirme
 
 <a name="prompt-2099367790524219462"></a>
 
-### Çeviri sürüyor
+### Göl kenarındaki ahşap masada oturan bir kadının fotogerçekçi portre istemi.
 
 Yazar：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Orijinal gönderi](https://x.com/CyberTotal2026/status/2099367790524219462)
 
 Fotoğrafçılık · Portre / Selfie · Karakter · Manzara / Doğa · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Göl kenarındaki ahşap masada oturan bir kadının fotogerçekçi portre istemi.
 
 <img src="images/2099367790524219462-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Tema:
+Göl Kenarındaki Beyaz Düğmeler
+
+Ana Özne:
+Mavi dağ gölünün kenarındaki ahşap masada, beyaz crop top giymiş oturan yetişkin bir kadının dikey fotoğrafı. Kişi kadrajın merkezine göre konumlandırılmıştır.
+
+Kişi ve İfade:
+Göğüs altına kadar uzanan, ortaya yakın ayrılmış düz koyu kahverengi saçlar. İnce oval yüz hatları, yuvarlak kahverengi gözler, doğal kaşlar, küçük bir burun, parlak şeftali pembesi dudaklar. Doğrudan öne doğru hafifçe gülümsüyor.
+
+Kıyafet ve Duruş:
+Derin yuvarlak yakalı, ince dantel kenarlı ve göğüs altına doğru dizilen küçük düğmeleri olan beyaz fitilli kısa kollu crop top. Açık mavi kot şort. Masanın kenarına oturmuş, iki kolunu öne doğru serbest bırakmış.
+
+Arka Plan ve Işık:
+Mavi-yeşil göl, iğne yapraklı orman, kar izleri olan sarp dağlar, mavi gökyüzü ve beyaz bulutlar. Sol altta şeffaf bardakta buzlu kahve. Güçlü gün ışığı ve yaprakların arasından süzülen güneş ışığı. Arka planın ana ışığı yukarıdan gelen sert, doğrudan ışıktır.
+
+Kompozisyon ve Kamera:
+2:3 dikey kompozisyon, belden yukarıdan çekilmiş karşıdan kamera açısı. Kişi merkezde, göl ve dağlar üst yarıda, buzlu kahve sol altta yer alır. Odak yüz ve beyaz düğme sırasında, dağlar ise hafifçe bulanık. Kişi kadrajı dolduracak şekilde ana konuya net odaklanmış, arka plan ise hafifçe bulanıktır.
+
+Doku ve Stil:
+Fotogerçekçi seyahat fotoğrafı. Beyaz fitilli kumaşı, danteli, kotu, soğuk içeceği, mavi gölü ve dağ sırtlarını parlak gün ışığında net bir şekilde yansıtır.
+
+Negatif:
+Dağ gölünü ve sol alttaki buzlu kahveyi çıkarma
 ```
 
 [↑ Kategorilere dön](#catalog)

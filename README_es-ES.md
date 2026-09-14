@@ -514,20 +514,42 @@ No alterar la mirada lateral por encima del hombro ni el encaje en tono rosa emp
 
 <a name="prompt-2099367790524219462"></a>
 
-### Traducción en curso
+### Prompt de retrato fotorrealista de una mujer sentada en una mesa de madera junto a un lago.
 
 Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicación original](https://x.com/CyberTotal2026/status/2099367790524219462)
 
 Fotografía · Retrato / Selfie · Personaje · Paisaje / Naturaleza · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de retrato fotorrealista de una mujer sentada en una mesa de madera junto a un lago.
 
 <img src="images/2099367790524219462-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Tema:
+Botones blancos junto al lago
+
+Sujeto:
+Fotografía vertical de una mujer adulta con un top corto blanco sentada junto a una mesa de madera al borde de un lago alpino azul. La figura está encuadrada centrada en la imagen.
+
+Persona y expresión:
+Cabello liso castaño oscuro hasta debajo del pecho con raya casi en el medio. Rostro ovalado y esbelto, ojos marrones y redondos, cejas naturales, nariz pequeña y labios de color melocotón brillante. Sonríe suavemente hacia el frente.
+
+Vestimenta y pose:
+Top corto blanco acanalado de manga corta con cuello redondo pronunciado adornado con fino encaje y una hilera de pequeños botones debajo del pecho. Pantalones cortos vaqueros de color azul claro. Sentada en el borde de la mesa, con ambos brazos descansando hacia adelante.
+
+Fondo e iluminación:
+Lago de color azul verdoso, bosque de coníferas, montañas escarpadas con vetas de nieve, cielo azul y nubes blancas. En la parte inferior izquierda, un café helado en un vaso transparente. Fuerte luz diurna y luz filtrada entre las hojas. La luz principal del fondo es una luz directa y dura desde arriba.
+
+Composición y cámara:
+Composición vertical 2:3, cámara frontal desde la cintura hacia arriba. La persona en el centro, el lago y las montañas en la mitad superior, y el café helado en la parte inferior izquierda. Enfoque nítido en el rostro y la hilera de botones blancos, con las montañas ligeramente desenfocadas. El sujeto ocupa un espacio destacado con enfoque nítido y fondo ligeramente desenfocado.
+
+Textura y estilo:
+Fotografía de viajes fotorrealista. Muestra con nitidez bajo la luz diurna el tejido acanalado blanco y el encaje, el denim, la bebida fría, el lago azul y las crestas de las montañas.
+
+Negativo:
+No omitir el lago alpino ni el café helado en la esquina inferior izquierda
 ```
 
 [↑ Volver a categorías](#catalog)

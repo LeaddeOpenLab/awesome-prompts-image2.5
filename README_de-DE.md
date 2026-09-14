@@ -509,20 +509,42 @@ Den Blick von der Seite über die Schulter und die staubig-pfirsichrosa Spitze n
 
 <a name="prompt-2099367790524219462"></a>
 
-### Übersetzung läuft
+### Fotorealistischer Porträt-Prompt einer Frau, die an einem Holztisch am Seeufer sitzt.
 
 Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Originalbeitrag](https://x.com/CyberTotal2026/status/2099367790524219462)
 
 Fotografie · Porträt / Selfie · Charakter · Landschaft / Natur · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Fotorealistischer Porträt-Prompt einer Frau, die an einem Holztisch am Seeufer sitzt.
 
 <img src="images/2099367790524219462-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Thema:
+Weiße Knöpfe am Seeufer
+
+Hauptmotiv:
+Vertikales Foto einer erwachsenen Frau in einem weißen Crop-Top, die an einem Holztisch an einem blauen Gebirgssee sitzt. Die Person ist zentriert im Bild angeordnet.
+
+Person und Gesichtsausdruck:
+Glattes, dunkelbraunes Haar bis unter die Brust mit fast mittigem Scheitel. Schmale ovale Gesichtsform, runde braune Augen, natürliche Augenbrauen, kleine Nase, glänzende pfirsichfarbene Lippen. Sanftes Lächeln nach vorne.
+
+Kleidung und Pose:
+Weißes geripptes Kurzarm-Crop-Top mit tiefem Rundhalsausschnitt, feinem Spitzenrand und einer Reihe kleiner Knöpfe unter der Brust. Hellblaue Jeans-Shorts. Sitzt am Tischrand, beide Arme nach vorne hängend.
+
+Hintergrund und Licht:
+Blaugrüner See, Nadelwald, schroffe Berge mit Schneestreifen, blauer Himmel und weiße Wolken. Unten links ein Eiskaffee im transparenten Becher. Starkes Tageslicht und durch Blätter fallendes Sonnenlicht. Das Hauptlicht im Hintergrund fällt hart und direkt von oben ein.
+
+Komposition und Kamera:
+2:3 Hochformat, frontale Aufnahme ab der Taille aufwärts. Person in der Mitte, See und Berge in der oberen Hälfte, Eiskaffee unten links. Fokus auf Gesicht und die Reihe der weißen Knöpfe, die Berge leicht unscharf. Großformatig abgebildete Hauptfigur mit scharfem Fokus und leichtem Bokeh im Hintergrund.
+
+Textur und Stil:
+Fotorealistische Reisefotografie. Fängt die Textur von weißem Rippenstoff und Spitze, Denim, kaltem Getränk, blauem See und Bergkämmen in klarem Tageslicht ein.
+
+Negativ:
+Den Gebirgssee und den Eiskaffee unten links nicht weglassen
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

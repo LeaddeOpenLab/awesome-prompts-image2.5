@@ -509,20 +509,42 @@ Ne pas modifier le regard de profil par-dessus l'épaule ni la dentelle rose pê
 
 <a name="prompt-2099367790524219462"></a>
 
-### Traduction en cours
+### Prompt de portrait photoréaliste d'une femme assise à une table en bois au bord d'un lac.
 
 Auteur：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publication originale](https://x.com/CyberTotal2026/status/2099367790524219462)
 
 Photographie · Portrait / Selfie · Personnage · Paysage / Nature · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de portrait photoréaliste d'une femme assise à une table en bois au bord d'un lac.
 
 <img src="images/2099367790524219462-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Thème :
+Boutons blancs au bord du lac
+
+Sujet :
+Photographie verticale d'une femme adulte vêtue d'un crop top blanc assise au bord d'une table en bois près d'un lac de montagne bleu. Le personnage est centré dans le cadre.
+
+Personnage et expression :
+Cheveux lisses châtain foncé tombant sous la poitrine avec une raie presque au milieu. Visage ovale fin, yeux marron ronds, sourcils naturels, petit nez, lèvres pêche brillantes. Sourit doucement vers l'avant.
+
+Tenue et pose :
+Crop top blanc côtelé à manches courtes avec un décolleté rond profond bordé de fine dentelle et une rangée de petits boutons sous la poitrine. Short en jean bleu clair. Assise sur le bord de la table, les deux bras reposant vers l'avant.
+
+Arrière-plan et lumière :
+Lac bleu-vert, forêt de conifères, montagnes escarpées avec des traces de neige, ciel bleu et nuages blancs. En bas à gauche, un café glacé dans un gobelet transparent. Lumière intense du jour et soleil filtré à travers les feuilles. La lumière principale en arrière-plan est un éclairage direct et dur venu du haut.
+
+Composition et appareil photo :
+Format vertical 2:3, cadrage frontal au-dessus de la taille. Personnage au centre, lac et montagnes dans la moitié supérieure, café glacé en bas à gauche. Mise au point sur le visage et la rangée de boutons blancs, montagnes légèrement floues. Le sujet occupe une place importante avec une mise au point nette et un léger flou d'arrière-plan (bokeh).
+
+Texture et style :
+Photographie de voyage photoréaliste. Rendu net sous la vive lumière du jour des textures du tissu côtelé blanc et de la dentelle, du jean, de la boisson fraîche, du lac bleu et des crêtes montagneuses.
+
+Négatif :
+Ne pas omettre le lac de montagne ni le café glacé en bas à gauche
 ```
 
 [↑ Retour aux catégories](#catalog)
