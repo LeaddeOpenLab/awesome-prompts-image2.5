@@ -470,20 +470,42 @@ Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng th
 
 <a name="prompt-2099398744529600886"></a>
 
-### Đang dịch
+### Lời nhắc chụp ảnh chân dung chân thực về người phụ nữ mặc nội y màu đào trầm quay đầu nhìn qua vai trên chiếc giường ngập ánh nắng sớm.
 
 Tác giả：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Bài gốc](https://x.com/CyberTotal2026/status/2099398744529600886)
 
 Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc chụp ảnh chân dung chân thực về người phụ nữ mặc nội y màu đào trầm quay đầu nhìn qua vai trên chiếc giường ngập ánh nắng sớm.
 
 <img src="images/2099398744529600886-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Chủ đề:
+Sắc đào trầm bên cửa sổ sớm
+
+Chủ thể:
+Ảnh chụp dọc cận cảnh từ góc nghiêng của một phụ nữ trưởng thành mặc nội y màu hồng đào trầm, trên chiếc giường trắng ngập tràn ánh nắng sớm. Nhân vật được bố trí lấy trung tâm khung hình làm chuẩn.
+
+Nhân vật và biểu cảm:
+Mái tóc thẳng màu nâu xám nhạt dài qua vai với tóc mái thưa. Khuôn mặt trái xoan thon gọn, cằm nhỏ, đôi mắt màu nâu tròn, lông mày thanh mảnh tự nhiên, sống mũi thon gọn, bờ môi màu hồng đào căng mọng. Ánh nhìn tĩnh lặng qua vai hướng về phía máy ảnh.
+
+Trang phục và tư thế:
+Áo ngực có gọng dây mảnh màu hồng đào trầm. Phần trên của cúp ngực có ren cùng màu, chính giữa ngực có nơ bướm nhỏ. Cơ thể quay nghiêng sang một bên, giữ thẳng lưng và ngoảnh mặt qua vai. Bộ đồ bơi màu hồng đào trầm.
+
+Bối cảnh và ánh sáng:
+Ga trải giường và gối màu trắng, đồ nội thất bằng gỗ sáng màu, cửa sổ lớn. Ánh nắng sớm mạnh mẽ chiếu từ phía trên bên phải tạo ra đường viền sáng rõ và bóng đổ mềm mại trên má, sống mũi, vai và mái tóc. Ánh sáng chính của hậu cảnh là ánh sáng dịu nhẹ từ phía cửa sổ.
+
+Bố cục và máy ảnh:
+Bố cục dọc 3:4, máy ảnh chụp cận cảnh dưới ngực từ góc chéo nghiêng. Gương mặt đặt ở góc trên bên phải, vai và cúp ngực màu hồng chiếm diện tích lớn ở giữa phía dưới. Cả hai mắt, môi, ren và các lọn tóc đều sắc nét, hậu cảnh bị xóa mờ mạnh mẽ. Bao trọn nhân vật ở kích thước lớn, tập trung lấy nét vào chủ thể chính, hậu cảnh có độ mờ nhẹ.
+
+Chất cảm và phong cách:
+Ảnh chụp sắc đẹp chân thực như ảnh chụp thực tế (photorealistic). Khắc họa tinh tế kết cấu da tự nhiên, ren màu hồng đào, dây áo mảnh, mái tóc nâu xám và ánh phản chiếu dịu êm của nắng ban mai.
+
+Phủ định:
+Không thay đổi ánh mắt nhìn qua vai ở góc nghiêng và chất liệu ren màu hồng đào trầm
 ```
 
 [↑ Về danh mục](#catalog)

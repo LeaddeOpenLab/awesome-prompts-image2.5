@@ -465,20 +465,42 @@ Fotografie · Porträt / Selfie · Charakter · Modeartikel · Veröffentlicht
 
 <a name="prompt-2099398744529600886"></a>
 
-### Übersetzung läuft
+### Fotorealistischer Porträt-Fotografie-Prompt einer Frau in staubig-pfirsichfarbener Lingerie, die auf einem lichtdurchfluteten Bett über die Schulter blickt.
 
 Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Originalbeitrag](https://x.com/CyberTotal2026/status/2099398744529600886)
 
 Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Fotorealistischer Porträt-Fotografie-Prompt einer Frau in staubig-pfirsichfarbener Lingerie, die auf einem lichtdurchfluteten Bett über die Schulter blickt.
 
 <img src="images/2099398744529600886-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Thema:
+Staubiges Pfirsichrosa am Morgenfenster
+
+Hauptmotiv:
+Vertikales Nahaufnahmefoto von der Seite einer erwachsenen Frau in staubig-pfirsichrosa Lingerie auf einem von der Morgensonne erhellten weißen Bett. Die Person ist an der Bildmitte ausgerichtet.
+
+Person und Gesichtsausdruck:
+Schulterlanges, helles aschbraunes glattes Haar mit feinem Pony. Schmales ovales Gesicht, kleines Kinn, runde braune Augen, natürlich feine Augenbrauen, feiner Nasenrücken, glänzende pfirsichfarbene Lippen. Ruhiger Gesichtsausdruck, mit einem Blick über die Schulter in die Kamera.
+
+Kleidung und Pose:
+Bügel-BH in staubigem Pfirsichrosa mit dünnen Trägern. Passende Spitze am oberen Rand der Körbchen, eine kleine Schleife in der Brustmitte. Der Körper ist seitlich gedreht, mit aufrechtem Rücken, während das Gesicht über die Schulter zurückgedreht wird. Staubig-pfirsichfarbener Badeanzug.
+
+Hintergrund und Licht:
+Weiße Bettlaken und Kissen, helle Holzmöbel, großes Fenster. Starkes Morgenlicht von oben rechts erzeugt helle Konturen und weiche Schatten auf Wange, Nasenrücken, Schulter und Haar. Das Hauptlicht im Bildhintergrund ist weiches Licht von der Fensterseite.
+
+Komposition und Kamera:
+Vertikale 3:4-Komposition, Kamera diagonal von der Seite in Nahaufnahme unterhalb der Brust. Das Gesicht oben rechts, die Schulter und das pfirsichfarbene Körbchen unten mittig prominent platziert. Beide Augen, Lippen, Spitze und Haarsträhnen gestochen scharf mit stark verschwommenem Hintergrund. Die Person füllt das Bild groß aus, der Fokus liegt auf dem Hauptmotiv, mit leichtem Bokeh im Hintergrund.
+
+Textur und Stil:
+Fotorealistische Beauty-Fotografie. Bildet die natürliche Hautstruktur, die pfirsichfarbene Spitze, die dünnen Träger, das aschbraune Haar und die sanften Reflexionen des Morgenlichts detailgetreu ab.
+
+Negativ:
+Den Blick von der Seite über die Schulter und die staubig-pfirsichrosa Spitze nicht verändern
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

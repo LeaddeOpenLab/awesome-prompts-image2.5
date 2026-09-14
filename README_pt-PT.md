@@ -465,20 +465,42 @@ Tradução em curso
 
 <a name="prompt-2099398744529600886"></a>
 
-### Tradução em curso
+### Prompt de fotografia de retrato realista de uma mulher a vestir lingerie cor de pêssego empoeirado, a olhar por cima do ombro numa cama iluminada pela luz matinal.
 
 Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicação original](https://x.com/CyberTotal2026/status/2099398744529600886)
 
 Fotografia · Retrato / Selfie · Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt de fotografia de retrato realista de uma mulher a vestir lingerie cor de pêssego empoeirado, a olhar por cima do ombro numa cama iluminada pela luz matinal.
 
 <img src="images/2099398744529600886-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Tema:
+Pêssego empoeirado na janela matinal
+
+Sujeito:
+Fotografia vertical em grande plano lateral de uma mulher adulta a usar lingerie cor de pêssego empoeirado, sobre uma cama branca iluminada pelo sol matinal. A figura é posicionada tendo como referência o centro do enquadramento.
+
+Figura e expressão:
+Cabelos lisos castanho-acinzentados claros abaixo dos ombros com franja rala. Rosto oval e fino, queixo pequeno, olhos castanhos redondos, sobrancelhas finas naturais, ponte nasal delicada, lábios rosados brilhantes. Expressão serena a olhar para a câmara por cima do ombro.
+
+Vestuário e pose:
+Sutiã com aros e alças finas em tom pêssego empoeirado. Renda no mesmo tom na parte superior das copas, pequeno laço no centro do peito. Corpo virado de lado, mantendo as costas direitas e virando o rosto por cima do ombro. Fato de banho cor de pêssego empoeirado.
+
+Fundo e luz:
+Lençóis e almofadas brancas, mobiliário de madeira clara, janela grande. A forte luz matinal vinda do canto superior direito cria contornos luminosos e sombras suaves na face, ponte nasal, ombro e cabelo. A luz principal do fundo do enquadramento é uma luz suave vinda do lado da janela.
+
+Composição e câmara:
+Composição vertical 3:4, câmara em grande plano abaixo do peito a partir de um ângulo diagonal lateral. Rosto no canto superior direito, ombro e copa cor de pêssego posicionados com destaque no centro inferior. Ambos os olhos, lábios, renda e madeixas de cabelo nítidos com fundo fortemente desfocado. Enquadramento amplo da figura, foco colocado no sujeito principal e fundo com bokeh suave.
+
+Textura e estilo:
+Fotografia de beleza fotorrealista. Capta com precisão a textura natural da pele, a renda pêssego, as alças finas, o cabelo castanho-acinzentado e os reflexos suaves da luz da manhã.
+
+Negativo:
+Não alterar o olhar de lado por cima do ombro nem a renda pêssego empoeirado
 ```
 
 [↑ Voltar às categorias](#catalog)

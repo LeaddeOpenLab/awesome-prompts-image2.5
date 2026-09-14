@@ -465,20 +465,42 @@ Fotoğrafçılık · Portre / Selfie · Karakter · Moda Ürünü · Yayımland�
 
 <a name="prompt-2099398744529600886"></a>
 
-### Çeviri sürüyor
+### Sabah ışığının süzüldüğü yatakta, mat şeftali rengi iç çamaşırı giymiş ve omzunun üzerinden geriye bakan bir kadının gerçekçi portre fotoğrafı istemi.
 
 Yazar：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Orijinal gönderi](https://x.com/CyberTotal2026/status/2099398744529600886)
 
 Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Sabah ışığının süzüldüğü yatakta, mat şeftali rengi iç çamaşırı giymiş ve omzunun üzerinden geriye bakan bir kadının gerçekçi portre fotoğrafı istemi.
 
 <img src="images/2099398744529600886-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Konu:
+Sabah Penceresinde Mat Şeftali Pembesi
+
+Özne:
+Sabah güneşinin vurduğu beyaz bir yatakta, mat şeftali pembesi renginde iç çamaşırı giymiş yetişkin bir kadının yandan çekilmiş yakın plan dikey fotoğrafı. Kişi kadrajın merkezi baz alınarak yerleştirilir.
+
+Kişi ve İfade:
+Omuzların altına inen açık küllü kahverengi düz saçlar ve ince kaküller. İnce oval yüz hatları, küçük bir çene, yuvarlak kahverengi gözler, doğal ince kaşlar, zarif burun kemeri, parlak pembe-şeftali dudaklar. Omzunun üzerinden kameraya bakan dingin bir ifade.
+
+Kıyafet ve Poz:
+Mat şeftali pembesi, ince askılı telli sütyen. Kupun üst kısmında aynı renkte dantel, göğsün ortasında küçük bir fiyonk. Vücut yana dönük, sırt dik tutulmuş ve yüz omuz üzerinden arkaya çevrilmiş. Mat şeftali pembesi mayo.
+
+Arka Plan ve Işık:
+Beyaz çarşaflar ve yastıklar, açık renkli ahşap mobilyalar, büyük pencere. Sağ üstten gelen güçlü sabah güneşi yanakta, burun kemerinde, omuzda ve saçlarda parlak kenarlar ve yumuşak gölgeler oluşturur. Kadraj arka planının ana ışığı pencere tarafından gelen yumuşak ışıktır.
+
+Kompozisyon ve Kamera:
+3:4 dikey kompozisyon, kamera göğüs altından çapraz yandan yakın plan. Yüz sağ üstte, omuz ve pembe kup alt ortada belirgin bir şekilde yerleştirilmiş. Her iki göz, dudaklar, dantel ve saç tutamları son derece net, arka plan ise yoğun şekilde bulanık. Kişiyi genişçe kadraja alıp ana özneye odaklanmış, arka planda hafif bokeh.
+
+Doku ve Stil:
+Fotogerçekçi güzellik fotoğrafı. Doğal cilt dokusunu, pembe danteli, ince askıları, küllü kahverengi saçları ve sabah güneşinin yumuşak yansımasını ayrıntılı bir şekilde yansıtır.
+
+Negatif:
+Yandan omuz üzerinden bakışı ve mat şeftali pembesi danteli değiştirme
 ```
 
 [↑ Kategorilere dön](#catalog)

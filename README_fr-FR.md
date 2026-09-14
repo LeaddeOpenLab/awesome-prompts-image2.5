@@ -465,20 +465,42 @@ Traduction en cours
 
 <a name="prompt-2099398744529600886"></a>
 
-### Traduction en cours
+### Prompt de photographie de portrait réaliste d'une femme vêtue de lingerie pêche poudré regardant par-dessus son épaule sur un lit baigné de lumière matinale.
 
 Auteur：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publication originale](https://x.com/CyberTotal2026/status/2099398744529600886)
 
 Photographie · Portrait / Selfie · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de photographie de portrait réaliste d'une femme vêtue de lingerie pêche poudré regardant par-dessus son épaule sur un lit baigné de lumière matinale.
 
 <img src="images/2099398744529600886-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Thème :
+Pêche poudré à la fenêtre du matin
+
+Sujet principal :
+Photographie verticale en gros plan de profil d'une femme adulte vêtue de lingerie rose pêche poudré, sur un lit blanc baigné par la lumière du matin. Le personnage est positionné par rapport au centre du cadre.
+
+Personnage et expression :
+Cheveux lisses châtain cendré clair tombant sous les épaules avec une frange légère. Visage ovale et fin, petit menton, yeux bruns ronds, sourcils fins naturels, arête du nez délicate, lèvres couleur pêche brillantes. Expression sereine regardant l'appareil photo par-dessus l'épaule.
+
+Tenue et pose :
+Soutien-gorge à armatures à fines bretelles rose pêche poudré. Dentelle ton sur ton sur le haut des bonnets, petit nœud papillon au centre de la poitrine. Corps orienté sur le côté, dos bien droit et visage tourné par-dessus l'épaule. Maillot de bain rose pêche poudré.
+
+Arrière-plan et lumière :
+Draps et oreillers blancs, meubles en bois clair, grande fenêtre. Une vive lumière matinale venant du coin supérieur droit crée des reflets nets et des ombres douces sur la joue, l'arête du nez, l'épaule et les cheveux. La lumière principale de l'arrière-plan est une douce clarté provenant de la fenêtre.
+
+Composition et appareil photo :
+Composition verticale 3:4, plan rapproché sous la poitrine pris de côté en diagonale. Le visage est placé en haut à droite, l'épaule et le bonnet pêche sont disposés de manière prédominante au centre en bas. Les deux yeux, les lèvres, la dentelle et les mèches de cheveux sont nets avec un arrière-plan fortement flouté. Sujet cadré en grand, mise au point sur le sujet principal et léger bokeh en arrière-plan.
+
+Texture et style :
+Photographie de beauté photoréaliste. Restitution précise du grain de peau naturel, de la dentelle pêche, des fines bretelles, des cheveux châtain cendré et des doux reflets du soleil matinal.
+
+Négatif :
+Ne pas modifier le regard de profil par-dessus l'épaule ni la dentelle rose pêche poudré
 ```
 
 [↑ Retour aux catégories](#catalog)

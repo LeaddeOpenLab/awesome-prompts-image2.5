@@ -470,20 +470,42 @@ Traducción en curso
 
 <a name="prompt-2099398744529600886"></a>
 
-### Traducción en curso
+### Prompt de fotografía de retrato realista de una mujer en una cama iluminada por la luz de la mañana, vestida con lencería de color rosa empolvado y mirando por encima del hombro.
 
 Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicación original](https://x.com/CyberTotal2026/status/2099398744529600886)
 
 Fotografía · Retrato / Selfie · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de fotografía de retrato realista de una mujer en una cama iluminada por la luz de la mañana, vestida con lencería de color rosa empolvado y mirando por encima del hombro.
 
 <img src="images/2099398744529600886-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Tema:
+Rosa empolvado junto a la ventana matutina
+
+Sujeto:
+Fotografía vertical en primer plano lateral de una mujer adulta vestida con lencería de color rosa empolvado, sobre una cama blanca iluminada por el sol de la mañana. La persona se sitúa tomando como referencia el centro del encuadre.
+
+Persona y expresión:
+Cabello liso castaño ceniza claro que cae por debajo de los hombros con flequillo ligero. Rostro ovalado y esbelto, barbilla pequeña, ojos castaños redondos, cejas finas naturales, puente nasal delgado y labios rosados brillantes. Expresión serena mirando a la cámara por encima del hombro.
+
+Atuendo y postura:
+Sujetador con aros y tirantes finos en color rosa empolvado. Encaje del mismo color en la parte superior de las copas y un pequeño lazo en el centro del pecho. Cuerpo orientado hacia un lado, manteniendo la espalda recta y girando el rostro por encima del hombro. Traje de baño de color rosa empolvado.
+
+Fondo e iluminación:
+Sábanas y almohadas blancas, muebles de madera clara, gran ventanal. La intensa luz solar matutina procedente de la esquina superior derecha crea bordes luminosos y sombras suaves en la mejilla, el puente nasal, el hombro y el cabello. La luz principal del fondo del encuadre es una luz suave proveniente del lado de la ventana.
+
+Composición y cámara:
+Composición vertical 3:4, cámara en primer plano por debajo del pecho desde una perspectiva lateral en diagonal. Rostro en la esquina superior derecha, hombro y copa rosa colocados de forma prominente en la parte inferior central. Ambos ojos, labios, encaje y mechones de cabello nítidos con un fondo intensamente desenfocado. Encuadre amplio de la persona, enfoque centrado en la protagonista y fondo con un suave efecto bokeh.
+
+Textura y estilo:
+Fotografía de belleza fotorrealista. Captura con gran precisión la textura natural de la piel, el encaje rosa, los tirantes finos, el cabello castaño ceniza y los suaves reflejos de la luz de la mañana.
+
+Negativo:
+No alterar la mirada lateral por encima del hombro ni el encaje en tono rosa empolvado
 ```
 
 [↑ Volver a categorías](#catalog)

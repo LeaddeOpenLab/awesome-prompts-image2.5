@@ -465,20 +465,42 @@ Traduzione in corso
 
 <a name="prompt-2099398744529600886"></a>
 
-### Traduzione in corso
+### Prompt fotografico per un ritratto realistico di una donna che indossa lingerie color pesca polveroso e si volta a guardare sopra la spalla su un letto illuminato dal sole del mattino.
 
 Autore：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Post originale](https://x.com/CyberTotal2026/status/2099398744529600886)
 
 Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt fotografico per un ritratto realistico di una donna che indossa lingerie color pesca polveroso e si volta a guardare sopra la spalla su un letto illuminato dal sole del mattino.
 
 <img src="images/2099398744529600886-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Tema:
+Pesco polveroso alla finestra del mattino
+
+Soggetto:
+Fotografia verticale ravvicinata di lato di una donna adulta in lingerie color pesca polveroso, su un letto bianco illuminato dal sole del mattino. La figura è posizionata prendendo come riferimento il centro dell'inquadratura.
+
+Figura ed espressione:
+Capelli lisci castano cenere chiaro sotto le spalle con frangia sottile. Viso ovale e sottile, mento piccolo, occhi marroni rotondi, sopracciglia sottili naturali, ponte nasale delicato, labbra color pesca lucide. Espressione calma mentre guarda la fotocamera da sopra la spalla.
+
+Abbigliamento e posa:
+Reggiseno con ferretto a spalline sottili color pesca polveroso. Pizzo tono su tono sulla parte superiore delle coppe, piccolo fiocco al centro del petto. Corpo rivolto di lato, schiena dritta e volto girato all'indietro sopra la spalla. Costume da bagno color pesca polveroso.
+
+Sfondo e luce:
+Lenzuola e cuscini bianchi, mobili in legno chiaro, grande finestra. La forte luce mattutina proveniente dall'alto a destra crea contorni luminosi e ombre morbide su guancia, ponte nasale, spalla e capelli. La luce principale dello sfondo dell'inquadratura è una luce soffusa proveniente dal lato della finestra.
+
+Composizione e fotocamera:
+Composizione verticale 3:4, primo piano dal basso petto con angolazione diagonale laterale. Viso in alto a destra, spalla e coppa color pesca posizionate in grande evidenza in basso al centro. Entrambi gli occhi, labbra, pizzo e ciocche di capelli nitidi con sfondo fortemente sfocato. La figura occupa gran parte dell'inquadratura, messa a fuoco sul soggetto principale e leggero bokeh di sfondo.
+
+Texture e stile:
+Fotografia di bellezza fotorealistica. Resa dettagliata della grana naturale della pelle, del pizzo pesca, delle spalline sottili, dei capelli castano cenere e dei morbidi riflessi della luce del mattino.
+
+Negativo:
+Non modificare lo sguardo laterale da sopra la spalla e il pizzo color pesca polveroso
 ```
 
 [↑ Torna alle categorie](#catalog)
