@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**115** Prompt · Son eklenen: **2026-09-14**
+**116** Prompt · Son eklenen: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,30 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 <a name="category-photography"></a>
 
 ## Fotoğrafçılık
+
+<a name="prompt-2099520724121883039"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@AIVideoHub\_](https://x.com/AIVideoHub_) · [Orijinal gönderi](https://x.com/AIVideoHub_/status/2099520724121883039)
+
+Fotoğrafçılık · Portre / Selfie · Karakter · Moda Ürünü · Şehir Manzarası / Sokak · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2099520724121883039-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2099520724121883039-2.jpg" alt="Görsel 2" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2099374878910734661"></a>
 

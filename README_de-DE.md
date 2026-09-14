@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**115** Prompts · Zuletzt hinzugefügt: **2026-09-14**
+**116** Prompts · Zuletzt hinzugefügt: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,30 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 <a name="category-photography"></a>
 
 ## Fotografie
+
+<a name="prompt-2099520724121883039"></a>
+
+### Übersetzung läuft
+
+Autor：[@AIVideoHub\_](https://x.com/AIVideoHub_) · [Originalbeitrag](https://x.com/AIVideoHub_/status/2099520724121883039)
+
+Fotografie · Porträt / Selfie · Charakter · Modeartikel · Stadtbild / Straße · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2099520724121883039-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2099520724121883039-2.jpg" alt="Bild 2" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2099374878910734661"></a>
 

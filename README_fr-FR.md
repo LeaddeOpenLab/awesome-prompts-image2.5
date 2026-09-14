@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**115** Prompts · Dernier ajout: **2026-09-14**
+**116** Prompts · Dernier ajout: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,30 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 <a name="category-photography"></a>
 
 ## Photographie
+
+<a name="prompt-2099520724121883039"></a>
+
+### Traduction en cours
+
+Auteur：[@AIVideoHub\_](https://x.com/AIVideoHub_) · [Publication originale](https://x.com/AIVideoHub_/status/2099520724121883039)
+
+Photographie · Portrait / Selfie · Personnage · Article de mode · Paysage urbain / Rue · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2099520724121883039-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2099520724121883039-2.jpg" alt="Image 2" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2099374878910734661"></a>
 

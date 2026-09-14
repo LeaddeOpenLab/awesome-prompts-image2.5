@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**115** Prompt · Bổ sung mới nhất: **2026-09-14**
+**116** Prompt · Bổ sung mới nhất: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,30 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 <a name="category-photography"></a>
 
 ## Nhiếp ảnh
+
+<a name="prompt-2099520724121883039"></a>
+
+### Đang dịch
+
+Tác giả：[@AIVideoHub\_](https://x.com/AIVideoHub_) · [Bài gốc](https://x.com/AIVideoHub_/status/2099520724121883039)
+
+Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng thời trang · Quang cảnh thành phố / Đường phố · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2099520724121883039-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2099520724121883039-2.jpg" alt="Hình ảnh 2" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2099374878910734661"></a>
 

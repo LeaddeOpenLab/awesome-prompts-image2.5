@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**115** Prompts · Latest addition: **2026-09-14**
+**116** Prompts · Latest addition: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,52 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2099520724121883039"></a>
+
+### High-end night scene fashion female portrait photography prompt from a high-angle overhead shot on an urban rooftop lounge bar.
+
+Author：[@AIVideoHub\_](https://x.com/AIVideoHub_) · [Source](https://x.com/AIVideoHub_/status/2099520724121883039)
+
+Photography · Portrait / Selfie · Character · Fashion Item · Cityscape / Street · Published
+
+**Summary:** High-end night scene fashion female portrait photography prompt from a high-angle overhead shot on an urban rooftop lounge bar.
+
+<img src="images/2099520724121883039-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2099520724121883039-2.jpg" alt="Image 2" width="480" />
+
+**Prompt**
+
+```text
+9:16 vertical format, urban nightscape rooftop lounge bar × high-angle overhead shot × hyperrealistic real-person fashion photography × high-end night scene editorial.
+
+A clearly adult, beautiful East Asian woman aged 22–25, tall and slender, small head, small face, slim waist, elongated posture. Skin is exceptionally fair, delicate, translucent, presenting a clean and sophisticated cool porcelain tone, retaining authentic pores and natural skin texture.
+
+The subject features refined, mature real-female facial features, a smooth oval face, a defined jawline, and a slightly pointed chin. Voluminous, seaweed-like long wavy black hair drapes lazily over her shoulders and back, with loose strands gently fluttering in the rooftop night breeze without obscuring her main facial features.
+
+She is seated on a high stool at the rooftop lounge bar, body slightly turned sideways, upper body naturally leaning back, relaxed shoulders and neck, face tilted slightly upward looking up into the high-angle camera. Her gaze is cool, languid, with a touch of elusive allure, lips naturally relaxed, projecting an overall mature, restrained, and distant demeanor.
+
+Wearing a matte mutton-fat-textured genuine leather cinched-waist long trench coat made of soft, premium leather with a delicate matte grain and natural creases. Distinctly cinched at the waist to emphasize a slender waistline; collar naturally loosened to form a low V-neckline revealing the neck, shoulders, and delicate collarbones. Styled with minimalist, sophisticated black tall boots to keep the overall look unified in dark urban fashion.
+
+Adorned with crushed-diamond cat-eye manicured nails, dangling long crystal earrings, a slender serpentine diamond bracelet, and a V-shaped pavé diamond collarbone necklace. Fingers are slender and elongated; one hand rests naturally on the high stool or by her thigh, while the other can gently touch her long hair, collarbone necklace, or rest naturally against the edge of the bar counter. The jewelry and cat-eye nails produce subtle, sharp, and restrained glints under the city lights.
+
+The camera is positioned at approximately 40–50° in front of and above the subject, establishing a clear high-angle overhead perspective. The subject sits lower and tilts her face slightly upward, creating a distinct visual layering of the eyes, bridge of the nose, lips, neck and shoulders, and the leather coat lapels. Avoid completely vertical top-down shots and severe wide-angle distortion.
+
+The background is a high-rise urban rooftop lounge bar featuring glass railings, a minimalist bar counter, high-top tables and chairs, and dense city skyscrapers, neon lights, road traffic, and countless city lights in the distance. The nightscape naturally wraps around the subject, generating rich depth and layers.
+
+Using cool white soft light as the key light for the subject, with city neon providing blue-violet, silver-gray, and subtle warm-gold ambient reflections. Key focus is placed on enhancing refined highlights along the nose bridge, eyes, lips, jawline, collarbones, jewelry, and hands, while maintaining rich shadow textures in the black matte leather without producing an oily plastic sheen.
+
+The subject's face, eyes, fingers, cat-eye nails, pavé diamond jewelry, and leather textures remain ultra-sharp and in high definition; the background city nightscape utilizes a soft shallow depth of field to create natural neon bokeh, with the subject's outline only slightly softened.
+
+Overall low-saturation cinematic color grading of black-gray, cool white, blue-violet, and subtle warm gold, enhanced with gentle bloom, fine film grain, and soft highlight halation. Presenting a sophisticated, languid, cool, alluring yet restrained urban nightlife fashion editorial quality.
+
+Negative prompts: Complete vertical top-down shot, low-angle shot, severe wide-angle distortion, big head, large face, shiny plastic leather look, cheap leather, incorrect collar construction, floating jewelry, deformed manicure, fused fingers, extra hands, extra fingers, hair covering face, blurry main subject, out-of-focus face, overexposed nose bridge, plastic skin, over-smoothed skin, completely blurred background, chaotic nightscape, anime face, CG face, text, logo, watermark.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2099374878910734661"></a>
 
