@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**103** Prompt · Son eklenen: **2026-09-14**
+**104** Prompt · Son eklenen: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -383,6 +383,28 @@ Fotoğrafçılık · Manzara / Doğa · Yayımlandı
 
 ```text
 Ormanda bol yeşil yaprakları olan bir açıklığın fotoğrafı, son derece detaylı
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2099339353168441687"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Orijinal gönderi](https://x.com/CyberTotal2026/status/2099339353168441687)
+
+Fotoğrafçılık · Portre / Selfie · Karakter · Moda Ürünü · Mimari / İç Mekan · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2099339353168441687-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
 ```
 
 [↑ Kategorilere dön](#catalog)

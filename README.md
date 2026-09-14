@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**103** Prompts · Latest addition: **2026-09-14**
+**104** Prompts · Latest addition: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -438,6 +438,50 @@ Photography · Landscape / Nature · Published
 
 ```text
 Photo of a clearing in the woods with lots of green foliage, highly detailed
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2099339353168441687"></a>
+
+### Indoor fashion photography prompt of a woman wearing a black-and-white tweed mini dress sitting on a sofa.
+
+Author：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Source](https://x.com/CyberTotal2026/status/2099339353168441687)
+
+Photography · Portrait / Selfie · Character · Fashion Item · Architecture / Interior · Published
+
+**Summary:** Indoor fashion photography prompt of a woman wearing a black-and-white tweed mini dress sitting on a sofa.
+
+<img src="images/2099339353168441687-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Subject:
+Afternoon Black-and-White Tweed
+
+Main Subject:
+A vertical photo of an adult woman wearing a black-and-white tweed mini dress, sitting on a sofa in a bright, elegant living room. The person is positioned centered relative to the frame.
+
+Person / Expression:
+Below-shoulder light brown wavy hair with thin bangs. A slender oval face contour, horizontally elongated brown eyes, natural thin eyebrows, a petite nose, and glossy pink lips. Resting her cheek on one hand, quietly looking to the left of the frame. Her face is turned toward the left of the frame.
+
+Attire / Pose:
+An off-white fine tweed mini dress featuring thin black shoulder straps, a deep V-neck with black lace trim, black piping along the torso and hem, and small pearl-like buttons. Legs crossed, resting one elbow on her knee and the other arm on her leg. Delicate gold jewelry.
+
+Background / Lighting:
+A light beige sofa, a marble table, a vase of white roses, shelves, and a large window. Daylight from the left creates soft reflections on her hair and shoulders. The primary light in the background of the frame is soft light coming from the window side.
+
+Composition / Camera:
+2:3 vertical composition, shot from an oblique frontal angle close to a seated eye level, framing from above the knees. The subject is placed center-left, white roses in the right foreground, and the window in the back left. Focus is on the face and the black trim of the tweed. The subject is framed prominently, keeping the focus sharp on the protagonist while leaving the background with a soft bokeh.
+
+Texture / Style:
+Photorealistic indoor fashion photography. Coarse tweed, black trim, pearl-like buttons, gold jewelry, and soft skin illumination are captured in sharp detail.
+
+Negative:
+Do not change the black-and-white trim and tweed texture into plain fabric
 ```
 
 [↑ Back to categories](#catalog)
