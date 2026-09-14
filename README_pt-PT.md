@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**111** Prompts · Adição mais recente: **2026-09-14**
+**112** Prompts · Adição mais recente: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Adicione uma estrela a este repositório para acompanhar a nossa seleção diár
 <a name="category-photography"></a>
 
 ## Fotografia
+
+<a name="prompt-2099375219546935317"></a>
+
+### Tradução em curso
+
+Autor：[@listudio](https://x.com/listudio) · [Publicação original](https://x.com/listudio/status/2099375219546935317)
+
+Fotografia · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2099375219546935317-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2099375039166747111"></a>
 

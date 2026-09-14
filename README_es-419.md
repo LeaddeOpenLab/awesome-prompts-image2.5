@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**111** Prompts · Última incorporación: **2026-09-14**
+**112** Prompts · Última incorporación: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Dale una estrella a este repositorio para seguir nuestra selección diaria y des
 <a name="category-photography"></a>
 
 ## Fotografía
+
+<a name="prompt-2099375219546935317"></a>
+
+### Traducción en curso
+
+Autor：[@listudio](https://x.com/listudio) · [Publicación original](https://x.com/listudio/status/2099375219546935317)
+
+Fotografía · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2099375219546935317-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2099375039166747111"></a>
 

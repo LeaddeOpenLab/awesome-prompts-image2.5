@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**111** Prompts · Latest addition: **2026-09-14**
+**112** Prompts · Latest addition: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2099375219546935317"></a>
+
+### Surreal canyon adventure long-exposure photography, featuring a long-exposure mountain river, a tsunami wave in the sky, and a traveler's silhouette.
+
+Author：[@listudio](https://x.com/listudio) · [Source](https://x.com/listudio/status/2099375219546935317)
+
+Photography · Published
+
+**Summary:** Surreal canyon adventure long-exposure photography, featuring a long-exposure mountain river, a tsunami wave in the sky, and a traveler's silhouette.
+
+<img src="images/2099375219546935317-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create a 9:16 vertical, photorealistic surreal canyon long-exposure adventure photograph. Wide-angle low-angle perspective, with the foreground to midground featuring a wide, icy mountain river where grey-cyan water flows around numerous dark boulders.\n\nPresented with a stable tripod long exposure: rapids merge into smooth, milky-white ribbons extending along the riverbed and continuous soft foam trails, with water carving elegant arcs around rocks while the water surface retains subtle grey-cyan gradations; all rocks remain wet, coarse, and razor-sharp. Steep, nearly barren black mountain slopes on the left and right form a V-shaped canyon mouth converging into the distance.\n\nThe distant sky is replaced by a tsunami wave of unfathomable scale, its deep cyan-grey water curling down from high on the upper left, forming a massive arched vortex wall and a dark wave barrel above the canyon. Using a long-exposure and time-stack aesthetic: water textures on the giant wave's surface stretch into continuous broad arcs along the curling direction, spray at the crest is drawn out into soft milky-white misty trails, and low clouds, mountain mist, and the wave crest transition smoothly; yet the wave's thickness, cavernous dark barrel, and water mass remain distinctly realistic, without turning into clouds.\n\nOn the lower-left riverbank, a black silhouette of an adult traveler facing away from the camera occupies approximately 4% of the frame height, remaining sharp. A pale overcast sky provides cool diffuse light from the upper right, with an overall palette of cool cyan-grey, charcoal black, and a touch of dark ochre, low saturation, high dynamic range, deep depth of field, and subtle film grain.\n\nMotion blur applies only to the river, giant wave surface, spray, and clouds/mist; the figure and topography remain sharp. No cities, no boats, no animals, no text, no logos, no watermarks, no lightning, no neon.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2099375039166747111"></a>
 
