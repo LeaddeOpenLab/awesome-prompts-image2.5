@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-14T08:20:02.497Z",
+  "model": "image2",
+  "prompt": "主題：\n潤んだ瞳の近距離ポートレート\n\n主体：\n20代女性を上方から至近距離で捉えた縦位置の写真。人物は画面中央を大きく占め、上体を前へ傾けながらカメラを見上げている。片手を口元のすぐ下で軽くすくうように広げ、手のひらには少量の透明な水滴が乗っている。室内の暗めの背景と、近距離ならではの親密な空気感。\n\n人物・表情：\n丸みのある小さな顔立ちと柔らかな顎のライン。大きめのブラウンアイでカメラをまっすぐ見つめ、目尻はわずかに下がった穏やかな印象。下まぶたに自然な涙の膜があり、目尻付近にごく小さな涙のしずくが一つ見える程度で、泣き顔にはしない。細めのブラウン眉、淡いローズ系チーク、繊細なまつ毛、ピンクベージュの艶のあるリップ。明るいブラウンのロングヘアは緩いウェーブで、薄い前髪と顔周りの細い毛束が頬に沿う。\n\n服装・ポーズ：\n淡いピンクの細かなリブ素材のノースリーブトップス。深めのVネックと中央の小さなリボンが見え、下には淡いアイボリー系の短いボトムを合わせる。上体をカメラ側へ傾け、肩を少し内側へ寄せた姿勢。片手は顔の下で手のひらを上向きにし、指を自然に丸めて少量の水滴を受けている。\n\n背景・光：\n暗いブラウンと黒を基調にした室内。左奥に暗い家具と小さな紙類、右奥に黒い収納物と白い小物がぼけて見える。正面寄りの柔らかな暖色光が顔、髪、肩、手のひらを明るく照らし、背景は一段暗く落ちる。肌には控えめな艶があり、瞳と涙の表面に小さな反射が入る。\n\n構図・カメラ：\n縦4:3。顔を画面上半分の中央に大きく配置した極近距離ポートレート。高い位置からやや見下ろす広角寄りの視点で、顔と手が強く前景化する。頭頂部から胸元、太ももの一部まで入り、手のひらが画面中央下部に重なる。顔と瞳に明確にピントを合わせ、背景は柔らかくぼかす。\n\n質感・スタイル：\nリアルな写真表現。自然な肌理を残したなめらかな肌、一本ずつ見える柔らかな髪、リブ生地、水滴、涙の透明感を細かく描写する。暖かく柔らかな色調で、過度なHDRや強い美肌加工は避ける。近距離撮影らしい立体感と、日常写真のような自然な空気感。\n\nネガティブ：\n大粒で不自然な涙；泣き腫らした表情",
+  "promptTranslations": {
+    "en": "Subject:\nClose-up portrait with moist eyes\n\nMain Subject:\nA vertical photograph capturing a woman in her 20s from above at close range. The subject occupies a large portion of the center of the frame, leaning her upper body forward while looking up at the camera. One hand is gently cupped right beneath her mouth, holding a small amount of clear water droplets on her palm. A dark indoor background with an intimate atmosphere unique to close-range photography.\n\nPerson / Expression:\nA petite, rounded face with a soft jawline. Large brown eyes looking straight into the camera, with slightly downturned outer corners giving a gentle impression. A natural film of tears on the lower eyelids, with only a tiny tear droplet visible near the outer corner of the eye, avoiding an overly crying face. Slender brown eyebrows, pale rose blush, delicate eyelashes, and glossy pink-beige lips. Light brown long hair in loose waves, with wispy bangs and slender strands framing the face along the cheeks.\n\nClothing / Pose:\nA pale pink, finely ribbed sleeveless top. Featuring a deep V-neck and a small ribbon at the center, paired with pale ivory-toned short bottoms underneath. A posture leaning the upper body toward the camera with shoulders slightly drawn inward. One hand is held under her face with the palm facing upward, fingers naturally curled, holding a small amount of water droplets.\n\nBackground / Lighting:\nAn indoor setting based on dark brown and black tones. In the left background, dark furniture and small papers appear softly blurred, while in the right background, black storage items and small white objects are blurred. Soft warm light from near the front brightly illuminates her face, hair, shoulders, and palm, with the background falling into deeper shadow. The skin has a subtle glow, with tiny reflections visible on the surface of her eyes and tears.\n\nComposition / Camera:\nVertical 4:3. An extreme close-up portrait with the face prominently placed in the center of the upper half of the frame. A slightly wide-angle perspective looking down from a high angle, strongly bringing the face and hand into the foreground. The frame extends from the top of the head to the chest and part of the thighs, with the palm overlapping the lower-center portion of the frame. Sharp focus on the face and eyes, with the background softly blurred.\n\nTexture / Style:\nRealistic photographic expression. Smooth skin retaining natural texture, soft hair visible strand by strand, ribbed fabric, water droplets, and the transparency of tears are depicted in fine detail. Warm and soft color tones, avoiding excessive HDR or heavy skin-smoothing filters. Dimensionality characteristic of close-range photography, with the natural atmosphere of an everyday snapshot.\n\nNegative:\nLarge, unnatural tears; a puffy, crying face"
+  },
+  "summaryTranslations": {
+    "en": "Extreme close-up portrait prompt of a woman looking up at the camera with moist eyes."
+  },
+  "translationVersion": 2,
+  "summary": "潤んだ瞳でカメラを見上げる女性の極近距離ポートレートプロンプト。",
+  "summaryEn": "Prompt for a high-angle close-up portrait of a woman looking up with teary eyes.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2093263569249005578",
+      "canonicalUrl": "https://x.com/CyberTotal2026/status/2093263569249005578",
+      "author": {
+        "username": "CyberTotal2026",
+        "displayName": "Prompt アトリエ｜AI画像プロンプト",
+        "profileUrl": "https://x.com/CyberTotal2026"
+      },
+      "originalText": "近い視線に、桃色の空気まで閉じ込めて💕✨\n見上げる一瞬だけ、時間がゆっくりになる。\n\n#AIart #AI写真 #見上げる視線\n\n【GPT Image2プロンプト】\n\n主題：\n見上げる桃色\n\n主体：\n人物の顔は画面中央に大きく置く。室内の床に座る女性を真上近くから見下ろし、手前から伸びる大きな手が顎と頬を包む縦位置写真。女性の顔を中央、前腕を左下から中央へ斜めに大きく入れる特殊な近距離構図。\n\n人物・表情：\n顔を上げてカメラをまっすぐ見つめ、艶のある唇を少し開く。小さな卵形の輪郭と細い顎、大きく横長の目と長い上下まつ毛、細い緩やかな眉、細い鼻筋と小さな鼻先、ふっくらしたピンクの唇。頬には強めの桃色チーク。長い明るい茶髪は中央寄りの分け目と薄い前髪があり、肩から床方向へ広がる。\n\n服装・ポーズ：\n淡いピンクのリブ編みトップスは深いVネック、前ボタンと胸下の小さなリボン付きで、白い短いスカートを合わせる。両膝を揃えて座り、別の人物の手が画面左下から伸びて顎の下と両頬を支える。女性自身の腕は画面外。\n\n背景・光：\n濃い茶色のカーテン、白いタイル床、画面右端の黒い家具。正面の柔らかな光が顔と胸元を明るく照らし、背景は暗く落ち着く。\n\n構図・カメラ：\nカメラの焦点は顔と手前の手に置き、見える範囲を画面端で裁切し、背景を自然にボケさせる。顔を中央に大きく見せる。3:4の縦構図、極端な俯瞰の広角近接写真。顔を上半分中央、胸元と膝を下方へ並べ、太い前腕と手を最大の前景物として強く拡大する。下端に黒い衣服の一部をぼかして入れる。\n\n質感・スタイル：\nフォトリアルな実写写真。フラッシュ感のある高精細な実写。肌の艶、長いまつ毛、リブ生地、手前の肌を鮮明にし、桃色を強調する。\n\nネガティブ：\n手前の手と前腕を小さくしない；俯瞰角度を浅くしない"
+    },
+    "id": "2099400168433152293",
+    "canonicalUrl": "https://x.com/CyberTotal2026/status/2099400168433152293",
+    "author": {
+      "username": "CyberTotal2026",
+      "displayName": "Prompt アトリエ｜AI画像プロンプト",
+      "profileUrl": "https://x.com/CyberTotal2026"
+    },
+    "publishedAt": "2026-09-14T07:29:39.000Z",
+    "collectedAt": "2026-09-14T08:16:26.433Z",
+    "language": "ja",
+    "originalText": "泣くほどじゃないのに、少しだけ目が潤んだ瞬間。🥹💧✨\n\n#AIart #AI写真 #潤んだ瞳\n\n【GPT Image2プロンプト】\n主題：\n潤んだ瞳の近距離ポートレート\n\n主体：\n20代女性を上方から至近距離で捉えた縦位置の写真。人物は画面中央を大きく占め、上体を前へ傾けながらカメラを見上げている。片手を口元のすぐ下で軽くすくうように広げ、手のひらには少量の透明な水滴が乗っている。室内の暗めの背景と、近距離ならではの親密な空気感。\n\n人物・表情：\n丸みのある小さな顔立ちと柔らかな顎のライン。大きめのブラウンアイでカメラをまっすぐ見つめ、目尻はわずかに下がった穏やかな印象。下まぶたに自然な涙の膜があり、目尻付近にごく小さな涙のしずくが一つ見える程度で、泣き顔にはしない。細めのブラウン眉、淡いローズ系チーク、繊細なまつ毛、ピンクベージュの艶のあるリップ。明るいブラウンのロングヘアは緩いウェーブで、薄い前髪と顔周りの細い毛束が頬に沿う。\n\n服装・ポーズ：\n淡いピンクの細かなリブ素材のノースリーブトップス。深めのVネックと中央の小さなリボンが見え、下には淡いアイボリー系の短いボトムを合わせる。上体をカメラ側へ傾け、肩を少し内側へ寄せた姿勢。片手は顔の下で手のひらを上向きにし、指を自然に丸めて少量の水滴を受けている。\n\n背景・光：\n暗いブラウンと黒を基調にした室内。左奥に暗い家具と小さな紙類、右奥に黒い収納物と白い小物がぼけて見える。正面寄りの柔らかな暖色光が顔、髪、肩、手のひらを明るく照らし、背景は一段暗く落ちる。肌には控えめな艶があり、瞳と涙の表面に小さな反射が入る。\n\n構図・カメラ：\n縦4:3。顔を画面上半分の中央に大きく配置した極近距離ポートレート。高い位置からやや見下ろす広角寄りの視点で、顔と手が強く前景化する。頭頂部から胸元、太ももの一部まで入り、手のひらが画面中央下部に重なる。顔と瞳に明確にピントを合わせ、背景は柔らかくぼかす。\n\n質感・スタイル：\nリアルな写真表現。自然な肌理を残したなめらかな肌、一本ずつ見える柔らかな髪、リブ生地、水滴、涙の透明感を細かく描写する。暖かく柔らかな色調で、過度なHDRや強い美肌加工は避ける。近距離撮影らしい立体感と、日常写真のような自然な空気感。\n\nネガティブ：\n大粒で不自然な涙；泣き腫らした表情",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSKRSvxbkAA8dIQ.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSKRSvxbkAA8dIQ.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HQnNcpPaMAAC1J-.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HQnNcpPaMAAC1J-.jpg",
+        "sourcePostId": "2093263569249005578"
+      }
+    ],
+    "metrics": {
+      "likeCount": 23,
+      "repostCount": 1,
+      "replyCount": 0,
+      "quoteCount": 1,
+      "viewCount": 1490
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/CyberTotal2026/status/2099400168433152293",
+  "coverUrl": "https://pbs.twimg.com/media/HSKRSvxbkAA8dIQ.jpg",
+  "coverPath": "images/2099400168433152293-1.jpg",
+  "imagePaths": [
+    "images/2099400168433152293-1.jpg",
+    "images/2099400168433152293-2.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSKRSvxbkAA8dIQ",
+    "x-image:/media/HQnNcpPaMAAC1J-",
+    "x-post:2099400168433152293",
+    "x-post:2093263569249005578"
+  ],
+  "analysis": {
+    "summary": "潤んだ瞳でカメラを見上げる女性の極近距離ポートレートプロンプト。",
+    "summaryEn": "Prompt for a high-angle close-up portrait of a woman looking up with teary eyes.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "生成图像与提示词中的俯视角度、粉色深V领上衣、手心托水滴、湿润双眸及暗色背景细节高度一致。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "主題：\n潤んだ瞳の近距離ポートレート\n\n主体：\n20代女性を上方から至近距離で捉えた縦位置の写真。人物は画面中央を大きく占め、上体を前へ傾けながらカメラを見上げている。片手を口元のすぐ下で軽くすくうように広げ、手のひらには少量の透明な水滴が乗っている。室内の暗めの背景と、近距離ならではの親密な空気感。\n\n人物・表情：\n丸みのある小さな顔立ちと柔らかな顎のライン。大きめのブラウンアイでカメラをまっすぐ見つめ、目尻はわずかに下がった穏やかな印象。下まぶたに自然な涙の膜があり、目尻付近にごく小さな涙のしずくが一つ見える程度で、泣き顔にはしない。細めのブラウン眉、淡いローズ系チーク、繊細なまつ毛、ピンクベージュの艶のあるリップ。明るいブラウンのロングヘアは緩いウェーブで、薄い前髪と顔周りの細い毛束が頬に沿う。\n\n服装・ポーズ：\n淡いピンクの細かなリブ素材のノースリーブトップス。深めのVネックと中央の小さなリボンが見え、下には淡いアイボリー系の短いボトムを合わせる。上体をカメラ側へ傾け、肩を少し内側へ寄せた姿勢。片手は顔の下で手のひらを上向きにし、指を自然に丸めて少量の水滴を受けている。\n\n背景・光：\n暗いブラウンと黒を基調にした室内。左奥に暗い家具と小さな紙類、右奥に黒い収納物と白い小物がぼけて見える。正面寄りの柔らかな暖色光が顔、髪、肩、手のひらを明るく照らし、背景は一段暗く落ちる。肌には控えめな艶があり、瞳と涙の表面に小さな反射が入る。\n\n構図・カメラ：\n縦4:3。顔を画面上半分の中央に大きく配置した極近距離ポートレート。高い位置からやや見下ろす広角寄りの視点で、顔と手が強く前景化する。頭頂部から胸元、太ももの一部まで入り、手のひらが画面中央下部に重なる。顔と瞳に明確にピントを合わせ、背景は柔らかくぼかす。\n\n質感・スタイル：\nリアルな写真表現。自然な肌理を残したなめらかな肌、一本ずつ見える柔らかな髪、リブ生地、水滴、涙の透明感を細かく描写する。暖かく柔らかな色調で、過度なHDRや強い美肌加工は避ける。近距離撮影らしい立体感と、日常写真のような自然な空気感。\n\nネガティブ：\n大粒で不自然な涙；泣き腫らした表情",
+    "sourceRange": {
+      "start": 66,
+      "end": 984
+    },
+    "translations": {
+      "zh": "主题：含泪双眸的近距离肖像。主体：从上方近距离拍摄20多岁女性的竖构图照片，俯视仰角，单手托于唇下承接水滴。微润眼眸、粉色罗纹V领上衣、暖色正面光与暗色室内背景。",
+      "en": "Subject: Close-up portrait with moist eyes. Subject details: Vertical high-angle close-up of a woman in her 20s looking up, holding water drops in her palm below lips, wearing a pink ribbed top in a dim room."
+    },
+    "targetModels": [
+      "image2"
+    ],
+    "category": "text-to-image",
+    "useCase": "含泪特写的日常真实感人像摄影生成",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
