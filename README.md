@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**113** Prompts · Latest addition: **2026-09-14**
+**115** Prompts · Latest addition: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -538,6 +538,94 @@ Photography · Landscape / Nature · Published
 
 ```text
 Photo of a clearing in the woods with lots of green foliage, highly detailed
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2099486826192842807"></a>
+
+### A travel-photography-style prompt of a woman in a white swimsuit holding hands from a first-person perspective and looking back in a clear tropical sea.
+
+Author：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Source](https://x.com/CyberTotal2026/status/2099486826192842807)
+
+Photography · Character · Published
+
+**Summary:** A travel-photography-style prompt of a woman in a white swimsuit holding hands from a first-person perspective and looking back in a clear tropical sea.
+
+<img src="images/2099486826192842807-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Theme:
+Hand Reaching toward the Blue Sea
+
+Main Subject:
+A vertical photograph in a crystal-clear tropical sea of an adult woman in a white one-piece swimsuit looking back while holding and pulling the camera's hand. The figure is positioned based around the center of the frame.
+
+Person / Expression:
+Wet, waist-length light brown hair with wispy bangs. Slender oval face contour, brown eyes looking over her shoulder, natural eyebrows, a small nose, and glossy pink lips. A subtle smile. Her face is turned over her shoulder toward the camera.
+
+Attire / Pose:
+A white sleeveless one-piece swimsuit with a deep open back and an oval cutout at the center of the lower back. Submerged in water up to her waist with her back turned, extending one arm long toward the lens. A rectangular smartwatch is on the photographer's arm in the foreground. A circular cutout hole on the back.
+
+Background / Lighting:
+Transparent turquoise-blue shallows, white sand, a lush green island in the distance on the left, and a vivid blue sky with white clouds. Strong daylight glitters across the water's surface in shimmering specks. The main lighting in the background is harsh, direct illumination from above.
+
+Composition / Camera:
+3:4 vertical composition, camera at a first-person perspective, taken from behind at a diagonal angle above the waist. The arm and hand extending from the lower left foreground connect to the subject, positioning her at center-right and spreading the sea across the entire frame. Focus on the face, the clasped hands, and the cutout on the back. Framing the subject largely with sharp focus on the protagonist, accompanied by subtle background bokeh.
+
+Texture / Style:
+Photorealistic travel photograph. Capturing wet hair, the white swimsuit, water droplets on the arm, the rectangular watch, and the transparent sea under striking, vivid natural light.
+
+Negative:
+Do not omit the first-person hand-holding and the rectangular watch in the foreground
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2099470719235318149"></a>
+
+### A serene indoor portrait of a woman sitting on the floor by a blue-green wall in a grass-green camisole mini dress, making use of window light and leaf shadows.
+
+Author：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Source](https://x.com/CyberTotal2026/status/2099470719235318149)
+
+Photography · Portrait / Selfie · Character · Fashion Item · Architecture / Interior · Published
+
+**Summary:** A serene indoor portrait of a woman sitting on the floor by a blue-green wall in a grass-green camisole mini dress, making use of window light and leaf shadows.
+
+<img src="images/2099470719235318149-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Theme:
+Blue Wall and Light Green Dress
+
+Main Subject:
+A vertical orientation photograph of an adult woman sitting with her legs folded on the floor beside an aged blue-green wall, wearing a light grass-green spaghetti-strap mini dress. The subject is positioned relative to the center of the frame.
+
+Person / Expression:
+Below-shoulder-length light brown straight hair with thin bangs. A slender oval face contour, brown eyes looking toward the left of the frame, natural eyebrows, a small nose, and pale pink lips. A serene profile with her back resting against the wall.
+
+Clothing / Pose:
+The pale grass-green spaghetti-strap mini dress features ruching and thin tie strings at the bust, a subtle botanical pattern across the entire fabric, and small frills at the hem. One leg is stretched out long forward, while the other leg is tucked inward, with her right hand placed on the floor and her left hand resting on her thigh.
+
+Background / Lighting:
+A rough blue-green wall with rust-colored speckles, a gray floor, and a large potted plant with white curtains in the far left. Oblique light enters from a window on the left, casting sharp leaf shadows across her legs and the floor. The primary light in the background is soft illumination from the window side.
+
+Composition / Camera:
+3:4 vertical composition, full-body photograph taken from a low angle near the floor at an oblique frontal perspective. The subject is placed at the center-right, the potted plant at the far left background, and the extended leg diagonally toward the lower left. In focus on the face, the light green fabric, and the wall's texture. Capturing the subject prominently with focus on the main character, with mild bokeh in the background.
+
+Texture / Style:
+Photorealistic, quiet indoor photography. Finely rendering the thin fabric and frills, peeling paint of the blue-green wall, potted foliage, sharp window shadows, and natural skin.
+
+Negative:
+Do not omit the mottled blue-green wall or the one leg extended onto the floor
 ```
 
 [↑ Back to categories](#catalog)

@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**113** Prompts · Adição mais recente: **2026-09-14**
+**115** Prompts · Adição mais recente: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -477,6 +477,50 @@ Fotografia · Paisagem / Natureza · Publicado
 
 ```text
 Fotografia de uma clareira na floresta com muita folhagem verde, altamente detalhada
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2099486826192842807"></a>
+
+### Tradução em curso
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicação original](https://x.com/CyberTotal2026/status/2099486826192842807)
+
+Fotografia · Personagem · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2099486826192842807-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2099470719235318149"></a>
+
+### Tradução em curso
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicação original](https://x.com/CyberTotal2026/status/2099470719235318149)
+
+Fotografia · Retrato / Selfie · Personagem · Item de Moda · Arquitetura / Interiores · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2099470719235318149-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
 ```
 
 [↑ Voltar às categorias](#catalog)

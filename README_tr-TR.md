@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**113** Prompt · Son eklenen: **2026-09-14**
+**115** Prompt · Son eklenen: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -477,6 +477,50 @@ Fotoğrafçılık · Manzara / Doğa · Yayımlandı
 
 ```text
 Ormanda bol yeşil yaprakları olan bir açıklığın fotoğrafı, son derece detaylı
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2099486826192842807"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Orijinal gönderi](https://x.com/CyberTotal2026/status/2099486826192842807)
+
+Fotoğrafçılık · Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2099486826192842807-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2099470719235318149"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Orijinal gönderi](https://x.com/CyberTotal2026/status/2099470719235318149)
+
+Fotoğrafçılık · Portre / Selfie · Karakter · Moda Ürünü · Mimari / İç Mekan · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2099470719235318149-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
 ```
 
 [↑ Kategorilere dön](#catalog)
