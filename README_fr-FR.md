@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**108** Prompts · Dernier ajout: **2026-09-14**
+**109** Prompts · Dernier ajout: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,34 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 <a name="category-photography"></a>
 
 ## Photographie
+
+<a name="prompt-2099378304985989553"></a>
+
+### Traduction en cours
+
+Auteur：[@Jane20121221](https://x.com/Jane20121221) · [Publication originale](https://x.com/Jane20121221/status/2099378304985989553)
+
+Photographie · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2099378304985989553-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2099378304985989553-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2099378304985989553-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2099378304985989553-4.jpg" alt="Image 4" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2099106601538097211"></a>
 

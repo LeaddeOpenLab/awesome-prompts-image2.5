@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**108** Prompts · Latest addition: **2026-09-14**
+**109** Prompts · Latest addition: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,34 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2099378304985989553"></a>
+
+### Generate a 3x3 nine-grid photograph featuring fun, candid failure characteristics such as finger obstruction, out-of-focus blur, motion shake, etc.
+
+Author：[@Jane20121221](https://x.com/Jane20121221) · [Source](https://x.com/Jane20121221/status/2099378304985989553)
+
+Photography · Published
+
+**Summary:** Generate a 3x3 nine-grid photograph featuring fun, candid failure characteristics such as finger obstruction, out-of-focus blur, motion shake, etc.
+
+<img src="images/2099378304985989553-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2099378304985989553-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2099378304985989553-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2099378304985989553-4.jpg" alt="Image 4" width="480" />
+
+**Prompt**
+
+```text
+Various failed amateur photos, 3x3, 9:16
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2099106601538097211"></a>
 

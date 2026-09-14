@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**108** Prompts · Adição mais recente: **2026-09-14**
+**109** Prompts · Adição mais recente: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,34 @@ Adicione uma estrela a este repositório para acompanhar a nossa seleção diár
 <a name="category-photography"></a>
 
 ## Fotografia
+
+<a name="prompt-2099378304985989553"></a>
+
+### Tradução em curso
+
+Autor：[@Jane20121221](https://x.com/Jane20121221) · [Publicação original](https://x.com/Jane20121221/status/2099378304985989553)
+
+Fotografia · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2099378304985989553-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2099378304985989553-2.jpg" alt="Imagem 2" width="480" />
+
+<img src="images/2099378304985989553-3.jpg" alt="Imagem 3" width="480" />
+
+<img src="images/2099378304985989553-4.jpg" alt="Imagem 4" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2099106601538097211"></a>
 
