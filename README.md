@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**110** Prompts · Latest addition: **2026-09-14**
+**111** Prompts · Latest addition: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -488,6 +488,30 @@ Photography · Landscape / Nature · Published
 
 ```text
 Photo of a clearing in the woods with lots of green foliage, highly detailed
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2099370474455396482"></a>
+
+### Photorealistic studio portrait of an elegant woman wearing a tailored black midi dress.
+
+Author：[@MissDelulu9](https://x.com/MissDelulu9) · [Source](https://x.com/MissDelulu9/status/2099370474455396482)
+
+Photography · Portrait / Selfie · Character · Fashion Item · Published
+
+**Summary:** Photorealistic studio portrait of an elegant woman wearing a tailored black midi dress.
+
+<img src="images/2099370474455396482-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2099370474455396482-2.jpg" alt="Image 2" width="480" />
+
+**Prompt**
+
+```text
+Create a highly photorealistic full-body studio portrait of an elegant adult woman wearing a sophisticated black midi formal dress with long sleeves, a tailored waist, premium fabric, and subtle texture. Minimal jewelry, elegant pointed heels, sleek polished hair, soft natural makeup, confident gentle expression. Luxury fashion studio backdrop, soft diffused lighting, realistic skin texture, natural proportions, cinematic editorial photography, 85mm lens, ultra-detailed, 8K, no text, no watermark.
 ```
 
 [↑ Back to categories](#catalog)

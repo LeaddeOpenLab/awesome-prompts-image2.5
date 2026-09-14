@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**110** Prompts · Dernier ajout: **2026-09-14**
+**111** Prompts · Dernier ajout: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -57,13 +57,13 @@ Traduction en cours
 
 <a name="prompt-2099378304985989553"></a>
 
-### Traduction en cours
+### Générer une composition photographique en grille 3x3 de 9 cases intégrant des caractéristiques de clichés ratés amusants, tels qu'un doigt devant l'objectif, un flou de mise au point ou un bougé.
 
 Auteur：[@Jane20121221](https://x.com/Jane20121221) · [Publication originale](https://x.com/Jane20121221/status/2099378304985989553)
 
 Photographie · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Générer une composition photographique en grille 3x3 de 9 cases intégrant des caractéristiques de clichés ratés amusants, tels qu'un doigt devant l'objectif, un flou de mise au point ou un bougé.
 
 <img src="images/2099378304985989553-1.jpg" alt="Image 1" width="480" />
 
@@ -76,7 +76,7 @@ Photographie · Publié
 **Consigne**
 
 ```text
-Traduction en cours
+Toutes sortes de photos ratées d'amateurs, 3x3, 9:16
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -433,6 +433,30 @@ Photographie · Paysage / Nature · Publié
 
 ```text
 Photo d'une clairière dans les bois avec un feuillage vert abondant, très détaillée
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2099370474455396482"></a>
+
+### Traduction en cours
+
+Auteur：[@MissDelulu9](https://x.com/MissDelulu9) · [Publication originale](https://x.com/MissDelulu9/status/2099370474455396482)
+
+Photographie · Portrait / Selfie · Personnage · Article de mode · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2099370474455396482-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2099370474455396482-2.jpg" alt="Image 2" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
 ```
 
 [↑ Retour aux catégories](#catalog)

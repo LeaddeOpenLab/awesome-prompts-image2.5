@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**110** Prompt · Ultima aggiunta: **2026-09-14**
+**111** Prompt · Ultima aggiunta: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -57,13 +57,13 @@ Traduzione in corso
 
 <a name="prompt-2099378304985989553"></a>
 
-### Traduzione in corso
+### Genera una composizione fotografica a griglia 3x3 di 9 riquadri con caratteristiche di scatti venuti male e divertenti, come dita sull'obiettivo, fuori fuoco e mosso.
 
 Autore：[@Jane20121221](https://x.com/Jane20121221) · [Post originale](https://x.com/Jane20121221/status/2099378304985989553)
 
 Fotografia · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Genera una composizione fotografica a griglia 3x3 di 9 riquadri con caratteristiche di scatti venuti male e divertenti, come dita sull'obiettivo, fuori fuoco e mosso.
 
 <img src="images/2099378304985989553-1.jpg" alt="Immagine 1" width="480" />
 
@@ -76,7 +76,7 @@ Fotografia · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+Varie foto amatoriali venute male, 3x3, 9:16
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -433,6 +433,30 @@ Fotografia · Paesaggio / Natura · Pubblicato
 
 ```text
 Foto di una radura nel bosco con abbondante fogliame verde, altamente dettagliata
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2099370474455396482"></a>
+
+### Traduzione in corso
+
+Autore：[@MissDelulu9](https://x.com/MissDelulu9) · [Post originale](https://x.com/MissDelulu9/status/2099370474455396482)
+
+Fotografia · Ritratto / Selfie · Personaggio · Articolo di moda · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2099370474455396482-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2099370474455396482-2.jpg" alt="Immagine 2" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)

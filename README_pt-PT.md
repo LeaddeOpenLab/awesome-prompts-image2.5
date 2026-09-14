@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**110** Prompts · Adição mais recente: **2026-09-14**
+**111** Prompts · Adição mais recente: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -57,13 +57,13 @@ Tradução em curso
 
 <a name="prompt-2099378304985989553"></a>
 
-### Tradução em curso
+### Gerar uma fotografia em grelha 3x3 de 9 quadrículas com características de fotos falhadas divertidas, tais como dedo na lente, perda de foco e movimento tremido.
 
 Autor：[@Jane20121221](https://x.com/Jane20121221) · [Publicação original](https://x.com/Jane20121221/status/2099378304985989553)
 
 Fotografia · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Gerar uma fotografia em grelha 3x3 de 9 quadrículas com características de fotos falhadas divertidas, tais como dedo na lente, perda de foco e movimento tremido.
 
 <img src="images/2099378304985989553-1.jpg" alt="Imagem 1" width="480" />
 
@@ -76,7 +76,7 @@ Fotografia · Publicado
 **Prompt**
 
 ```text
-Tradução em curso
+Vários tipos de fotos amadoras falhadas, 3x3, 9:16
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -433,6 +433,30 @@ Fotografia · Paisagem / Natureza · Publicado
 
 ```text
 Fotografia de uma clareira na floresta com muita folhagem verde, altamente detalhada
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2099370474455396482"></a>
+
+### Tradução em curso
+
+Autor：[@MissDelulu9](https://x.com/MissDelulu9) · [Publicação original](https://x.com/MissDelulu9/status/2099370474455396482)
+
+Fotografia · Retrato / Selfie · Personagem · Item de Moda · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2099370474455396482-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2099370474455396482-2.jpg" alt="Imagem 2" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
 ```
 
 [↑ Voltar às categorias](#catalog)

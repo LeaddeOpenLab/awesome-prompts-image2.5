@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**110** Prompts · Última adição: **2026-09-14**
+**111** Prompts · Última adição: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -57,13 +57,13 @@ Tradução em andamento
 
 <a name="prompt-2099378304985989553"></a>
 
-### Tradução em andamento
+### Gerar uma fotografia em grade 3x3 de 9 quadros com características de fotos engraçadas que deram errado, como dedo na lente, fora de foco e tremor.
 
 Autor：[@Jane20121221](https://x.com/Jane20121221) · [Publicação original](https://x.com/Jane20121221/status/2099378304985989553)
 
 Fotografia · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Gerar uma fotografia em grade 3x3 de 9 quadros com características de fotos engraçadas que deram errado, como dedo na lente, fora de foco e tremor.
 
 <img src="images/2099378304985989553-1.jpg" alt="Imagem 1" width="480" />
 
@@ -76,7 +76,7 @@ Fotografia · Publicado
 **Prompt**
 
 ```text
-Tradução em andamento
+Vários tipos de fotos amadoras que deram errado, 3x3, 9:16
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -433,6 +433,30 @@ Fotografia · Paisagem / Natureza · Publicado
 
 ```text
 Foto de uma clareira na floresta com muita folhagem verde, altamente detalhada
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2099370474455396482"></a>
+
+### Tradução em andamento
+
+Autor：[@MissDelulu9](https://x.com/MissDelulu9) · [Publicação original](https://x.com/MissDelulu9/status/2099370474455396482)
+
+Fotografia · Retrato / Selfie · Personagem · Item de Moda · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2099370474455396482-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2099370474455396482-2.jpg" alt="Imagem 2" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
 ```
 
 [↑ Voltar às categorias](#catalog)

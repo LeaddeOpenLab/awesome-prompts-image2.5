@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**110** Prompts · Última incorporación: **2026-09-14**
+**111** Prompts · Última incorporación: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -57,13 +57,13 @@ Traducción en curso
 
 <a name="prompt-2099378304985989553"></a>
 
-### Traducción en curso
+### Generar una fotografía en cuadrícula 3x3 de 9 paneles con características de divertidas tomas fallidas, como un dedo tapando la lente, desenfoque o movimiento.
 
 Autor：[@Jane20121221](https://x.com/Jane20121221) · [Publicación original](https://x.com/Jane20121221/status/2099378304985989553)
 
 Fotografía · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Generar una fotografía en cuadrícula 3x3 de 9 paneles con características de divertidas tomas fallidas, como un dedo tapando la lente, desenfoque o movimiento.
 
 <img src="images/2099378304985989553-1.jpg" alt="Imagen 1" width="480" />
 
@@ -76,7 +76,7 @@ Fotografía · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+Diversas fotos fallidas de aficionados, 3x3, 9:16
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -438,6 +438,30 @@ Fotografía · Paisaje / Naturaleza · Publicado
 
 ```text
 Foto de un claro en el bosque con abundante follaje verde, altamente detallada
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2099370474455396482"></a>
+
+### Traducción en curso
+
+Autor：[@MissDelulu9](https://x.com/MissDelulu9) · [Publicación original](https://x.com/MissDelulu9/status/2099370474455396482)
+
+Fotografía · Retrato / Selfie · Personaje · Artículo de moda · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2099370474455396482-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2099370474455396482-2.jpg" alt="Imagen 2" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
 ```
 
 [↑ Volver a categorías](#catalog)

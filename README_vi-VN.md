@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**110** Prompt · Bổ sung mới nhất: **2026-09-14**
+**111** Prompt · Bổ sung mới nhất: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -57,13 +57,13 @@ Nhiếp ảnh · Nhân vật · Phong cảnh / Thiên nhiên · Đã xuất bả
 
 <a name="prompt-2099378304985989553"></a>
 
-### Đang dịch
+### Tạo bố cục nhiếp ảnh lưới 3x3 9 ô gồm các đặc trưng chụp hỏng hài hước như ngón tay che ống kính, mất nét, rung lắc.
 
 Tác giả：[@Jane20121221](https://x.com/Jane20121221) · [Bài gốc](https://x.com/Jane20121221/status/2099378304985989553)
 
 Nhiếp ảnh · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Tạo bố cục nhiếp ảnh lưới 3x3 9 ô gồm các đặc trưng chụp hỏng hài hước như ngón tay che ống kính, mất nét, rung lắc.
 
 <img src="images/2099378304985989553-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -76,7 +76,7 @@ Nhiếp ảnh · Đã xuất bản
 **Câu lệnh**
 
 ```text
-Đang dịch
+Đủ loại ảnh chụp hỏng của người nghiệp dư, 3x3, 9:16
 ```
 
 [↑ Về danh mục](#catalog)
@@ -438,6 +438,30 @@ Nhiếp ảnh · Phong cảnh / Thiên nhiên · Đã xuất bản
 
 ```text
 Ảnh chụp một bãi đất trống trong rừng với nhiều tán lá xanh tươi, rất chi tiết
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2099370474455396482"></a>
+
+### Đang dịch
+
+Tác giả：[@MissDelulu9](https://x.com/MissDelulu9) · [Bài gốc](https://x.com/MissDelulu9/status/2099370474455396482)
+
+Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng thời trang · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2099370474455396482-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2099370474455396482-2.jpg" alt="Hình ảnh 2" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
 ```
 
 [↑ Về danh mục](#catalog)

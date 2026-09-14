@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**110** Prompt · Son eklenen: **2026-09-14**
+**111** Prompt · Son eklenen: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -57,13 +57,13 @@ Fotoğrafçılık · Karakter · Manzara / Doğa · Yayımlandı
 
 <a name="prompt-2099378304985989553"></a>
 
-### Çeviri sürüyor
+### Parmakla kapatma, odak kaybı, titreme gibi eğlenceli başarısız anlık çekim özelliklerini içeren 3x3 dokuz kareli ızgara fotoğrafı oluşturma.
 
 Yazar：[@Jane20121221](https://x.com/Jane20121221) · [Orijinal gönderi](https://x.com/Jane20121221/status/2099378304985989553)
 
 Fotoğrafçılık · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Parmakla kapatma, odak kaybı, titreme gibi eğlenceli başarısız anlık çekim özelliklerini içeren 3x3 dokuz kareli ızgara fotoğrafı oluşturma.
 
 <img src="images/2099378304985989553-1.jpg" alt="Görsel 1" width="480" />
 
@@ -76,7 +76,7 @@ Fotoğrafçılık · Yayımlandı
 **İstem**
 
 ```text
-Çeviri sürüyor
+Amatörlerin türlü başarısız fotoğrafları, 3x3, 9:16
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -433,6 +433,30 @@ Fotoğrafçılık · Manzara / Doğa · Yayımlandı
 
 ```text
 Ormanda bol yeşil yaprakları olan bir açıklığın fotoğrafı, son derece detaylı
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2099370474455396482"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@MissDelulu9](https://x.com/MissDelulu9) · [Orijinal gönderi](https://x.com/MissDelulu9/status/2099370474455396482)
+
+Fotoğrafçılık · Portre / Selfie · Karakter · Moda Ürünü · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2099370474455396482-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2099370474455396482-2.jpg" alt="Görsel 2" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
 ```
 
 [↑ Kategorilere dön](#catalog)
