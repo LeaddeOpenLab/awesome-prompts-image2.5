@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**112** Prompts · Latest addition: **2026-09-14**
+**113** Prompts · Latest addition: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,34 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2099374878910734661"></a>
+
+### 9:16 surreal canyon landscape, colossal rotating cloud ring with long exposure time-stack effect, traveler seen from behind on the canyon floor.
+
+Author：[@listudio](https://x.com/listudio) · [Source](https://x.com/listudio/status/2099374878910734661)
+
+Photography · Landscape / Nature · Published
+
+**Summary:** 9:16 surreal canyon landscape, colossal rotating cloud ring with long exposure time-stack effect, traveler seen from behind on the canyon floor.
+
+<img src="images/2099374878910734661-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create a 9:16 vertical, photorealistic surreal canyon time-stack photograph. In a wide, dry canyon floor, massive vertical stratified rock walls of warm brown, ochre, and charcoal black rise from the near edges, forming a dark natural frame, with rock textures and gravel maintaining crisp detail.
+
+In the mid-to-far distance above the canyon, a colossal rotating cloud ring occupies most of the central area, with serene gray-blue sky exposed in the center of the circular opening. Utilizing a locked-off camera long exposure and multi-frame time-stacking effect: dense cumulus clouds slowly swirl in the same rotational direction, merging into continuous, smooth concentric streamlines, with the inner wall displaying hundreds of delicate curved cloud trails and soft rotational motion blur along the ring's edges; the clouds still retain realistic chiaroscuro volume and milky-white texture, not resembling a solid tunnel, free of fragmented digital noise.
+
+From the foreground, the canyon floor stretches wide and converges into the distance; an adult traveler with their back to the camera stands at the lower center, occupying only about 2% of the frame height, remaining tack-sharp. Warm sunlight from the upper right breaks through gaps in the clouds, with continuous exposure creating a soft diffusion in the highlights, illuminating the right cloud wall and rock edges; warm rock, cool gray-blue sky, and bright milky-white clouds form a restrained three-color palette.
+
+Subtle film grain, natural atmospheric perspective, epic silence and an overwhelming sense of scale. Motion blur affects only the clouds and a faint haze of dust; the rock walls, canyon floor, and figure remain sharp. No architecture, no dense forest, no birds, no text, no logo, no watermark, no lightning.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2099375219546935317"></a>
 
