@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-14T08:21:07.226Z",
+  "model": "image2",
+  "prompt": "主題：\n湖畔の白いボタン\n\n主体：\n青い山岳湖の木製テーブル脇で、成人女性が白いクロップトップ姿で腰掛ける縦位置写真。 人物は画面中央を基準に配置する。\n\n人物・表情：\n胸下までの濃茶のストレート髪と中央寄りの分け目。細い卵形輪郭、丸い茶色の目、自然な眉、小ぶりな鼻、艶のある桃色の唇。正面へ穏やかに微笑む。\n\n服装・ポーズ：\n白いリブ短袖クロップトップは深い丸首に細レース縁、胸下へ小ボタンが並ぶ。淡い青のデニムショートパンツ。テーブル縁へ座り、両腕を前へ下ろす。\n\n背景・光：\n青緑の湖、針葉樹林、雪筋のある険しい山、青空と白雲。左下に透明カップのアイスコーヒー。強い昼光と木漏れ日。 画面背景の主光は上方からの硬い直射。\n\n構図・カメラ：\n2:3の縦構図、カメラは正面からの腰上写真。人物を中央、湖と山を上半分、アイスコーヒーを左下に置く。顔と白いボタン列に焦点、山は軽くぼかす。 人物を大きく収め、主役へ焦点を合わせ、背景は軽いボケ。\n\n質感・スタイル：\nフォトリアルな旅行写真。白リブとレース、デニム、冷たい飲み物、青い湖、山の稜線を鮮明な昼光で写す。\n\nネガティブ：\n山岳湖と左下のアイスコーヒーを省かない",
+  "promptTranslations": {
+    "en": "Theme:\nWhite buttons by the lakeside\n\nSubject:\nA vertical portrait of an adult woman in a white crop top sitting by a wooden table near a blue mountain lake. The subject is positioned with reference to the center of the frame.\n\nPerson and Expression:\nChest-length dark brown straight hair with an off-center parting. A slender oval face, round brown eyes, natural eyebrows, a delicate small nose, and glossy peach-pink lips. Gently smiling toward the front.\n\nClothing and Pose:\nA white ribbed short-sleeved crop top with a deep scoop neckline and thin lace trim, with small buttons aligned below the chest. Pale blue denim shorts. Sitting on the edge of the table with both arms lowered forward.\n\nBackground and Lighting:\nA blue-green lake, coniferous forest, rugged mountains with snow streaks, blue sky, and white clouds. A clear cup of iced coffee in the lower left. Strong daylight and dappled sunlight filtering through trees. The primary light source in the background of the frame is harsh, direct light coming from above.\n\nComposition and Camera:\n2:3 vertical composition, straight-on medium waist-up shot. Subject in the center, lake and mountains in the upper half, and iced coffee in the lower left. In focus on the face and the line of white buttons, with the mountains softly blurred. Capturing the subject largely, focused on the main subject with a soft bokeh background.\n\nTexture and Style:\nPhotorealistic travel photography. Crisp daylight capturing the white ribbing and lace, denim, cold drink, blue lake, and mountain ridges in vivid detail.\n\nNegative:\nDo not omit the mountain lake and the iced coffee in the lower left"
+  },
+  "summaryTranslations": {
+    "en": "Photorealistic portrait prompt of a woman sitting on a wooden table by a lake."
+  },
+  "translationVersion": 2,
+  "summary": "湖畔の木製テーブルに腰掛ける女性のフォトリアルなポートレートプロンプト。",
+  "summaryEn": "A photorealistic portrait prompt of a young woman sitting by a lakeside wooden table.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2099367790524219462",
+    "canonicalUrl": "https://x.com/CyberTotal2026/status/2099367790524219462",
+    "author": {
+      "username": "CyberTotal2026",
+      "displayName": "Prompt アトリエ｜AI画像プロンプト",
+      "profileUrl": "https://x.com/CyberTotal2026"
+    },
+    "publishedAt": "2026-09-14T05:21:00.000Z",
+    "collectedAt": "2026-09-14T08:16:26.433Z",
+    "language": "ja",
+    "originalText": "湖畔の風と冷たいコーヒー、白いボタンに夏を留めて。🏔️☕🤍\n\n#AIart #AI写真 #湖畔\n\n【GPT Image2プロンプト】\n\n主題：\n湖畔の白いボタン\n\n主体：\n青い山岳湖の木製テーブル脇で、成人女性が白いクロップトップ姿で腰掛ける縦位置写真。 人物は画面中央を基準に配置する。\n\n人物・表情：\n胸下までの濃茶のストレート髪と中央寄りの分け目。細い卵形輪郭、丸い茶色の目、自然な眉、小ぶりな鼻、艶のある桃色の唇。正面へ穏やかに微笑む。\n\n服装・ポーズ：\n白いリブ短袖クロップトップは深い丸首に細レース縁、胸下へ小ボタンが並ぶ。淡い青のデニムショートパンツ。テーブル縁へ座り、両腕を前へ下ろす。\n\n背景・光：\n青緑の湖、針葉樹林、雪筋のある険しい山、青空と白雲。左下に透明カップのアイスコーヒー。強い昼光と木漏れ日。 画面背景の主光は上方からの硬い直射。\n\n構図・カメラ：\n2:3の縦構図、カメラは正面からの腰上写真。人物を中央、湖と山を上半分、アイスコーヒーを左下に置く。顔と白いボタン列に焦点、山は軽くぼかす。 人物を大きく収め、主役へ焦点を合わせ、背景は軽いボケ。\n\n質感・スタイル：\nフォトリアルな旅行写真。白リブとレース、デニム、冷たい飲み物、青い湖、山の稜線を鮮明な昼光で写す。\n\nネガティブ：\n山岳湖と左下のアイスコーヒーを省かない",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR1StCnbgAA_wrJ.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR1StCnbgAA_wrJ.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 13,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 845
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/CyberTotal2026/status/2099367790524219462",
+  "coverUrl": "https://pbs.twimg.com/media/HR1StCnbgAA_wrJ.jpg",
+  "coverPath": "images/2099367790524219462-1.jpg",
+  "imagePaths": [
+    "images/2099367790524219462-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HR1StCnbgAA_wrJ",
+    "x-post:2099367790524219462"
+  ],
+  "analysis": {
+    "summary": "湖畔の木製テーブルに腰掛ける女性のフォトリアルなポートレートプロンプト。",
+    "summaryEn": "A photorealistic portrait prompt of a young woman sitting by a lakeside wooden table.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Matches the woman's white crop top with buttons, lakeside mountain setting, denim shorts, and bottom-left iced coffee."
+    },
+    "videoQuality": null,
+    "originalPrompt": "主題：\n湖畔の白いボタン\n\n主体：\n青い山岳湖の木製テーブル脇で、成人女性が白いクロップトップ姿で腰掛ける縦位置写真。 人物は画面中央を基準に配置する。\n\n人物・表情：\n胸下までの濃茶のストレート髪と中央寄りの分け目。細い卵形輪郭、丸い茶色の目、自然な眉、小ぶりな鼻、艶のある桃色の唇。正面へ穏やかに微笑む。\n\n服装・ポーズ：\n白いリブ短袖クロップトップは深い丸首に細レース縁、胸下へ小ボタンが並ぶ。淡い青のデニムショートパンツ。テーブル縁へ座り、両腕を前へ下ろす。\n\n背景・光：\n青緑の湖、針葉樹林、雪筋のある険しい山、青空と白雲。左下に透明カップのアイスコーヒー。強い昼光と木漏れ日。 画面背景の主光は上方からの硬い直射。\n\n構図・カメラ：\n2:3の縦構図、カメラは正面からの腰上写真。人物を中央、湖と山を上半分、アイスコーヒーを左下に置く。顔と白いボタン列に焦点、山は軽くぼかす。 人物を大きく収め、主役へ焦点を合わせ、背景は軽いボケ。\n\n質感・スタイル：\nフォトリアルな旅行写真。白リブとレース、デニム、冷たい飲み物、青い湖、山の稜線を鮮明な昼光で写す。\n\nネガティブ：\n山岳湖と左下のアイスコーヒーを省かない",
+    "sourceRange": {
+      "start": 68,
+      "end": 577
+    },
+    "translations": {
+      "zh": "主题：湖畔白纽扣。主体：成年女子穿白色短袖修身剪裁上衣坐在高山湖畔木桌边，置于中央。长直发、精致容貌，温和微笑。穿白罗纹短款上衣与浅蓝牛仔短裤，双手下垂。背景为蓝绿湖泊、松林、雪山与晴空，左下角有一杯冰咖啡。强日光与透光。写实旅行摄影风格。",
+      "en": "Subject: White buttons by the lake. Female model sitting by a wooden table at an alpine lake, centered. Brunette straight hair, gentle smile. Wearing a white ribbed crop top with buttons and light blue denim shorts. Background features a turquoise lake, pine trees, snowy mountains, and an iced coffee cup on the bottom left. Photorealistic travel shot."
+    },
+    "targetModels": [
+      "image2"
+    ],
+    "category": "text-to-image",
+    "useCase": "AI photography generation prompt for a woman at a scenic alpine lake",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
