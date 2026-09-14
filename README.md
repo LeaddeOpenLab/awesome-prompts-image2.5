@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**105** Prompts · Latest addition: **2026-09-14**
+**106** Prompts · Latest addition: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -438,6 +438,54 @@ Photography · Landscape / Nature · Published
 
 ```text
 Photo of a clearing in the woods with lots of green foliage, highly detailed
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2099400168433152293"></a>
+
+### Extreme close-up portrait prompt of a woman looking up at the camera with moist eyes.
+
+Author：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Source](https://x.com/CyberTotal2026/status/2099400168433152293)
+
+Photography · Portrait / Selfie · Character · Published
+
+Source：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Source](https://x.com/CyberTotal2026/status/2093263569249005578)
+
+**Summary:** Extreme close-up portrait prompt of a woman looking up at the camera with moist eyes.
+
+<img src="images/2099400168433152293-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2099400168433152293-2.jpg" alt="Image 2" width="480" />
+
+**Prompt**
+
+```text
+Subject:
+Close-up portrait with moist eyes
+
+Main Subject:
+A vertical photograph capturing a woman in her 20s from above at close range. The subject occupies a large portion of the center of the frame, leaning her upper body forward while looking up at the camera. One hand is gently cupped right beneath her mouth, holding a small amount of clear water droplets on her palm. A dark indoor background with an intimate atmosphere unique to close-range photography.
+
+Person / Expression:
+A petite, rounded face with a soft jawline. Large brown eyes looking straight into the camera, with slightly downturned outer corners giving a gentle impression. A natural film of tears on the lower eyelids, with only a tiny tear droplet visible near the outer corner of the eye, avoiding an overly crying face. Slender brown eyebrows, pale rose blush, delicate eyelashes, and glossy pink-beige lips. Light brown long hair in loose waves, with wispy bangs and slender strands framing the face along the cheeks.
+
+Clothing / Pose:
+A pale pink, finely ribbed sleeveless top. Featuring a deep V-neck and a small ribbon at the center, paired with pale ivory-toned short bottoms underneath. A posture leaning the upper body toward the camera with shoulders slightly drawn inward. One hand is held under her face with the palm facing upward, fingers naturally curled, holding a small amount of water droplets.
+
+Background / Lighting:
+An indoor setting based on dark brown and black tones. In the left background, dark furniture and small papers appear softly blurred, while in the right background, black storage items and small white objects are blurred. Soft warm light from near the front brightly illuminates her face, hair, shoulders, and palm, with the background falling into deeper shadow. The skin has a subtle glow, with tiny reflections visible on the surface of her eyes and tears.
+
+Composition / Camera:
+Vertical 4:3. An extreme close-up portrait with the face prominently placed in the center of the upper half of the frame. A slightly wide-angle perspective looking down from a high angle, strongly bringing the face and hand into the foreground. The frame extends from the top of the head to the chest and part of the thighs, with the palm overlapping the lower-center portion of the frame. Sharp focus on the face and eyes, with the background softly blurred.
+
+Texture / Style:
+Realistic photographic expression. Smooth skin retaining natural texture, soft hair visible strand by strand, ribbed fabric, water droplets, and the transparency of tears are depicted in fine detail. Warm and soft color tones, avoiding excessive HDR or heavy skin-smoothing filters. Dimensionality characteristic of close-range photography, with the natural atmosphere of an everyday snapshot.
+
+Negative:
+Large, unnatural tears; a puffy, crying face
 ```
 
 [↑ Back to categories](#catalog)
