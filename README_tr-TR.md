@@ -391,20 +391,42 @@ Ormanda bol yeşil yaprakları olan bir açıklığın fotoğrafı, son derece d
 
 <a name="prompt-2099339353168441687"></a>
 
-### Çeviri sürüyor
+### Siyah beyaz tüvit mini elbise giyip kanepede oturan kadının iç mekân moda fotoğrafı istemi.
 
 Yazar：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Orijinal gönderi](https://x.com/CyberTotal2026/status/2099339353168441687)
 
 Fotoğrafçılık · Portre / Selfie · Karakter · Moda Ürünü · Mimari / İç Mekan · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Siyah beyaz tüvit mini elbise giyip kanepede oturan kadının iç mekân moda fotoğrafı istemi.
 
 <img src="images/2099339353168441687-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Tema:
+Öğleden Sonra Siyah Beyaz Tüvit
+
+Özne:
+Aydınlık ve zarif bir oturma odasında, siyah beyaz tüvit mini elbise giymiş ve kanepede oturan yetişkin bir kadının dikey fotoğrafı. Kişi kadrajın merkezine göre konumlandırılmıştır.
+
+Kişi ve İfade:
+Omuzların altına inen açık kahverengi dalgalı saçlar ve ince kaküller. Zarif oval yüz hatları, çekik kahverengi gözler, doğal ince kaşlar, küçük bir burun, parlak şeftali pembesi dudaklar. Yanağını bir eline yaslamış, sakince kadrajın soluna bakıyor. Yüzü kadrajın soluna dönük.
+
+Kıyafet ve Duruş:
+Ekru ince tüvit mini elbisenin ince siyah askıları, derin V şeklinde siyah dantel kenarları, gövde ve etek ucunda siyah biyesi ve küçük inci görünümlü düğmeleri var. Bacak bacak üstüne atmış, bir dirseği dizinde, diğer kolu bacaklarının üzerinde. İnce altın takılar.
+
+Arka Plan ve Işık:
+Açık bej kanepe, mermer masa, beyaz güllerle dolu vazo, raf ve büyük pencere. Soldan gelen gün ışığı saçlarda ve omuzlarda yumuşak yansımalar oluşturuyor. Kadrajın arka planındaki ana ışık, pencere tarafından gelen yumuşak ışıktır.
+
+Kompozisyon ve Kamera:
+2:3 dikey kompozisyon, kamera oturma göz hizasına yakın, önden çapraz açıda diz üstü çekim. Kişi merkez solda, beyaz güller sağ ön planda, pencere sol arkada yer alır. Odak yüz ve tüvitin siyah kenarlarında. Kişi kadrajı belirgin şekilde doldurur, ana karaktere odaklanılmıştır ve arka plan hafifçe bulanıktır.
+
+Doku ve Stil:
+Fotogerçekçi iç mekân moda fotoğrafı. Dokulu tüvit, siyah kenarlar, inci görünümlü düğmeler, altın takılar ve yumuşak ten ışıltısı ince ayrıntılarla yansıtılır.
+
+Negatif:
+Siyah beyaz kenar detaylarını ve tüvit dokusunu düz kumaşa dönüştürmeyin
 ```
 
 [↑ Kategorilere dön](#catalog)

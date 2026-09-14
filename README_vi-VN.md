@@ -396,20 +396,42 @@ Nhiếp ảnh · Phong cảnh / Thiên nhiên · Đã xuất bản
 
 <a name="prompt-2099339353168441687"></a>
 
-### Đang dịch
+### Lời nhắc chụp ảnh thời trang trong nhà về người phụ nữ mặc đầm mini tweed trắng đen ngồi trên sofa.
 
 Tác giả：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Bài gốc](https://x.com/CyberTotal2026/status/2099339353168441687)
 
 Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng thời trang · Kiến trúc / Nội thất · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc chụp ảnh thời trang trong nhà về người phụ nữ mặc đầm mini tweed trắng đen ngồi trên sofa.
 
 <img src="images/2099339353168441687-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Chủ đề:
+Tweed trắng đen buổi chiều
+
+Chủ thể:
+Bức ảnh chân dung dọc chụp một người phụ nữ trưởng thành mặc chiếc đầm mini vải tweed trắng đen ngồi trên ghế sofa trong phòng khách thanh lịch và sáng sủa. Nhân vật được bố trí lấy tâm khung hình làm chuẩn.
+
+Nhân vật và biểu cảm:
+Mái tóc gợn sóng màu nâu nhạt dài quá vai cùng tóc mái thưa. Khuôn mặt trái xoan thon gọn, đôi mắt nâu dài, lông mày thanh mảnh tự nhiên, sống mũi nhỏ nhắn, bờ môi màu hồng đào căng mọng. Một tay tựa vào má, lặng lẽ nhìn sang bên trái khung hình. Khuôn mặt hướng về bên trái khung hình.
+
+Trang phục và tư thế:
+Đầm mini vải tweed dệt mịn màu trắng ngà với dây áo mảnh màu đen, viền ren đen cổ chữ V sâu, đường viền đen ở thân và gấu váy, cùng những chiếc cúc kiểu ngọc trai nhỏ. Ngồi bắt chéo chân, một khuỷu tay đặt lên đầu gối, cánh tay còn lại đặt lên chân. Phụ kiện trang sức thanh mảnh màu vàng kim.
+
+Bối cảnh và ánh sáng:
+Ghế sofa màu be nhạt, bàn đá cẩm thạch, bình hoa hồng trắng, kệ đồ và cửa sổ lớn. Ánh sáng ban ngày từ bên trái tạo ra sự phản chiếu mềm mại trên tóc và vai. Nguồn sáng chính trong hậu cảnh là ánh sáng êm dịu từ phía cửa sổ.
+
+Bố cục và máy ảnh:
+Bố cục dọc tỷ lệ 2:3, máy ảnh đặt ở góc xéo phía trước gần với tầm mắt khi ngồi, chụp từ đầu gối trở lên. Nhân vật ở giữa hơi lệch sang trái, hoa hồng trắng ở tiền cảnh bên phải, cửa sổ ở phía sau bên trái. Lấy nét vào khuôn mặt và đường viền đen của vải tweed. Bắt trọn nhân vật ở kích thước lớn, tập trung vào nhân vật chính với hậu cảnh mờ nhẹ.
+
+Chất cảm và phong cách:
+Ảnh chụp thời trang trong nhà chân thực như ảnh chụp thực tế. Khắc họa chi tiết chất vải tweed thô, viền đen, cúc kiểu ngọc trai, phụ kiện ánh vàng và ánh sáng dịu nhẹ trên làn da.
+
+Phủ định:
+Không đổi viền đen trắng và kết cấu vải tweed thành vải trơn không họa tiết
 ```
 
 [↑ Về danh mục](#catalog)

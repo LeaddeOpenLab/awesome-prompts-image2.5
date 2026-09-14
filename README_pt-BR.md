@@ -391,20 +391,42 @@ Foto de uma clareira na floresta com muita folhagem verde, altamente detalhada
 
 <a name="prompt-2099339353168441687"></a>
 
-### Tradução em andamento
+### Prompt de fotografia de moda interna de mulher sentada no sofá vestindo minivestido de tweed preto e branco.
 
 Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicação original](https://x.com/CyberTotal2026/status/2099339353168441687)
 
 Fotografia · Retrato / Selfie · Personagem · Item de Moda · Arquitetura / Interiores · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt de fotografia de moda interna de mulher sentada no sofá vestindo minivestido de tweed preto e branco.
 
 <img src="images/2099339353168441687-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Tema:
+Tweed preto e branco da tarde
+
+Sujeito:
+Fotografia vertical de uma mulher adulta usando um minivestido de tweed preto e branco sentada em um sofá, em uma sala de estar iluminada e elegante. A pessoa é posicionada com base no centro do enquadramento.
+
+Pessoa e expressão:
+Cabelos ondulados castanho-claro abaixo dos ombros com franja rala. Rosto oval e fino, olhos castanhos alongados, sobrancelhas finas naturais, nariz pequeno, lábios rosa-pêssego brilhantes. Apoiando uma das bochechas na mão, olha serenamente para a esquerda da imagem. Rosto voltado para a esquerda da imagem.
+
+Traje e pose:
+Minivestido de tweed fino em tom off-white com alças finas pretas, decote profundo em V com acabamento em renda preta, vivos pretos no tronco e na barra, e pequenos botões estilo pérola. Pernas cruzadas, um cotovelo apoiado no joelho e o outro braço repousado sobre as pernas. Acessórios dourados finos.
+
+Fundo e iluminação:
+Sofá bege-claro, mesa de mármore, vaso com rosas brancas, prateleira e janela ampla. A luz natural vinda da esquerda cria reflexos suaves no cabelo e nos ombros. A luz principal no fundo da cena é uma luz suave vinda da janela.
+
+Composição e câmera:
+Composição vertical 2:3, câmera próxima à altura dos olhos de quem está sentado em ângulo frontal diagonal, plano acima dos joelhos. Pessoa ao centro-esquerda, rosas brancas no primeiro plano à direita, janela ao fundo à esquerda. Foco no rosto e nos contornos pretos do tweed. Pessoa ocupando grande parte do enquadramento, foco nítido na protagonista e fundo levemente desfocado.
+
+Textura e estilo:
+Fotografia de moda fotorrealista em ambiente interno. Reprodução minuciosa do tweed áspero, detalhes em preto, botões de pérola, acessórios dourados e o brilho suave da pele.
+
+Negativo:
+Não substituir os acabamentos em preto e branco e a textura do tweed por tecido liso
 ```
 
 [↑ Voltar às categorias](#catalog)

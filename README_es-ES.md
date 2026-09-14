@@ -396,20 +396,42 @@ Foto de un claro en el bosque con abundante follaje verde, altamente detallada
 
 <a name="prompt-2099339353168441687"></a>
 
-### Traducción en curso
+### Prompt de fotografía de moda en interiores de una mujer sentada en un sofá con un minivestido de tweed blanco y negro.
 
 Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicación original](https://x.com/CyberTotal2026/status/2099339353168441687)
 
 Fotografía · Retrato / Selfie · Personaje · Artículo de moda · Arquitectura / Interiorismo · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de fotografía de moda en interiores de una mujer sentada en un sofá con un minivestido de tweed blanco y negro.
 
 <img src="images/2099339353168441687-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Tema:
+Tweed blanco y negro de tarde
+
+Sujeto:
+Fotografía vertical de una mujer adulta con un minivestido de tweed blanco y negro sentada en un sofá, en un salón luminoso y elegante. El sujeto está colocado con referencia al centro del encuadre.
+
+Persona y expresión:
+Cabello ondulado de color castaño claro por debajo de los hombros con flequillo fino. Rostro ovalado y estilizado, ojos marrones alargados, cejas finas naturales, nariz pequeña y labios rosados brillantes. Apoya una mejilla en la mano y mira plácidamente hacia la izquierda del encuadre. El rostro se orienta hacia la izquierda del encuadre.
+
+Vestimenta y pose:
+Minivestido de tweed fino en blanco crudo con tirantes finos negros, escote en V pronunciado con borde de encaje negro, ribetes negros en el torso y el dobladillo, y pequeños botones de estilo perla. Piernas cruzadas, apoyando un codo sobre la rodilla y el otro brazo sobre las piernas. Accesorios finos dorados.
+
+Fondo e iluminación:
+Sofá beige claro, mesa de mármol, jarrón con rosas blancas, estantería y gran ventanal. La luz diurna proveniente de la izquierda crea suaves reflejos en el cabello y los hombros. La luz principal del fondo del encuadre es la luz suave que entra por la ventana.
+
+Composición y cámara:
+Composición vertical 2:3, cámara en ángulo frontal diagonal cercano al nivel de los ojos sentada, plano medio largo (por encima de las rodillas). Sujeto situado en el centro a la izquierda, rosas blancas en el primer plano a la derecha y el ventanal al fondo a la izquierda. Enfoque en el rostro y en el ribete negro del tweed. El sujeto ocupa un encuadre generoso, enfocado nítidamente con un ligero desenfoque en el fondo.
+
+Textura y estilo:
+Fotografía de moda de interiores fotorrealista. Detalle minucioso del tweed texturizado, bordes negros, botones perlados, accesorios dorados y el suave brillo de la piel.
+
+Negativo:
+No sustituir los ribetes en blanco y negro ni la textura del tweed por tela lisa
 ```
 
 [↑ Volver a categorías](#catalog)

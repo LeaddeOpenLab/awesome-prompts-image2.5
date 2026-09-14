@@ -391,20 +391,42 @@ Photo d'une clairière dans les bois avec un feuillage vert abondant, très dét
 
 <a name="prompt-2099339353168441687"></a>
 
-### Traduction en cours
+### Prompt de photographie de mode en intérieur d'une femme assise sur un canapé vêtue d'une mini-robe en tweed noir et blanc.
 
 Auteur：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publication originale](https://x.com/CyberTotal2026/status/2099339353168441687)
 
 Photographie · Portrait / Selfie · Personnage · Article de mode · Architecture / Intérieur · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de photographie de mode en intérieur d'une femme assise sur un canapé vêtue d'une mini-robe en tweed noir et blanc.
 
 <img src="images/2099339353168441687-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Thème :
+Tweed noir et blanc de l'après-midi
+
+Sujet principal :
+Photographie verticale d'une femme adulte vêtue d'une mini-robe en tweed noir et blanc, assise sur un canapé dans un salon lumineux et raffiné. Le sujet est positionné par rapport au centre de l'image.
+
+Personnage et expression :
+Cheveux ondulés châtain clair descendant sous les épaules avec une frange légère. Fin visage ovale, yeux bruns allongés, sourcils fins naturels, petit nez, lèvres rose pêche brillantes. Une joue appuyée sur une main, elle regarde paisiblement vers la gauche de l'image. Le visage est tourné vers la gauche du cadre.
+
+Tenue et pose :
+Mini-robe en tweed blanc cassé à mailles fines avec de fines bretelles noires, un profond décolleté en V bordé de dentelle noire, des passepoils noirs sur le buste et l'ourlet, ainsi que de petits boutons façon perle. Jambes croisées, un coude posé sur le genou et l'autre bras posé sur les jambes. Fins bijoux dorés.
+
+Arrière-plan et lumière :
+Canapé beige clair, table en marbre, vase de roses blanches, étagère et grande fenêtre. La lumière du jour venant de la gauche crée de doux reflets sur les cheveux et les épaules. La lumière principale en arrière-plan est une lumière douce provenant du côté de la fenêtre.
+
+Composition et appareil photo :
+Composition verticale 2:3, appareil photo à hauteur des yeux en position assise, sous un angle diagonal de face, plan au-dessus des genoux. Personnage au centre-gauche, roses blanches au premier plan à droite, fenêtre au fond à gauche. Mise au point sur le visage et les liserés noirs du tweed. Le sujet occupe largement le cadre, netteté sur le personnage principal et léger flou d'arrière-plan.
+
+Texture et style :
+Photographie de mode en intérieur photoréaliste. Rendu précis du tweed texturé, des bordures noires, des boutons perlés, des bijoux dorés et de l'éclat délicat de la peau.
+
+Négatif :
+Ne pas remplacer les bordures noires et blanches et la texture de tweed par un tissu uni
 ```
 
 [↑ Retour aux catégories](#catalog)

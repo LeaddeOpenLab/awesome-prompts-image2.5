@@ -391,20 +391,42 @@ Foto di una radura nel bosco con abbondante fogliame verde, altamente dettagliat
 
 <a name="prompt-2099339353168441687"></a>
 
-### Traduzione in corso
+### Prompt fotografico di moda indoor di una donna seduta sul divano con indosso un mini abito in tweed bianco e nero.
 
 Autore：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Post originale](https://x.com/CyberTotal2026/status/2099339353168441687)
 
 Fotografia · Ritratto / Selfie · Personaggio · Articolo di moda · Architettura / Interni · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt fotografico di moda indoor di una donna seduta sul divano con indosso un mini abito in tweed bianco e nero.
 
 <img src="images/2099339353168441687-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Tema:
+Tweed bianco e nero del pomeriggio
+
+Soggetto:
+Fotografia verticale di una donna adulta con indosso un mini abito in tweed bianco e nero seduta su un divano, in un soggiorno luminoso ed elegante. Il soggetto è posizionato prendendo come riferimento il centro dell'inquadratura.
+
+Persona ed espressione:
+Capelli mossi castano chiaro sotto le spalle con frangia sottile. Viso ovale affusolato, occhi castani allungati, sopracciglia sottili naturali, naso piccolo, labbra color pesca lucide. Con una guancia appoggiata alla mano, guarda serenamente verso la sinistra dell'inquadratura. Il viso è rivolto verso la sinistra dell'inquadratura.
+
+Abbigliamento e posa:
+Mini abito in tweed sottile bianco écru con spalline sottili nere, profondo scollo a V bordato di pizzo nero, profili neri su busto e orlo, e piccoli bottoni effetto perla. Gambe incrociate, un gomito sul ginocchio e l'altro braccio appoggiato sulle gambe. Sottili accessori dorati.
+
+Sfondo e luce:
+Divano beige chiaro, tavolo in marmo, vaso di rose bianche, scaffale e grande finestra. La luce diurna da sinistra crea morbidi riflessi sui capelli e sulle spalle. La luce principale dello sfondo dell'inquadratura è una luce morbida proveniente dal lato della finestra.
+
+Composizione e fotocamera:
+Composizione verticale 2:3, fotocamera ad altezza occhi da seduti con angolazione diagonale frontale, scatto da sopra il ginocchio. Persona al centro-sinistra, rose bianche in primo piano a destra, finestra in fondo a sinistra. Messa a fuoco sul viso e sui bordi neri del tweed. Soggetto in grande evidenza nel fotogramma, messa a fuoco sulla protagonista con sfondo leggermente sfocato.
+
+Texture e stile:
+Fotografia di moda indoor fotorealistica. Resa dettagliata del tweed grezzo, bordi neri, bottoni perlati, accessori dorati e la morbida luminosità della pelle.
+
+Negativo:
+Non sostituire i bordi in bianco e nero e la texture in tweed con tessuto a tinta unita
 ```
 
 [↑ Torna alle categorie](#catalog)

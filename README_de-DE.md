@@ -391,20 +391,42 @@ Foto einer Waldlichtung mit viel grünem Blattwerk, sehr detailliert
 
 <a name="prompt-2099339353168441687"></a>
 
-### Übersetzung läuft
+### Prompt für Indoor-Modefotografie einer Frau im schwarz-weißen Tweed-Minikleid auf einem Sofa.
 
 Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Originalbeitrag](https://x.com/CyberTotal2026/status/2099339353168441687)
 
 Fotografie · Porträt / Selfie · Charakter · Modeartikel · Architektur / Interieur · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt für Indoor-Modefotografie einer Frau im schwarz-weißen Tweed-Minikleid auf einem Sofa.
 
 <img src="images/2099339353168441687-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Thema:
+Schwarz-weißer Tweed am Nachmittag
+
+Hauptmotiv:
+Vertikales Foto einer erwachsenen Frau in einem schwarz-weißen Tweed-Minikleid, die in einem hellen, eleganten Wohnzimmer auf einem Sofa sitzt. Die Person ist an der Bildmitte ausgerichtet.
+
+Person und Gesichtsausdruck:
+Schulterlanges, hellbraunes, gewelltes Haar mit feinem Pony. Zarte ovale Gesichtskonturen, mandelförmige braune Augen, natürliche feine Augenbrauen, eine zierliche Nase und glänzende pfirsichrosafarbene Lippen. Sie stützt ihre Wange auf eine Hand und blickt ruhig nach links im Bild. Das Gesicht ist nach links gewandt.
+
+Kleidung und Pose:
+Cremeweißes, fein gewebtes Tweed-Minikleid mit dünnen schwarzen Trägern, tiefem V-förmigem Rand aus schwarzer Spitze, schwarzer Paspelierung an Oberkörper und Saum sowie kleinen Knöpfen in Perlenoptik. Die Beine sind überschlagen, ein Ellbogen ruht auf dem Knie, der andere Arm liegt auf den Beinen. Zarter goldener Schmuck.
+
+Hintergrund und Licht:
+Hellbeiges Sofa, Marmortisch, Vase mit weißen Rosen, Regal und großes Fenster. Das Tageslicht von links erzeugt weiche Reflexionen auf Haar und Schultern. Das Hauptlicht im Hintergrund des Bildes ist das sanfte Licht von der Fensterseite.
+
+Komposition und Kamera:
+Vertikale 2:3-Komposition, Kamera auf Sitz-Augenhöhe im schrägen Frontalwinkel, Aufnahme oberhalb der Knie. Die Person befindet sich in der Mitte links, weiße Rosen im rechten Vordergrund, das Fenster hinten links. Fokus auf Gesicht und schwarze Tweed-Kanten. Die Person füllt das Bild großzügig aus, scharfer Fokus auf die Hauptfigur, weiches Bokeh im Hintergrund.
+
+Textur und Stil:
+Fotorealistische Indoor-Modefotografie. Detailreiche Darstellung des groben Tweeds, der schwarzen Kanten, der perlenartigen Knöpfe, des Goldschmucks und des weichen Hautschimmers.
+
+Negativ:
+Schwarz-weiße Ränder und Tweed-Textur nicht durch unifarbenen Stoff ersetzen
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
