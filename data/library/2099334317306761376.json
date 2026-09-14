@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-14T04:24:01.175Z",
+  "model": "image2",
+  "prompt": "Use the uploaded reference image as the strict identity and outfit reference. Preserve the face, facial features, skin tone, hairstyle, hair colour, accessories, outfit, and overall vibe exactly as shown.\nCreate a high-quality vertical (4:5 or 9:16) mixed-media portrait featuring:\nA realistic full-body version of the person. A black hand-drawn doodle-shadow of the same person on the wall beside them.\n\nThe real person should look cute, slightly embarrassed, playful, and naturally copying a new random mischievous pose each generation. The doodle-shadow should perform the same pose idea in a much more exaggerated, chaotic, cartoonish way, with manga motion lines, stars, hearts, and sparkles.\n\nUse a clean white/cream studio wall, minimal background, soft natural lighting, and keep both figures fully visible. The doodle should clearly resemble the real person through hairstyle, accessories, outfit silhouette, and pose.\n\nNegative Prompt: outfit changes, identity changes, realistic second person, normal shadow, horror, anime human, cluttered background, repeated pointing or finger-gun poses, stiff pose, extra limbs/fingers, distorted body, text, watermark, logo, AI artifacts.",
+  "promptTranslations": {
+    "en": "Use the uploaded reference image as the strict identity and outfit reference. Preserve the face, facial features, skin tone, hairstyle, hair colour, accessories, outfit, and overall vibe exactly as shown. Create a high-quality vertical (4:5 or 9:16) mixed-media portrait featuring: A realistic full-body version of the person. A black hand-drawn doodle-shadow of the same person on the wall beside them. The real person should look cute, slightly embarrassed, playful, and naturally copying a new random mischievous pose each generation. The doodle-shadow should perform the same pose idea in a much more exaggerated, chaotic, cartoonish way, with manga motion lines, stars, hearts, and sparkles. Use a clean white/cream studio wall, minimal background, soft natural lighting, and keep both figures fully visible. The doodle should clearly resemble the real person through hairstyle, accessories, outfit silhouette, and pose. Negative Prompt: outfit changes, identity changes, realistic second person, normal shadow, horror, anime human, cluttered background, repeated pointing or finger-gun poses, stiff pose, extra limbs/fingers, distorted body, text, watermark, logo, AI artifacts."
+  },
+  "summaryTranslations": {
+    "en": "Prompt instructs generation of a mixed-media portrait combining a realistic person and an exaggerated manga doodle shadow mirroring their pose."
+  },
+  "translationVersion": 2,
+  "summary": "Prompt instructs generation of a mixed-media portrait combining a realistic person and an exaggerated manga doodle shadow mirroring their pose.",
+  "summaryEn": "Prompt instructs generation of a mixed-media portrait combining a realistic person and an exaggerated manga doodle shadow mirroring their pose.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2099334317306761376",
+    "canonicalUrl": "https://x.com/itxsarmadd/status/2099334317306761376",
+    "author": {
+      "username": "itxsarmadd",
+      "displayName": "Sarmad Tahir",
+      "profileUrl": "https://x.com/itxsarmadd"
+    },
+    "publishedAt": "2026-09-14T03:07:59.000Z",
+    "collectedAt": "2026-09-14T04:16:59.862Z",
+    "language": "en",
+    "originalText": "GPT Image 2 on ChatGPT \n\nPrompt:\n\nUse the uploaded reference image as the strict identity and outfit reference. Preserve the face, facial features, skin tone, hairstyle, hair colour, accessories, outfit, and overall vibe exactly as shown.\nCreate a high-quality vertical (4:5 or 9:16) mixed-media portrait featuring:\nA realistic full-body version of the person. A black hand-drawn doodle-shadow of the same person on the wall beside them.\n\nThe real person should look cute, slightly embarrassed, playful, and naturally copying a new random mischievous pose each generation. The doodle-shadow should perform the same pose idea in a much more exaggerated, chaotic, cartoonish way, with manga motion lines, stars, hearts, and sparkles.\n\nUse a clean white/cream studio wall, minimal background, soft natural lighting, and keep both figures fully visible. The doodle should clearly resemble the real person through hairstyle, accessories, outfit silhouette, and pose.\n\nNegative Prompt: outfit changes, identity changes, realistic second person, normal shadow, horror, anime human, cluttered background, repeated pointing or finger-gun poses, stiff pose, extra limbs/fingers, distorted body, text, watermark, logo, AI artifacts.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSJVbE4aYAAoJ8A.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSJVbE4aYAAoJ8A.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSJVbnIbsAAfurN.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSJVbnIbsAAfurN.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 24,
+      "repostCount": 0,
+      "replyCount": 22,
+      "quoteCount": 0,
+      "viewCount": 144
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/itxsarmadd/status/2099334317306761376",
+  "coverUrl": "https://pbs.twimg.com/media/HSJVbE4aYAAoJ8A.jpg",
+  "coverPath": "images/2099334317306761376-1.jpg",
+  "imagePaths": [
+    "images/2099334317306761376-1.jpg",
+    "images/2099334317306761376-2.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSJVbE4aYAAoJ8A",
+    "x-image:/media/HSJVbnIbsAAfurN",
+    "x-post:2099334317306761376"
+  ],
+  "analysis": {
+    "summary": "Prompt instructs generation of a mixed-media portrait combining a realistic person and an exaggerated manga doodle shadow mirroring their pose.",
+    "summaryEn": "Prompt instructs generation of a mixed-media portrait combining a realistic person and an exaggerated manga doodle shadow mirroring their pose.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Both sample images depict a realistic woman against a plain studio wall next to an exaggerated black line-art doodle shadow in matching outfits and complementary poses."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Use the uploaded reference image as the strict identity and outfit reference. Preserve the face, facial features, skin tone, hairstyle, hair colour, accessories, outfit, and overall vibe exactly as shown.\nCreate a high-quality vertical (4:5 or 9:16) mixed-media portrait featuring:\nA realistic full-body version of the person. A black hand-drawn doodle-shadow of the same person on the wall beside them.\n\nThe real person should look cute, slightly embarrassed, playful, and naturally copying a new random mischievous pose each generation. The doodle-shadow should perform the same pose idea in a much more exaggerated, chaotic, cartoonish way, with manga motion lines, stars, hearts, and sparkles.\n\nUse a clean white/cream studio wall, minimal background, soft natural lighting, and keep both figures fully visible. The doodle should clearly resemble the real person through hairstyle, accessories, outfit silhouette, and pose.\n\nNegative Prompt: outfit changes, identity changes, realistic second person, normal shadow, horror, anime human, cluttered background, repeated pointing or finger-gun poses, stiff pose, extra limbs/fingers, distorted body, text, watermark, logo, AI artifacts.",
+    "sourceRange": {
+      "start": 34,
+      "end": 1221
+    },
+    "translations": {
+      "zh": "使用上传的参考图作为严格的身份与服装参考，保持面部、发型、服装和氛围不变。生成高质量竖版混合媒介肖像：包含写实人物全身像，以及墙上对应的黑色手绘漫画风涂鸦影子。真人表现出可爱、略带害羞的俏皮姿势，影子则以夸张卡通方式重现同款姿势，伴有漫画线条、星星和爱心。白色简约墙面，自然光，两人形完全可见。\n\n负面提示词：改变服装、改变身份、写实第二人、正常阴影、恐怖、乱背景、肢体畸变等。",
+      "en": "Use the uploaded reference image as the strict identity and outfit reference. Preserve the face, facial features, skin tone, hairstyle, hair colour, accessories, outfit, and overall vibe exactly as shown.\nCreate a high-quality vertical (4:5 or 9:16) mixed-media portrait featuring:\nA realistic full-body version of the person. A black hand-drawn doodle-shadow of the same person on the wall beside them.\n\nThe real person should look cute, slightly embarrassed, playful, and naturally copying a new random mischievous pose each generation. The doodle-shadow should perform the same pose idea in a much more exaggerated, chaotic, cartoonish way, with manga motion lines, stars, hearts, and sparkles.\n\nUse a clean white/cream studio wall, minimal background, soft natural lighting, and keep both figures fully visible. The doodle should clearly resemble the real person through hairstyle, accessories, outfit silhouette, and pose.\n\nNegative Prompt: outfit changes, identity changes, realistic second person, normal shadow, horror, anime human, cluttered background, repeated pointing or finger-gun poses, stiff pose, extra limbs/fingers, distorted body, text, watermark, logo, AI artifacts."
+    },
+    "targetModels": [
+      "image2"
+    ],
+    "category": "text-to-image",
+    "useCase": "mixed-media portrait generation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
