@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-14T08:23:09.299Z",
+  "model": "image2.5",
+  "prompt": "创作一幅 9:16 竖幅、照片级真实的超现实山地瀑布长时间曝光摄影。左侧近景是占据近半宽度的巨大黑褐色层状峭壁，粗粝岩层斜向堆叠并保持锐利；上方偏左的高山缺口涌出异常宽阔的银灰瀑布。\n\n采用稳定三脚架数十秒至数分钟长曝光的视觉结果：瀑布从高处坠落时融合成厚重、柔顺、连续的纵向丝绸水幕，细密平行水丝清晰可辨；落地后巨大洪流被地形挤压成数十层向前弯曲铺展的乳白缎带状台阶，每层水脊呈平滑连续曲线，泡沫被时间抚平成柔软纹理，同时保留灰色水脉层次，绝不呈现棉花状死白。\n\n中右侧锋利暗色孤峰保持清晰，山腰水汽在长曝光中沿横向风势拉成低伏雾带，部分遮挡远景。苍白阴天漫射光，冷灰、煤黑、暗赭色，水体高亮但不过曝。\n\n底部是狭窄、湿润的棕色滩地，一名身穿黑色长斗篷、背对镜头的成年人物站在中央略偏右，仅占画面高度约 3%，完全清晰。\n\n运动模糊只作用于水流、泡沫、雾与水汽；岩石、滩地、山峰和人物锐利。低饱和、细微胶片颗粒、肃穆寒冷、真实灾变现场感。\n\n画面四角和边缘必须完全洁净，没有任何可识别或不可识别的字符、字母、数字、签名、印章、标记、题字、logo、水印、日期或装饰性符号。",
+  "promptTranslations": {
+    "en": "Create a 9:16 vertical, photorealistic surreal mountain waterfall long-exposure photograph. The left foreground features a massive dark-brown layered cliff occupying nearly half the width, with coarse rock strata stacked diagonally and remaining sharp; an alpine gap on the upper left pours out an unusually wide silver-gray waterfall. Visual result of a steady tripod long exposure lasting tens of seconds to several minutes: as the waterfall plunges from high above, it merges into a heavy, smooth, continuous vertical silk water curtain, with fine parallel water threads clearly discernible; upon landing, the massive torrent is compressed by the terrain into dozens of forward-curving, spreading milky-white ribbon-like tiers, each water crest forming a smooth continuous curve, foam smoothed by time into a soft texture while retaining the depth of gray water veins, never appearing cotton-like flat dead white. The sharp, dark solitary peak on the middle-right remains clear, while mid-mountain water vapor is drawn by horizontal wind into a low-lying fog band during the long exposure, partially obscuring the distant background. Pale overcast diffuse light, cool gray, coal black, dark ochre, with the water body bright but not overexposed. At the bottom is a narrow, wet brown shore where an adult figure wearing a long black cloak stands slightly right of center with their back to the camera, occupying only about 3% of the frame height, completely sharp. Motion blur applies only to the water flow, foam, mist, and water vapor; rocks, shore, peaks, and figure remain sharp. Low saturation, subtle film grain, solemn, cold, with an authentic cataclysmic scene feel. The four corners and edges of the frame must be completely clean, free of any recognizable or unrecognizable characters, letters, numbers, signatures, seals, marks, inscriptions, logos, watermarks, dates, or decorative symbols."
+  },
+  "summaryTranslations": {
+    "en": "Surreal mountain waterfall long-exposure photography prompt, featuring layered silk water curtains, solitary peak mist, and a tiny figure in a black cloak."
+  },
+  "translationVersion": 2,
+  "summary": "超现实山地瀑布长曝光摄影提示词，包含层叠丝绢水幕、孤峰雾气及黑斗篷微小人物。",
+  "summaryEn": "Prompt for a long-exposure surreal mountain waterfall featuring layered silken falls, misty peaks, and a cloaked figure.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2099375039166747111",
+    "canonicalUrl": "https://x.com/listudio/status/2099375039166747111",
+    "author": {
+      "username": "listudio",
+      "displayName": "leolee",
+      "profileUrl": "https://x.com/listudio"
+    },
+    "publishedAt": "2026-09-14T05:49:48.000Z",
+    "collectedAt": "2026-09-14T08:16:26.433Z",
+    "language": "zh",
+    "originalText": "#AIArt \nAn Incredible Sight\nMade by GPT Image 2.5  ➡️ https://t.co/pfafZV9Bzt.\n----\nprompt：\n\n创作一幅 9:16 竖幅、照片级真实的超现实山地瀑布长时间曝光摄影。左侧近景是占据近半宽度的巨大黑褐色层状峭壁，粗粝岩层斜向堆叠并保持锐利；上方偏左的高山缺口涌出异常宽阔的银灰瀑布。\n\n采用稳定三脚架数十秒至数分钟长曝光的视觉结果：瀑布从高处坠落时融合成厚重、柔顺、连续的纵向丝绸水幕，细密平行水丝清晰可辨；落地后巨大洪流被地形挤压成数十层向前弯曲铺展的乳白缎带状台阶，每层水脊呈平滑连续曲线，泡沫被时间抚平成柔软纹理，同时保留灰色水脉层次，绝不呈现棉花状死白。\n\n中右侧锋利暗色孤峰保持清晰，山腰水汽在长曝光中沿横向风势拉成低伏雾带，部分遮挡远景。苍白阴天漫射光，冷灰、煤黑、暗赭色，水体高亮但不过曝。\n\n底部是狭窄、湿润的棕色滩地，一名身穿黑色长斗篷、背对镜头的成年人物站在中央略偏右，仅占画面高度约 3%，完全清晰。\n\n运动模糊只作用于水流、泡沫、雾与水汽；岩石、滩地、山峰和人物锐利。低饱和、细微胶片颗粒、肃穆寒冷、真实灾变现场感。\n\n画面四角和边缘必须完全洁净，没有任何可识别或不可识别的字符、字母、数字、签名、印章、标记、题字、logo、水印、日期或装饰性符号。\n\n----\nMade by ➡️ https://t.co/pfafZV9Bzt.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSJ6d0VbgAAHSNW.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSJ6d0VbgAAHSNW.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 61
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/listudio/status/2099375039166747111",
+  "coverUrl": "https://pbs.twimg.com/media/HSJ6d0VbgAAHSNW.jpg",
+  "coverPath": "images/2099375039166747111-1.jpg",
+  "imagePaths": [
+    "images/2099375039166747111-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSJ6d0VbgAAHSNW",
+    "x-post:2099375039166747111"
+  ],
+  "analysis": {
+    "summary": "超现实山地瀑布长曝光摄影提示词，包含层叠丝绢水幕、孤峰雾气及黑斗篷微小人物。",
+    "summaryEn": "Prompt for a long-exposure surreal mountain waterfall featuring layered silken falls, misty peaks, and a cloaked figure.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "瀑布结构、阶梯状水流、左侧黑色岩壁、背景孤峰薄雾以及前景背对镜头的黑斗篷人物均与图片高度吻合。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "创作一幅 9:16 竖幅、照片级真实的超现实山地瀑布长时间曝光摄影。左侧近景是占据近半宽度的巨大黑褐色层状峭壁，粗粝岩层斜向堆叠并保持锐利；上方偏左的高山缺口涌出异常宽阔的银灰瀑布。\n\n采用稳定三脚架数十秒至数分钟长曝光的视觉结果：瀑布从高处坠落时融合成厚重、柔顺、连续的纵向丝绸水幕，细密平行水丝清晰可辨；落地后巨大洪流被地形挤压成数十层向前弯曲铺展的乳白缎带状台阶，每层水脊呈平滑连续曲线，泡沫被时间抚平成柔软纹理，同时保留灰色水脉层次，绝不呈现棉花状死白。\n\n中右侧锋利暗色孤峰保持清晰，山腰水汽在长曝光中沿横向风势拉成低伏雾带，部分遮挡远景。苍白阴天漫射光，冷灰、煤黑、暗赭色，水体高亮但不过曝。\n\n底部是狭窄、湿润的棕色滩地，一名身穿黑色长斗篷、背对镜头的成年人物站在中央略偏右，仅占画面高度约 3%，完全清晰。\n\n运动模糊只作用于水流、泡沫、雾与水汽；岩石、滩地、山峰和人物锐利。低饱和、细微胶片颗粒、肃穆寒冷、真实灾变现场感。\n\n画面四角和边缘必须完全洁净，没有任何可识别或不可识别的字符、字母、数字、签名、印章、标记、题字、logo、水印、日期或装饰性符号。",
+    "sourceRange": {
+      "start": 93,
+      "end": 580
+    },
+    "translations": {
+      "zh": "创作一幅 9:16 竖幅长曝光超现实山地瀑布摄影。左侧近景为巨大层状峭壁，宽阔银灰瀑布倾泻成丝绸水幕与乳白阶梯。中右侧为暗色孤峰与雾带，阴天冷色调。底部湿润滩地上站着背对镜头的黑斗篷人物。仅水汽与水流长曝光模糊，其余锐利。",
+      "en": "Create a 9:16 long-exposure photograph of a surreal mountain waterfall. A massive layered cliff stands on the left with a wide silken waterfall cascading into ribbon-like steps. Sharp dark peaks and low fog on the right under cold, overcast light. A tiny figure in a black cloak stands on the wet foreground shore with back to camera."
+    },
+    "targetModels": [
+      "image2.5"
+    ],
+    "category": "text-to-image",
+    "useCase": "text-to-image",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
