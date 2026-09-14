@@ -1366,13 +1366,13 @@ Montre Chiikawa et Usagi dans le style de JoJo
 
 <a name="prompt-2099334317306761376"></a>
 
-### Traduction en cours
+### L'invite ordonne la génération d'un portrait multimédia combinant une personne réaliste et une ombre en doodle manga exagérée imitant sa pose.
 
 Auteur：[@itxsarmadd](https://x.com/itxsarmadd) · [Publication originale](https://x.com/itxsarmadd/status/2099334317306761376)
 
 Anime / Manga · Portrait / Selfie · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** L'invite ordonne la génération d'un portrait multimédia combinant une personne réaliste et une ombre en doodle manga exagérée imitant sa pose.
 
 <img src="images/2099334317306761376-1.jpg" alt="Image 1" width="480" />
 
@@ -1381,7 +1381,15 @@ Anime / Manga · Portrait / Selfie · Personnage · Publié
 **Consigne**
 
 ```text
-Traduction en cours
+Utilisez l'image de référence téléversée comme référence stricte pour l'identité et la tenue. Conservez le visage, les traits du visage, le teint, la coiffure, la couleur des cheveux, les accessoires, la tenue et l'ambiance générale exactement comme indiqué.
+Créez un portrait multimédia vertical de haute qualité (4:5 ou 9:16) comprenant :
+Une version réaliste en pied de la personne. Une ombre en doodle noire dessinée à la main de la même personne sur le mur à côté d'elle.
+
+La personne réelle doit avoir l'air mignonne, légèrement embarrassée, espiègle, et adopter naturellement une nouvelle pose malicieuse aléatoire à chaque génération. L'ombre en doodle doit exécuter la même idée de pose d'une manière beaucoup plus exagérée, chaotique et cartoonesque, avec des lignes de mouvement manga, des étoiles, des cœurs et des étincelles.
+
+Utilisez un mur de studio épuré blanc/crème, un arrière-plan minimaliste, un éclairage naturel doux, et gardez les deux silhouettes entièrement visibles. Le doodle doit clairement ressembler à la personne réelle par la coiffure, les accessoires, la silhouette de la tenue et la pose.
+
+Negative Prompt: outfit changes, identity changes, realistic second person, normal shadow, horror, anime human, cluttered background, repeated pointing or finger-gun poses, stiff pose, extra limbs/fingers, distorted body, text, watermark, logo, AI artifacts.
 ```
 
 [↑ Retour aux catégories](#catalog)

@@ -1351,13 +1351,13 @@ Chiikawa ve Usagi'yi JoJo tarzında göster
 
 <a name="prompt-2099334317306761376"></a>
 
-### Çeviri sürüyor
+### İstem, gerçekçi bir kişi ile onun pozunu yansıtan abartılı bir manga doodle gölgesini birleştiren karma teknik bir portrenin oluşturulmasını talimatlandırır.
 
 Yazar：[@itxsarmadd](https://x.com/itxsarmadd) · [Orijinal gönderi](https://x.com/itxsarmadd/status/2099334317306761376)
 
 Anime / Manga · Portre / Selfie · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** İstem, gerçekçi bir kişi ile onun pozunu yansıtan abartılı bir manga doodle gölgesini birleştiren karma teknik bir portrenin oluşturulmasını talimatlandırır.
 
 <img src="images/2099334317306761376-1.jpg" alt="Görsel 1" width="480" />
 
@@ -1366,7 +1366,15 @@ Anime / Manga · Portre / Selfie · Karakter · Yayımlandı
 **İstem**
 
 ```text
-Çeviri sürüyor
+Yüklenen referans görselini katı kimlik ve kıyafet referansı olarak kullanın. Yüzü, yüz hatlarını, cilt tonunu, saç stilini, saç rengini, aksesuarları, kıyafeti ve genel havayı tam olarak gösterildiği gibi koruyun.
+Şunları içeren yüksek kaliteli dikey (4:5 veya 9:16) karma teknik bir portre oluşturun:
+Kişinin gerçekçi tam boy bir versiyonu. Yanındaki duvarda aynı kişinin elle çizilmiş siyah bir doodle gölgesi.
+
+Gerçek kişi sevimli, hafif utanmış, neşeli görünmeli ve her oluşturmada doğal bir şekilde yeni, rastgele yaramaz bir pozu taklit etmelidir. Doodle gölgesi ise manga hareket çizgileri, yıldızlar, kalpler ve ışıltılarla aynı poz fikrini çok daha abartılı, kaotik ve karikatürize bir şekilde sergilemelidir.
+
+Temiz beyaz/krem bir stüdyo duvarı, minimalist arka plan, yumuşak doğal aydınlatma kullanın ve her iki figürü de tamamen görünür tutun. Doodle; saç stili, aksesuarlar, kıyafet silüeti ve poz aracılığıyla gerçek kişiye açıkça benzemelidir.
+
+Negative Prompt: outfit changes, identity changes, realistic second person, normal shadow, horror, anime human, cluttered background, repeated pointing or finger-gun poses, stiff pose, extra limbs/fingers, distorted body, text, watermark, logo, AI artifacts.
 ```
 
 [↑ Kategorilere dön](#catalog)

@@ -1393,13 +1393,13 @@ Hãy thể hiện Chiikawa và Usagi theo phong cách JoJo xem nào
 
 <a name="prompt-2099334317306761376"></a>
 
-### Đang dịch
+### Prompt hướng dẫn tạo một bức chân dung đa chất liệu kết hợp giữa một người chân thực và một chiếc bóng vẽ nguệch ngoạc manga cường điệu phản chiếu tư thế của họ.
 
 Tác giả：[@itxsarmadd](https://x.com/itxsarmadd) · [Bài gốc](https://x.com/itxsarmadd/status/2099334317306761376)
 
 Anime / Manga · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Prompt hướng dẫn tạo một bức chân dung đa chất liệu kết hợp giữa một người chân thực và một chiếc bóng vẽ nguệch ngoạc manga cường điệu phản chiếu tư thế của họ.
 
 <img src="images/2099334317306761376-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -1408,7 +1408,15 @@ Anime / Manga · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất b�
 **Câu lệnh**
 
 ```text
-Đang dịch
+Sử dụng hình ảnh tham chiếu đã tải lên làm tài liệu tham chiếu nghiêm ngặt về danh tính và trang phục. Giữ nguyên khuôn mặt, các đường nét trên mặt, màu da, kiểu tóc, màu tóc, phụ kiện, trang phục và thần thái tổng thể chính xác như đã hiển thị.
+Tạo một bức chân dung đa chất liệu dạng dọc chất lượng cao (4:5 hoặc 9:16) bao gồm:
+Một phiên bản toàn thân chân thực của người đó. Một bóng vẽ nguệch ngoạc bằng tay màu đen của chính người đó trên bức tường bên cạnh.
+
+Người thật phải trông đáng yêu, hơi ngượng ngùng, tinh nghịch và tự nhiên bắt chước một tư thế tinh quái ngẫu nhiên mới sau mỗi lần tạo. Chiếc bóng vẽ nguệch ngoạc phải thể hiện cùng ý tưởng tư thế đó theo cách cường điệu, hỗn loạn và hoạt hình hơn nhiều, với các đường chuyển động manga, ngôi sao, trái tim và ánh lấp lánh.
+
+Sử dụng bức tường studio màu trắng/kem sạch sẽ, phông nền tối giản, ánh sáng tự nhiên dịu nhẹ và giữ cho cả hai hình thể được nhìn thấy đầy đủ. Hình vẽ nguệch ngoạc phải giống rõ ràng với người thật thông qua kiểu tóc, phụ kiện, bóng dáng trang phục và tư thế.
+
+Negative Prompt: thay đổi trang phục, thay đổi danh tính, người thứ hai chân thực, bóng thông thường, kinh dị, người anime, nền lộn xộn, các tư thế chỉ tay hoặc súng tay lặp lại, tư thế cứng nhắc, thừa chi/ngón tay, cơ thể méo mó, chữ, hình mờ, logo, lỗi tạo tác AI.
 ```
 
 [↑ Về danh mục](#catalog)

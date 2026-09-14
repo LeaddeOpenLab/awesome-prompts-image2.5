@@ -1351,13 +1351,13 @@ Mostra Chiikawa e Usagi ao estilo de JoJo
 
 <a name="prompt-2099334317306761376"></a>
 
-### Tradução em curso
+### O prompt instrui a geração de um retrato de técnica mista que combina uma pessoa realista e uma sombra em doodle manga exagerada que espelha a sua pose.
 
 Autor：[@itxsarmadd](https://x.com/itxsarmadd) · [Publicação original](https://x.com/itxsarmadd/status/2099334317306761376)
 
 Anime / Mangá · Retrato / Selfie · Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** O prompt instrui a geração de um retrato de técnica mista que combina uma pessoa realista e uma sombra em doodle manga exagerada que espelha a sua pose.
 
 <img src="images/2099334317306761376-1.jpg" alt="Imagem 1" width="480" />
 
@@ -1366,7 +1366,15 @@ Anime / Mangá · Retrato / Selfie · Personagem · Publicado
 **Prompt**
 
 ```text
-Tradução em curso
+Utilize a imagem de referência carregada como referência estrita de identidade e vestuário. Conserve o rosto, traços faciais, tom de pele, penteado, cor do cabelo, acessórios, vestuário e vibração geral exatamente como demonstrado.
+Crie um retrato de técnica mista vertical (4:5 ou 9:16) de alta qualidade com:
+Uma versão realista de corpo inteiro da pessoa. Uma sombra em doodle preta desenhada à mão da mesma pessoa na parede ao lado dela.
+
+A pessoa real deve parecer amorosa, ligeiramente embaraçada, brincalhona e a copiar naturalmente uma nova pose travessa aleatória a cada geração. A sombra em doodle deve executar a mesma ideia de pose de forma muito mais exagerada, caótica e caricatural, com linhas de movimento manga, estrelas, corações e brilhos.
+
+Utilize uma parede de estúdio limpa branca/creme, fundo minimalista, iluminação natural suave e mantenha ambas as figuras totalmente visíveis. O doodle deve assemelhar-se claramente à pessoa real através do penteado, acessórios, silhueta do vestuário e pose.
+
+Negative Prompt: outfit changes, identity changes, realistic second person, normal shadow, horror, anime human, cluttered background, repeated pointing or finger-gun poses, stiff pose, extra limbs/fingers, distorted body, text, watermark, logo, AI artifacts.
 ```
 
 [↑ Voltar às categorias](#catalog)

@@ -1393,13 +1393,13 @@ Muestra a Chiikawa y Usagi al estilo de JoJo
 
 <a name="prompt-2099334317306761376"></a>
 
-### Traducción en curso
+### El prompt instruye la generación de un retrato de técnica mixta que combina a una persona realista con una sombra en garabato manga exagerada que imita su pose.
 
 Autor：[@itxsarmadd](https://x.com/itxsarmadd) · [Publicación original](https://x.com/itxsarmadd/status/2099334317306761376)
 
 Anime / Manga · Retrato / Selfie · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** El prompt instruye la generación de un retrato de técnica mixta que combina a una persona realista con una sombra en garabato manga exagerada que imita su pose.
 
 <img src="images/2099334317306761376-1.jpg" alt="Imagen 1" width="480" />
 
@@ -1408,7 +1408,15 @@ Anime / Manga · Retrato / Selfie · Personaje · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+Utiliza la imagen de referencia subida como referencia estricta de identidad y vestimenta. Conserva el rostro, los rasgos faciales, el tono de piel, el peinado, el color de pelo, los accesorios, el atuendo y la vibra general exactamente como se muestra.
+Crea un retrato de técnica mixta vertical de alta calidad (4:5 o 9:16) que incluya:
+Una versión realista de cuerpo entero de la persona. Una sombra en garabato negro dibujada a mano de la misma persona en la pared junto a ella.
+
+La persona real debe verse linda, ligeramente avergonzada, juguetona y copiando de forma natural una nueva pose traviesa al azar en cada generación. La sombra en garabato debe realizar la misma idea de pose de una manera mucho más exagerada, caótica y caricaturesca, con líneas de movimiento estilo manga, estrellas, corazones y destellos.
+
+Utiliza una pared de estudio limpia en color blanco/crema, un fondo minimalista, iluminación natural suave y mantén ambas figuras totalmente visibles. El garabato debe parecerse claramente a la persona real a través del peinado, los accesorios, la silueta del atuendo y la pose.
+
+Negative Prompt: cambios de atuendo, cambios de identidad, segunda persona realista, sombra normal, terror, humano estilo anime, fondo desordenado, poses repetidas de señalar o pistola con los dedos, pose rígida, extremidades/dedos adicionales, cuerpo distorsionado, texto, marca de agua, logotipo, artefactos de IA.
 ```
 
 [↑ Volver a categorías](#catalog)
