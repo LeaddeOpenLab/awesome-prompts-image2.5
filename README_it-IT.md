@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**104** Prompt · Ultima aggiunta: **2026-09-14**
+**105** Prompt · Ultima aggiunta: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -1358,6 +1358,30 @@ Anime / Manga · Illustrazione · Pubblicato
 
 ```text
 Mostra Chiikawa e Usagi nello stile di JoJo
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2099334317306761376"></a>
+
+### Traduzione in corso
+
+Autore：[@itxsarmadd](https://x.com/itxsarmadd) · [Post originale](https://x.com/itxsarmadd/status/2099334317306761376)
+
+Anime / Manga · Ritratto / Selfie · Personaggio · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2099334317306761376-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2099334317306761376-2.jpg" alt="Immagine 2" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)

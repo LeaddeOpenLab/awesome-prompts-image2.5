@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**104** Prompts · Latest addition: **2026-09-14**
+**105** Prompts · Latest addition: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -1547,6 +1547,30 @@ Anime / Manga · Illustration · Published
 
 ```text
 Try depicting Chiikawa and Usagi in a JoJo style
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2099334317306761376"></a>
+
+### Prompt instructs generation of a mixed-media portrait combining a realistic person and an exaggerated manga doodle shadow mirroring their pose.
+
+Author：[@itxsarmadd](https://x.com/itxsarmadd) · [Source](https://x.com/itxsarmadd/status/2099334317306761376)
+
+Anime / Manga · Portrait / Selfie · Character · Published
+
+**Summary:** Prompt instructs generation of a mixed-media portrait combining a realistic person and an exaggerated manga doodle shadow mirroring their pose.
+
+<img src="images/2099334317306761376-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2099334317306761376-2.jpg" alt="Image 2" width="480" />
+
+**Prompt**
+
+```text
+Use the uploaded reference image as the strict identity and outfit reference. Preserve the face, facial features, skin tone, hairstyle, hair colour, accessories, outfit, and overall vibe exactly as shown. Create a high-quality vertical (4:5 or 9:16) mixed-media portrait featuring: A realistic full-body version of the person. A black hand-drawn doodle-shadow of the same person on the wall beside them. The real person should look cute, slightly embarrassed, playful, and naturally copying a new random mischievous pose each generation. The doodle-shadow should perform the same pose idea in a much more exaggerated, chaotic, cartoonish way, with manga motion lines, stars, hearts, and sparkles. Use a clean white/cream studio wall, minimal background, soft natural lighting, and keep both figures fully visible. The doodle should clearly resemble the real person through hairstyle, accessories, outfit silhouette, and pose. Negative Prompt: outfit changes, identity changes, realistic second person, normal shadow, horror, anime human, cluttered background, repeated pointing or finger-gun poses, stiff pose, extra limbs/fingers, distorted body, text, watermark, logo, AI artifacts.
 ```
 
 [↑ Back to categories](#catalog)

@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**104** Prompts · Dernier ajout: **2026-09-14**
+**105** Prompts · Dernier ajout: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -1358,6 +1358,30 @@ Anime / Manga · Illustration · Publié
 
 ```text
 Montre Chiikawa et Usagi dans le style de JoJo
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2099334317306761376"></a>
+
+### Traduction en cours
+
+Auteur：[@itxsarmadd](https://x.com/itxsarmadd) · [Publication originale](https://x.com/itxsarmadd/status/2099334317306761376)
+
+Anime / Manga · Portrait / Selfie · Personnage · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2099334317306761376-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2099334317306761376-2.jpg" alt="Image 2" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
 ```
 
 [↑ Retour aux catégories](#catalog)

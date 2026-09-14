@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**104** Prompt · Son eklenen: **2026-09-14**
+**105** Prompt · Son eklenen: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -1343,6 +1343,30 @@ Anime / Manga · İllüstrasyon · Yayımlandı
 
 ```text
 Chiikawa ve Usagi'yi JoJo tarzında göster
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2099334317306761376"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@itxsarmadd](https://x.com/itxsarmadd) · [Orijinal gönderi](https://x.com/itxsarmadd/status/2099334317306761376)
+
+Anime / Manga · Portre / Selfie · Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2099334317306761376-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2099334317306761376-2.jpg" alt="Görsel 2" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
 ```
 
 [↑ Kategorilere dön](#catalog)

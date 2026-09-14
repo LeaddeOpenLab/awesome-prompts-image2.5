@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**104** Prompts · Zuletzt hinzugefügt: **2026-09-14**
+**105** Prompts · Zuletzt hinzugefügt: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -1358,6 +1358,30 @@ Anime / Manga · Illustration · Veröffentlicht
 
 ```text
 Zeige Chiikawa und Usagi im JoJo-Stil
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2099334317306761376"></a>
+
+### Übersetzung läuft
+
+Autor：[@itxsarmadd](https://x.com/itxsarmadd) · [Originalbeitrag](https://x.com/itxsarmadd/status/2099334317306761376)
+
+Anime / Manga · Porträt / Selfie · Charakter · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2099334317306761376-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2099334317306761376-2.jpg" alt="Bild 2" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
