@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**107** Prompts · Latest addition: **2026-09-14**
+**108** Prompts · Latest addition: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -438,6 +438,50 @@ Photography · Landscape / Nature · Published
 
 ```text
 Photo of a clearing in the woods with lots of green foliage, highly detailed
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2099398744529600886"></a>
+
+### A realistic portrait photography prompt of a woman wearing dusty peach lingerie looking back over her shoulder on a bed bathed in morning light.
+
+Author：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Source](https://x.com/CyberTotal2026/status/2099398744529600886)
+
+Photography · Portrait / Selfie · Character · Published
+
+**Summary:** A realistic portrait photography prompt of a woman wearing dusty peach lingerie looking back over her shoulder on a bed bathed in morning light.
+
+<img src="images/2099398744529600886-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Subject:
+Dusty Peach by the Morning Window
+
+Subject / Main Character:
+A vertical photograph taken up close from the side of an adult woman in dusty peach lingerie on a white bed bathed in morning sunlight. The person is positioned centered in the frame.
+
+Person / Expression:
+Shoulder-length light ash-brown straight hair with wispy bangs. Slender oval facial contour, small chin, round brown eyes, natural thin eyebrows, slender bridge of the nose, glossy pink lips. A calm, quiet expression looking at the camera over her shoulder.
+
+Clothing / Pose:
+Dusty peach underwire bra with thin shoulder straps. Matching-color lace on the upper cups, a small bow tie at the center of the chest. Body turned sideways, back straightened, turning her face back over her shoulder. Dusty peach swimsuit.
+
+Background / Lighting:
+White sheets and pillows, light-colored wooden furniture, a large window. Strong morning sunlight from the upper right creates bright highlights and soft shadows across the cheek, nose bridge, shoulder, and hair. The main light in the background of the frame is soft light coming from the window side.
+
+Composition / Camera:
+3:4 vertical composition, camera positioned at an oblique side angle for a close-up from below the bust. Face placed in the upper right, with the shoulder and peach cups prominently placed in the lower center. Both eyes, lips, lace, and strands of hair are sharp, with the background heavily blurred. Frame the subject large, focusing on the main figure, with a gentle blur in the background.
+
+Texture / Style:
+Photorealistic beauty photography. Finely captures natural skin texture, pink lace, thin shoulder straps, ash-brown hair, and soft reflections of morning sunlight.
+
+Negative:
+Do not alter the sideways over-the-shoulder gaze and the dusty peach lace
 ```
 
 [↑ Back to categories](#catalog)
