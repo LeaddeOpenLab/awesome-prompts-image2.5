@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**101** Prompts · Latest addition: **2026-09-13**
+**102** Prompts · Latest addition: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -438,6 +438,50 @@ Photography · Landscape / Nature · Published
 
 ```text
 Photo of a clearing in the woods with lots of green foliage, highly detailed
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2099262094302761246"></a>
+
+### Resort photography-style prompt of a woman in a small floral bikini kneeling on a daybed in the shade of trees.
+
+Author：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Source](https://x.com/CyberTotal2026/status/2099262094302761246)
+
+Photography · Portrait / Selfie · Character · Published
+
+**Summary:** Resort photography-style prompt of a woman in a small floral bikini kneeling on a daybed in the shade of trees.
+
+<img src="images/2099262094302761246-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Subject:
+Small Floral Bikini in the Shade of Trees
+
+Main Subject:
+A vertical photograph of an adult woman kneeling on a white daybed placed in a tropical wooden pavilion, wearing a small floral bikini. The subject is positioned based around the center of the frame.
+
+Person / Expression:
+Wet dark brown hair reaching below the shoulders with thin bangs. Slender oval face contour, wide brown eyes, natural eyebrows, petite nose, and glossy pink lips. Softly smiling toward the front.
+
+Clothing / Pose:
+Triangle halter bikini with pink small floral patterns on an off-white base, thin neck ties, and matching bottoms tied at both hips. Kneeling on white bedding, both arms naturally lowered in front of the body. Small floral print swimwear. Thin shoulder straps extend from the triangle cups.
+
+Background / Lighting:
+Wooden railings, white pillows, dense tropical plants, and orange flowers. Dappled sunlight filtering through trees creates intricate chiaroscuro on the wet hair, shoulders, and fabric. The primary light in the background is soft light coming from the left side of the frame.
+
+Composition / Camera:
+3:4 vertical composition, camera facing from the front slightly below waist level. The subject is placed prominently in the center, with the white bedding surrounding the lower body and lush greenery in the background. Focus on the face and the small floral pattern. Capturing the subject prominently, focusing on the main figure, with light bokeh in the background. Upper-body shot from the waist up.
+
+Texture / Style:
+Photorealistic resort photography. Naturally and intricately captures wet hair strands, water droplets, small floral fabric, white bedding, and skin bathed in dappled sunlight.
+
+Negative:
+Do not change the small floral pattern on the off-white base and wet hair into a solid-colored dry look
 ```
 
 [↑ Back to categories](#catalog)
