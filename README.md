@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**109** Prompts · Latest addition: **2026-09-14**
+**110** Prompts · Latest addition: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2099375039166747111"></a>
+
+### Surreal mountain waterfall long-exposure photography prompt, featuring layered silk water curtains, solitary peak mist, and a tiny figure in a black cloak.
+
+Author：[@listudio](https://x.com/listudio) · [Source](https://x.com/listudio/status/2099375039166747111)
+
+Photography · Character · Landscape / Nature · Published
+
+**Summary:** Surreal mountain waterfall long-exposure photography prompt, featuring layered silk water curtains, solitary peak mist, and a tiny figure in a black cloak.
+
+<img src="images/2099375039166747111-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create a 9:16 vertical, photorealistic surreal mountain waterfall long-exposure photograph. The left foreground features a massive dark-brown layered cliff occupying nearly half the width, with coarse rock strata stacked diagonally and remaining sharp; an alpine gap on the upper left pours out an unusually wide silver-gray waterfall. Visual result of a steady tripod long exposure lasting tens of seconds to several minutes: as the waterfall plunges from high above, it merges into a heavy, smooth, continuous vertical silk water curtain, with fine parallel water threads clearly discernible; upon landing, the massive torrent is compressed by the terrain into dozens of forward-curving, spreading milky-white ribbon-like tiers, each water crest forming a smooth continuous curve, foam smoothed by time into a soft texture while retaining the depth of gray water veins, never appearing cotton-like flat dead white. The sharp, dark solitary peak on the middle-right remains clear, while mid-mountain water vapor is drawn by horizontal wind into a low-lying fog band during the long exposure, partially obscuring the distant background. Pale overcast diffuse light, cool gray, coal black, dark ochre, with the water body bright but not overexposed. At the bottom is a narrow, wet brown shore where an adult figure wearing a long black cloak stands slightly right of center with their back to the camera, occupying only about 3% of the frame height, completely sharp. Motion blur applies only to the water flow, foam, mist, and water vapor; rocks, shore, peaks, and figure remain sharp. Low saturation, subtle film grain, solemn, cold, with an authentic cataclysmic scene feel. The four corners and edges of the frame must be completely clean, free of any recognizable or unrecognizable characters, letters, numbers, signatures, seals, marks, inscriptions, logos, watermarks, dates, or decorative symbols.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2099378304985989553"></a>
 
