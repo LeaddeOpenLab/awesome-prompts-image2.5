@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**102** Prompts · Latest addition: **2026-09-14**
+**103** Prompts · Latest addition: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -438,6 +438,50 @@ Photography · Landscape / Nature · Published
 
 ```text
 Photo of a clearing in the woods with lots of green foliage, highly detailed
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2099309154334548142"></a>
+
+### A photographic style prompt of a woman wearing a floral bikini and a sheer white robe beside a canopy bed at a tropical poolside.
+
+Author：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Source](https://x.com/CyberTotal2026/status/2099309154334548142)
+
+Photography · Portrait / Selfie · Character · Published
+
+**Summary:** A photographic style prompt of a woman wearing a floral bikini and a sheer white robe beside a canopy bed at a tropical poolside.
+
+<img src="images/2099309154334548142-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Subject:
+Floral Robe by the Water
+
+Main Subject:
+A vertical full-body photograph of an adult woman standing beside a white canopy bed by a tropical poolside, wearing a floral bikini and a long white robe. The subject is centered in the frame.
+
+Person & Expression:
+Black hair touching the shoulders gathered in a low bun, with wispy bangs. Oval face contour, elongated brown eyes, natural eyebrows, a small nose, and glossy pink lips. Facing forward with a calm, gentle gaze.
+
+Attire & Pose:
+An off-white underwire cup bikini featuring a delicate, colorful ditsy floral print, a slender tie string at the center of the bust, and matching bottoms. A translucent off-white robe with lace trim and flared short sleeves, falling below the knees. Standing with one hand resting on the daybed. Small floral print swimwear.
+
+Background & Lighting:
+A blue pool, wooden pillars, white curtains, a white daybed, palm trees, and lush dark greenery. Strong daylight shines through the sheer robe and makes the water's surface gleam blue. The key light in the background is harsh, direct overhead sunlight.
+
+Composition & Camera:
+2:3 vertical composition, straight-on front full-body shot. Subject centered, wooden pillar on the left, white curtain on the upper right, and the pool in the back left, framing from the top of the head to below the thighs. Focus on the face, floral print, and lace robe. The subject fills a large portion of the frame with sharp focus, while the background has a soft bokeh.
+
+Texture & Style:
+Photorealistic resort photography. Small floral pattern, underwire cups, sheer robe and lace, water surface, and wooden elements captured in bright, natural light.
+
+Negative:
+Do not omit the long translucent robe and the floral underwire bikini
 ```
 
 [↑ Back to categories](#catalog)
