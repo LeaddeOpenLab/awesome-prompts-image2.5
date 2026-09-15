@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**116** Prompts · Latest addition: **2026-09-14**
+**117** Prompts · Latest addition: **2026-09-15**
 
 <a name="catalog"></a>
 
@@ -584,6 +584,50 @@ Photography · Landscape / Nature · Published
 
 ```text
 Photo of a clearing in the woods with lots of green foliage, highly detailed
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2099622469099217254"></a>
+
+### Realistic portrait prompt of a woman in a white lace camisole with downcast eyes, quietly looking down at a gold-edged pearl flower brooch on her chest.
+
+Author：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Source](https://x.com/CyberTotal2026/status/2099622469099217254)
+
+Photography · Portrait / Selfie · Character · Published
+
+**Summary:** Realistic portrait prompt of a woman in a white lace camisole with downcast eyes, quietly looking down at a gold-edged pearl flower brooch on her chest.
+
+<img src="images/2099622469099217254-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Subject:
+Pearl flower at the chest
+
+Main Subject:
+A vertical close-up photograph of an adult woman in a white lace camisole looking down at a floral ornament on her chest in a dark gray room. The figure is centered in the frame.
+
+Person / Expression:
+Dark brown hair swept into a high updo, with thin bangs and long loose strands. Slender oval face, downcast eyes with long eyelashes, natural eyebrows, a slender bridge of the nose, and glossy peach-pink lips. A quiet, contemplative expression with her chin slightly drawn in.
+
+Clothing / Pose:
+An off-white thin-strap camisole featuring large mesh lace and frills at the neckline. Centered on the skin below the collarbone is a single brooch-like ornament made of white petals with gold edges and a round pearl at the center. White lace top. Standing with her chin slightly tucked.
+
+Background / Lighting:
+Blurred dark gray curtains. Soft window light coming from the upper left falls narrowly across her hair, downcast face, floral ornament, and chest, while the surroundings fall into deep shadow. The main light source in the background is soft light from the window side.
+
+Composition / Camera:
+2:3 vertical composition, front-facing close-up camera angle focused on the chest area. The top of the head is slightly cropped, with the downcast face in the upper half, white lace below, and the pearl flower positioned at the center. Eyelashes, lips, floral ornament, and lace are sharply in focus. The figure occupies a large portion of the frame, with the focal point on the main subject and a soft bokeh background.
+
+Texture / Style:
+Photorealistic beauty photography. High-definition depiction of natural skin texture, long eyelashes, mesh lace, gold-edged white flower, round pearl, and soft shading.
+
+Negative:
+Do not omit the gold-edged pearl flower centered below the collarbone and the downcast eyes.
 ```
 
 [↑ Back to categories](#catalog)
