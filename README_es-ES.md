@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**121** Prompts · Última incorporación: **2026-09-16**
+**122** Prompts · Última incorporación: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,32 @@ Marca este repositorio con una estrella para seguir nuestra selección diaria e 
 <a name="category-photography"></a>
 
 ## Fotografía
+
+<a name="prompt-2100065803072897507"></a>
+
+### Traducción en curso
+
+Autor：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicación original](https://x.com/DeepBlueX0/status/2100065803072897507)
+
+Fotografía · Retrato / Selfie · Artículo de moda · Publicado
+
+Publicación original：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicación original](https://x.com/DeepBlueX0/status/2099721592582656282)
+
+**Resumen:** Traducción en curso
+
+<img src="images/2100065803072897507-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2100065803072897507-2.jpg" alt="Imagen 2" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2099520724121883039"></a>
 

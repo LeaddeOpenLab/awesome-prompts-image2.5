@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**121** Prompt · Son eklenen: **2026-09-16**
+**122** Prompt · Son eklenen: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,32 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 <a name="category-photography"></a>
 
 ## Fotoğrafçılık
+
+<a name="prompt-2100065803072897507"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Orijinal gönderi](https://x.com/DeepBlueX0/status/2100065803072897507)
+
+Fotoğrafçılık · Portre / Selfie · Moda Ürünü · Yayımlandı
+
+Orijinal gönderi：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Orijinal gönderi](https://x.com/DeepBlueX0/status/2099721592582656282)
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2100065803072897507-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2100065803072897507-2.jpg" alt="Görsel 2" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2099520724121883039"></a>
 

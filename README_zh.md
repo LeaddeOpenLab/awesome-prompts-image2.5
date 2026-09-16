@@ -19,7 +19,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**121** 条内容 · 最新收录: **2026-09-16**
+**122** 条内容 · 最新收录: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,32 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 <a name="category-photography"></a>
 
 ## 摄影
+
+<a name="prompt-2100065803072897507"></a>
+
+### 翻译中
+
+作者：[@DeepBlueX0](https://x.com/DeepBlueX0) · [查看 X 原帖](https://x.com/DeepBlueX0/status/2100065803072897507)
+
+摄影 · 人像 / 自拍 · 时尚单品 · 已推流
+
+查看 X 原帖：[@DeepBlueX0](https://x.com/DeepBlueX0) · [查看 X 原帖](https://x.com/DeepBlueX0/status/2099721592582656282)
+
+**概括:** 翻译中
+
+<img src="images/2100065803072897507-1.jpg" alt="图片 1" width="480" />
+
+<img src="images/2100065803072897507-2.jpg" alt="图片 2" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
 
 <a name="prompt-2099520724121883039"></a>
 

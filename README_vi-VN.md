@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**121** Prompt · Bổ sung mới nhất: **2026-09-16**
+**122** Prompt · Bổ sung mới nhất: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,32 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 <a name="category-photography"></a>
 
 ## Nhiếp ảnh
+
+<a name="prompt-2100065803072897507"></a>
+
+### Đang dịch
+
+Tác giả：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Bài gốc](https://x.com/DeepBlueX0/status/2100065803072897507)
+
+Nhiếp ảnh · Chân dung / Ảnh tự chụp · Mặt hàng thời trang · Đã xuất bản
+
+Bài gốc：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Bài gốc](https://x.com/DeepBlueX0/status/2099721592582656282)
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2100065803072897507-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2100065803072897507-2.jpg" alt="Hình ảnh 2" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2099520724121883039"></a>
 

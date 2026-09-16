@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**121** Prompts · Latest addition: **2026-09-16**
+**122** Prompts · Latest addition: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,32 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2100065803072897507"></a>
+
+### An intimate perspective photoshoot of a girlfriend with a first-love face, featuring an adorably fierce expression and a contrasting outfit.
+
+Author：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Source](https://x.com/DeepBlueX0/status/2100065803072897507)
+
+Photography · Portrait / Selfie · Fashion Item · Published
+
+Source：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Source](https://x.com/DeepBlueX0/status/2099721592582656282)
+
+**Summary:** An intimate perspective photoshoot of a girlfriend with a first-love face, featuring an adorably fierce expression and a contrasting outfit.
+
+<img src="images/2100065803072897507-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2100065803072897507-2.jpg" alt="Image 2" width="480" />
+
+**Prompt**
+
+```text
+Girlfriend with a first-love face × ambiguous intimacy × unconventional experimental lens × contrasting OOTD × adorably fierce and coquettish expression
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2099520724121883039"></a>
 
