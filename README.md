@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**124** Prompts · Latest addition: **2026-09-16**
+**127** Prompts · Latest addition: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,30 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2100266849506316292"></a>
+
+### A nine-grid photo in a 3x3 composition collecting a variety of amateur failed photos
+
+Author：[@ahamme35638](https://x.com/ahamme35638) · [Source](https://x.com/ahamme35638/status/2100266849506316292)
+
+Photography · Published
+
+**Summary:** A nine-grid photo in a 3x3 composition collecting a variety of amateur failed photos
+
+<img src="images/2100266849506316292-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2100266849506316292-2.jpg" alt="Image 2" width="480" />
+
+**Prompt**
+
+```text
+A collection of amateur failed photos, 3x3, 9:16
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2100221410358735319"></a>
 
@@ -2487,6 +2511,30 @@ Create a charming 3D miniature map of [COUNTRY] with the national borders clearl
 
 ## Pixel Art
 
+<a name="prompt-2100265645103612367"></a>
+
+### A prompt to generate the broad bean monster \\&quot;Soramameman\\&quot; as a 4x4, 16-frame 2D pixel art action sprite sheet.
+
+Author：[@nostalGGames](https://x.com/nostalGGames) · [Source](https://x.com/nostalGGames/status/2100265645103612367)
+
+Pixel Art · Published
+
+**Summary:** A prompt to generate the broad bean monster \\&quot;Soramameman\\&quot; as a 4x4, 16-frame 2D pixel art action sprite sheet.
+
+<img src="images/2100265645103612367-1.png" alt="Image 1" width="480" />
+
+<img src="images/2100265645103612367-2.jpg" alt="Image 2" width="480" />
+
+**Prompt**
+
+```text
+- A monster materialized from the spirit of a broad bean\n- Has two eyes\n- Soramameman turned into 2D pixel art\n- Made into an action character atlas\n- Output sprites as 16 action frames in a 4x4 grid
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
 <a name="prompt-2097863751471157498"></a>
 
 ### Generate a 16-frame continuous action 2D pixel sprite sheet arranged in a square 4×4 grid based on the reference image, maintaining consistent character proportions and baseline, with instructions for a seamless looping action including idle, charging, release, and recovery.
@@ -2656,6 +2704,69 @@ Song Dynasty aesthetics × Song-style nail art extreme close-up × Nail art as p
 <a name="category-retro-vintage"></a>
 
 ## Retro / Vintage
+
+<a name="prompt-2100099718605135962"></a>
+
+### Vintage Japanese streetwear travel poster prompt featuring a tactical fashion model against an urban collage with aged paper typography.
+
+Author：[@harboriis](https://x.com/harboriis) · [Source](https://x.com/harboriis/status/2100099718605135962)
+
+Poster / Flyer · Retro / Vintage · Influencer / Model · Fashion Item · Cityscape / Street · Text / Typography · Published
+
+**Summary:** Vintage Japanese streetwear travel poster prompt featuring a tactical fashion model against an urban collage with aged paper typography.
+
+<img src="images/2100099718605135962-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2100099718605135962-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2100099718605135962-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2100099718605135962-4.jpg" alt="Image 4" width="480" />
+
+**Prompt**
+
+```text
+Create a vertical 4:5 ultra-realistic editorial travel fashion poster inspired by a vintage Japanese street magazine cover.
+
+A young woman stands prominently in the center foreground, photographed from a slightly low angle. She has dark hair tied into a messy high bun with loose strands framing her face, wearing narrow futuristic black wraparound sunglasses and looking slightly toward the camera with a confident, calm expression. She wears an oversized black technical utility jacket covered with realistic straps, buckles, zippers, pockets, printed patches, labels and subtle reflective details, paired with dark tactical-style clothing and a large black utility bag. Preserve realistic fabric texture and natural proportions.
+
+The background is a Tokyo night street collage, featuring rain-soaked neon streets, Japanese shop signs, narrow urban alleys, Tokyo Tower glowing at night, and a Tokyo train arriving at a station. Arrange several rectangular photographs around the central subject at different slight angles, creating a handmade editorial scrapbook layout. Use off-white aged paper as the main background with subtle paper grain, worn edges, folds, stains and vintage print texture.
+
+At the top, add huge bold black typography reading:
+
+TOKYO
+
+Under it, smaller elegant italic serif text:
+
+FUTURE IS NOW
+
+Add small editorial text blocks such as:
+
+“Where tradition meets technology, and every street tells a story of tomorrow.”
+
+Include minimalist globe symbols, technical graphic lines, barcode elements, coordinates, small labels and futuristic editorial markings.
+
+Use Japanese-inspired red and black graphic panels throughout the composition. Add a vertical red panel on the right with Japanese typography, a red graphic card on the lower left containing large Japanese characters, and another red photographic panel in the lower right showing a dark silhouette of the woman.
+
+Include small typography such as:
+
+35.6895° N
+139.6917° E
+
+and:
+
+SHIBUYA • SHINJUKU • HARAJUKU • AKIHABARA
+
+Overall aesthetic: high-end Japanese streetwear magazine, cyberpunk Tokyo, vintage travel poster, contemporary fashion editorial, analog print collage. Muted black, charcoal, cream, dark gray and deep red color palette. Strong photographic realism, cinematic night lighting, subtle film grain, slightly faded ink, authentic paper texture, imperfect print registration, sophisticated magazine typography, balanced negative space.
+
+Composition: central full-body subject, oversized “TOKYO” headline occupying the upper section, layered Tokyo photographs surrounding her, red graphic accents, vintage paper border, premium editorial layout.
+
+Photorealistic, highly detailed, cinematic, 8K, realistic skin, realistic clothing textures, professional fashion photography, authentic vintage print finish, no modern digital UI elements.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2100123233630519438"></a>
 

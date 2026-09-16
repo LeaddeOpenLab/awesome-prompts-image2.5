@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-16T20:25:04.339Z",
+  "model": "image2.5",
+  "prompt": "- そら豆の精が実体化したモンスター \n- 目は二つ存在している\n - ソラマメマンをドット絵2D化 \n- アクションのキャラクターアトラス化 \n- 4x4の16コマのアクションとしてスプライトを出せ",
+  "promptTranslations": {
+    "en": "- A monster materialized from the spirit of a broad bean\\n- Has two eyes\\n- Soramameman turned into 2D pixel art\\n- Made into an action character atlas\\n- Output sprites as 16 action frames in a 4x4 grid"
+  },
+  "summaryTranslations": {
+    "en": "A prompt to generate the broad bean monster \\\"Soramameman\\\" as a 4x4, 16-frame 2D pixel art action sprite sheet."
+  },
+  "translationVersion": 2,
+  "summary": "そら豆のモンスター「ソラマメマン」を4x4・16コマの2Dドット絵アクションスプライトシートとして生成するプロンプト。",
+  "summaryEn": "Prompt for generating a 4x4 16-frame 2D pixel art action sprite atlas of a broad bean spirit monster.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100265645103612367",
+    "canonicalUrl": "https://x.com/nostalGGames/status/2100265645103612367",
+    "author": {
+      "username": "nostalGGames",
+      "displayName": "nostal G",
+      "profileUrl": "https://x.com/nostalGGames"
+    },
+    "publishedAt": "2026-09-16T16:48:45.000Z",
+    "collectedAt": "2026-09-16T20:16:53.873Z",
+    "language": "ja",
+    "originalText": "GTP-image2.5にソラマメマンを出力させるテスト\n\nプロンプトはgrokの時と同様\n - そら豆の精が実体化したモンスター \n- 目は二つ存在している\n - ソラマメマンをドット絵2D化 \n- アクションのキャラクターアトラス化 \n- 4x4の16コマのアクションとしてスプライトを出せ\n\n@grok どう思う？\n#gamedev #indiedev #ゲーム制作 #ゲーム開発 #ドット絵 #GTP-image2.5",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSWkOFWagAAkVrT.png",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSWkOFWagAAkVrT.png"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSWkOm2boAA8oKD.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSWkOm2boAA8oKD.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1,
+      "repostCount": 1,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 41
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]",
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/nostalGGames/status/2100265645103612367",
+  "coverUrl": "https://pbs.twimg.com/media/HSWkOFWagAAkVrT.png",
+  "coverPath": "images/2100265645103612367-1.png",
+  "imagePaths": [
+    "images/2100265645103612367-1.png",
+    "images/2100265645103612367-2.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSWkOFWagAAkVrT",
+    "x-image:/media/HSWkOm2boAA8oKD",
+    "x-post:2100265645103612367"
+  ],
+  "analysis": {
+    "summary": "そら豆のモンスター「ソラマメマン」を4x4・16コマの2Dドット絵アクションスプライトシートとして生成するプロンプト。",
+    "summaryEn": "Prompt for generating a 4x4 16-frame 2D pixel art action sprite atlas of a broad bean spirit monster.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Second image depicts a 4x4 16-frame pixel art sprite sheet of the green bean monster doing various actions matching the prompt specifications."
+    },
+    "videoQuality": null,
+    "originalPrompt": "- そら豆の精が実体化したモンスター \n- 目は二つ存在している\n - ソラマメマンをドット絵2D化 \n- アクションのキャラクターアトラス化 \n- 4x4の16コマのアクションとしてスプライトを出せ",
+    "sourceRange": {
+      "start": 47,
+      "end": 147
+    },
+    "translations": {
+      "zh": "- 蚕豆之精实体化构成的怪物\n- 拥有两只眼睛\n- 将蚕豆人点阵像素2D化\n- 制作成动作角色图集\n- 输出为4x4共16帧动作的精灵图",
+      "en": "- Monster formed as an embodied broad bean spirit\n- Has two eyes\n- Pixel art 2D version of Soramameman\n- Action character sprite atlas\n- Output as a 4x4 16-frame action sprite sheet"
+    },
+    "targetModels": [
+      "image2.5"
+    ],
+    "category": "text-to-image",
+    "useCase": "game-dev",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}

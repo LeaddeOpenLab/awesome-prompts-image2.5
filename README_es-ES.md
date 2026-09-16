@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**124** Prompts · Última incorporación: **2026-09-16**
+**127** Prompts · Última incorporación: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -33,15 +33,39 @@ Marca este repositorio con una estrella para seguir nuestra selección diaria e 
 
 ## Fotografía
 
-<a name="prompt-2100221410358735319"></a>
+<a name="prompt-2100266849506316292"></a>
 
 ### Traducción en curso
+
+Autor：[@ahamme35638](https://x.com/ahamme35638) · [Publicación original](https://x.com/ahamme35638/status/2100266849506316292)
+
+Fotografía · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2100266849506316292-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2100266849506316292-2.jpg" alt="Imagen 2" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2100221410358735319"></a>
+
+### Un prompt de selfis realistas en cuadrícula de 3x3 que imita una serie de fotos fallidas de aficionados.
 
 Autor：[@oneruofeng](https://x.com/oneruofeng) · [Publicación original](https://x.com/oneruofeng/status/2100221410358735319)
 
 Fotografía · Retrato / Selfie · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Un prompt de selfis realistas en cuadrícula de 3x3 que imita una serie de fotos fallidas de aficionados.
 
 <img src="images/2100221410358735319-1.jpg" alt="Imagen 1" width="480" />
 
@@ -50,7 +74,7 @@ Fotografía · Retrato / Selfie · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+Una serie de fotos fallidas de aficionados, 3x3, 9:16
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -2185,6 +2209,30 @@ Crea un encantador mapa en miniatura 3D de [COUNTRY] con las fronteras nacionale
 
 ## Pixel Art
 
+<a name="prompt-2100265645103612367"></a>
+
+### Traducción en curso
+
+Autor：[@nostalGGames](https://x.com/nostalGGames) · [Publicación original](https://x.com/nostalGGames/status/2100265645103612367)
+
+Pixel Art · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2100265645103612367-1.png" alt="Imagen 1" width="480" />
+
+<img src="images/2100265645103612367-2.jpg" alt="Imagen 2" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
 <a name="prompt-2097863751471157498"></a>
 
 ### Genera una hoja de sprites \(Sprite Sheet\) en píxel art 2D cuadrada de 16 fotogramas en cuadrícula 4×4 con acción continua basada en la imagen de referencia, manteniendo proporciones y línea base constantes con instrucciones de bucle perfecto que incluyen reposo, carga, impacto y recuperación.
@@ -2341,7 +2389,7 @@ Transforma la foto en un estilo de diario de viaje dibujado a mano con lápices 
 
 <a name="prompt-2100241141967081911"></a>
 
-### Traducción en curso
+### Prompt de fotografía en primerísimo plano extremo de arte de uñas de estilo tradicional chino centrado en la estética de la dinastía Song, que enfatiza fijar el enfoque en el exquisito impacto visual de la manicura.
 
 Autor：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicación original](https://x.com/DeepBlueX0/status/2100241141967081911)
 
@@ -2349,7 +2397,7 @@ Fotografía · Tinta / Estilo chino · Publicado
 
 Publicación original：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicación original](https://x.com/DeepBlueX0/status/2100101510634037441)
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de fotografía en primerísimo plano extremo de arte de uñas de estilo tradicional chino centrado en la estética de la dinastía Song, que enfatiza fijar el enfoque en el exquisito impacto visual de la manicura.
 
 <img src="images/2100241141967081911-1.jpg" alt="Imagen 1" width="480" />
 
@@ -2364,7 +2412,7 @@ Publicación original：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicación
 **Prompt**
 
 ```text
-Traducción en curso
+Estética de la dinastía Song × Primerísimo primer plano extremo de manicura de estilo Song × Enfoque fijado en el arte de uñas como elemento visual principal
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -2374,6 +2422,34 @@ Traducción en curso
 <a name="category-retro-vintage"></a>
 
 ## Retro / Vintage
+
+<a name="prompt-2100099718605135962"></a>
+
+### Traducción en curso
+
+Autor：[@harboriis](https://x.com/harboriis) · [Publicación original](https://x.com/harboriis/status/2100099718605135962)
+
+Póster / Folleto · Retro / Vintage · Influencer / Modelo · Artículo de moda · Paisaje urbano / Calle · Texto / Tipografía · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2100099718605135962-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2100099718605135962-2.jpg" alt="Imagen 2" width="480" />
+
+<img src="images/2100099718605135962-3.jpg" alt="Imagen 3" width="480" />
+
+<img src="images/2100099718605135962-4.jpg" alt="Imagen 4" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2100123233630519438"></a>
 
@@ -2786,13 +2862,13 @@ Tranquilo, poético, refinado, minimalista, inocente, artístico, reflexivo, pr�
 
 <a name="prompt-2100255511228932598"></a>
 
-### Traducción en curso
+### Instantáneas fallidas verticales en cuadrícula de cuatro, escena de recolección de raíces de loto en un estanque de lotos y personajes
 
 Autor：[@ahamme35638](https://x.com/ahamme35638) · [Publicación original](https://x.com/ahamme35638/status/2100255511228932598)
 
 Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Instantáneas fallidas verticales en cuadrícula de cuatro, escena de recolección de raíces de loto en un estanque de lotos y personajes
 
 <img src="images/2100255511228932598-1.jpg" alt="Imagen 1" width="480" />
 
@@ -2803,7 +2879,7 @@ Personaje · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+Fotos fallidas verticales en 2×2, escena de recolección de raíces de loto en un estanque de lotos + personaje
 ```
 
 [↑ Volver a categorías](#catalog)

@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**124** Prompt · Bổ sung mới nhất: **2026-09-16**
+**127** Prompt · Bổ sung mới nhất: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -33,15 +33,39 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 
 ## Nhiếp ảnh
 
-<a name="prompt-2100221410358735319"></a>
+<a name="prompt-2100266849506316292"></a>
 
 ### Đang dịch
+
+Tác giả：[@ahamme35638](https://x.com/ahamme35638) · [Bài gốc](https://x.com/ahamme35638/status/2100266849506316292)
+
+Nhiếp ảnh · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2100266849506316292-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2100266849506316292-2.jpg" alt="Hình ảnh 2" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2100221410358735319"></a>
+
+### Lời nhắc ảnh selfie dạng lưới 3x3 chân thực mô phỏng hàng loạt ảnh chụp hỏng của dân nghiệp dư.
 
 Tác giả：[@oneruofeng](https://x.com/oneruofeng) · [Bài gốc](https://x.com/oneruofeng/status/2100221410358735319)
 
 Nhiếp ảnh · Chân dung / Ảnh tự chụp · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc ảnh selfie dạng lưới 3x3 chân thực mô phỏng hàng loạt ảnh chụp hỏng của dân nghiệp dư.
 
 <img src="images/2100221410358735319-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -50,7 +74,7 @@ Nhiếp ảnh · Chân dung / Ảnh tự chụp · Đã xuất bản
 **Câu lệnh**
 
 ```text
-Đang dịch
+Hàng loạt ảnh chụp hỏng của dân nghiệp dư, 3x3, 9:16
 ```
 
 [↑ Về danh mục](#catalog)
@@ -2185,6 +2209,30 @@ Tạo một bản đồ thu nhỏ 3D quyến rũ của [COUNTRY] với đường
 
 ## Nghệ thuật Pixel
 
+<a name="prompt-2100265645103612367"></a>
+
+### Đang dịch
+
+Tác giả：[@nostalGGames](https://x.com/nostalGGames) · [Bài gốc](https://x.com/nostalGGames/status/2100265645103612367)
+
+Nghệ thuật Pixel · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2100265645103612367-1.png" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2100265645103612367-2.jpg" alt="Hình ảnh 2" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
 <a name="prompt-2097863751471157498"></a>
 
 ### Tạo bảng sprite sheet pixel 2D hình vuông gồm 16 khung hình chia lưới 4×4 cho chuỗi hành động liên tục dựa trên ảnh tham chiếu, giữ nguyên tỉ lệ và đường trục chân, có chỉ dẫn chuyển động lặp vô tận từ chuẩn bị, tích lực, giải phóng đến thu chiêu.
@@ -2341,7 +2389,7 @@ Chuyển đổi bức ảnh thành phong cách nhật ký du lịch vẽ tay b�
 
 <a name="prompt-2100241141967081911"></a>
 
-### Đang dịch
+### Câu lệnh nhiếp ảnh cận cảnh cực gần về nghệ thuật làm móng phong cách cổ phong Trung Hoa lấy thẩm mỹ thời Tống làm cốt lõi, nhấn mạnh vào việc khóa tiêu điểm vào nét đẹp tinh xảo của bộ móng.
 
 Tác giả：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Bài gốc](https://x.com/DeepBlueX0/status/2100241141967081911)
 
@@ -2349,7 +2397,7 @@ Nhiếp ảnh · Mực / Phong cách Trung Hoa · Đã xuất bản
 
 Bài gốc：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Bài gốc](https://x.com/DeepBlueX0/status/2100101510634037441)
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Câu lệnh nhiếp ảnh cận cảnh cực gần về nghệ thuật làm móng phong cách cổ phong Trung Hoa lấy thẩm mỹ thời Tống làm cốt lõi, nhấn mạnh vào việc khóa tiêu điểm vào nét đẹp tinh xảo của bộ móng.
 
 <img src="images/2100241141967081911-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -2364,7 +2412,7 @@ Bài gốc：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Bài gốc](https://x.c
 **Câu lệnh**
 
 ```text
-Đang dịch
+Thẩm mỹ thời Tống × Cận cảnh cực gần nghệ thuật làm móng phong cách thời Tống × Khóa tiêu điểm vào hình ảnh móng làm chủ đạo
 ```
 
 [↑ Về danh mục](#catalog)
@@ -2374,6 +2422,34 @@ Bài gốc：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Bài gốc](https://x.c
 <a name="category-retro-vintage"></a>
 
 ## Cổ điển / Cổ điển
+
+<a name="prompt-2100099718605135962"></a>
+
+### Đang dịch
+
+Tác giả：[@harboriis](https://x.com/harboriis) · [Bài gốc](https://x.com/harboriis/status/2100099718605135962)
+
+Áp phích / Tờ rơi · Cổ điển / Cổ điển · Người có ảnh hưởng / Người mẫu · Mặt hàng thời trang · Quang cảnh thành phố / Đường phố · Văn bản / Kiểu chữ · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2100099718605135962-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2100099718605135962-2.jpg" alt="Hình ảnh 2" width="480" />
+
+<img src="images/2100099718605135962-3.jpg" alt="Hình ảnh 3" width="480" />
+
+<img src="images/2100099718605135962-4.jpg" alt="Hình ảnh 4" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2100123233630519438"></a>
 
@@ -2764,13 +2840,13 @@ Tạo MỘT áp phích biên tập cao cấp độc lập cho MỖI bức ảnh 
 
 <a name="prompt-2100255511228932598"></a>
 
-### Đang dịch
+### Khoảnh khắc chụp hỏng dạng lưới 4 ô dọc, khung cảnh hồ sen hái củ sen và nhân vật
 
 Tác giả：[@ahamme35638](https://x.com/ahamme35638) · [Bài gốc](https://x.com/ahamme35638/status/2100255511228932598)
 
 Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Khoảnh khắc chụp hỏng dạng lưới 4 ô dọc, khung cảnh hồ sen hái củ sen và nhân vật
 
 <img src="images/2100255511228932598-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -2781,7 +2857,7 @@ Nhân vật · Đã xuất bản
 **Câu lệnh**
 
 ```text
-Đang dịch
+Ảnh chụp hỏng dạng dọc 2×2, khung cảnh hái củ sen ở hồ sen + nhân vật
 ```
 
 [↑ Về danh mục](#catalog)

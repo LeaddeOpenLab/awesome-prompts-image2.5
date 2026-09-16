@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**124** Prompts · Dernier ajout: **2026-09-16**
+**127** Prompts · Dernier ajout: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -33,15 +33,39 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 
 ## Photographie
 
-<a name="prompt-2100221410358735319"></a>
+<a name="prompt-2100266849506316292"></a>
 
 ### Traduction en cours
+
+Auteur：[@ahamme35638](https://x.com/ahamme35638) · [Publication originale](https://x.com/ahamme35638/status/2100266849506316292)
+
+Photographie · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2100266849506316292-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2100266849506316292-2.jpg" alt="Image 2" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2100221410358735319"></a>
+
+### Un prompt de selfies réaliste en grille 3x3 imitant de nombreuses photos ratées d'amateurs.
 
 Auteur：[@oneruofeng](https://x.com/oneruofeng) · [Publication originale](https://x.com/oneruofeng/status/2100221410358735319)
 
 Photographie · Portrait / Selfie · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Un prompt de selfies réaliste en grille 3x3 imitant de nombreuses photos ratées d'amateurs.
 
 <img src="images/2100221410358735319-1.jpg" alt="Image 1" width="480" />
 
@@ -50,7 +74,7 @@ Photographie · Portrait / Selfie · Publié
 **Consigne**
 
 ```text
-Traduction en cours
+De nombreuses photos ratées d'amateurs, 3x3, 9:16
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -2153,6 +2177,30 @@ Créez une charmante carte miniature en 3D de [COUNTRY] avec les frontières nat
 
 ## Pixel Art
 
+<a name="prompt-2100265645103612367"></a>
+
+### Traduction en cours
+
+Auteur：[@nostalGGames](https://x.com/nostalGGames) · [Publication originale](https://x.com/nostalGGames/status/2100265645103612367)
+
+Pixel Art · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2100265645103612367-1.png" alt="Image 1" width="480" />
+
+<img src="images/2100265645103612367-2.jpg" alt="Image 2" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
 <a name="prompt-2097863751471157498"></a>
 
 ### Génération, à partir de l'image de référence, d'une feuille de sprites en pixel art 2D d'action continue, carrée, disposée en 4×4 pour un total de 16 images, maintenant des proportions et une ligne de base uniformes, comprenant des instructions d'action en boucle fluide avec attente, préparation, libération et retour.
@@ -2312,7 +2360,7 @@ Transformez la photo en un style de carnet de voyage dessiné à la main aux cra
 
 <a name="prompt-2100241141967081911"></a>
 
-### Traduction en cours
+### Prompt photographique en très gros plan pour du nail art de style traditionnel chinois centré sur l'esthétique de la dynastie Song, mettant l'accent sur le verrouillage de la mise au point sur la beauté exquise des ongles.
 
 Auteur：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publication originale](https://x.com/DeepBlueX0/status/2100241141967081911)
 
@@ -2320,7 +2368,7 @@ Photographie · Encre / Style Chinois · Publié
 
 Publication originale：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publication originale](https://x.com/DeepBlueX0/status/2100101510634037441)
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt photographique en très gros plan pour du nail art de style traditionnel chinois centré sur l'esthétique de la dynastie Song, mettant l'accent sur le verrouillage de la mise au point sur la beauté exquise des ongles.
 
 <img src="images/2100241141967081911-1.jpg" alt="Image 1" width="480" />
 
@@ -2335,7 +2383,7 @@ Publication originale：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publication 
 **Consigne**
 
 ```text
-Traduction en cours
+Esthétique de la dynastie Song × Gros plan extrême sur le nail art de style Song × Mise au point verrouillée sur le visuel principal du nail art
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -2345,6 +2393,34 @@ Traduction en cours
 <a name="category-retro-vintage"></a>
 
 ## Rétro / Vintage
+
+<a name="prompt-2100099718605135962"></a>
+
+### Traduction en cours
+
+Auteur：[@harboriis](https://x.com/harboriis) · [Publication originale](https://x.com/harboriis/status/2100099718605135962)
+
+Affiche / Flyer · Rétro / Vintage · Influenceur / Mannequin · Article de mode · Paysage urbain / Rue · Texte / Typographie · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2100099718605135962-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2100099718605135962-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2100099718605135962-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2100099718605135962-4.jpg" alt="Image 4" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2100123233630519438"></a>
 
@@ -2757,13 +2833,13 @@ Calme, poétique, raffiné, minimaliste, innocent, artistique, réfléchi, haut 
 
 <a name="prompt-2100255511228932598"></a>
 
-### Traduction en cours
+### Instantanés manqués verticaux en grille de quatre, scène de cueillette de racines de lotus dans un étang de lotus et personnages
 
 Auteur：[@ahamme35638](https://x.com/ahamme35638) · [Publication originale](https://x.com/ahamme35638/status/2100255511228932598)
 
 Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Instantanés manqués verticaux en grille de quatre, scène de cueillette de racines de lotus dans un étang de lotus et personnages
 
 <img src="images/2100255511228932598-1.jpg" alt="Image 1" width="480" />
 
@@ -2774,7 +2850,7 @@ Personnage · Publié
 **Consigne**
 
 ```text
-Traduction en cours
+Photos ratées verticales 2×2, scène de cueillette de racines de lotus dans un étang de lotus + personnage
 ```
 
 [↑ Retour aux catégories](#catalog)

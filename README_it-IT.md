@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**124** Prompt · Ultima aggiunta: **2026-09-16**
+**127** Prompt · Ultima aggiunta: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -33,15 +33,39 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 
 ## Fotografia
 
-<a name="prompt-2100221410358735319"></a>
+<a name="prompt-2100266849506316292"></a>
 
 ### Traduzione in corso
+
+Autore：[@ahamme35638](https://x.com/ahamme35638) · [Post originale](https://x.com/ahamme35638/status/2100266849506316292)
+
+Fotografia · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2100266849506316292-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2100266849506316292-2.jpg" alt="Immagine 2" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2100221410358735319"></a>
+
+### Un prompt per selfie realistici in griglia 3x3 che imita numerose foto amatoriali mal riuscite.
 
 Autore：[@oneruofeng](https://x.com/oneruofeng) · [Post originale](https://x.com/oneruofeng/status/2100221410358735319)
 
 Fotografia · Ritratto / Selfie · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Un prompt per selfie realistici in griglia 3x3 che imita numerose foto amatoriali mal riuscite.
 
 <img src="images/2100221410358735319-1.jpg" alt="Immagine 1" width="480" />
 
@@ -50,7 +74,7 @@ Fotografia · Ritratto / Selfie · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+Numerose foto amatoriali mal riuscite, 3x3, 9:16
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -2153,6 +2177,30 @@ Crea un'affascinante mappa in miniatura 3D di [COUNTRY] con i confini nazionali 
 
 ## Pixel Art
 
+<a name="prompt-2100265645103612367"></a>
+
+### Traduzione in corso
+
+Autore：[@nostalGGames](https://x.com/nostalGGames) · [Post originale](https://x.com/nostalGGames/status/2100265645103612367)
+
+Pixel Art · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2100265645103612367-1.png" alt="Immagine 1" width="480" />
+
+<img src="images/2100265645103612367-2.jpg" alt="Immagine 2" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
 <a name="prompt-2097863751471157498"></a>
 
 ### Generazione di uno sprite sheet in pixel art 2D ad azione continua basato sull'immagine di riferimento, quadrato con disposizione 4×4 per un totale di 16 fotogrammi, che mantiene uniformi le proporzioni del personaggio e la linea di base, con istruzioni per un ciclo di animazione continuo che include attesa, caricamento, rilascio e recupero.
@@ -2312,7 +2360,7 @@ Trasforma la foto nello stile di un diario di viaggio disegnato a mano con matit
 
 <a name="prompt-2100241141967081911"></a>
 
-### Traduzione in corso
+### Prompt fotografico in primissimo piano estremo per nail art in stile tradizionale cinese incentrato sull'estetica della dinastia Song, che enfatizza il blocco della messa a fuoco sullo squisito impatto visivo delle unghie.
 
 Autore：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Post originale](https://x.com/DeepBlueX0/status/2100241141967081911)
 
@@ -2320,7 +2368,7 @@ Fotografia · Inchiostro / Stile Cinese · Pubblicato
 
 Post originale：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Post originale](https://x.com/DeepBlueX0/status/2100101510634037441)
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt fotografico in primissimo piano estremo per nail art in stile tradizionale cinese incentrato sull'estetica della dinastia Song, che enfatizza il blocco della messa a fuoco sullo squisito impatto visivo delle unghie.
 
 <img src="images/2100241141967081911-1.jpg" alt="Immagine 1" width="480" />
 
@@ -2335,7 +2383,7 @@ Post originale：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Post originale](htt
 **Prompt**
 
 ```text
-Traduzione in corso
+Estetica della dinastia Song × Primissimo piano estremo di nail art in stile Song × Messa a fuoco bloccata sul visual principale della nail art
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -2345,6 +2393,34 @@ Traduzione in corso
 <a name="category-retro-vintage"></a>
 
 ## Retro / Vintage
+
+<a name="prompt-2100099718605135962"></a>
+
+### Traduzione in corso
+
+Autore：[@harboriis](https://x.com/harboriis) · [Post originale](https://x.com/harboriis/status/2100099718605135962)
+
+Poster / Volantino · Retro / Vintage · Influencer / Modello/a · Articolo di moda · Paesaggio urbano / Strada · Testo / Tipografia · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2100099718605135962-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2100099718605135962-2.jpg" alt="Immagine 2" width="480" />
+
+<img src="images/2100099718605135962-3.jpg" alt="Immagine 3" width="480" />
+
+<img src="images/2100099718605135962-4.jpg" alt="Immagine 4" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2100123233630519438"></a>
 
@@ -2757,13 +2833,13 @@ Silenzioso, poetico, raffinato, minimale, innocente, artistico, riflessivo, prem
 
 <a name="prompt-2100255511228932598"></a>
 
-### Traduzione in corso
+### Scatti malriusciti verticali a quattro riquadri, scena di raccolta delle radici di loto nello stagno e personaggi
 
 Autore：[@ahamme35638](https://x.com/ahamme35638) · [Post originale](https://x.com/ahamme35638/status/2100255511228932598)
 
 Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Scatti malriusciti verticali a quattro riquadri, scena di raccolta delle radici di loto nello stagno e personaggi
 
 <img src="images/2100255511228932598-1.jpg" alt="Immagine 1" width="480" />
 
@@ -2774,7 +2850,7 @@ Personaggio · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+Foto fallite verticali 2×2, scena di raccolta di radici di loto in uno stagno di loto + personaggio
 ```
 
 [↑ Torna alle categorie](#catalog)

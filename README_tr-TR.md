@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**124** Prompt · Son eklenen: **2026-09-16**
+**127** Prompt · Son eklenen: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -33,15 +33,39 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 
 ## Fotoğrafçılık
 
-<a name="prompt-2100221410358735319"></a>
+<a name="prompt-2100266849506316292"></a>
 
 ### Çeviri sürüyor
+
+Yazar：[@ahamme35638](https://x.com/ahamme35638) · [Orijinal gönderi](https://x.com/ahamme35638/status/2100266849506316292)
+
+Fotoğrafçılık · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2100266849506316292-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2100266849506316292-2.jpg" alt="Görsel 2" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2100221410358735319"></a>
+
+### Amatörlerin çok sayıda başarısız fotoğrafını taklit eden gerçekçi bir 3x3 ızgara özçekim istemi.
 
 Yazar：[@oneruofeng](https://x.com/oneruofeng) · [Orijinal gönderi](https://x.com/oneruofeng/status/2100221410358735319)
 
 Fotoğrafçılık · Portre / Selfie · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Amatörlerin çok sayıda başarısız fotoğrafını taklit eden gerçekçi bir 3x3 ızgara özçekim istemi.
 
 <img src="images/2100221410358735319-1.jpg" alt="Görsel 1" width="480" />
 
@@ -50,7 +74,7 @@ Fotoğrafçılık · Portre / Selfie · Yayımlandı
 **İstem**
 
 ```text
-Çeviri sürüyor
+Amatörlerin çok sayıda başarısız fotoğrafı, 3x3, 9:16
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -2138,6 +2162,30 @@ Ulusal sınırları net bir şekilde belirlenmiş ve doğru şekillendirilmiş [
 
 ## Piksel Sanatı
 
+<a name="prompt-2100265645103612367"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@nostalGGames](https://x.com/nostalGGames) · [Orijinal gönderi](https://x.com/nostalGGames/status/2100265645103612367)
+
+Piksel Sanatı · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2100265645103612367-1.png" alt="Görsel 1" width="480" />
+
+<img src="images/2100265645103612367-2.jpg" alt="Görsel 2" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
 <a name="prompt-2097863751471157498"></a>
 
 ### Referans görsele dayalı olarak kare biçiminde, 4×4 dizilimli, toplam 16 kareden oluşan 2D sürekli hareket piksel sprite sayfası \(Sprite Sheet\) üretimi; karakter oranlarını ve taban çizgisini tutarlı tutan, bekleme, güç toplama, serbest bırakma ve toparlanma aşamalarını içeren kesintisiz döngü hareket talimatları.
@@ -2297,7 +2345,7 @@ Fotoğrafı renkli kurşun kalem ve suluboya ile elle çizilmiş bir seyahat gü
 
 <a name="prompt-2100241141967081911"></a>
 
-### Çeviri sürüyor
+### Song Hanedanı estetiğini merkeze alan geleneksel Çin tarzı tırnak sanatının aşırı yakın çekim fotoğrafçılık istemi; odağı zarif tırnak sanatı görseline kilitlemeyi vurgular.
 
 Yazar：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Orijinal gönderi](https://x.com/DeepBlueX0/status/2100241141967081911)
 
@@ -2305,7 +2353,7 @@ Fotoğrafçılık · Mürekkep / Çin Tarzı · Yayımlandı
 
 Orijinal gönderi：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Orijinal gönderi](https://x.com/DeepBlueX0/status/2100101510634037441)
 
-**Özet:** Çeviri sürüyor
+**Özet:** Song Hanedanı estetiğini merkeze alan geleneksel Çin tarzı tırnak sanatının aşırı yakın çekim fotoğrafçılık istemi; odağı zarif tırnak sanatı görseline kilitlemeyi vurgular.
 
 <img src="images/2100241141967081911-1.jpg" alt="Görsel 1" width="480" />
 
@@ -2320,7 +2368,7 @@ Orijinal gönderi：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Orijinal gönder
 **İstem**
 
 ```text
-Çeviri sürüyor
+Song Hanedanı estetiği × Song tarzı tırnak sanatının aşırı yakın çekimi × Odak tırnak sanatının ana görseline kilitlenmiş
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -2330,6 +2378,34 @@ Orijinal gönderi：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Orijinal gönder
 <a name="category-retro-vintage"></a>
 
 ## Retro / Vintage
+
+<a name="prompt-2100099718605135962"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@harboriis](https://x.com/harboriis) · [Orijinal gönderi](https://x.com/harboriis/status/2100099718605135962)
+
+Poster / El İlanı · Retro / Vintage · Influencer / Model · Moda Ürünü · Şehir Manzarası / Sokak · Metin / Tipografi · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2100099718605135962-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2100099718605135962-2.jpg" alt="Görsel 2" width="480" />
+
+<img src="images/2100099718605135962-3.jpg" alt="Görsel 3" width="480" />
+
+<img src="images/2100099718605135962-4.jpg" alt="Görsel 4" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2100123233630519438"></a>
 
@@ -2742,13 +2818,13 @@ Sakin, şiirsel, zarif, minimal, masum, sanatsal, düşünceli, birinci sınıf 
 
 <a name="prompt-2100255511228932598"></a>
 
-### Çeviri sürüyor
+### Dikey dörtlü ızgara hatalı enstantane çekim, nilüfer göletinde nilüfer kökü toplama sahnesi ve karakterler
 
 Yazar：[@ahamme35638](https://x.com/ahamme35638) · [Orijinal gönderi](https://x.com/ahamme35638/status/2100255511228932598)
 
 Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Dikey dörtlü ızgara hatalı enstantane çekim, nilüfer göletinde nilüfer kökü toplama sahnesi ve karakterler
 
 <img src="images/2100255511228932598-1.jpg" alt="Görsel 1" width="480" />
 
@@ -2759,7 +2835,7 @@ Karakter · Yayımlandı
 **İstem**
 
 ```text
-Çeviri sürüyor
+Dikey 2×2 başarısız fotoğraflar, nilüfer göletinde nilüfer kökü toplama sahnesi + karakter
 ```
 
 [↑ Kategorilere dön](#catalog)

@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**124** Prompts · Zuletzt hinzugefügt: **2026-09-16**
+**127** Prompts · Zuletzt hinzugefügt: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -33,15 +33,39 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 
 ## Fotografie
 
-<a name="prompt-2100221410358735319"></a>
+<a name="prompt-2100266849506316292"></a>
 
 ### Übersetzung läuft
+
+Autor：[@ahamme35638](https://x.com/ahamme35638) · [Originalbeitrag](https://x.com/ahamme35638/status/2100266849506316292)
+
+Fotografie · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2100266849506316292-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2100266849506316292-2.jpg" alt="Bild 2" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2100221410358735319"></a>
+
+### Ein realistischer 3x3-Raster-Selfie-Prompt, der zahlreiche verpatzte Amateurfotos nachahmt.
 
 Autor：[@oneruofeng](https://x.com/oneruofeng) · [Originalbeitrag](https://x.com/oneruofeng/status/2100221410358735319)
 
 Fotografie · Porträt / Selfie · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Ein realistischer 3x3-Raster-Selfie-Prompt, der zahlreiche verpatzte Amateurfotos nachahmt.
 
 <img src="images/2100221410358735319-1.jpg" alt="Bild 1" width="480" />
 
@@ -50,7 +74,7 @@ Fotografie · Porträt / Selfie · Veröffentlicht
 **Prompt**
 
 ```text
-Übersetzung läuft
+Zahlreiche verpatzte Amateurfotos, 3x3, 9:16
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -2153,6 +2177,30 @@ Erstelle eine charmante 3D-Miniaturkarte von [COUNTRY] mit klar umrissenen und p
 
 ## Pixel-Art
 
+<a name="prompt-2100265645103612367"></a>
+
+### Übersetzung läuft
+
+Autor：[@nostalGGames](https://x.com/nostalGGames) · [Originalbeitrag](https://x.com/nostalGGames/status/2100265645103612367)
+
+Pixel-Art · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2100265645103612367-1.png" alt="Bild 1" width="480" />
+
+<img src="images/2100265645103612367-2.jpg" alt="Bild 2" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
 <a name="prompt-2097863751471157498"></a>
 
 ### Erstellung eines quadratischen, im 4×4-Raster angeordneten 2D-Pixel-Sprite-Sheets mit insgesamt 16 Frames für eine kontinuierliche Bewegung basierend auf dem Referenzbild, unter Beibehaltung einheitlicher Charakterproportionen und Grundlinien, mit nahtlosen Loop-Animationsanweisungen für Leerlauf, Ausholen, Ausführung und Ausklang.
@@ -2312,7 +2360,7 @@ Verwandeln Sie das Foto in den handgezeichneten Stil eines Reisetagebuchs mit Bu
 
 <a name="prompt-2100241141967081911"></a>
 
-### Übersetzung läuft
+### Fotografie-Prompt für extreme Nahaufnahmen von Nagelkunst im traditionellen chinesischen Stil mit der Ästhetik der Song-Dynastie im Mittelpunkt, der den Fokus auf die erlesene visuelle Gestaltung der Nägel legt.
 
 Autor：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Originalbeitrag](https://x.com/DeepBlueX0/status/2100241141967081911)
 
@@ -2320,7 +2368,7 @@ Fotografie · Tinte / Chinesischer Stil · Veröffentlicht
 
 Originalbeitrag：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Originalbeitrag](https://x.com/DeepBlueX0/status/2100101510634037441)
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Fotografie-Prompt für extreme Nahaufnahmen von Nagelkunst im traditionellen chinesischen Stil mit der Ästhetik der Song-Dynastie im Mittelpunkt, der den Fokus auf die erlesene visuelle Gestaltung der Nägel legt.
 
 <img src="images/2100241141967081911-1.jpg" alt="Bild 1" width="480" />
 
@@ -2335,7 +2383,7 @@ Originalbeitrag：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Originalbeitrag](h
 **Prompt**
 
 ```text
-Übersetzung läuft
+Ästhetik der Song-Dynastie × Extremer Nahaufnahmen-Fokus auf Nagelkunst im Song-Stil × Hauptfokus auf das visuelle Design der Nagelkunst fixiert
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -2345,6 +2393,34 @@ Originalbeitrag：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Originalbeitrag](h
 <a name="category-retro-vintage"></a>
 
 ## Retro / Vintage
+
+<a name="prompt-2100099718605135962"></a>
+
+### Übersetzung läuft
+
+Autor：[@harboriis](https://x.com/harboriis) · [Originalbeitrag](https://x.com/harboriis/status/2100099718605135962)
+
+Plakat / Flyer · Retro / Vintage · Influencer / Model · Modeartikel · Stadtbild / Straße · Text / Typografie · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2100099718605135962-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2100099718605135962-2.jpg" alt="Bild 2" width="480" />
+
+<img src="images/2100099718605135962-3.jpg" alt="Bild 3" width="480" />
+
+<img src="images/2100099718605135962-4.jpg" alt="Bild 4" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2100123233630519438"></a>
 
@@ -2757,13 +2833,13 @@ Ruhig, poetisch, raffiniert, minimalistisch, unschuldig, künstlerisch, nachdenk
 
 <a name="prompt-2100255511228932598"></a>
 
-### Übersetzung läuft
+### Vertikale Vierer-Raster fehlerhafte Schnappschüsse, Lotuswurzelernte im Lotusteich und Personen
 
 Autor：[@ahamme35638](https://x.com/ahamme35638) · [Originalbeitrag](https://x.com/ahamme35638/status/2100255511228932598)
 
 Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Vertikale Vierer-Raster fehlerhafte Schnappschüsse, Lotuswurzelernte im Lotusteich und Personen
 
 <img src="images/2100255511228932598-1.jpg" alt="Bild 1" width="480" />
 
@@ -2774,7 +2850,7 @@ Charakter · Veröffentlicht
 **Prompt**
 
 ```text
-Übersetzung läuft
+Vertikale 2×2 verpatzte Fotos, Szene der Lotuswurzelernte im Lotusteich + Charakter
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**124** Prompts · Adição mais recente: **2026-09-16**
+**127** Prompts · Adição mais recente: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -33,15 +33,39 @@ Adicione uma estrela a este repositório para acompanhar a nossa seleção diár
 
 ## Fotografia
 
-<a name="prompt-2100221410358735319"></a>
+<a name="prompt-2100266849506316292"></a>
 
 ### Tradução em curso
+
+Autor：[@ahamme35638](https://x.com/ahamme35638) · [Publicação original](https://x.com/ahamme35638/status/2100266849506316292)
+
+Fotografia · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2100266849506316292-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2100266849506316292-2.jpg" alt="Imagem 2" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2100221410358735319"></a>
+
+### Um prompt de selfies realista em grelha 3x3 que imita várias fotos falhadas de amadores.
 
 Autor：[@oneruofeng](https://x.com/oneruofeng) · [Publicação original](https://x.com/oneruofeng/status/2100221410358735319)
 
 Fotografia · Retrato / Selfie · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Um prompt de selfies realista em grelha 3x3 que imita várias fotos falhadas de amadores.
 
 <img src="images/2100221410358735319-1.jpg" alt="Imagem 1" width="480" />
 
@@ -50,7 +74,7 @@ Fotografia · Retrato / Selfie · Publicado
 **Prompt**
 
 ```text
-Tradução em curso
+Várias fotos falhadas de amadores, 3x3, 9:16
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -2138,6 +2162,30 @@ Crie um charmoso mapa em miniatura 3D de [COUNTRY] com as fronteiras nacionais c
 
 ## Pixel Art
 
+<a name="prompt-2100265645103612367"></a>
+
+### Tradução em curso
+
+Autor：[@nostalGGames](https://x.com/nostalGGames) · [Publicação original](https://x.com/nostalGGames/status/2100265645103612367)
+
+Pixel Art · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2100265645103612367-1.png" alt="Imagem 1" width="480" />
+
+<img src="images/2100265645103612367-2.jpg" alt="Imagem 2" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
 <a name="prompt-2097863751471157498"></a>
 
 ### Geração de uma folha de sprites em pixel art 2D de ação contínua baseada na imagem de referência, disposta em grelha quadrada de 4×4 com 16 fotogramas no total, mantendo a consistência na proporção do personagem e na linha de base, com instruções de animação em ciclo contínuo contendo espera, preparação, libertação e recuperação.
@@ -2297,7 +2345,7 @@ Converta a fotografia para o estilo de um diário de viagem desenhado à mão co
 
 <a name="prompt-2100241141967081911"></a>
 
-### Tradução em curso
+### Prompt de fotografia em plano de pormenor extremo de nail art no estilo tradicional chinês centrado na estética da dinastia Song, enfatizando a fixação do foco no visual requintado das unhas.
 
 Autor：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicação original](https://x.com/DeepBlueX0/status/2100241141967081911)
 
@@ -2305,7 +2353,7 @@ Fotografia · Tinta / Estilo Chinês · Publicado
 
 Publicação original：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicação original](https://x.com/DeepBlueX0/status/2100101510634037441)
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt de fotografia em plano de pormenor extremo de nail art no estilo tradicional chinês centrado na estética da dinastia Song, enfatizando a fixação do foco no visual requintado das unhas.
 
 <img src="images/2100241141967081911-1.jpg" alt="Imagem 1" width="480" />
 
@@ -2320,7 +2368,7 @@ Publicação original：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicação
 **Prompt**
 
 ```text
-Tradução em curso
+Estética da dinastia Song × Grande plano extremo de nail art no estilo Song × Foco fixado no visual principal da nail art
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -2330,6 +2378,34 @@ Tradução em curso
 <a name="category-retro-vintage"></a>
 
 ## Retrô / Vintage
+
+<a name="prompt-2100099718605135962"></a>
+
+### Tradução em curso
+
+Autor：[@harboriis](https://x.com/harboriis) · [Publicação original](https://x.com/harboriis/status/2100099718605135962)
+
+Pôster / Folheto · Retrô / Vintage · Influenciador(a) / Modelo · Item de Moda · Paisagem urbana / Rua · Texto / Tipografia · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2100099718605135962-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2100099718605135962-2.jpg" alt="Imagem 2" width="480" />
+
+<img src="images/2100099718605135962-3.jpg" alt="Imagem 3" width="480" />
+
+<img src="images/2100099718605135962-4.jpg" alt="Imagem 4" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2100123233630519438"></a>
 
@@ -2742,13 +2818,13 @@ Tranquilo, poético, refinado, minimalista, inocente, artístico, ponderado, sof
 
 <a name="prompt-2100255511228932598"></a>
 
-### Tradução em curso
+### Instantâneos verticais de erros em grelha de quatro, cena de colheita de raízes de lótus em lago de lótus e personagens
 
 Autor：[@ahamme35638](https://x.com/ahamme35638) · [Publicação original](https://x.com/ahamme35638/status/2100255511228932598)
 
 Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Instantâneos verticais de erros em grelha de quatro, cena de colheita de raízes de lótus em lago de lótus e personagens
 
 <img src="images/2100255511228932598-1.jpg" alt="Imagem 1" width="480" />
 
@@ -2759,7 +2835,7 @@ Personagem · Publicado
 **Prompt**
 
 ```text
-Tradução em curso
+Fotos falhadas verticais 2×2, cena de colheita de raízes de lótus num lago de lótus + personagem
 ```
 
 [↑ Voltar às categorias](#catalog)
