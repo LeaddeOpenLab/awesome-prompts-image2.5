@@ -2474,17 +2474,17 @@ Pôster / Folheto · Retrô / Vintage · Influenciador(a) / Modelo · Item de Mo
 **Prompt**
 
 ```text
-Crie um cartaz editorial de moda de viagem vertical 4:5 ultrarrealista inspirado numa capa de revista de rua japonesa vintage.
+Crie um cartaz editorial de moda de viagem vertical 4:5 ultrarrealista, inspirado numa capa de revista de rua japonesa vintage.
 
-Uma jovem mulher posiciona-se em destaque no primeiro plano central, fotografada a partir de um ângulo ligeiramente baixo. Ela tem cabelo escuro apanhado num coque alto desalinhado com madeixas soltas a emoldurar o seu rosto, usando óculos de sol envolventes pretos, futuristas e estreitos, e olhando ligeiramente em direção à câmara com uma expressão confiante e serena. Ela veste um casaco utilitário técnico preto oversized coberto de tiras, fivelas, fechos de correr, bolsos, emblemas estampados, etiquetas realistas e detalhes refletores subtis, combinado com vestuário escuro de estilo tático e uma grande mala utilitária preta. Preserve a textura realista do tecido e as proporções naturais.
+Uma jovem mulher destaca-se no centro em primeiro plano, fotografada de um ângulo ligeiramente baixo. Tem cabelo escuro apanhado num coque alto desalinhado com mechas soltas a emoldurar o rosto, usando óculos de sol envolventes pretos futuristas e estreitos, olhando ligeiramente em direção à câmara com uma expressão confiante e calma. Veste um casaco utilitário técnico preto oversized coberto de tiras, fivelas, fechos de correr, bolsos, emblemas estampados, etiquetas realistas e pormenores refletores subtis, combinado com vestuário escuro de estilo tático e um saco utilitário preto grande. Preserve a textura realista do tecido e as proporções naturais.
 
-O fundo é uma colagem de ruas noturnas de Tóquio, apresentando ruas de néon ensopadas pela chuva, letreiros de lojas japonesas, ruelas urbanas estreitas, a Torre de Tóquio a brilhar à noite e um comboio de Tóquio a chegar a uma estação. Disponha várias fotografias retangulares em redor do sujeito central com diferentes inclinações subtis, criando uma composição editorial de scrapbook artesanal. Use papel envelhecido esbranquiçado como fundo principal com grão de papel subtil, extremidades gastas, dobras, manchas e textura de impressão vintage.
+O fundo é uma colagem de ruas noturnas de Tóquio, com ruas em néon molhadas pela chuva, letreiros de lojas japonesas, ruelas urbanas estreitas, a Torre de Tóquio a brilhar à noite e um comboio de Tóquio a chegar a uma estação. Disponha várias fotografias retangulares em redor do sujeito central em ângulos ligeiramente diferentes, criando uma disposição artesanal de scrapbook editorial. Use papel envelhecido esbranquiçado como fundo principal com grão de papel subtil, bordos desgastados, dobras, manchas e textura de impressão vintage.
 
 No topo, adicione uma enorme tipografia preta a negrito onde se lê:
 
 TOKYO
 
-Abaixo desta, texto serifado mais pequeno e elegante em itálico:
+Por baixo, um texto mais pequeno e elegante em serifa itálica:
 
 FUTURE IS NOW
 
@@ -2492,9 +2492,9 @@ Adicione pequenos blocos de texto editorial tais como:
 
 “Where tradition meets technology, and every street tells a story of tomorrow.”
 
-Inclua símbolos minimalistas de globo, linhas gráficas técnicas, elementos de código de barras, coordenadas, pequenas etiquetas e marcas editoriais futuristas.
+Inclua símbolos minimalistas de globo, linhas gráficas técnicas, elementos de código de barras, coordenadas, pequenas etiquetas e marcações editoriais futuristas.
 
-Use painéis gráficos em vermelho e preto de inspiração japonesa ao longo de toda a composição. Adicione um painel vertical vermelho à direita com tipografia japonesa, um cartão gráfico vermelho no canto inferior esquerdo com grandes carateres japoneses e outro painel fotográfico vermelho no canto inferior direito a mostrar uma silhueta escura da mulher.
+Utilize painéis gráficos a vermelho e preto de inspiração japonesa por toda a composição. Adicione um painel vermelho vertical à direita com tipografia japonesa, um cartão gráfico vermelho no canto inferior esquerdo com grandes caracteres japoneses e outro painel fotográfico vermelho no canto inferior direito a mostrar a silhueta escura da mulher.
 
 Inclua tipografia pequena como:
 
@@ -2505,11 +2505,11 @@ e:
 
 SHIBUYA • SHINJUKU • HARAJUKU • AKIHABARA
 
-Estética geral: revista de streetwear japonesa de gama alta, Tóquio cyberpunk, cartaz de viagem vintage, editorial de moda contemporâneo, colagem de impressão analógica. Paleta de cores em preto suave, carvão, creme, cinzento-escuro e vermelho profundo. Forte realismo fotográfico, iluminação noturna cinematográfica, grão de película subtil, tinta ligeiramente desbotada, textura autêntica de papel, registo de impressão imperfeito, tipografia de revista sofisticada, espaço negativo equilibrado.
+Estética geral: revista de streetwear japonesa de topo, Tóquio cyberpunk, cartaz de viagem vintage, editorial de moda contemporânea, colagem de impressão analógica. Paleta de cores em preto suave, carvão, creme, cinzento-escuro e vermelho profundo. Forte realismo fotográfico, iluminação noturna cinematográfica, grão subtil de película, tinta ligeiramente desbotada, textura de papel autêntica, registo de impressão imperfeito, tipografia sofisticada de revista, espaço negativo equilibrado.
 
-Composição: sujeito central de corpo inteiro, título oversized “TOKYO” a ocupar a secção superior, fotografias de Tóquio em camadas ao seu redor, apontamentos gráficos a vermelho, margem de papel vintage, paginação editorial de topo.
+Composição: sujeito central de corpo inteiro, título “TOKYO” em tamanho gigante a ocupar a secção superior, fotografias sobrepostas de Tóquio à volta do sujeito, apontamentos gráficos a vermelho, margem de papel vintage, disposição editorial de excelência.
 
-Fotorrealista, altamente detalhado, cinematográfico, 8K, pele realista, texturas de vestuário realistas, fotografia de moda profissional, acabamento autêntico de impressão vintage, sem elementos modernos de interface gráfica digital.
+Fotorrealista, altamente detalhado, cinematográfico, 8K, pele realista, texturas de roupa realistas, fotografia de moda profissional, acabamento autêntico de impressão vintage, sem elementos modernos de interface gráfica digital.
 ```
 
 [↑ Voltar às categorias](#catalog)

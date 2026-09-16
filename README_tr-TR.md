@@ -2455,13 +2455,13 @@ Orijinal gönderi：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Orijinal gönder
 
 <a name="prompt-2100099718605135962"></a>
 
-### Eskitilmiş kağıt tipografisine sahip bir şehir kolajı önünde taktiksel moda modelini sergileyen vintage Japon sokak giyimi seyahat posteri istemi.
+### Eskitilmiş kağıt tipografisine sahip kentsel bir kolaj önünde taktiksel moda modeli içeren vintage Japon sokak giyimi seyahat posteri istemi.
 
 Yazar：[@harboriis](https://x.com/harboriis) · [Orijinal gönderi](https://x.com/harboriis/status/2100099718605135962)
 
 Poster / El İlanı · Retro / Vintage · Influencer / Model · Moda Ürünü · Şehir Manzarası / Sokak · Metin / Tipografi · Yayımlandı
 
-**Özet:** Eskitilmiş kağıt tipografisine sahip bir şehir kolajı önünde taktiksel moda modelini sergileyen vintage Japon sokak giyimi seyahat posteri istemi.
+**Özet:** Eskitilmiş kağıt tipografisine sahip kentsel bir kolaj önünde taktiksel moda modeli içeren vintage Japon sokak giyimi seyahat posteri istemi.
 
 <img src="images/2100099718605135962-1.jpg" alt="Görsel 1" width="480" />
 
@@ -2476,15 +2476,15 @@ Poster / El İlanı · Retro / Vintage · Influencer / Model · Moda Ürünü ·
 ```text
 Vintage bir Japon sokak dergisi kapağından ilham alan dikey 4:5 ultra gerçekçi bir editoryal seyahat modası posteri oluşturun.
 
-Genç bir kadın, hafifçe alçak bir açıdan fotoğraflanmış şekilde orta ön planda belirgin bir biçimde duruyor. Yüzünü çerçeveleyen serbest tutamlarla dağınık yüksek bir topuz yapılmış koyu renk saçları var, dar fütüristik siyah saran güneş gözlükleri takıyor ve kameraya doğru kendinden emin, sakin bir ifadeyle hafifçe bakıyor. Gerçekçi kayışlar, tokalar, fermuarlar, cepler, baskılı armalar, etiketler ve zarif yansıtıcı detaylarla kaplı büyük beden (oversized) siyah teknik işlevsel bir ceket giyiyor; bunu koyu renkli taktiksel tarzda kıyafetler ve büyük siyah işlevsel bir çanta ile tamamlıyor. Gerçekçi kumaş dokusunu ve doğal oranları koruyun.
+Ön planda, merkezde hafif alt açıdan fotoğraflanmış genç bir kadın belirgin bir şekilde duruyor. Yüzünü çevreleyen dağınık tutamlara sahip koyu renkli saçları salaş yüksek bir topuz yapılmış, dar fütüristik siyah saran güneş gözlükleri takıyor ve kendine güvenen, sakin bir ifadeyle hafifçe kameraya doğru bakıyor. Gerçekçi kayışlar, tokalar, fermuarlar, cepler, baskılı yamalar, etiketler ve ince yansıtıcı detaylarla kaplı büyük boy siyah teknik bir iş ceketi giyiyor; bunu koyu renkli taktik tarzı kıyafetler ve büyük siyah bir fonksiyonel çanta ile tamamlıyor. Gerçekçi kumaş dokusunu ve doğal oranları koruyun.
 
-Arka plan, yağmurla ıslanmış neon sokakları, Japon dükkan tabelalarını, dar kentsel ara sokakları, geceleri parıldayan Tokyo Kulesi'ni ve bir istasyona yanaşan Tokyo trenini içeren bir Tokyo gece sokak kolajıdır. Merkezi öznenin etrafına hafif farklı açılarda birkaç dikdörtgen fotoğraf yerleştirerek el yapımı editoryal bir albüm (scrapbook) düzeni oluşturun. Ana arka plan olarak hafif kağıt dokusu, yıpranmış kenarlar, katlar, lekeler ve vintage baskı dokusuna sahip kırık beyaz eskitilmiş kağıt kullanın.
+Arka plan, yağmurla ıslanmış neon sokaklar, Japon dükkan tabelaları, dar kentsel ara sokaklar, geceleri parlayan Tokyo Kulesi ve bir istasyona yanaşan bir Tokyo trenini içeren bir Tokyo gece sokak kolajıdır. Merkezi öznenin etrafına hafif farklı açılarda birkaç dikdörtgen fotoğraf yerleştirerek el yapımı editoryal bir albüm (scrapbook) düzeni oluşturun. İnce kağıt dokusu, aşınmış kenarlar, katlar, lekeler ve vintage baskı dokusuna sahip kırık beyaz eskitilmiş kağıdı ana arka plan olarak kullanın.
 
-En üste, şu ifadenin yer aldığı devasa, kalın siyah tipografi ekleyin:
+Üst kısma şu ifadenin yer aldığı devasa kalın siyah tipografi ekleyin:
 
 TOKYO
 
-Altına, daha küçük, zarif, italik serif bir metin:
+Altına daha küçük, zarif italik serifli bir metin:
 
 FUTURE IS NOW
 
@@ -2492,9 +2492,9 @@ FUTURE IS NOW
 
 “Where tradition meets technology, and every street tells a story of tomorrow.”
 
-Minimalist küre sembolleri, teknik grafik çizgiler, barkod ögeleri, koordinatlar, küçük etiketler ve fütüristik editoryal işaretler dahil edin.
+Minimalist küre sembolleri, teknik grafik çizgiler, barkod öğeleri, koordinatlar, küçük etiketler ve fütüristik editoryal işaretler ekleyin.
 
-Kompozisyon boyunca Japon esintili kırmızı ve siyah grafik paneller kullanın. Sağ tarafa Japon tipografisine sahip dikey kırmızı bir panel, sol alta büyük Japonca karakterler içeren kırmızı grafik bir kart ve sağ alta kadının koyu bir silüetini gösteren başka bir kırmızı fotoğrafik panel ekleyin.
+Kompozisyon boyunca Japon esintili kırmızı ve siyah grafik paneller kullanın. Sağ tarafa Japon tipografisine sahip dikey kırmızı bir panel, sol alta büyük Japonca karakterler içeren kırmızı bir grafik kart ve sağ alta kadının koyu bir silüetini gösteren başka bir kırmızı fotoğrafik panel ekleyin.
 
 Şunun gibi küçük tipografiler ekleyin:
 
@@ -2505,11 +2505,11 @@ ve:
 
 SHIBUYA • SHINJUKU • HARAJUKU • AKIHABARA
 
-Genel estetik: üst düzey Japon sokak giyimi dergisi, siberpunk Tokyo, vintage seyahat posteri, çağdaş moda editoryali, analog baskı kolajı. Mat siyah, kömür rengi, krem, koyu gri ve derin kırmızı renk paleti. Güçlü fotoğrafik gerçekçilik, sinematik gece aydınlatması, ince film greni, hafif solmuş mürekkep, otantik kağıt dokusu, kusurlu baskı hizalaması, sofistike dergi tipografisi, dengeli negatif alan.
+Genel estetik: üst düzey Japon sokak modası dergisi, siberpunk Tokyo, vintage seyahat posteri, çağdaş moda editoryali, analog baskı kolajı. Mat siyah, kömür, krem, koyu gri ve koyu kırmızı renk paleti. Güçlü fotoğrafik gerçekçilik, sinematik gece aydınlatması, ince film greni, hafif solmuş mürekkep, otantik kağıt dokusu, kusurlu baskı kayması, sofistike dergi tipografisi, dengeli negatif alan.
 
-Kompozisyon: merkezi tam boy özne, üst bölümü kaplayan büyük boy “TOKYO” başlığı, etrafını saran katmanlı Tokyo fotoğrafları, kırmızı grafik vurgular, vintage kağıt kenarlık, birinci sınıf editoryal mizanpaj.
+Kompozisyon: merkezi tam boy özne, üst bölümü kaplayan büyük boy “TOKYO” başlığı, etrafını saran katmanlı Tokyo fotoğrafları, kırmızı grafik vurgular, vintage kağıt kenarlık, birinci sınıf editoryal düzen.
 
-Fotogerçekçi, son derece detaylı, sinematik, 8K, gerçekçi cilt, gerçekçi kıyafet dokuları, profesyonel moda fotoğrafçılığı, otantik vintage baskı bitişi, modern dijital kullanıcı arayüzü ögeleri yok.
+Fotogerçekçi, son derece ayrıntılı, sinematik, 8K, gerçekçi ten, gerçekçi giysi dokuları, profesyonel moda fotoğrafçılığı, otantik vintage baskı bitişi, modern dijital kullanıcı arayüzü öğeleri yok.
 ```
 
 [↑ Kategorilere dön](#catalog)

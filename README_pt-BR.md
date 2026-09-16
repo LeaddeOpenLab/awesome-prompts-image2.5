@@ -2455,13 +2455,13 @@ Tradução em andamento
 
 <a name="prompt-2100099718605135962"></a>
 
-### Prompt de pôster de viagem de streetwear japonês vintage apresentando uma modelo de moda tática contra uma colagem urbana com tipografia em papel envelhecido.
+### Prompt de pôster de viagem de streetwear japonês vintage com modelo de moda tática contra uma colagem urbana com tipografia em papel envelhecido.
 
 Autor：[@harboriis](https://x.com/harboriis) · [Publicação original](https://x.com/harboriis/status/2100099718605135962)
 
 Pôster / Flyer · Retrô / Vintage · Influenciador(a) / Modelo · Item de Moda · Paisagem Urbana / Rua · Texto / Tipografia · Publicado
 
-**Resumo:** Prompt de pôster de viagem de streetwear japonês vintage apresentando uma modelo de moda tática contra uma colagem urbana com tipografia em papel envelhecido.
+**Resumo:** Prompt de pôster de viagem de streetwear japonês vintage com modelo de moda tática contra uma colagem urbana com tipografia em papel envelhecido.
 
 <img src="images/2100099718605135962-1.jpg" alt="Imagem 1" width="480" />
 
@@ -2474,17 +2474,17 @@ Pôster / Flyer · Retrô / Vintage · Influenciador(a) / Modelo · Item de Moda
 **Prompt**
 
 ```text
-Crie um pôster editorial de moda de viagem vertical 4:5 ultrarrealista inspirado em uma capa de revista de rua japonesa vintage.
+Crie um pôster editorial de moda de viagem vertical 4:5 ultrarrealista, inspirado em uma capa de revista de rua japonesa vintage.
 
-Uma jovem mulher está em destaque no primeiro plano central, fotografada de um ângulo ligeiramente baixo. Ela tem cabelo escuro preso em um coque alto e despojado com mechas soltas emoldurando seu rosto, usando óculos escuros envolventes pretos, futuristas e estreitos, e olhando sutilmente em direção à câmera com uma expressão confiante e calma. Ela veste uma jaqueta utilitária técnica preta oversized coberta com tiras, fivelas, zíperes, bolsos, patches estampados, etiquetas realistas e detalhes refletivos sutis, combinada com roupas escuras de estilo tático e uma grande bolsa utilitária preta. Preserve a textura realista do tecido e as proporções naturais.
+Uma jovem mulher está em destaque no centro em primeiro plano, fotografada de um ângulo ligeiramente baixo. Ela tem cabelo escuro preso em um coque alto despojado com mechas soltas emoldurando seu rosto, usando óculos de sol esportivos pretos futuristas e estreitos, olhando ligeiramente para a câmera com uma expressão confiante e calma. Ela veste uma jaqueta utilitária técnica preta oversized coberta com tiras, fivelas, zíperes, bolsos, patches impressos, etiquetas realistas e detalhes refletivos sutis, combinada com roupas escuras de estilo tático e uma grande bolsa utilitária preta. Preserve a textura realista do tecido e as proporções naturais.
 
-O fundo é uma colagem de ruas noturnas de Tóquio, apresentando ruas de neon encharcadas pela chuva, placas de lojas japonesas, becos urbanos estreitos, a Torre de Tóquio brilhando à noite e um trem de Tóquio chegando a uma estação. Organize várias fotografias retangulares ao redor do tema central em diferentes ângulos suaves, criando um layout editorial de scrapbook feito à mão. Use papel envelhecido off-white como fundo principal com textura sutil de papel, bordas desgastadas, dobras, manchas e textura de impressão vintage.
+O fundo é uma colagem de ruas noturnas de Tóquio, com ruas de neon molhadas pela chuva, placas de lojas japonesas, becos urbanos estreitos, a Torre de Tóquio brilhando à noite e um trem de Tóquio chegando a uma estação. Organize várias fotografias retangulares ao redor do tema central em diferentes ângulos suaves, criando um layout de scrapbook editorial artesanal. Use papel envelhecido esbranquiçado como fundo principal com textura sutil de grão de papel, bordas desgastadas, dobras, manchas e textura de impressão vintage.
 
-Na parte superior, adicione uma enorme tipografia preta em negrito onde se lê:
+No topo, adicione uma enorme tipografia preta em negrito onde se lê:
 
 TOKYO
 
-Abaixo dela, um texto menor e elegante em serifa itálica:
+Abaixo dela, um texto menor e elegante com serifa em itálico:
 
 FUTURE IS NOW
 
@@ -2494,9 +2494,9 @@ Adicione pequenos blocos de texto editorial como:
 
 Inclua símbolos minimalistas de globo, linhas gráficas técnicas, elementos de código de barras, coordenadas, pequenas etiquetas e marcações editoriais futuristas.
 
-Use painéis gráficos em vermelho e preto de inspiração japonesa por toda a composição. Adicione um painel vertical vermelho à direita com tipografia japonesa, um cartão gráfico vermelho no canto inferior esquerdo contendo grandes caracteres japoneses e outro painel fotográfico vermelho no canto inferior direito mostrando uma silhueta escura da mulher.
+Use painéis gráficos em vermelho e preto de inspiração japonesa por toda a composição. Adicione um painel vermelho vertical à direita com tipografia japonesa, um cartão gráfico vermelho no canto inferior esquerdo contendo grandes caracteres japoneses e outro painel fotográfico vermelho no canto inferior direito mostrando uma silhueta escura da mulher.
 
-Inclua tipografia pequena como:
+Inclua pequenas tipografias como:
 
 35.6895° N
 139.6917° E
@@ -2505,11 +2505,11 @@ e:
 
 SHIBUYA • SHINJUKU • HARAJUKU • AKIHABARA
 
-Estética geral: revista de streetwear japonesa de alto padrão, Tóquio cyberpunk, pôster de viagem vintage, editorial de moda contemporâneo, colagem de impressão analógica. Paleta de cores em preto suavizado, carvão, creme, cinza escuro e vermelho profundo. Forte realismo fotográfico, iluminação noturna cinematográfica, granulação sutil de filme, tinta ligeiramente desbotada, textura autêntica de papel, registro de impressão imperfeito, tipografia sofisticada de revista, espaço negativo equilibrado.
+Estética geral: revista de streetwear japonesa de alto padrão, Tóquio cyberpunk, pôster de viagem vintage, editorial de moda contemporâneo, colagem de impressão analógica. Paleta de cores em preto suave, carvão, creme, cinza escuro e vermelho profundo. Forte realismo fotográfico, iluminação noturna cinematográfica, granulação sutil de filme, tinta ligeiramente desbotada, textura autêntica de papel, registro de impressão imperfeito, tipografia sofisticada de revista, espaço negativo equilibrado.
 
 Composição: sujeito central de corpo inteiro, manchete oversized “TOKYO” ocupando a seção superior, fotografias de Tóquio em camadas ao redor dela, detalhes gráficos em vermelho, borda de papel vintage, layout editorial premium.
 
-Fotorrealista, altamente detalhado, cinematográfico, 8K, pele realista, texturas realistas de roupas, fotografia profissional de moda, acabamento autêntico de impressão vintage, sem elementos de interface de usuário digital moderna.
+Fotorrealista, altamente detalhado, cinematográfico, 8K, pele realista, texturas de roupas realistas, fotografia de moda profissional, acabamento autêntico de impressão vintage, sem elementos modernos de interface de usuário digital.
 ```
 
 [↑ Voltar às categorias](#catalog)
