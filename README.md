@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**119** Prompts · Latest addition: **2026-09-16**
+**120** Prompts · Latest addition: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -584,6 +584,28 @@ Photography · Landscape / Nature · Published
 
 ```text
 Photo of a clearing in the woods with lots of green foliage, highly detailed
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2100064633839030572"></a>
+
+### Structured prompt for generating a portrait photograph of a black-haired woman sitting on a white chair.
+
+Author：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Source](https://x.com/CyberTotal2026/status/2100064633839030572)
+
+Photography · Portrait / Selfie · Character · Published
+
+**Summary:** Structured prompt for generating a portrait photograph of a black-haired woman sitting on a white chair.
+
+<img src="images/2100064633839030572-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Subject: Black Hair on a White Chair Main Subject: In the center of the frame, a young woman sits on a white wooden armchair with both knees pulled up toward her chest. A tranquil room interior with a small table covered in a lace cloth and a small potted plant on the left, and a white chest of drawers, a vase with white and light pink flowers, and a framed photo in the background to the right. Person and Expression: Glossy black bob hair ending at chin length with the tips flicking outward, heavy straight-cut bangs sitting just above the eyes, slightly elongated dark brown eyes, subtle eyeliner, pale rose cheeks, and moisturized pink lips. Her face is directed forward and tilted slightly to the right, looking at the camera with a calm, serene expression. Clothing and Pose: A gray ribbed camisole top with thin black shoulder straps and trim, small black buttons down the chest, black strappy bottoms, a white long-sleeve shirt draped loosely from shoulders to arms, and black thin-strap heels. Her knees are stacked and raised high, with her left hand resting on the top knee. Background and Light: A light-toned bedroom-like space featuring white and gray furniture, soft textiles, and flowers. Soft daytime natural light enters diagonally from a window on the left, brightly illuminating her face and legs while casting soft shadows to the right. The background flowers and furniture are softly blurred. Composition and Camera: 3:4 vertical composition, capturing the entire body along with the chair from an angle slightly higher than eye level. The subject is placed prominently in the center, with both knees forming the primary foreground shape, keeping both chair armrests and the tips of her feet within the frame. Sharp focus on the eyes and face, with a shallow depth of field in the background. Texture and Style: Photorealistic live-action photograph. Rendered in high definition depicting the sheen of black hair, natural skin texture, ribbed fabric, fine wrinkles of the white shirt, painted surface of the chair, and the cushion, set in a tranquil, muted gray color tone. Negative: Alterations to hairstyle and the knee-hugging seated pose; fully wearing the white shirt.
 ```
 
 [↑ Back to categories](#catalog)
