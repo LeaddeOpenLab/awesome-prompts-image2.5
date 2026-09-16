@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-16T08:44:03.062Z",
+  "model": "image2.5",
+  "prompt": "素人の失敗写真の数々、3x3、9:16",
+  "promptTranslations": {
+    "en": "A series of amateur failed photos, 3x3, 9:16"
+  },
+  "summaryTranslations": {
+    "en": "Generate a 3x3 nine-grid collection of amateur candid failed photos"
+  },
+  "translationVersion": 2,
+  "summary": "生成3x3九宫格素人抓拍失败照片合集",
+  "summaryEn": "Generate a 3x3 grid of amateur candid failed photos",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2097878193013199231",
+      "canonicalUrl": "https://x.com/AI_jacksaku/status/2097878193013199231",
+      "author": {
+        "username": "AI_jacksaku",
+        "displayName": "阿川 | AI thinking",
+        "profileUrl": "https://x.com/AI_jacksaku"
+      },
+      "originalText": "GPT Image 2.5 新版本上线后一下子成为很多创作者的关注重点。关键的是GPT Image 2.5还有两个分支，不少人纠结日常内容创作配图该选哪款模型，\n\n我昨天直接用 Zenmux 的 PK 对比功能，用完全相同的提示词（其实只需要一句话就够了），同时运行 2.5 Flare 和 2.5 Sunburst 生成我的个人IP九宫格，用同一案例直观对比两者真实出图水准。\n\n同一套Q版人物创作指令下，两款模型的优劣特点非常直观。Flare 的核心优势是出图速度更快，整套九宫格生成耗时更短，出图效率大幅领先。\n\n同时它的人物比例结构标准、构图规整，画面干净不杂乱，Q版人物不会出现肢体畸形、构图错乱的问题，稳定性极强，Flare适合追求高效、稳定出图的日常创作场景。\n\n反观 Sunburst，牺牲了部分生成速度，换来的是更鲜明细腻的画面细节。同样的Q版九宫格主题，它的人物五官更精致、线条流畅利落，色彩渐变层次丰富，光影氛围感更足，服饰纹理、配饰细节、画面质感都远超同参数下的Flare，整体画风更精致、更有艺术感，Sunburst高度适配高品质Q版插画、卡通人设、创意美图创作。\n\n这次实测全程依托 Zenmux 核心的PK功能完成，无需反复复制提示词、切换模型、多次生成，一键并行运行双模型任务，直接同步产出两组完整Q版九宫格图集，横向对比一目了然，完美解决了传统单模型测试繁琐、对比不直观的痛点，测评和创作效率直接翻倍。\n\n整体实测下来体验极佳，Zenmux的双模型PK实测功能，对需要做配图的自媒体创作者来说非常实用。顺带分享平台限时充值福利，性价比拉满：\n✅ 充 $50 得 $70（赠送 $20）\n✅ 充 $100 得 $150（赠送 $50）\n\n活动仅7天，所有账号仅限兑换一次，想要亲自对比两款模型的出图差距、还可以高效体验GPT6 Astra全新能力的朋友，可以考虑一下zenmux👇\nhttps://t.co/igKUqasrsy"
+    },
+    "id": "2100102387323076955",
+    "canonicalUrl": "https://x.com/AI_jacksaku/status/2100102387323076955",
+    "author": {
+      "username": "AI_jacksaku",
+      "displayName": "阿川 | AI thinking",
+      "profileUrl": "https://x.com/AI_jacksaku"
+    },
+    "publishedAt": "2026-09-16T06:00:01.000Z",
+    "collectedAt": "2026-09-16T08:24:57.587Z",
+    "language": "ja",
+    "originalText": "GPT image2.5这个提示词太棒了！再也不用担心女朋友凑不够九宫格照片了\n提示词还贼简单，所有女生！冲它👇\n“素人の失敗写真の数々、3x3、9:16” https://t.co/1Y5lMTlsJg",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSUF0p2aUAAOdQf.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSUF0p2aUAAOdQf.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR0oJz1bUAAa6NP.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR0oJz1bUAAa6NP.jpg",
+        "sourcePostId": "2097878193013199231"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 473
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]",
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/AI_jacksaku/status/2100102387323076955",
+  "coverUrl": "https://pbs.twimg.com/media/HSUF0p2aUAAOdQf.jpg",
+  "coverPath": "images/2100102387323076955-1.jpg",
+  "imagePaths": [
+    "images/2100102387323076955-1.jpg",
+    "images/2100102387323076955-2.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSUF0p2aUAAOdQf",
+    "x-image:/media/HR0oJz1bUAAa6NP",
+    "x-post:2100102387323076955",
+    "x-post:2097878193013199231"
+  ],
+  "analysis": {
+    "summary": "生成3x3九宫格素人抓拍失败照片合集",
+    "summaryEn": "Generate a 3x3 grid of amateur candid failed photos",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "生成图严格遵循提示词，呈现出3x3九宫格、9:16画幅的多种生动抓拍失误瞬间。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "素人の失敗写真の数々、3x3、9:16",
+    "sourceRange": {
+      "start": 58,
+      "end": 77
+    },
+    "translations": {
+      "zh": "素人的各种失败照片，3x3，9:16",
+      "en": "Numerous amateur failed photos, 3x3, 9:16"
+    },
+    "targetModels": [
+      "image2.5"
+    ],
+    "category": "text-to-image",
+    "useCase": "九宫格失败抓拍日常照",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}

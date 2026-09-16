@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-16T08:43:42.749Z",
+  "model": "image2.5",
+  "prompt": "画像から最も特徴的な被写体、輪郭、ポーズ、物語的な関係性を抽出し、それらを軽やかで素朴、レトロな手描きのエディトリアルイラストレーションへと再構築します。細部の機械的な複製を避け、イラストは一般化された形状、適度に誇張されたプロポーション、象徴的な特徴、そしてユーモラスな視覚的メタファーを通して再解釈され、同時にオリジナルの特徴的な表現を維持しています。これらのイラストは、モダニズムのエディトリアルイラストレーション、バウハウスのグラフィックデザイン、児童向け絵本、素朴派美術、そして流行のスケッチ技法を融合させたものです。フォルムは簡潔で、輪郭線は手描きならではのミスを反映してやや曖昧な印象を与え、特定の要素は適切に拡大することで、物語性、スタイル、そして遊び心のあるイメージを生み出しています。",
+  "promptTranslations": {
+    "en": "Extract the most distinctive subjects, contours, poses, and narrative relationships from the image, and reconstruct them into a lighthearted, naive, retro hand-drawn editorial illustration. Avoiding mechanical replication of details, the illustration is reinterpreted through generalized shapes, moderately exaggerated proportions, iconic features, and humorous visual metaphors, while maintaining the original's characteristic expression. These illustrations blend modernist editorial illustration, Bauhaus graphic design, children's picture books, naive art, and trendy sketching techniques. The forms are concise, the outlines give a slightly ambiguous impression reflecting the unique imperfections of hand-drawing, and specific elements are appropriately enlarged to create a narrative, stylish, and playful image."
+  },
+  "summaryTranslations": {
+    "en": "A style transformation prompt that extracts image features and reconstructs them into a lighthearted, retro hand-drawn editorial illustration inspired by modernism, Bauhaus, and picture books."
+  },
+  "translationVersion": 2,
+  "summary": "画像の特徴を抽出し、モダニズムやバウハウス、絵本風の軽やかでレトロな手描きエディトリアルイラストへと再構築するスタイル変換プロンプト。",
+  "summaryEn": "A style transfer prompt that extracts key features from an image and reconstructs it into a light, retro hand-drawn editorial illustration influenced by modernism, Bauhaus, and picture books.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2100054565727113316",
+      "canonicalUrl": "https://x.com/huku_ken_ai/status/2100054565727113316",
+      "author": {
+        "username": "huku_ken_ai",
+        "displayName": "服装研究",
+        "profileUrl": "https://x.com/huku_ken_ai"
+      },
+      "originalText": "cargo skirt のちょっとがっしりした感じとblouseの組み合わせが可愛い。bow tieは最近使いがちワードです。\n\n服装部分のプロンプト\nlayered outfit, short sleeve tired ruffle white blouse, bow tie, olive green cargo skirt,  bucket hat, mini bag, socks, sneakers\n\n#AIイラスト https://t.co/etYsTqjIii"
+    },
+    "id": "2100123233630519438",
+    "canonicalUrl": "https://x.com/bantya_otime/status/2100123233630519438",
+    "author": {
+      "username": "bantya_otime",
+      "displayName": "番茶（ご隠居提督）",
+      "profileUrl": "https://x.com/bantya_otime"
+    },
+    "publishedAt": "2026-09-16T07:22:51.000Z",
+    "collectedAt": "2026-09-16T08:24:57.587Z",
+    "language": "ja",
+    "originalText": "服装研究さんのコーデを借りて、今日のコーデを自慢するJC（手書き風AIイラスト）image2.5になって修正が素直に通り易くなって嬉しい　　手書き変換は「画像から最も特徴的な被写体、輪郭、ポーズ、物語的な関係性を抽出し、それらを軽やかで素朴、レトロな手描きのエディトリアルイラストレーションへと再構築します。細部の機械的な複製を避け、イラストは一般化された形状、適度に誇張されたプロポーション、象徴的な特徴、そしてユーモラスな視覚的メタファーを通して再解釈され、同時にオリジナルの特徴的な表現を維持しています。これらのイラストは、モダニズムのエディトリアルイラストレーション、バウハウスのグラフィックデザイン、児童向け絵本、素朴派美術、そして流行のスケッチ技法を融合させたものです。フォルムは簡潔で、輪郭線は手描きならではのミスを反映してやや曖昧な印象を与え、特定の要素は適切に拡大することで、物語性、スタイル、そして遊び心のあるイメージを生み出しています。」にて実施\n　#AIArtworksgirls",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSUcVgbbYAA61Oq.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSUcVgbbYAA61Oq.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSAHRMNbIAA83-z.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSAHRMNbIAA83-z.jpg",
+        "sourcePostId": "2100054565727113316"
+      }
+    ],
+    "metrics": {
+      "likeCount": 3,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 198
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/bantya_otime/status/2100123233630519438",
+  "coverUrl": "https://pbs.twimg.com/media/HSUcVgbbYAA61Oq.jpg",
+  "coverPath": "images/2100123233630519438-1.jpg",
+  "imagePaths": [
+    "images/2100123233630519438-1.jpg",
+    "images/2100123233630519438-2.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSUcVgbbYAA61Oq",
+    "x-image:/media/HSAHRMNbIAA83-z",
+    "x-post:2100123233630519438",
+    "x-post:2100054565727113316"
+  ],
+  "analysis": {
+    "summary": "画像の特徴を抽出し、モダニズムやバウハウス、絵本風の軽やかでレトロな手描きエディトリアルイラストへと再構築するスタイル変換プロンプト。",
+    "summaryEn": "A style transfer prompt that extracts key features from an image and reconstructs it into a light, retro hand-drawn editorial illustration influenced by modernism, Bauhaus, and picture books.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "生成された画像は雑誌の手描きエディトリアル風コラージュデザインとなっており、プロンプトで指定されたレトロな手描き感、適度に誇張されたプロポーション、簡潔なフォルムと完全に一致しています。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "画像から最も特徴的な被写体、輪郭、ポーズ、物語的な関係性を抽出し、それらを軽やかで素朴、レトロな手描きのエディトリアルイラストレーションへと再構築します。細部の機械的な複製を避け、イラストは一般化された形状、適度に誇張されたプロポーション、象徴的な特徴、そしてユーモラスな視覚的メタファーを通して再解釈され、同時にオリジナルの特徴的な表現を維持しています。これらのイラストは、モダニズムのエディトリアルイラストレーション、バウハウスのグラフィックデザイン、児童向け絵本、素朴派美術、そして流行のスケッチ技法を融合させたものです。フォルムは簡潔で、輪郭線は手描きならではのミスを反映してやや曖昧な印象を与え、特定の要素は適切に拡大することで、物語性、スタイル、そして遊び心のあるイメージを生み出しています。",
+    "sourceRange": {
+      "start": 77,
+      "end": 429
+    },
+    "translations": {
+      "zh": "从图像中提取最具特征的主体、轮廓、姿态以及叙事关系，将其重构成轻快、朴素且具有复古手绘感的编辑插画风格。避免对细节进行机械式复制，插画通过概括的形状、适度夸张的比例、象征性的特征和幽默的视觉隐喻进行重新诠释，同时保留原作的特色表现。这些插画融合了现代主义编辑插画、包豪斯平面设计、儿童绘本、素朴派艺术以及流行的速写技法。形体简练，轮廓线带有手绘特有的随机模糊感，并适度放大特定元素，营造出富有故事性、风格感且充满童趣玩味的画面。",
+      "en": "Extract the most characteristic subjects, contours, poses, and narrative relationships from the image, reconstructing them into a light, rustic, retro hand-drawn editorial illustration. Avoiding mechanical duplication of details, the illustration is reinterpreted through generalized shapes, moderately exaggerated proportions, iconic features, and humorous visual metaphors while preserving the distinctive expressions of the original. These illustrations blend modernist editorial illustration, Bauhaus graphic design, children's picture books, naïve art, and trendy sketching techniques. The forms are concise, the outlines convey a slightly ambiguous impression reflecting hand-drawn nuances, and specific elements are appropriately scaled to produce a narrative, stylish, and playful image."
+    },
+    "targetModels": [
+      "image2.5"
+    ],
+    "category": "text-to-image",
+    "useCase": "手描き風エディトリアルイラストレーションへのスタイル変換・画像再構築",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.88,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}

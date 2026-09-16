@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-16T08:42:53.724Z",
+  "model": "image2.5",
+  "prompt": "素人の失敗写真の数々、3x3、9:16",
+  "promptTranslations": {
+    "en": "A collection of amateur failed photos, 3x3, 9:16"
+  },
+  "summaryTranslations": {
+    "en": "A 3x3 grid image collecting amateur everyday failed snapshot photos."
+  },
+  "translationVersion": 2,
+  "summary": "素人の日常的な失敗スナップ写真を集めた3x3グリッド画像。",
+  "summaryEn": "A 3x3 collage of amateur failed candid snapshot photos.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2100086793995706689",
+      "canonicalUrl": "https://x.com/KinGao476942/status/2100086793995706689",
+      "author": {
+        "username": "KinGao476942",
+        "displayName": "Kin",
+        "profileUrl": "https://x.com/KinGao476942"
+      },
+      "originalText": "拿我的大豆包帮大家试过了，生图的提示词确实非常稳定，真实感和活人感很强：素人の失敗写真の数々、3x3、9:16 https://t.co/6V88TUvUEI"
+    },
+    "id": "2100101909634036032",
+    "canonicalUrl": "https://x.com/cnyzgkc/status/2100101909634036032",
+    "author": {
+      "username": "cnyzgkc",
+      "displayName": "木马人",
+      "profileUrl": "https://x.com/cnyzgkc"
+    },
+    "publishedAt": "2026-09-16T05:58:07.000Z",
+    "collectedAt": "2026-09-16T08:24:57.587Z",
+    "language": "ja",
+    "originalText": "这发到小红书必火！\n\nGPT Image2.5 直出：素人の失敗写真の数々、3x3、9:16 https://t.co/lMUtwO93Fe",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSUPaspawAAS63v.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSUPaspawAAS63v.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSUBn8GagAAzhNR.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSUBn8GagAAzhNR.jpg",
+        "sourcePostId": "2100086793995706689"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSUBn8BasAAK3ny.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSUBn8BasAAK3ny.jpg",
+        "sourcePostId": "2100086793995706689"
+      }
+    ],
+    "metrics": {
+      "likeCount": 49,
+      "repostCount": 2,
+      "replyCount": 14,
+      "quoteCount": 3,
+      "viewCount": 9574
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]",
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/cnyzgkc/status/2100101909634036032",
+  "coverUrl": "https://pbs.twimg.com/media/HSUPaspawAAS63v.jpg",
+  "coverPath": "images/2100101909634036032-1.jpg",
+  "imagePaths": [
+    "images/2100101909634036032-1.jpg",
+    "images/2100101909634036032-2.jpg",
+    "images/2100101909634036032-3.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSUPaspawAAS63v",
+    "x-image:/media/HSUBn8GagAAzhNR",
+    "x-image:/media/HSUBn8BasAAK3ny",
+    "x-post:2100101909634036032",
+    "x-post:2100086793995706689"
+  ],
+  "analysis": {
+    "summary": "素人の日常的な失敗スナップ写真を集めた3x3グリッド画像。",
+    "summaryEn": "A 3x3 collage of amateur failed candid snapshot photos.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Generated images match the requested 3x3 grid layout with realistic amateur snapshot flaws such as motion blur, awkward angles, and finger obstruction."
+    },
+    "videoQuality": null,
+    "originalPrompt": "素人の失敗写真の数々、3x3、9:16",
+    "sourceRange": {
+      "start": 27,
+      "end": 46
+    },
+    "translations": {
+      "zh": "业余爱好者的各种失败抓拍照、3x3宫格、9:16",
+      "en": "A series of amateur failed photos, 3x3 grid, 9:16 aspect ratio"
+    },
+    "targetModels": [
+      "image2.5"
+    ],
+    "category": "text-to-image",
+    "useCase": "realistic casual selfie collage",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
