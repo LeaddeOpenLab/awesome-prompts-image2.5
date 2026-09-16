@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-16T05:22:05.815Z",
+  "model": "image2",
+  "prompt": "主題：\n海辺カフェの陽射し\n\n主体：\n画面中央、海に面した素朴な木造カフェのテラスで若い女性が前景の木製ベンチへ両手をつき、上体をカメラへ近づける。画面左奥に輝く青い海と砂浜、頭上に竹葺きの屋根と籐の照明、画面右奥に木のカウンターと椅子がある。\n\n人物・表情：\n胸下までの明るいブラウンの髪を右肩へ流し、目に触れる薄い前髪、大きな明るい茶色の瞳、長い睫毛、淡いピーチ色の頬、厚みのある艶やかなピンクの唇。顔を少し左へ傾け、右肩を上げながらカメラを見つめる柔らかな表情。\n\n服装・ポーズ：\n生成り色の細肩紐リブニットトップは前ボタンで、左側の胸元から裾が開いた非対称な形。生成り色の短いドローストリングパンツを合わせる。腰を後ろへ引きながら上体を前へ傾け、両腕をまっすぐ下へ伸ばしてベンチにつく。\n\n背景・光：\n背景は画面右の濃い木の家具と白い塗り壁、画面左の南国植物と青い海が連なる海辺カフェ。左後方の海側を主光源に硬い真昼の自然光が差し、髪と肩に明るい縁光、顔には柔らかな反射光、床にくっきりした影を作る。\n\n構図・カメラ：\n3:4の縦構図、胸の高さに近い広角寄りのカメラで頭頂から腿までの上半身を大きく収める。人物を中央に置き、左奥の海と右奥のカフェを対角線状に残し、両手は画面下端で裁切する。顔に鋭いピント、背景は中程度の被写界深度。\n\n質感・スタイル：\nフォトリアルな実写写真。潮風で動く細い髪、日差しを受ける肌、生成りのリブ編み、古い木の質感、海面の強い反射を精細にし、青と暖色の鮮やかな夏の色調にする。\n\nネガティブ：\n海のない室内への変更；前開き生成りトップと前傾姿勢の変更",
+  "promptTranslations": {
+    "en": "Theme:\nSunlight at a Seaside Cafe\n\nSubject:\nIn the center of the frame, on the terrace of a rustic wooden cafe facing the sea, a young woman rests both hands on a foreground wooden bench, leaning her upper body closer toward the camera. In the distant left of the frame are the glittering blue sea and sandy beach, overhead is a bamboo thatched roof and rattan lighting, and in the distant right of the frame are a wooden counter and chairs.\n\nPerson / Expression:\nLight brown hair reaching below her chest swept over her right shoulder, thin bangs touching her eyes, large bright brown eyes, long eyelashes, soft peach cheeks, and full, glossy pink lips. Her face is slightly tilted to the left, raising her right shoulder while looking at the camera with a soft expression.\n\nAttire / Pose:\nAn ecru fine-strapped ribbed knit top with front buttons and an asymmetrical silhouette open from the left side of the chest down to the hem. Paired with short ecru drawstring shorts. Pulling her hips back while leaning her upper body forward, both arms extended straight down resting on the bench.\n\nBackground / Lighting:\nThe background features a seaside cafe with dark wooden furniture and white plastered walls on the right side of the frame, and tropical plants alongside the blue sea on the left side of the frame. Hard midday natural light shines in from the ocean side at the rear left as the main light source, creating bright rim light on her hair and shoulders, soft reflected light on her face, and sharp shadows on the floor.\n\nComposition / Camera:\nA 3:4 vertical composition, captured near chest height with a moderately wide-angle camera, framing a large portion of her upper body from the top of the head to the thighs. The subject is placed in the center, retaining the sea in the distant left and the cafe in the distant right along a diagonal, with both hands cropped at the bottom edge of the frame. Sharp focus on the face, with a medium depth of field for the background.\n\nTexture / Style:\nPhotorealistic live-action photograph. Fine hair swaying in the sea breeze, sunlit skin, ecru rib knit, aged wood texture, and intense reflections on the sea surface are finely detailed, rendered in vibrant summer color tones combining blues and warm hues.\n\nNegative:\nChanges to an indoor setting without the sea; changes to the front-opening ecru top and forward-leaning pose"
+  },
+  "summaryTranslations": {
+    "en": "Realistic portrait photo prompt of a young woman leaning forward on the terrace of a seaside cafe."
+  },
+  "translationVersion": 2,
+  "summary": "海辺カフェのテラスで前傾姿勢をとる若い女性のリアルなポートレート写真プロンプト。",
+  "summaryEn": "Photorealistic prompt of a young woman leaning forward on a terrace bench at a sunny seaside cafe.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100088791751135719",
+    "canonicalUrl": "https://x.com/CyberTotal2026/status/2100088791751135719",
+    "author": {
+      "username": "CyberTotal2026",
+      "displayName": "Prompt アトリエ｜AI画像プロンプト",
+      "profileUrl": "https://x.com/CyberTotal2026"
+    },
+    "publishedAt": "2026-09-16T05:06:00.000Z",
+    "collectedAt": "2026-09-16T05:18:53.564Z",
+    "language": "ja",
+    "originalText": "潮風ときらめく海を背に、夏の光をそのまま抱きしめる午後🌊☀️🤍\n\n#AIart #AI写真 #海辺カフェ\n\n【GPT Image2プロンプト】\n\n主題：\n海辺カフェの陽射し\n\n主体：\n画面中央、海に面した素朴な木造カフェのテラスで若い女性が前景の木製ベンチへ両手をつき、上体をカメラへ近づける。画面左奥に輝く青い海と砂浜、頭上に竹葺きの屋根と籐の照明、画面右奥に木のカウンターと椅子がある。\n\n人物・表情：\n胸下までの明るいブラウンの髪を右肩へ流し、目に触れる薄い前髪、大きな明るい茶色の瞳、長い睫毛、淡いピーチ色の頬、厚みのある艶やかなピンクの唇。顔を少し左へ傾け、右肩を上げながらカメラを見つめる柔らかな表情。\n\n服装・ポーズ：\n生成り色の細肩紐リブニットトップは前ボタンで、左側の胸元から裾が開いた非対称な形。生成り色の短いドローストリングパンツを合わせる。腰を後ろへ引きながら上体を前へ傾け、両腕をまっすぐ下へ伸ばしてベンチにつく。\n\n背景・光：\n背景は画面右の濃い木の家具と白い塗り壁、画面左の南国植物と青い海が連なる海辺カフェ。左後方の海側を主光源に硬い真昼の自然光が差し、髪と肩に明るい縁光、顔には柔らかな反射光、床にくっきりした影を作る。\n\n構図・カメラ：\n3:4の縦構図、胸の高さに近い広角寄りのカメラで頭頂から腿までの上半身を大きく収める。人物を中央に置き、左奥の海と右奥のカフェを対角線状に残し、両手は画面下端で裁切する。顔に鋭いピント、背景は中程度の被写界深度。\n\n質感・スタイル：\nフォトリアルな実写写真。潮風で動く細い髪、日差しを受ける肌、生成りのリブ編み、古い木の質感、海面の強い反射を精細にし、青と暖色の鮮やかな夏の色調にする。\n\nネガティブ：\n海のない室内への変更；前開き生成りトップと前傾姿勢の変更",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSBvHmra0AEpnmM.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSBvHmra0AEpnmM.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 9,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 212
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/CyberTotal2026/status/2100088791751135719",
+  "coverUrl": "https://pbs.twimg.com/media/HSBvHmra0AEpnmM.jpg",
+  "coverPath": "images/2100088791751135719-1.jpg",
+  "imagePaths": [
+    "images/2100088791751135719-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSBvHmra0AEpnmM",
+    "x-post:2100088791751135719"
+  ],
+  "analysis": {
+    "summary": "海辺カフェのテラスで前傾姿勢をとる若い女性のリアルなポートレート写真プロンプト。",
+    "summaryEn": "Photorealistic prompt of a young woman leaning forward on a terrace bench at a sunny seaside cafe.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "生成画像はプロンプトで指定された生成りのリブニット衣装、前傾姿勢、海辺カフェのテラスの背景、自然光の表現と精密に一致しています。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "主題：\n海辺カフェの陽射し\n\n主体：\n画面中央、海に面した素朴な木造カフェのテラスで若い女性が前景の木製ベンチへ両手をつき、上体をカメラへ近づける。画面左奥に輝く青い海と砂浜、頭上に竹葺きの屋根と籐の照明、画面右奥に木のカウンターと椅子がある。\n\n人物・表情：\n胸下までの明るいブラウンの髪を右肩へ流し、目に触れる薄い前髪、大きな明るい茶色の瞳、長い睫毛、淡いピーチ色の頬、厚みのある艶やかなピンクの唇。顔を少し左へ傾け、右肩を上げながらカメラを見つめる柔らかな表情。\n\n服装・ポーズ：\n生成り色の細肩紐リブニットトップは前ボタンで、左側の胸元から裾が開いた非対称な形。生成り色の短いドローストリングパンツを合わせる。腰を後ろへ引きながら上体を前へ傾け、両腕をまっすぐ下へ伸ばしてベンチにつく。\n\n背景・光：\n背景は画面右の濃い木の家具と白い塗り壁、画面左の南国植物と青い海が連なる海辺カフェ。左後方の海側を主光源に硬い真昼の自然光が差し、髪と肩に明るい縁光、顔には柔らかな反射光、床にくっきりした影を作る。\n\n構図・カメラ：\n3:4の縦構図、胸の高さに近い広角寄りのカメラで頭頂から腿までの上半身を大きく収める。人物を中央に置き、左奥の海と右奥のカフェを対角線状に残し、両手は画面下端で裁切する。顔に鋭いピント、背景は中程度の被写界深度。\n\n質感・スタイル：\nフォトリアルな実写写真。潮風で動く細い髪、日差しを受ける肌、生成りのリブ編み、古い木の質感、海面の強い反射を精細にし、青と暖色の鮮やかな夏の色調にする。\n\nネガティブ：\n海のない室内への変更；前開き生成りトップと前傾姿勢の変更",
+    "sourceRange": {
+      "start": 73,
+      "end": 767
+    },
+    "translations": {
+      "zh": "主题：海滨咖啡厅的阳光。主体：画面中央，在面向大海的质朴木造咖啡厅露台上，年轻女性双手撑在前景木凳上，上身探向镜头。人物、服装与构图均经过详尽写实设定。",
+      "en": "Theme: Seaside cafe sunlight. Subject: A young woman leans forward on a wooden bench at an open seaside cafe terrace under bright daylight, wearing a cream ribbed knit top."
+    },
+    "targetModels": [
+      "image2"
+    ],
+    "category": "text-to-image",
+    "useCase": "AI photography",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [
+        "revealing clothing"
+      ],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
