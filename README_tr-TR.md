@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**118** Prompt · Son eklenen: **2026-09-16**
+**119** Prompt · Son eklenen: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -1528,6 +1528,30 @@ Gözleri kapalı ve başı dingin bir ifadeyle geriye eğilmiş, dağınık siya
 <a name="category-cinematic-film-still"></a>
 
 ## Sinematik / Film Karesi
+
+<a name="prompt-2100038053498917288"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@AIVideoHub\_](https://x.com/AIVideoHub_) · [Orijinal gönderi](https://x.com/AIVideoHub_/status/2100038053498917288)
+
+Sinematik / Film Karesi · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2100038053498917288-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2100038053498917288-2.jpg" alt="Görsel 2" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2098362443042803749"></a>
 

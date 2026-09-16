@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**118** Prompts · Última adição: **2026-09-16**
+**119** Prompts · Última adição: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -1528,6 +1528,30 @@ Retrato em alta resolução de um homem do sul da Ásia de 23 anos com os olhos 
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematográfico / Imagem de Filme
+
+<a name="prompt-2100038053498917288"></a>
+
+### Tradução em andamento
+
+Autor：[@AIVideoHub\_](https://x.com/AIVideoHub_) · [Publicação original](https://x.com/AIVideoHub_/status/2100038053498917288)
+
+Cinematográfico / Imagem de Filme · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2100038053498917288-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2100038053498917288-2.jpg" alt="Imagem 2" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2098362443042803749"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**118** Prompts · Latest addition: **2026-09-16**
+**119** Prompts · Latest addition: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -1861,6 +1861,54 @@ High-resolution portrait of a 23-year-old South Asian man with eyes closed and h
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2100038053498917288"></a>
+
+### Morning in a luxury suite, a first-person POV shot of two East Asian women in silk nightwear lounging in bed, presenting a cinematic texture and soft morning light.
+
+Author：[@AIVideoHub\_](https://x.com/AIVideoHub_) · [Source](https://x.com/AIVideoHub_/status/2100038053498917288)
+
+Cinematic / Film Still · Published
+
+**Summary:** Morning in a luxury suite, a first-person POV shot of two East Asian women in silk nightwear lounging in bed, presenting a cinematic texture and soft morning light.
+
+<img src="images/2100038053498917288-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2100038053498917288-2.jpg" alt="Image 2" width="480" />
+
+**Prompt**
+
+```text
+9:16 vertical orientation, wealthy young man's first-person POV × luxurious bedroom morning × two adult women × hyper-realistic live-action photography × high-end cinematic Editorial.
+
+The scene is early morning just waking up in a top-tier luxury hotel suite / private penthouse bedroom. The camera adopts a male first-person point of view: the owner of the lens has already gotten out of bed, standing beside the bed or about 1–2 meters away from it, looking back at the large bed behind him. The lens owner himself does not appear fully in the frame; only through the standing eye level, bedside position, and first-person composition is the feeling of "a wealthy young man who just got out of bed and looks back" conveyed.
+
+A massive, high-end double bed sits in the center of the frame, layered with slightly disheveled cream-white, ivory-white premium bedsheets, a duvet, and fluffy pillows. Lazily lounging on the bed are two beautiful East Asian women aged 23–27, explicitly adult; their facial features, hairstyles, and temperaments must be distinctly different, avoiding duplicate faces or a twin-like appearance.
+
+The woman on the left has jet-black long wavy hair, a delicate oval face, and cool, refined features. She lies on her side on a pillow as if having just awakened, one hand resting naturally on the edge of the duvet, looking at the camera with a sleepy gaze and a faint smile.
+
+The woman on the right has long dark-brown hair styled in a relaxed low updo or messy bed hair, a delicate heart-shaped face, and a gentle, radiant, glamorous vibe. She is half-reclining against the headboard or amidst soft pillows, tilting her face slightly up toward the first-person camera, looking languid, relaxed, with a playful just-woken-up smile.
+
+The two are dressed in different designs of high-end silk loungewear/pajamas: one wears an ivory-white pure silk camisole slip dress, and the other wears a light champagne silk robe. The garments are soft, relaxed, featuring authentic silk drape and delicate pearlescent sheen, maintaining full coverage without wardrobe malfunctions or exposure of sensitive areas.
+
+The subjects' hair is slightly tousled, and the sheets and duvet retain natural post-sleep wrinkles, giving the scene lived-in traces of "staying in a luxury suite last night, having just awakened in the morning." Their poses must not be identical—one on her side, one half-reclining—creating a natural, spontaneous feel.
+
+The bedroom is exceptionally spacious and opulent, showing dark wood headboard elements, cream upholstered walls, floor-to-ceiling windows, heavy drapes, high-end sofas, a glass coffee table, nightstands, and a few refined everyday items. By the bed, subtle details such as a men's suit jacket, a wristwatch, a smartphone, or a hotel breakfast tray can naturally appear, reinforcing the lived-in ambiance of a young wealthy heir's private suite, while keeping the environment tidy, sophisticated, and free of cluttered luxury brand logos.
+
+Outside the expansive floor-to-ceiling windows is an early morning high-rise city view, with a pale blue sky and soft golden morning light illuminating distant buildings. Some curtains are already drawn open; the first morning rays enter the bedroom from the side, casting soft, warm golden rim lights and highlights on the rumpled white bedding, the women's hair strands, the silk nightwear, and the edges of their skin.
+
+The camera height is at the natural eye level of a standing adult, using an approximately 35–50mm first-person photographic perspective, looking slightly downward at the bed. The composition must clearly convey the spatial relationship: "I have gotten out of bed and am standing beside it → looking back at the bed → two women still lazily lounging on the bed looking back at me."
+
+The subjects' faces, eyes, hair strands, silk pajamas, and bedding textures remain sharp and high-definition; the background is softly blurred yet the structure of the luxurious bedroom remains discernible. 4K–8K ultra-high definition, authentic skin texture, natural morning light, high dynamic range, subtle bloom, and fine cinematic grain.
+
+Overall atmosphere: wealthy young man's early morning first-person POV, just got out of bed, luxurious private suite, two beautiful adult women still lounging in bed, disheveled premium bedding, morning sunlight, languid and joyful, opulent and relaxed, lived-in feel reminiscent of a movie opening shot.
+
+Negative prompts: sexual acts, exposed sensitive areas, full nudity, slipping clothes, underage subjects, childish faces, three people crammed in bed, male fully in frame, third woman, duplicate faces, twin faces, both with identical hairstyles, both with identical sleepwear, unconscious subjects, passed out drunk, fearful expressions, forced situations, excessively messy bedding, cheap hotel, exaggerated brand logos, disproportionate head, oversized face, abnormal body proportions, extra limbs, extra hands or feet, plastic skin, severe overexposure, heavy blur, anime face, CG face, text, logo, watermark.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098362443042803749"></a>
 
