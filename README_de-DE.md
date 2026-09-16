@@ -2336,7 +2336,7 @@ Verwandeln Sie das Foto in den handgezeichneten Stil eines Reisetagebuchs mit Bu
 
 <a name="prompt-2100123233630519438"></a>
 
-### Übersetzung läuft
+### Stilkonvertierungs-Prompt zur Extraktion von Bildmerkmalen und deren Rekonstruktion in eine leichte, handgezeichnete Retro-Editorial-Illustration im Stil von Modernismus, Bauhaus und Bilderbüchern.
 
 Autor：[@bantya\_otime](https://x.com/bantya_otime) · [Originalbeitrag](https://x.com/bantya_otime/status/2100123233630519438)
 
@@ -2344,7 +2344,7 @@ Illustration · Retro / Vintage · Veröffentlicht
 
 Originalbeitrag：[@huku\_ken\_ai](https://x.com/huku_ken_ai) · [Originalbeitrag](https://x.com/huku_ken_ai/status/2100054565727113316)
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Stilkonvertierungs-Prompt zur Extraktion von Bildmerkmalen und deren Rekonstruktion in eine leichte, handgezeichnete Retro-Editorial-Illustration im Stil von Modernismus, Bauhaus und Bilderbüchern.
 
 <img src="images/2100123233630519438-1.jpg" alt="Bild 1" width="480" />
 
@@ -2353,7 +2353,7 @@ Originalbeitrag：[@huku\_ken\_ai](https://x.com/huku_ken_ai) · [Originalbeitra
 **Prompt**
 
 ```text
-Übersetzung läuft
+Extrahieren Sie die charakteristischsten Motive, Konturen, Posen und narrativen Beziehungen aus dem Bild und rekonstruieren Sie diese in eine leichte, schlichte und handgezeichnete Retro-Editorial-Illustration. Vermeiden Sie die mechanische Reproduktion von Details; die Illustrationen werden durch verallgemeinerte Formen, angemessen übertriebene Proportionen, symbolische Merkmale und humorvolle visuelle Metaphern neu interpretiert, während der charakteristische Ausdruck des Originals beibehalten wird. Diese Illustrationen verbinden modernistische Editorial-Illustration, Bauhaus-Grafikdesign, Kinderbilderbücher, naive Kunst und trendige Skizziertechniken. Die Formen sind prägnant, die Konturlinien wirken leicht diffus und spiegeln die typischen Unvollkommenheiten des Freihandzeichnens wider, und bestimmte Elemente werden angemessen vergrößert, um ein narratives, stilvolles und verspieltes Bild zu schaffen.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

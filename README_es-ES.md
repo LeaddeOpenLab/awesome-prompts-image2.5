@@ -2365,7 +2365,7 @@ Transforma la foto en un estilo de diario de viaje dibujado a mano con lápices 
 
 <a name="prompt-2100123233630519438"></a>
 
-### Traducción en curso
+### Prompt de conversión de estilo para extraer las características de una imagen y reconstruirlas en una ilustración editorial ligera, retro y hecha a mano, inspirada en el modernismo, la Bauhaus y los libros ilustrados.
 
 Autor：[@bantya\_otime](https://x.com/bantya_otime) · [Publicación original](https://x.com/bantya_otime/status/2100123233630519438)
 
@@ -2373,7 +2373,7 @@ Ilustración · Retro / Vintage · Publicado
 
 Publicación original：[@huku\_ken\_ai](https://x.com/huku_ken_ai) · [Publicación original](https://x.com/huku_ken_ai/status/2100054565727113316)
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de conversión de estilo para extraer las características de una imagen y reconstruirlas en una ilustración editorial ligera, retro y hecha a mano, inspirada en el modernismo, la Bauhaus y los libros ilustrados.
 
 <img src="images/2100123233630519438-1.jpg" alt="Imagen 1" width="480" />
 
@@ -2382,7 +2382,7 @@ Publicación original：[@huku\_ken\_ai](https://x.com/huku_ken_ai) · [Publicac
 **Prompt**
 
 ```text
-Traducción en curso
+Extrae los sujetos, contornos, poses y relaciones narrativas más característicos de la imagen, y reconstrúyelos en una ilustración editorial hecha a mano, ligera, rústica y retro. Evitando la reproducción mecánica de detalles, la ilustración se reinterpreta a través de formas generalizadas, proporciones adecuadamente exageradas, rasgos simbólicos y metáforas visuales humorísticas, manteniendo al mismo tiempo la expresión característica del original. Estas ilustraciones fusionan la ilustración editorial modernista, el diseño gráfico de la Bauhaus, los libros ilustrados infantiles, el arte naíf y las técnicas de boceto en tendencia. Las formas son concisas, los contornos dan una impresión ligeramente ambigua reflejando los errores típicos del dibujo a mano, y ciertos elementos se amplían adecuadamente para crear una imagen con narrativa, estilo y un toque lúdico.
 ```
 
 [↑ Volver a categorías](#catalog)

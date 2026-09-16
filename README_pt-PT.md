@@ -2321,7 +2321,7 @@ Converta a fotografia para o estilo de um diário de viagem desenhado à mão co
 
 <a name="prompt-2100123233630519438"></a>
 
-### Tradução em curso
+### Prompt de conversão de estilo para extrair características de imagens e reconstruí-las numa ilustração editorial leve, retro e feita à mão com inspiração no modernismo, Bauhaus e livros ilustrados.
 
 Autor：[@bantya\_otime](https://x.com/bantya_otime) · [Publicação original](https://x.com/bantya_otime/status/2100123233630519438)
 
@@ -2329,7 +2329,7 @@ Ilustração · Retrô / Vintage · Publicado
 
 Publicação original：[@huku\_ken\_ai](https://x.com/huku_ken_ai) · [Publicação original](https://x.com/huku_ken_ai/status/2100054565727113316)
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt de conversão de estilo para extrair características de imagens e reconstruí-las numa ilustração editorial leve, retro e feita à mão com inspiração no modernismo, Bauhaus e livros ilustrados.
 
 <img src="images/2100123233630519438-1.jpg" alt="Imagem 1" width="480" />
 
@@ -2338,7 +2338,7 @@ Publicação original：[@huku\_ken\_ai](https://x.com/huku_ken_ai) · [Publica�
 **Prompt**
 
 ```text
-Tradução em curso
+Extraia da imagem os elementos, contornos, poses e relações narrativas mais característicos, reconstruindo-os numa ilustração editorial feita à mão, leve, rústica e retro. Evitando a reprodução mecânica de detalhes, a ilustração é reinterpretada através de formas generalizadas, proporções moderadamente exageradas, traços simbólicos e metáforas visuais bem-humoradas, mantendo ao mesmo tempo a expressão característica do original. Estas ilustrações combinam a ilustração editorial modernista, o design gráfico da Bauhaus, livros ilustrados infantis, arte naïf e técnicas de esboço em voga. As formas são concisas, as linhas de contorno transmitem uma impressão ligeiramente imprecisa que reflete as imperfeições naturais do desenho à mão, e elementos específicos são ampliados adequadamente para criar uma imagem narrativa, estilizada e lúdica.
 ```
 
 [↑ Voltar às categorias](#catalog)

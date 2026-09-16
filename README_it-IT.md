@@ -2336,7 +2336,7 @@ Trasforma la foto nello stile di un diario di viaggio disegnato a mano con matit
 
 <a name="prompt-2100123233630519438"></a>
 
-### Traduzione in corso
+### Prompt di conversione di stile per estrarre le caratteristiche dell'immagine e ricostruirle in un'illustrazione editoriale leggera, rétro e disegnata a mano ispirata a modernismo, Bauhaus e libri illustrati.
 
 Autore：[@bantya\_otime](https://x.com/bantya_otime) · [Post originale](https://x.com/bantya_otime/status/2100123233630519438)
 
@@ -2344,7 +2344,7 @@ Illustrazione · Retro / Vintage · Pubblicato
 
 Post originale：[@huku\_ken\_ai](https://x.com/huku_ken_ai) · [Post originale](https://x.com/huku_ken_ai/status/2100054565727113316)
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt di conversione di stile per estrarre le caratteristiche dell'immagine e ricostruirle in un'illustrazione editoriale leggera, rétro e disegnata a mano ispirata a modernismo, Bauhaus e libri illustrati.
 
 <img src="images/2100123233630519438-1.jpg" alt="Immagine 1" width="480" />
 
@@ -2353,7 +2353,7 @@ Post originale：[@huku\_ken\_ai](https://x.com/huku_ken_ai) · [Post originale]
 **Prompt**
 
 ```text
-Traduzione in corso
+Estrai dall'immagine i soggetti, i contorni, le pose e le relazioni narrative più caratteristici, e ricostruiscili in un'illustrazione editoriale disegnata a mano, leggera, rustica e rétro. Evitando la riproduzione meccanica dei dettagli, l'illustrazione viene reinterpretata attraverso forme generalizzate, proporzioni moderatamente esagerate, tratti simbolici e metafore visive umoristiche, mantenendo al contempo l'espressione caratteristica dell'originale. Queste illustrazioni fondono l'illustrazione editoriale modernista, il graphic design della Bauhaus, i libri illustrati per bambini, l'arte naïf e le tecniche di sketch di tendenza. Le forme sono essenziali, le linee di contorno danno un'impressione leggermente vaga riflettendo le imperfezioni tipiche del disegno a mano libera, e determinati elementi sono opportunamente ingranditi per creare un'immagine ricca di narrazione, stile e giocosità.
 ```
 
 [↑ Torna alle categorie](#catalog)

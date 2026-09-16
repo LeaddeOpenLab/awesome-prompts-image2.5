@@ -2365,7 +2365,7 @@ Chuyển đổi bức ảnh thành phong cách nhật ký du lịch vẽ tay b�
 
 <a name="prompt-2100123233630519438"></a>
 
-### Đang dịch
+### Prompt chuyển đổi phong cách giúp trích xuất các đặc điểm của hình ảnh và tái cấu trúc thành minh họa xã luận vẽ tay hoài cổ, nhẹ nhàng theo phong cách hiện đại, Bauhaus và sách tranh.
 
 Tác giả：[@bantya\_otime](https://x.com/bantya_otime) · [Bài gốc](https://x.com/bantya_otime/status/2100123233630519438)
 
@@ -2373,7 +2373,7 @@ Minh họa · Cổ điển / Cổ điển · Đã xuất bản
 
 Bài gốc：[@huku\_ken\_ai](https://x.com/huku_ken_ai) · [Bài gốc](https://x.com/huku_ken_ai/status/2100054565727113316)
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Prompt chuyển đổi phong cách giúp trích xuất các đặc điểm của hình ảnh và tái cấu trúc thành minh họa xã luận vẽ tay hoài cổ, nhẹ nhàng theo phong cách hiện đại, Bauhaus và sách tranh.
 
 <img src="images/2100123233630519438-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -2382,7 +2382,7 @@ Bài gốc：[@huku\_ken\_ai](https://x.com/huku_ken_ai) · [Bài gốc](https:/
 **Câu lệnh**
 
 ```text
-Đang dịch
+Trích xuất các chủ thể, đường nét, tư thế và mối quan hệ tự sự đặc trưng nhất từ hình ảnh, rồi tái cấu trúc chúng thành các minh họa xã luận vẽ tay mang phong cách nhẹ nhàng, mộc mạc và hoài cổ. Tránh việc sao chép chi tiết một cách máy móc; hình minh họa được diễn giải lại thông qua các hình dạng khái quát, tỷ lệ phóng đại vừa phải, các đặc điểm mang tính biểu tượng và phép ẩn dụ thị giác hài hước, đồng thời vẫn giữ được nét biểu cảm đặc trưng của bản gốc. Những minh họa này là sự kết hợp giữa minh họa xã luận hiện đại, thiết kế đồ họa Bauhaus, sách tranh thiếu nhi, nghệ thuật ngây thơ (naive art) và các kỹ thuật phác thảo xu hướng. Hình khối ngắn gọn, các đường viền hơi mờ phản ánh những nét vẽ sai tự nhiên của tranh vẽ tay, và các yếu tố cụ thể được phóng to một cách thích hợp để tạo ra hình ảnh giàu tính tự sự, phong cách và vui tươi.
 ```
 
 [↑ Về danh mục](#catalog)

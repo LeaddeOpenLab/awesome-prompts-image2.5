@@ -2336,7 +2336,7 @@ Transformez la photo en un style de carnet de voyage dessiné à la main aux cra
 
 <a name="prompt-2100123233630519438"></a>
 
-### Traduction en cours
+### Prompt de conversion de style pour extraire les caractéristiques d'une image et la reconstruire en une illustration éditoriale rétro, légère et dessinée à la main, mêlant modernisme, Bauhaus et albums illustrés.
 
 Auteur：[@bantya\_otime](https://x.com/bantya_otime) · [Publication originale](https://x.com/bantya_otime/status/2100123233630519438)
 
@@ -2344,7 +2344,7 @@ Illustration · Rétro / Vintage · Publié
 
 Publication originale：[@huku\_ken\_ai](https://x.com/huku_ken_ai) · [Publication originale](https://x.com/huku_ken_ai/status/2100054565727113316)
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de conversion de style pour extraire les caractéristiques d'une image et la reconstruire en une illustration éditoriale rétro, légère et dessinée à la main, mêlant modernisme, Bauhaus et albums illustrés.
 
 <img src="images/2100123233630519438-1.jpg" alt="Image 1" width="480" />
 
@@ -2353,7 +2353,7 @@ Publication originale：[@huku\_ken\_ai](https://x.com/huku_ken_ai) · [Publicat
 **Consigne**
 
 ```text
-Traduction en cours
+Extrayez de l'image les sujets, contours, poses et relations narratives les plus caractéristiques, et reconstruisez-les sous la forme d'une illustration éditoriale dessinée à la main, légère, rustique et rétro. En évitant la reproduction mécanique des détails, l'illustration est réinterprétée à travers des formes généralisées, des proportions modérément exagérées, des traits symboliques et des métaphores visuelles pleines d'humour, tout en préservant l'expression caractéristique de l'original. Ces illustrations fusionnent l'illustration éditoriale moderniste, le design graphique du Bauhaus, les albums illustrés pour enfants, l'art naïf et les techniques de croquis tendance. Les formes sont épurées, les lignes de contour donnent une impression légèrement floue reflétant les imperfections propres au dessin à la main, et certains éléments sont agrandis de manière appropriée pour créer une image narrative, stylée et pleine d'espièglerie.
 ```
 
 [↑ Retour aux catégories](#catalog)

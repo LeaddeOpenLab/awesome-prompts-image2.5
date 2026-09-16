@@ -2321,7 +2321,7 @@ Fotoğrafı renkli kurşun kalem ve suluboya ile elle çizilmiş bir seyahat gü
 
 <a name="prompt-2100123233630519438"></a>
 
-### Çeviri sürüyor
+### Görüntü özelliklerini çıkarıp bunları modernizm, Bauhaus ve resimli kitap tarzında hafif, retro el çizimi bir editoryal illüstrasyona dönüştüren stil dönüştürme istemi.
 
 Yazar：[@bantya\_otime](https://x.com/bantya_otime) · [Orijinal gönderi](https://x.com/bantya_otime/status/2100123233630519438)
 
@@ -2329,7 +2329,7 @@ Yazar：[@bantya\_otime](https://x.com/bantya_otime) · [Orijinal gönderi](http
 
 Orijinal gönderi：[@huku\_ken\_ai](https://x.com/huku_ken_ai) · [Orijinal gönderi](https://x.com/huku_ken_ai/status/2100054565727113316)
 
-**Özet:** Çeviri sürüyor
+**Özet:** Görüntü özelliklerini çıkarıp bunları modernizm, Bauhaus ve resimli kitap tarzında hafif, retro el çizimi bir editoryal illüstrasyona dönüştüren stil dönüştürme istemi.
 
 <img src="images/2100123233630519438-1.jpg" alt="Görsel 1" width="480" />
 
@@ -2338,7 +2338,7 @@ Orijinal gönderi：[@huku\_ken\_ai](https://x.com/huku_ken_ai) · [Orijinal gö
 **İstem**
 
 ```text
-Çeviri sürüyor
+Görüntüden en karakteristik özneleri, ana hatları, pozları ve anlatısal ilişkileri çıkarın ve bunları hafif, sade, retro el çizimi editoryal bir illüstrasyona dönüştürün. Ayrıntıların mekanik olarak kopyalanmasından kaçınarak illüstrasyon; genelleştirilmiş formlar, makul ölçüde abartılmış oranlar, sembolik özellikler ve esprili görsel metaforlar aracılığıyla yeniden yorumlanırken orijinalin karakteristik ifadesini korur. Bu illüstrasyonlar; modernist editoryal illüstrasyonu, Bauhaus grafik tasarımını, çocuk resimli kitaplarını, naif sanatı ve trend eskiz tekniklerini harmanlar. Formlar sadedir, dış hatlar serbest el çizimine özgü kusurları yansıtarak hafif belirsiz bir his verir ve belirli ögeler, hikaye anlatımı, stil ve oyuncu bir görüntü oluşturmak için uygun şekilde büyütülür.
 ```
 
 [↑ Kategorilere dön](#catalog)
