@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**117** Prompts · Latest addition: **2026-09-15**
+**118** Prompts · Latest addition: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -584,6 +584,50 @@ Photography · Landscape / Nature · Published
 
 ```text
 Photo of a clearing in the woods with lots of green foliage, highly detailed
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2100027640358805923"></a>
+
+### A realistic portrait prompt depicting a woman with a black bob sitting on a living room sofa in a pink floral minidress.
+
+Author：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Source](https://x.com/CyberTotal2026/status/2100027640358805923)
+
+Photography · Portrait / Selfie · Character · Fashion Item · Published
+
+**Summary:** A realistic portrait prompt depicting a woman with a black bob sitting on a living room sofa in a pink floral minidress.
+
+<img src="images/2100027640358805923-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Subject:
+Floral Patterns Blooming in the Light
+
+Main Subject:
+In the center of the frame, a young woman sits shallowly at an angle on an ivory-colored sofa in a calm living room. In the background on the far left, books and small ceramics are illuminated by warm shelf lighting, and in the center of the background, there is a sliding door with a black frame.
+
+Figure and Expression:
+A glossy black bob rounded neatly below the chin, thin piecey bangs falling lightly on her forehead, large dark brown eyes, a delicate winged eyeliner, pale pink cheeks, and glossy coral-pink lips. Facing forward with her head slightly tilted, she wears a gentle closed-mouth smile.
+
+Attire and Pose:
+A form-fitting minidress with delicate pink floral patterns on a white base, thin shoulder straps, ruffles at the neckline, and a long ribbon at the center. She leans her upper body to the left on the sofa, resting her left hand on the seat cushion, with both legs bent together toward the lower right of the frame.
+
+Background and Lighting:
+A modern interior background featuring wooden shelves on the left, an ivory sofa in the center, and gray and black sliding doors on the right. Hard sunlight from a front-right window acting as the primary light source strikes her shoulders, chest, and thighs in bands, while warm shelf lighting from the upper left and right glows gently, casting sharply defined shadows.
+
+Composition and Camera:
+9:16 vertical composition, captured from slightly above eye level, framing from the crown of the head, upper body, down to the bent thighs. The subject is placed prominently in the center of the frame, with her right leg naturally cropped by the bottom and right edges. Focus is sharp on her face and floral minidress, with the background kept clean using a shallow depth of field.
+
+Texture and Style:
+Photorealistic live-action photograph. Detailed rendering of smooth skin, reflections in black hair, sheer floral fabric and ruffles, fine embossing on the sofa, and the wood grain of the shelves, preserving the contrast between the warm indoor lighting and strong sunlight.
+
+Negative:
+Alterations to the black bob hair and floral minidress; removing shadows from direct sunlight
 ```
 
 [↑ Back to categories](#catalog)
