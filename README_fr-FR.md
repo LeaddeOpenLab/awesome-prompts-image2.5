@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**120** Prompts · Dernier ajout: **2026-09-16**
+**121** Prompts · Dernier ajout: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -1927,6 +1927,38 @@ Créez une affiche d'art éditoriale haut de gamme pour chaque photographie impo
 <a name="category-3d-render"></a>
 
 ## Rendu 3D
+
+<a name="prompt-2100051568154538130"></a>
+
+### Traduction en cours
+
+Auteur：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publication originale](https://x.com/DeepBlueX0/status/2100051568154538130)
+
+Photographie · Rendu 3D · Personnage · Paysage urbain / Rue · Publié
+
+Publication originale：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publication originale](https://x.com/DeepBlueX0/status/2099508984541769771)
+
+**Résumé:** Traduction en cours
+
+<img src="images/2100051568154538130-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2100051568154538130-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2100051568154538130-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2100051568154538130-4.jpg" alt="Image 4" width="480" />
+
+<img src="images/2100051568154538130-5.jpg" alt="Image 5" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2097646788258021837"></a>
 

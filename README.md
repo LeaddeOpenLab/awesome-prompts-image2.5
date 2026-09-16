@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**120** Prompts · Latest addition: **2026-09-16**
+**121** Prompts · Latest addition: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -2270,6 +2270,38 @@ Create a premium editorial art poster for every uploaded photograph, treating ea
 <a name="category-3d-render"></a>
 
 ## 3D Render
+
+<a name="prompt-2100051568154538130"></a>
+
+### A nanoscale East Asian woman navigating DRAM and 3D NAND memory cell skyscraper chip cities from a microscopic electron microscope perspective.
+
+Author：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Source](https://x.com/DeepBlueX0/status/2100051568154538130)
+
+Photography · 3D Render · Character · Cityscape / Street · Published
+
+Source：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Source](https://x.com/DeepBlueX0/status/2099508984541769771)
+
+**Summary:** A nanoscale East Asian woman navigating DRAM and 3D NAND memory cell skyscraper chip cities from a microscopic electron microscope perspective.
+
+<img src="images/2100051568154538130-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2100051568154538130-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2100051568154538130-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2100051568154538130-4.jpg" alt="Image 4" width="480" />
+
+<img src="images/2100051568154538130-5.jpg" alt="Image 5" width="480" />
+
+**Prompt**
+
+```text
+Realistic East Asian woman × nanoscale real person × weaving between gigantic memory cells × DRAM memory city × nano skyscrapers × dense transistor array × electron microscope perspective snapshot × microscopic black background\n\nImage 2\n\nRealistic East Asian woman × nanoscale real person × weaving between gigantic memory structures × cute and playful expression × holding onto a massive memory structure with both hands, peeking out and looking around × 3D NAND memory city × nano skyscrapers × infinitely stacked memory cells × electron microscope perspective snapshot × microscopic black background
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097646788258021837"></a>
 

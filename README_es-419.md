@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**120** Prompts · Última incorporación: **2026-09-16**
+**121** Prompts · Última incorporación: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -1927,6 +1927,38 @@ Crea un póster de arte editorial prémium para cada fotografía subida, tratand
 <a name="category-3d-render"></a>
 
 ## Renderizado 3D
+
+<a name="prompt-2100051568154538130"></a>
+
+### Traducción en curso
+
+Autor：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicación original](https://x.com/DeepBlueX0/status/2100051568154538130)
+
+Fotografía · Renderizado 3D · Personaje · Paisaje urbano / Calle · Publicado
+
+Publicación original：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicación original](https://x.com/DeepBlueX0/status/2099508984541769771)
+
+**Resumen:** Traducción en curso
+
+<img src="images/2100051568154538130-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2100051568154538130-2.jpg" alt="Imagen 2" width="480" />
+
+<img src="images/2100051568154538130-3.jpg" alt="Imagen 3" width="480" />
+
+<img src="images/2100051568154538130-4.jpg" alt="Imagen 4" width="480" />
+
+<img src="images/2100051568154538130-5.jpg" alt="Imagen 5" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2097646788258021837"></a>
 

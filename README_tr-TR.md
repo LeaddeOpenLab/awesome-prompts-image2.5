@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**120** Prompt · Son eklenen: **2026-09-16**
+**121** Prompt · Son eklenen: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -1912,6 +1912,38 @@ Yüklenen her fotoğraf için birinci sınıf bir editoryal sanat afişi oluştu
 <a name="category-3d-render"></a>
 
 ## 3D Modelleme
+
+<a name="prompt-2100051568154538130"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Orijinal gönderi](https://x.com/DeepBlueX0/status/2100051568154538130)
+
+Fotoğrafçılık · 3D Modelleme · Karakter · Şehir Manzarası / Sokak · Yayımlandı
+
+Orijinal gönderi：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Orijinal gönderi](https://x.com/DeepBlueX0/status/2099508984541769771)
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2100051568154538130-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2100051568154538130-2.jpg" alt="Görsel 2" width="480" />
+
+<img src="images/2100051568154538130-3.jpg" alt="Görsel 3" width="480" />
+
+<img src="images/2100051568154538130-4.jpg" alt="Görsel 4" width="480" />
+
+<img src="images/2100051568154538130-5.jpg" alt="Görsel 5" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2097646788258021837"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**120** Prompt · Bổ sung mới nhất: **2026-09-16**
+**121** Prompt · Bổ sung mới nhất: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -1954,6 +1954,38 @@ Tạo một áp phích nghệ thuật biên tập cao cấp cho mỗi bức ản
 <a name="category-3d-render"></a>
 
 ## Kết xuất 3D
+
+<a name="prompt-2100051568154538130"></a>
+
+### Đang dịch
+
+Tác giả：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Bài gốc](https://x.com/DeepBlueX0/status/2100051568154538130)
+
+Nhiếp ảnh · Kết xuất 3D · Nhân vật · Quang cảnh thành phố / Đường phố · Đã xuất bản
+
+Bài gốc：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Bài gốc](https://x.com/DeepBlueX0/status/2099508984541769771)
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2100051568154538130-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2100051568154538130-2.jpg" alt="Hình ảnh 2" width="480" />
+
+<img src="images/2100051568154538130-3.jpg" alt="Hình ảnh 3" width="480" />
+
+<img src="images/2100051568154538130-4.jpg" alt="Hình ảnh 4" width="480" />
+
+<img src="images/2100051568154538130-5.jpg" alt="Hình ảnh 5" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2097646788258021837"></a>
 

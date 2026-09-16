@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**120** Prompt · Ultima aggiunta: **2026-09-16**
+**121** Prompt · Ultima aggiunta: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -1927,6 +1927,38 @@ Crea un poster artistico editoriale di alto livello per ogni fotografia caricata
 <a name="category-3d-render"></a>
 
 ## Rendering 3D
+
+<a name="prompt-2100051568154538130"></a>
+
+### Traduzione in corso
+
+Autore：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Post originale](https://x.com/DeepBlueX0/status/2100051568154538130)
+
+Fotografia · Rendering 3D · Personaggio · Paesaggio urbano / Strada · Pubblicato
+
+Post originale：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Post originale](https://x.com/DeepBlueX0/status/2099508984541769771)
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2100051568154538130-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2100051568154538130-2.jpg" alt="Immagine 2" width="480" />
+
+<img src="images/2100051568154538130-3.jpg" alt="Immagine 3" width="480" />
+
+<img src="images/2100051568154538130-4.jpg" alt="Immagine 4" width="480" />
+
+<img src="images/2100051568154538130-5.jpg" alt="Immagine 5" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2097646788258021837"></a>
 

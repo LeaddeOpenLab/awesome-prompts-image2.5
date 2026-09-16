@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**120** Prompts · Última adição: **2026-09-16**
+**121** Prompts · Última adição: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -1912,6 +1912,38 @@ Crie um pôster de arte editorial de alto padrão para cada fotografia enviada, 
 <a name="category-3d-render"></a>
 
 ## Renderização 3D
+
+<a name="prompt-2100051568154538130"></a>
+
+### Tradução em andamento
+
+Autor：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicação original](https://x.com/DeepBlueX0/status/2100051568154538130)
+
+Fotografia · Renderização 3D · Personagem · Paisagem Urbana / Rua · Publicado
+
+Publicação original：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicação original](https://x.com/DeepBlueX0/status/2099508984541769771)
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2100051568154538130-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2100051568154538130-2.jpg" alt="Imagem 2" width="480" />
+
+<img src="images/2100051568154538130-3.jpg" alt="Imagem 3" width="480" />
+
+<img src="images/2100051568154538130-4.jpg" alt="Imagem 4" width="480" />
+
+<img src="images/2100051568154538130-5.jpg" alt="Imagem 5" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2097646788258021837"></a>
 

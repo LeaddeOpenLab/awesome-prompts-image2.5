@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**120** Prompts · Zuletzt hinzugefügt: **2026-09-16**
+**121** Prompts · Zuletzt hinzugefügt: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -1927,6 +1927,38 @@ Erstelle für jedes hochgeladene Foto ein erstklassiges redaktionelles Kunstplak
 <a name="category-3d-render"></a>
 
 ## 3D-Rendering
+
+<a name="prompt-2100051568154538130"></a>
+
+### Übersetzung läuft
+
+Autor：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Originalbeitrag](https://x.com/DeepBlueX0/status/2100051568154538130)
+
+Fotografie · 3D-Rendering · Charakter · Stadtbild / Straße · Veröffentlicht
+
+Originalbeitrag：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Originalbeitrag](https://x.com/DeepBlueX0/status/2099508984541769771)
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2100051568154538130-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2100051568154538130-2.jpg" alt="Bild 2" width="480" />
+
+<img src="images/2100051568154538130-3.jpg" alt="Bild 3" width="480" />
+
+<img src="images/2100051568154538130-4.jpg" alt="Bild 4" width="480" />
+
+<img src="images/2100051568154538130-5.jpg" alt="Bild 5" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2097646788258021837"></a>
 

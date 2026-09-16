@@ -19,7 +19,7 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 リポジトリにスターを付けて、毎日の厳選プロンプトから新しい創作のアイデアを見つけましょう。
 
-**120** 件 · 最新の追加: **2026-09-16**
+**121** 件 · 最新の追加: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -1954,6 +1954,38 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 <a name="category-3d-render"></a>
 
 ## 3D レンダリング
+
+<a name="prompt-2100051568154538130"></a>
+
+### 翻訳中
+
+作者：[@DeepBlueX0](https://x.com/DeepBlueX0) · [元の投稿](https://x.com/DeepBlueX0/status/2100051568154538130)
+
+写真撮影 · 3D レンダリング · キャラクター · 街並み / ストリート · 配信済み
+
+元の投稿：[@DeepBlueX0](https://x.com/DeepBlueX0) · [元の投稿](https://x.com/DeepBlueX0/status/2099508984541769771)
+
+**概要:** 翻訳中
+
+<img src="images/2100051568154538130-1.jpg" alt="画像 1" width="480" />
+
+<img src="images/2100051568154538130-2.jpg" alt="画像 2" width="480" />
+
+<img src="images/2100051568154538130-3.jpg" alt="画像 3" width="480" />
+
+<img src="images/2100051568154538130-4.jpg" alt="画像 4" width="480" />
+
+<img src="images/2100051568154538130-5.jpg" alt="画像 5" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
 
 <a name="prompt-2097646788258021837"></a>
 
