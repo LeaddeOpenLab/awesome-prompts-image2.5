@@ -1,0 +1,114 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-16T16:40:10.432Z",
+  "model": "image2.5",
+  "prompt": "竖版2×2失败照片，场景莲花池采摘莲藕+角色",
+  "promptTranslations": {
+    "en": "Vertical 2×2 failed photos, scene of harvesting lotus roots in a lotus pond + character"
+  },
+  "summaryTranslations": {
+    "en": "Vertical four-grid candid fail shots, lotus root harvesting scene in a lotus pond and character"
+  },
+  "translationVersion": 2,
+  "summary": "竖版四宫格失误抓拍，莲花池采摘莲藕场景及人物",
+  "summaryEn": "Vertical 2x2 grid blooper shots of harvesting lotus roots with character in a pond",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100255511228932598",
+    "canonicalUrl": "https://x.com/ahamme35638/status/2100255511228932598",
+    "author": {
+      "username": "ahamme35638",
+      "displayName": "会日语的小方（互关中）",
+      "profileUrl": "https://x.com/ahamme35638"
+    },
+    "publishedAt": "2026-09-16T16:08:29.000Z",
+    "collectedAt": "2026-09-16T16:15:51.092Z",
+    "language": "zh",
+    "originalText": "太好玩啦\n\n调用GPT image 2.5 Prompt:  竖版2×2失败照片，场景莲花池采摘莲藕+角色 https://t.co/MJVivDYOv8",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSWbKcUb0AA1HQa.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSWbKcUb0AA1HQa.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSWbKcVaQAAXpJV.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSWbKcVaQAAXpJV.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSWbPkwaAAAE1zs.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSWbPkwaAAAE1zs.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 77
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/ahamme35638/status/2100255511228932598",
+  "coverUrl": "https://pbs.twimg.com/media/HSWbKcUb0AA1HQa.jpg",
+  "coverPath": "images/2100255511228932598-1.jpg",
+  "imagePaths": [
+    "images/2100255511228932598-1.jpg",
+    "images/2100255511228932598-2.jpg",
+    "images/2100255511228932598-3.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSWbKcUb0AA1HQa",
+    "x-image:/media/HSWbKcVaQAAXpJV",
+    "x-image:/media/HSWbPkwaAAAE1zs",
+    "x-post:2100255511228932598"
+  ],
+  "analysis": {
+    "summary": "竖版四宫格失误抓拍，莲花池采摘莲藕场景及人物",
+    "summaryEn": "Vertical 2x2 grid blooper shots of harvesting lotus roots with character in a pond",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "图片中展示了竖版2x2格式的拍摄失误抓拍，第二张图明确为莲花池中采摘莲藕的人物动态画面。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "竖版2×2失败照片，场景莲花池采摘莲藕+角色",
+    "sourceRange": {
+      "start": 31,
+      "end": 53
+    },
+    "translations": {
+      "zh": "竖版2×2失败照片，场景莲花池采摘莲藕+角色",
+      "en": "Vertical 2x2 failed photos, scene harvesting lotus roots in a lotus pond + character"
+    },
+    "targetModels": [
+      "image2.5"
+    ],
+    "category": "text-to-image",
+    "useCase": "creative",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.9,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}

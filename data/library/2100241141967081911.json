@@ -1,0 +1,139 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-16T16:40:06.636Z",
+  "model": "image2.5",
+  "prompt": "宋式美学 × 宋风美甲极近特写 × 美甲主视觉锁焦",
+  "promptTranslations": {
+    "en": "Song Dynasty aesthetics × Song-style nail art extreme close-up × Nail art as primary visual focus-locked"
+  },
+  "summaryTranslations": {
+    "en": "An extreme close-up photography prompt for Chinese-style nail art centered on Song Dynasty aesthetics, emphasizing locking the focus on the exquisite nail art visuals."
+  },
+  "translationVersion": 2,
+  "summary": "以宋式美学为核心的国风美甲极近特写摄影提示词，强调将焦点锁定在精美的美甲视觉上。",
+  "summaryEn": "A prompt focusing on Song Dynasty aesthetic nail art in an extreme close-up, locking visual focus on the manicured nails.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2100101510634037441",
+      "canonicalUrl": "https://x.com/DeepBlueX0/status/2100101510634037441",
+      "author": {
+        "username": "DeepBlueX0",
+        "displayName": "DeepBlue深藍",
+        "profileUrl": "https://x.com/DeepBlueX0"
+      },
+      "originalText": "荷风雅韵高跟鞋👠\n\n融合大法好👌 https://t.co/jm1XHWyaon"
+    },
+    "id": "2100241141967081911",
+    "canonicalUrl": "https://x.com/DeepBlueX0/status/2100241141967081911",
+    "author": {
+      "username": "DeepBlueX0",
+      "displayName": "DeepBlue深藍",
+      "profileUrl": "https://x.com/DeepBlueX0"
+    },
+    "publishedAt": "2026-09-16T15:11:23.000Z",
+    "collectedAt": "2026-09-16T16:15:51.092Z",
+    "language": "zh",
+    "originalText": "国风美甲💅\n\n🔵 GPT image 2.5 Prompt:\n\n图1\n宋式美学 × 宋风美甲极近特写 × 美甲主视觉锁焦 https://t.co/N7kKc5GdNy",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSWOKWQboAAZBhk.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSWOKWQboAAZBhk.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSWOKWEaMAAewDb.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSWOKWEaMAAewDb.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSWOKWAbcAEmhN4.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSWOKWAbcAEmhN4.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSWOKWCaoAAfWrA.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSWOKWCaoAAfWrA.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSUPL-bbYAAf91V.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSUPL-bbYAAf91V.jpg",
+        "sourcePostId": "2100101510634037441"
+      }
+    ],
+    "metrics": {
+      "likeCount": 8,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 786
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/DeepBlueX0/status/2100241141967081911",
+  "coverUrl": "https://pbs.twimg.com/media/HSWOKWQboAAZBhk.jpg",
+  "coverPath": "images/2100241141967081911-1.jpg",
+  "imagePaths": [
+    "images/2100241141967081911-1.jpg",
+    "images/2100241141967081911-2.jpg",
+    "images/2100241141967081911-3.jpg",
+    "images/2100241141967081911-4.jpg",
+    "images/2100241141967081911-5.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSWOKWQboAAZBhk",
+    "x-image:/media/HSWOKWEaMAAewDb",
+    "x-image:/media/HSWOKWAbcAEmhN4",
+    "x-image:/media/HSWOKWCaoAAfWrA",
+    "x-image:/media/HSUPL-bbYAAf91V",
+    "x-post:2100241141967081911",
+    "x-post:2100101510634037441"
+  ],
+  "analysis": {
+    "summary": "以宋式美学为核心的国风美甲极近特写摄影提示词，强调将焦点锁定在精美的美甲视觉上。",
+    "summaryEn": "A prompt focusing on Song Dynasty aesthetic nail art in an extreme close-up, locking visual focus on the manicured nails.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "图1清晰展现了手持写意宋画团扇的纤手，指甲上绘有淡雅宋代工笔梅花花鸟与印章细节，构图为极近特写且对焦精准锁定在美甲上，与提示词高度契合。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "宋式美学 × 宋风美甲极近特写 × 美甲主视觉锁焦",
+    "sourceRange": {
+      "start": 35,
+      "end": 60
+    },
+    "translations": {
+      "zh": "宋式美学 × 宋风美甲极近特写 × 美甲主视觉锁焦",
+      "en": "Song Dynasty aesthetics × ultra close-up of Song-style nail art × focal lock on nail art visual center"
+    },
+    "targetModels": [
+      "image2.5"
+    ],
+    "category": "text-to-image",
+    "useCase": "国风美甲与古典摄影艺术设计",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
