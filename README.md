@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**122** Prompts · Latest addition: **2026-09-16**
+**123** Prompts · Latest addition: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -610,6 +610,50 @@ Photography · Landscape / Nature · Published
 
 ```text
 Photo of a clearing in the woods with lots of green foliage, highly detailed
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2100088791751135719"></a>
+
+### Realistic portrait photo prompt of a young woman leaning forward on the terrace of a seaside cafe.
+
+Author：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Source](https://x.com/CyberTotal2026/status/2100088791751135719)
+
+Photography · Character · Published
+
+**Summary:** Realistic portrait photo prompt of a young woman leaning forward on the terrace of a seaside cafe.
+
+<img src="images/2100088791751135719-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Theme:
+Sunlight at a Seaside Cafe
+
+Subject:
+In the center of the frame, on the terrace of a rustic wooden cafe facing the sea, a young woman rests both hands on a foreground wooden bench, leaning her upper body closer toward the camera. In the distant left of the frame are the glittering blue sea and sandy beach, overhead is a bamboo thatched roof and rattan lighting, and in the distant right of the frame are a wooden counter and chairs.
+
+Person / Expression:
+Light brown hair reaching below her chest swept over her right shoulder, thin bangs touching her eyes, large bright brown eyes, long eyelashes, soft peach cheeks, and full, glossy pink lips. Her face is slightly tilted to the left, raising her right shoulder while looking at the camera with a soft expression.
+
+Attire / Pose:
+An ecru fine-strapped ribbed knit top with front buttons and an asymmetrical silhouette open from the left side of the chest down to the hem. Paired with short ecru drawstring shorts. Pulling her hips back while leaning her upper body forward, both arms extended straight down resting on the bench.
+
+Background / Lighting:
+The background features a seaside cafe with dark wooden furniture and white plastered walls on the right side of the frame, and tropical plants alongside the blue sea on the left side of the frame. Hard midday natural light shines in from the ocean side at the rear left as the main light source, creating bright rim light on her hair and shoulders, soft reflected light on her face, and sharp shadows on the floor.
+
+Composition / Camera:
+A 3:4 vertical composition, captured near chest height with a moderately wide-angle camera, framing a large portion of her upper body from the top of the head to the thighs. The subject is placed in the center, retaining the sea in the distant left and the cafe in the distant right along a diagonal, with both hands cropped at the bottom edge of the frame. Sharp focus on the face, with a medium depth of field for the background.
+
+Texture / Style:
+Photorealistic live-action photograph. Fine hair swaying in the sea breeze, sunlit skin, ecru rib knit, aged wood texture, and intense reflections on the sea surface are finely detailed, rendered in vibrant summer color tones combining blues and warm hues.
+
+Negative:
+Changes to an indoor setting without the sea; changes to the front-opening ecru top and forward-leaning pose
 ```
 
 [↑ Back to categories](#catalog)
