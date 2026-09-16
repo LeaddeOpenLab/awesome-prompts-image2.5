@@ -2249,13 +2249,13 @@ Créez une charmante carte miniature en 3D de [COUNTRY] avec les frontières nat
 
 <a name="prompt-2100265645103612367"></a>
 
-### Traduction en cours
+### Prompt pour générer une feuille de sprites d'action en pixel art 2D de 4x4 et 16 images du monstre fève « Soramameman ».
 
 Auteur：[@nostalGGames](https://x.com/nostalGGames) · [Publication originale](https://x.com/nostalGGames/status/2100265645103612367)
 
 Pixel Art · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt pour générer une feuille de sprites d'action en pixel art 2D de 4x4 et 16 images du monstre fève « Soramameman ».
 
 <img src="images/2100265645103612367-1.png" alt="Image 1" width="480" />
 
@@ -2264,7 +2264,11 @@ Pixel Art · Publié
 **Consigne**
 
 ```text
-Traduction en cours
+- Monstre issu de la matérialisation de l'esprit d'une fève
+- Possède deux yeux
+- Transformer Soramameman en pixel art 2D
+- Créer un atlas de personnage pour les actions
+- Générer le sprite sous forme de grille 4x4 de 16 images d'action
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -2466,13 +2470,13 @@ Traduction en cours
 
 <a name="prompt-2100099718605135962"></a>
 
-### Traduction en cours
+### Prompt d'affiche de voyage streetwear vintage japonais mettant en scène un mannequin de mode tactique sur un collage urbain avec typographie sur papier vieilli.
 
 Auteur：[@harboriis](https://x.com/harboriis) · [Publication originale](https://x.com/harboriis/status/2100099718605135962)
 
 Affiche / Flyer · Rétro / Vintage · Influenceur / Mannequin · Article de mode · Paysage urbain / Rue · Texte / Typographie · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt d'affiche de voyage streetwear vintage japonais mettant en scène un mannequin de mode tactique sur un collage urbain avec typographie sur papier vieilli.
 
 <img src="images/2100099718605135962-1.jpg" alt="Image 1" width="480" />
 
@@ -2485,7 +2489,42 @@ Affiche / Flyer · Rétro / Vintage · Influenceur / Mannequin · Article de mod
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une affiche de mode et de voyage éditoriale ultra-réaliste au format vertical 4:5, inspirée d'une couverture vintage de magazine de rue japonais.
+
+Une jeune femme se tient bien en évidence au centre du premier plan, photographiée en légère contre-plongée. Elle a les cheveux sombres attachés en un chignon haut décoiffé avec des mèches lâches encadrant son visage, porte d'étroites lunettes de soleil enveloppantes noires futuristes et regarde légèrement vers l'appareil photo avec une expression confiante et sereine. Elle porte une veste utilitaire technique noire oversize ornée de sangles réalistes, de boucles, de fermetures éclair, de poches, d'écussons imprimés, d'étiquettes et de subtils détails réfléchissants, associée à des vêtements sombres de style tactique et à un grand sac utilitaire noir. Conservez une texture de tissu réaliste et des proportions naturelles.
+
+L'arrière-plan est un collage de rues nocturnes de Tokyo, avec des rues aux néons trempées par la pluie, des enseignes de boutiques japonaises, des ruelles urbaines étroites, la tour de Tokyo brillant dans la nuit et un train tokyoïte arrivant en gare. Disposez plusieurs photographies rectangulaires autour du sujet central selon de légers angles différents, créant une mise en page de scrapbook éditorial fait main. Utilisez du papier vieilli blanc cassé comme arrière-plan principal avec un grain de papier subtil, des bords usés, des plis, des taches et une texture d'impression vintage.
+
+En haut, ajoutez une immense typographie noire en gras disant :
+
+TOKYO
+
+En dessous, un texte serif en italique plus petit et élégant :
+
+FUTURE IS NOW
+
+Ajoutez de petits blocs de texte éditorial tels que :
+
+« Where tradition meets technology, and every street tells a story of tomorrow. »
+
+Incluez des symboles de globe minimalistes, des lignes graphiques techniques, des éléments de code-barres, des coordonnées, de petites étiquettes et des marquages éditoriaux futuristes.
+
+Utilisez des panneaux graphiques rouges et noirs d'inspiration japonaise dans toute la composition. Ajoutez un panneau rouge vertical sur la droite avec de la typographie japonaise, une carte graphique rouge en bas à gauche contenant de grands caractères japonais, et un autre panneau photographique rouge en bas à droite montrant une silhouette sombre de la femme.
+
+Incluez de petites typographies telles que :
+
+35.6895° N
+139.6917° E
+
+et :
+
+SHIBUYA • SHINJUKU • HARAJUKU • AKIHABARA
+
+Esthétique générale : magazine de streetwear japonais haut de gamme, Tokyo cyberpunk, affiche de voyage vintage, éditorial de mode contemporain, collage imprimé analogique. Palette de couleurs noir estompé, anthracite, crème, gris foncé et rouge profond. Fort réalisme photographique, éclairage nocturne cinématographique, subtil grain argentique, encre légèrement décolorée, texture de papier authentique, repérage d'impression imparfait, typographie de magazine sophistiquée, espace négatif équilibré.
+
+Composition : sujet central en pied, titre surdimensionné « TOKYO » occupant la section supérieure, photographies superposées de Tokyo l'entourant, touches graphiques rouges, bordure en papier vintage, mise en page éditoriale premium.
+
+Photoréaliste, extrêmement détaillé, cinématographique, 8K, peau réaliste, textures de vêtements réalistes, photographie de mode professionnelle, finition d'impression vintage authentique, aucun élément d'interface utilisateur numérique moderne.
 ```
 
 [↑ Retour aux catégories](#catalog)

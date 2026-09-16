@@ -2249,13 +2249,13 @@ Erstelle eine charmante 3D-Miniaturkarte von [COUNTRY] mit klar umrissenen und p
 
 <a name="prompt-2100265645103612367"></a>
 
-### Übersetzung läuft
+### Prompt zur Generierung eines 2D-Pixel-Art-Action-Sprite-Sheets im Format 4x4 mit 16 Frames für das Saubohnen-Monster „Soramameman“.
 
 Autor：[@nostalGGames](https://x.com/nostalGGames) · [Originalbeitrag](https://x.com/nostalGGames/status/2100265645103612367)
 
 Pixel-Art · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt zur Generierung eines 2D-Pixel-Art-Action-Sprite-Sheets im Format 4x4 mit 16 Frames für das Saubohnen-Monster „Soramameman“.
 
 <img src="images/2100265645103612367-1.png" alt="Bild 1" width="480" />
 
@@ -2264,7 +2264,11 @@ Pixel-Art · Veröffentlicht
 **Prompt**
 
 ```text
-Übersetzung läuft
+- Ein Monster, das als materialisierter Geist einer Saubohne entstanden ist
+- Besitzt zwei Augen
+- Soramameman als 2D-Pixel-Art darstellen
+- Als Charakter-Atlas für Aktionen anlegen
+- Den Sprite als 4x4-Gitter mit 16 Action-Frames ausgeben
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -2466,13 +2470,13 @@ Originalbeitrag：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Originalbeitrag](h
 
 <a name="prompt-2100099718605135962"></a>
 
-### Übersetzung läuft
+### Prompt für ein Vintage-Streetwear-Reiseplakat im japanischen Stil mit einem taktischen Modemodell vor einer städtischen Collage mit Typografie auf gealtertem Papier.
 
 Autor：[@harboriis](https://x.com/harboriis) · [Originalbeitrag](https://x.com/harboriis/status/2100099718605135962)
 
 Plakat / Flyer · Retro / Vintage · Influencer / Model · Modeartikel · Stadtbild / Straße · Text / Typografie · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt für ein Vintage-Streetwear-Reiseplakat im japanischen Stil mit einem taktischen Modemodell vor einer städtischen Collage mit Typografie auf gealtertem Papier.
 
 <img src="images/2100099718605135962-1.jpg" alt="Bild 1" width="480" />
 
@@ -2485,7 +2489,42 @@ Plakat / Flyer · Retro / Vintage · Influencer / Model · Modeartikel · Stadtb
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle ein vertikales, ultrarealistisches 4:5-Reisemode-Editorial-Poster, inspiriert von einem Vintage-Cover eines japanischen Street-Magazins.
+
+Eine junge Frau steht prominent im Zentrum des Vordergrunds, fotografiert aus einem leicht tiefen Winkel. Sie hat dunkles Haar, das zu einem lockeren, unordentlichen Dutt hochgebunden ist, mit einzelnen Strähnen, die ihr Gesicht umrahmen. Sie trägt eine schmale, futuristische, schwarze Rundum-Sonnenbrille und blickt mit einem selbstbewussten, ruhigen Ausdruck leicht in die Kamera. Sie trägt eine übergroße schwarze Funktions-Utility-Jacke, die mit realistischen Riemen, Schnallen, Reißverschlüssen, Taschen, gedruckten Aufnähern, Etiketten und subtilen reflektierenden Details besetzt ist, kombiniert mit dunkler Kleidung im taktischen Stil und einer großen schwarzen Utility-Tasche. Bewahre realistische Stofftexturen und natürliche Proportionen.
+
+Der Hintergrund ist eine Collage nächtlicher Straßen Tokios mit regennassen Neonstraßen, japanischen Ladenschildern, engen städtischen Gassen, dem nachts leuchtenden Tokyo Tower und einem in einen Bahnhof einfahrenden Tokio-Zug. Ordne mehrere rechteckige Fotos um das zentrale Motiv herum in leicht unterschiedlichen Winkeln an, sodass ein handgefertigtes redaktionelles Scrapbook-Layout entsteht. Verwende cremefarbenes, gealtertes Papier als Haupthintergrund mit subtiler Papierkörnung, abgenutzten Kanten, Falten, Flecken und einer Vintage-Drucktextur.
+
+Füge oben eine riesige, fette schwarze Typografie ein mit dem Text:
+
+TOKYO
+
+Darunter kleinerer, eleganter kursiver Serifentext:
+
+FUTURE IS NOW
+
+Füge kleine redaktionelle Textblöcke hinzu wie:
+
+„Where tradition meets technology, and every street tells a story of tomorrow.“
+
+Integriere minimalistische Globussymbole, technische Grafillinien, Barcode-Elemente, Koordinaten, kleine Etiketten und futuristische redaktionelle Markierungen.
+
+Verwende japanisch inspirierte rote und schwarze Grafikfelder in der gesamten Komposition. Füge rechts ein vertikales rotes Feld mit japanischer Typografie hinzu, unten links eine rote Grafikkarte mit großen japanischen Schriftzeichen und unten rechts ein weiteres rotes Fotofeld, das eine dunkle Silhouette der Frau zeigt.
+
+Füge kleine Typografie ein wie:
+
+35.6895° N
+139.6917° E
+
+und:
+
+SHIBUYA • SHINJUKU • HARAJUKU • AKIHABARA
+
+Gesamtästhetik: High-End-Magazin für japanische Streetwear, Cyberpunk-Tokio, Vintage-Reiseplakat, zeitgenössisches Mode-Editorial, analoge Druck-Collage. Farbpalette aus gedecktem Schwarz, Anthrazit, Creme, Dunkelgrau und tiefem Rot. Starker fotografischer Realismus, filmische Nachtbeleuchtung, subtiles Filmkorn, leicht verblasste Tinte, authentische Papiertextur, unvollkommene Druckpassung, anspruchsvolle Magazin-Typografie, ausgewogener Negativraum.
+
+Komposition: zentrales Ganzkörper-Motiv, übergroße Schlagzeile „TOKYO“, die den oberen Bereich einnimmt, sie umgebende überlagerte Tokio-Fotografien, rote grafische Akzente, Vintage-Papierrand, erstklassiges redaktionelles Layout.
+
+Fotorealistisch, hochdetailliert, filmisch, 8K, realistische Haut, realistische Kleidungstexturen, professionelle Modefotografie, authentisches Vintage-Druckfinish, keine modernen digitalen UI-Elemente.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

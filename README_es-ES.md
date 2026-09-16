@@ -2281,13 +2281,13 @@ Crea un encantador mapa en miniatura 3D de [COUNTRY] con las fronteras nacionale
 
 <a name="prompt-2100265645103612367"></a>
 
-### Traducción en curso
+### Prompt para generar una hoja de sprites de acción en pixel art 2D de 4x4 y 16 fotogramas del monstruo de haba «Soramameman».
 
 Autor：[@nostalGGames](https://x.com/nostalGGames) · [Publicación original](https://x.com/nostalGGames/status/2100265645103612367)
 
 Pixel Art · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt para generar una hoja de sprites de acción en pixel art 2D de 4x4 y 16 fotogramas del monstruo de haba «Soramameman».
 
 <img src="images/2100265645103612367-1.png" alt="Imagen 1" width="480" />
 
@@ -2296,7 +2296,11 @@ Pixel Art · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+- Monstruo que es la materialización del espíritu de un haba
+- Tiene dos ojos
+- Transformar a Soramameman en pixel art 2D
+- Crear un atlas de personaje con acciones
+- Generar un sprite como una cuadrícula de 4x4 con 16 fotogramas de acción
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -2495,13 +2499,13 @@ Traducción en curso
 
 <a name="prompt-2100099718605135962"></a>
 
-### Traducción en curso
+### Prompt de póster de viaje de streetwear japonés vintage con una modelo de moda táctica sobre un collage urbano con tipografía en papel envejecido.
 
 Autor：[@harboriis](https://x.com/harboriis) · [Publicación original](https://x.com/harboriis/status/2100099718605135962)
 
 Póster / Folleto · Retro / Vintage · Influencer / Modelo · Artículo de moda · Paisaje urbano / Calle · Texto / Tipografía · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de póster de viaje de streetwear japonés vintage con una modelo de moda táctica sobre un collage urbano con tipografía en papel envejecido.
 
 <img src="images/2100099718605135962-1.jpg" alt="Imagen 1" width="480" />
 
@@ -2514,7 +2518,42 @@ Póster / Folleto · Retro / Vintage · Influencer / Modelo · Artículo de moda
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un póster vertical 4:5 ultrarrealista de moda y viajes de estilo editorial inspirado en la portada de una revista vintage de moda urbana japonesa.
+
+Una mujer joven se encuentra prominentemente en el centro del primer plano, fotografiada desde un ángulo ligeramente bajo. Lleva el cabello oscuro recogido en un moño alto despeinado con mechones sueltos enmarcando su rostro, luce gafas de sol envolventes negras, estrechas y futuristas, y mira ligeramente hacia la cámara con una expresión serena y segura. Viste una chaqueta utilitaria técnica oversize de color negro cubierta de correas, hebillas, cremalleras, bolsillos, parches impresos, etiquetas y sutiles detalles reflectantes realistas, combinada con ropa oscura de estilo táctico y un bolso utilitario negro grande. Conserva la textura realista de la tela y las proporciones naturales.
+
+El fondo es un collage de calles nocturnas de Tokio, que presenta calles de neón empapadas por la lluvia, letreros de tiendas japonesas, estrechos callejones urbanos, la Torre de Tokio brillando de noche y un tren de Tokio llegando a una estación. Distribuye varias fotografías rectangulares alrededor del sujeto central en diferentes ángulos ligeros, creando un diseño de álbum de recortes editorial hecho a mano. Utiliza papel envejecido de color blanco roto como fondo principal con una sutil textura de grano de papel, bordes desgastados, pliegues, manchas y textura de impresión vintage.
+
+En la parte superior, añade una tipografía negra grande y en negrita que diga:
+
+TOKYO
+
+Debajo, un texto con serifa en cursiva, más pequeño y elegante:
+
+FUTURE IS NOW
+
+Añade pequeños bloques de texto editorial como:
+
+“Where tradition meets technology, and every street tells a story of tomorrow.”
+
+Incluye símbolos minimalistas del globo terráqueo, líneas gráficas técnicas, elementos de código de barras, coordenadas, etiquetas pequeñas y marcas editoriales futuristas.
+
+Utiliza paneles gráficos en rojo y negro de inspiración japonesa en toda la composición. Añade un panel vertical rojo a la derecha con tipografía japonesa, una tarjeta gráfica roja en la parte inferior izquierda con grandes caracteres japoneses, y otro panel fotográfico rojo en la parte inferior derecha que muestre una silueta oscura de la mujer.
+
+Incluye tipografía pequeña como:
+
+35.6895° N
+139.6917° E
+
+y:
+
+SHIBUYA • SHINJUKU • HARAJUKU • AKIHABARA
+
+Estética general: revista de streetwear japonés de alta gama, Tokio ciberpunk, póster de viaje vintage, editorial de moda contemporánea, collage de impresión analógica. Paleta de colores en negro apagado, carbón, crema, gris oscuro y rojo intenso. Fuerte realismo fotográfico, iluminación nocturna cinematográfica, grano de película sutil, tinta ligeramente desvaída, textura de papel auténtica, registro de impresión imperfecto, tipografía de revista sofisticada, espacio negativo equilibrado.
+
+Composición: sujeto central de cuerpo entero, titular oversize “TOKYO” ocupando la sección superior, fotografías superpuestas de Tokio rodeándola, acentos gráficos rojos, borde de papel vintage, diseño editorial prémium.
+
+Fotorrealista, altamente detallado, cinematográfico, 8K, piel realista, texturas de ropa realistas, fotografía de moda profesional, acabado de impresión vintage auténtico, sin elementos modernos de interfaz digital.
 ```
 
 [↑ Volver a categorías](#catalog)

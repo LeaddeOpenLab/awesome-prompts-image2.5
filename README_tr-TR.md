@@ -2234,13 +2234,13 @@ Ulusal sınırları net bir şekilde belirlenmiş ve doğru şekillendirilmiş [
 
 <a name="prompt-2100265645103612367"></a>
 
-### Çeviri sürüyor
+### Bakla canavarı &quot;Soramameman&quot;i 4x4 ve 16 karelik 2D piksel çizim aksiyon sprite sayfası olarak üretme komutu.
 
 Yazar：[@nostalGGames](https://x.com/nostalGGames) · [Orijinal gönderi](https://x.com/nostalGGames/status/2100265645103612367)
 
 Piksel Sanatı · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Bakla canavarı &quot;Soramameman&quot;i 4x4 ve 16 karelik 2D piksel çizim aksiyon sprite sayfası olarak üretme komutu.
 
 <img src="images/2100265645103612367-1.png" alt="Görsel 1" width="480" />
 
@@ -2249,7 +2249,11 @@ Piksel Sanatı · Yayımlandı
 **İstem**
 
 ```text
-Çeviri sürüyor
+- Bir bakla ruhunun somutlaşmış hali olan bir canavar
+- İki gözü bulunmaktadır
+- Soramameman'i 2D piksel çizime dönüştürün
+- Aksiyon karakter atlası haline getirin
+- 4x4'lük 16 karelik bir aksiyon sprite'ı olarak çıktı verin
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -2451,13 +2455,13 @@ Orijinal gönderi：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Orijinal gönder
 
 <a name="prompt-2100099718605135962"></a>
 
-### Çeviri sürüyor
+### Eskitilmiş kağıt tipografisine sahip bir şehir kolajı önünde taktiksel moda modelini sergileyen vintage Japon sokak giyimi seyahat posteri istemi.
 
 Yazar：[@harboriis](https://x.com/harboriis) · [Orijinal gönderi](https://x.com/harboriis/status/2100099718605135962)
 
 Poster / El İlanı · Retro / Vintage · Influencer / Model · Moda Ürünü · Şehir Manzarası / Sokak · Metin / Tipografi · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Eskitilmiş kağıt tipografisine sahip bir şehir kolajı önünde taktiksel moda modelini sergileyen vintage Japon sokak giyimi seyahat posteri istemi.
 
 <img src="images/2100099718605135962-1.jpg" alt="Görsel 1" width="480" />
 
@@ -2470,7 +2474,42 @@ Poster / El İlanı · Retro / Vintage · Influencer / Model · Moda Ürünü ·
 **İstem**
 
 ```text
-Çeviri sürüyor
+Vintage bir Japon sokak dergisi kapağından ilham alan dikey 4:5 ultra gerçekçi bir editoryal seyahat modası posteri oluşturun.
+
+Genç bir kadın, hafifçe alçak bir açıdan fotoğraflanmış şekilde orta ön planda belirgin bir biçimde duruyor. Yüzünü çerçeveleyen serbest tutamlarla dağınık yüksek bir topuz yapılmış koyu renk saçları var, dar fütüristik siyah saran güneş gözlükleri takıyor ve kameraya doğru kendinden emin, sakin bir ifadeyle hafifçe bakıyor. Gerçekçi kayışlar, tokalar, fermuarlar, cepler, baskılı armalar, etiketler ve zarif yansıtıcı detaylarla kaplı büyük beden (oversized) siyah teknik işlevsel bir ceket giyiyor; bunu koyu renkli taktiksel tarzda kıyafetler ve büyük siyah işlevsel bir çanta ile tamamlıyor. Gerçekçi kumaş dokusunu ve doğal oranları koruyun.
+
+Arka plan, yağmurla ıslanmış neon sokakları, Japon dükkan tabelalarını, dar kentsel ara sokakları, geceleri parıldayan Tokyo Kulesi'ni ve bir istasyona yanaşan Tokyo trenini içeren bir Tokyo gece sokak kolajıdır. Merkezi öznenin etrafına hafif farklı açılarda birkaç dikdörtgen fotoğraf yerleştirerek el yapımı editoryal bir albüm (scrapbook) düzeni oluşturun. Ana arka plan olarak hafif kağıt dokusu, yıpranmış kenarlar, katlar, lekeler ve vintage baskı dokusuna sahip kırık beyaz eskitilmiş kağıt kullanın.
+
+En üste, şu ifadenin yer aldığı devasa, kalın siyah tipografi ekleyin:
+
+TOKYO
+
+Altına, daha küçük, zarif, italik serif bir metin:
+
+FUTURE IS NOW
+
+Şunun gibi küçük editoryal metin blokları ekleyin:
+
+“Where tradition meets technology, and every street tells a story of tomorrow.”
+
+Minimalist küre sembolleri, teknik grafik çizgiler, barkod ögeleri, koordinatlar, küçük etiketler ve fütüristik editoryal işaretler dahil edin.
+
+Kompozisyon boyunca Japon esintili kırmızı ve siyah grafik paneller kullanın. Sağ tarafa Japon tipografisine sahip dikey kırmızı bir panel, sol alta büyük Japonca karakterler içeren kırmızı grafik bir kart ve sağ alta kadının koyu bir silüetini gösteren başka bir kırmızı fotoğrafik panel ekleyin.
+
+Şunun gibi küçük tipografiler ekleyin:
+
+35.6895° N
+139.6917° E
+
+ve:
+
+SHIBUYA • SHINJUKU • HARAJUKU • AKIHABARA
+
+Genel estetik: üst düzey Japon sokak giyimi dergisi, siberpunk Tokyo, vintage seyahat posteri, çağdaş moda editoryali, analog baskı kolajı. Mat siyah, kömür rengi, krem, koyu gri ve derin kırmızı renk paleti. Güçlü fotoğrafik gerçekçilik, sinematik gece aydınlatması, ince film greni, hafif solmuş mürekkep, otantik kağıt dokusu, kusurlu baskı hizalaması, sofistike dergi tipografisi, dengeli negatif alan.
+
+Kompozisyon: merkezi tam boy özne, üst bölümü kaplayan büyük boy “TOKYO” başlığı, etrafını saran katmanlı Tokyo fotoğrafları, kırmızı grafik vurgular, vintage kağıt kenarlık, birinci sınıf editoryal mizanpaj.
+
+Fotogerçekçi, son derece detaylı, sinematik, 8K, gerçekçi cilt, gerçekçi kıyafet dokuları, profesyonel moda fotoğrafçılığı, otantik vintage baskı bitişi, modern dijital kullanıcı arayüzü ögeleri yok.
 ```
 
 [↑ Kategorilere dön](#catalog)

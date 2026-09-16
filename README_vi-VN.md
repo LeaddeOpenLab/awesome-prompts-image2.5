@@ -2281,13 +2281,13 @@ Tạo một bản đồ thu nhỏ 3D quyến rũ của [COUNTRY] với đường
 
 <a name="prompt-2100265645103612367"></a>
 
-### Đang dịch
+### Lời nhắc tạo bảng sprite sheet hành động dạng pixel art 2D gồm 16 khung hình xếp lưới 4x4 của quái vật đậu tằm &quot;Soramameman&quot;.
 
 Tác giả：[@nostalGGames](https://x.com/nostalGGames) · [Bài gốc](https://x.com/nostalGGames/status/2100265645103612367)
 
 Nghệ thuật Pixel · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc tạo bảng sprite sheet hành động dạng pixel art 2D gồm 16 khung hình xếp lưới 4x4 của quái vật đậu tằm &quot;Soramameman&quot;.
 
 <img src="images/2100265645103612367-1.png" alt="Hình ảnh 1" width="480" />
 
@@ -2296,7 +2296,11 @@ Nghệ thuật Pixel · Đã xuất bản
 **Câu lệnh**
 
 ```text
-Đang dịch
+- Quái vật được hiện thực hóa từ linh hồn đậu tằm
+- Có hai mắt
+- Biến Soramameman thành dạng pixel art 2D
+- Tạo character atlas cho các hành động
+- Xuất sprite dưới dạng 16 khung hình hành động xếp thành lưới 4x4
 ```
 
 [↑ Về danh mục](#catalog)
@@ -2495,13 +2499,13 @@ Bài gốc：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Bài gốc](https://x.c
 
 <a name="prompt-2100099718605135962"></a>
 
-### Đang dịch
+### Lời nhắc áp phích du lịch phong cách dạo phố Nhật Bản cổ điển với người mẫu thời trang chiến thuật trên nền ảnh ghép đô thị cùng kiểu chữ trên giấy cũ.
 
 Tác giả：[@harboriis](https://x.com/harboriis) · [Bài gốc](https://x.com/harboriis/status/2100099718605135962)
 
 Áp phích / Tờ rơi · Cổ điển / Cổ điển · Người có ảnh hưởng / Người mẫu · Mặt hàng thời trang · Quang cảnh thành phố / Đường phố · Văn bản / Kiểu chữ · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc áp phích du lịch phong cách dạo phố Nhật Bản cổ điển với người mẫu thời trang chiến thuật trên nền ảnh ghép đô thị cùng kiểu chữ trên giấy cũ.
 
 <img src="images/2100099718605135962-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -2514,7 +2518,42 @@ Tác giả：[@harboriis](https://x.com/harboriis) · [Bài gốc](https://x.com
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một áp phích thời trang du lịch phong cách biên tập siêu thực dọc tỉ lệ 4:5 lấy cảm hứng từ bìa tạp chí đường phố Nhật Bản cổ điển.
+
+Một phụ nữ trẻ đứng nổi bật ở trung tâm tiền cảnh, được chụp từ góc hơi thấp. Cô có mái tóc sẫm màu búi cao rối với những lọn tóc buông lơi ôm lấy khuôn mặt, đeo kính râm ôm sát màu đen mang phong cách tương lai nhỏ hẹp và nhìn nhẹ về phía máy ảnh với biểu cảm tự tin, điềm tĩnh. Cô mặc một chiếc áo khoác tiện ích kỹ thuật màu đen dáng rộng phủ đầy dây đai, khóa cài, khóa kéo, túi, miếng dán in hình, nhãn mác và các chi tiết phản quang tinh tế đầy chân thực, kết hợp với trang phục phong cách chiến thuật tối màu và một chiếc túi tiện ích lớn màu đen. Giữ nguyên kết cấu vải chân thực và tỷ lệ tự nhiên.
+
+Bối cảnh là một bức tranh ghép collage cảnh đường phố đêm Tokyo, với những con phố neon ướt sũng dưới mưa, biển hiệu cửa hàng Nhật Bản, những con hẻm đô thị hẹp, Tháp Tokyo rực sáng trong đêm và một chuyến tàu Tokyo đang tiến vào ga. Sắp xếp một vài bức ảnh hình chữ nhật xung quanh chủ thể trung tâm ở các góc nghiêng nhẹ khác nhau, tạo nên bố cục sổ lưu niệm biên tập thủ công. Sử dụng giấy cũ màu trắng ngà làm nền chính với hạt giấy tinh tế, các cạnh sờn, nếp gấp, vết ố và kết cấu in ấn cổ điển.
+
+Ở phía trên cùng, thêm kiểu chữ in đậm màu đen cực lớn có nội dung:
+
+TOKYO
+
+Bên dưới là dòng chữ serif in nghiêng nhỏ thanh lịch:
+
+FUTURE IS NOW
+
+Thêm các khối văn bản biên tập nhỏ như:
+
+“Where tradition meets technology, and every street tells a story of tomorrow.”
+
+Bao gồm các biểu tượng quả địa cầu tối giản, các đường nét đồ họa kỹ thuật, các yếu tố mã vạch, tọa độ, nhãn nhỏ và các ký hiệu biên tập tương lai.
+
+Sử dụng các mảng đồ họa màu đỏ và đen lấy cảm hứng từ Nhật Bản xuyên suốt bố cục. Thêm một mảng dọc màu đỏ ở bên phải với kiểu chữ tiếng Nhật, một thẻ đồ họa màu đỏ ở góc dưới bên trái chứa các ký tự tiếng Nhật lớn, và một mảng ảnh màu đỏ khác ở góc dưới bên phải hiển thị bóng đen của người phụ nữ.
+
+Bao gồm kiểu chữ nhỏ như:
+
+35.6895° N
+139.6917° E
+
+và:
+
+SHIBUYA • SHINJUKU • HARAJUKU • AKIHABARA
+
+Thẩm mỹ tổng thể: tạp chí thời trang dạo phố cao cấp của Nhật Bản, Tokyo cyberpunk, áp phích du lịch cổ điển, biên tập thời trang đương đại, ảnh ghép in analog. Bảng màu gồm đen trầm, than củi, kem, xám đậm và đỏ thẫm. Tính hiện thực nhiếp ảnh mạnh mẽ, ánh sáng ban đêm mang tính điện ảnh, hạt phim tinh tế, mực hơi phai, kết cấu giấy chân thực, độ lệch màu in không hoàn hảo, kiểu chữ tạp chí tinh tế, khoảng trống tiêu cực cân đối.
+
+Bố cục: chủ thể toàn thân ở trung tâm, tiêu đề “TOKYO” cỡ lớn chiếm phần trên, các bức ảnh Tokyo xếp lớp bao quanh cô, điểm nhấn đồ họa màu đỏ, viền giấy cổ điển, bố cục biên tập cao cấp.
+
+Ảnh chân thực, có độ chi tiết cao, đậm chất điện ảnh, 8K, da chân thực, kết cấu quần áo chân thực, nhiếp ảnh thời trang chuyên nghiệp, độ hoàn thiện bản in cổ điển chân thực, không có các yếu tố giao diện người dùng kỹ thuật số hiện đại.
 ```
 
 [↑ Về danh mục](#catalog)
