@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**120** Prompt · Ultima aggiunta: **2026-09-16**
+**127** Prompt · Ultima aggiunta: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -113,20 +113,20 @@ Traduzione in corso
 
 <a name="prompt-2099374878910734661"></a>
 
-### Paesaggio surreale di canyon in 9:16, gigantesco anello di nuvole vorticose con effetto time-stack a lunga esposizione, viaggiatore di spalle sul fondo della valle.
+### Traduzione in corso
 
 Autore：[@listudio](https://x.com/listudio) · [Post originale](https://x.com/listudio/status/2099374878910734661)
 
 Fotografia · Paesaggio / Natura · Pubblicato
 
-**Riepilogo:** Paesaggio surreale di canyon in 9:16, gigantesco anello di nuvole vorticose con effetto time-stack a lunga esposizione, viaggiatore di spalle sul fondo della valle.
+**Riepilogo:** Traduzione in corso
 
 <img src="images/2099374878910734661-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Crea una fotografia time-stack iperrealista e surreale di un canyon in formato verticale 9:16. Un fondovalle ampio e arido, affiancato da imponenti pareti rocciose stratificate verticali nei toni del marrone caldo, ocra e nero antracite che si innalzano dai bordi del primo piano, formando una cornice naturale scura, con la texture della roccia e della ghiaia che mantiene dettagli nitidi. Nel cielo, tra il piano medio e lo sfondo del canyon, appare un gigantesco anello di nuvole vorticose che occupa gran parte dell'area centrale, rivelando al centro del foro circolare un sereno cielo grigio-blu. Utilizza un effetto di lunga esposizione da postazione fissa combinato con un time-stack a più fotogrammi: spessi cumuli ruotano lentamente nella stessa direzione di rotazione, fondendosi in linee di flusso concentriche, continue e morbide; la parete interna presenta centinaia e migliaia di delicate striature nuvolose ad arco e i bordi del foro mostrano morbide scie di rotazione; le nuvole mantengono un volume realistico di luci e ombre e una consistenza bianco latte, senza sembrare un tunnel solido e senza artefatti o rumore frammentato. Il fondo della valle si allarga in primo piano e converge verso la lontananza; un viaggiatore adulto di spalle si trova in basso al centro, occupando solo circa il 2% dell'altezza del fotogramma e rimanendo nitido. La calda luce del sole in alto a destra filtra tra gli squarci delle nuvole; l'esposizione continua diffonde delicatamente le alte luci, illuminando la parete di nuvole di destra e i bordi rocciosi; la roccia calda, il cielo freddo grigio-blu e le nuvole bianco latte brillanti creano una sobria relazione tricromatica. Grana della pellicola sottile, prospettiva aerea naturale, silenzio epico e senso di maestosità opprimente. Il motion blur si applica solo alle nuvole e a un leggero velo di polvere; le pareti rocciose, il fondovalle e la persona restano perfettamente nitidi. Senza edifici, senza fitta boscaglia, senza uccelli in volo, senza scritte, senza loghi, senza filigrane, senza fulmini.
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -290,6 +290,54 @@ Post originale：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Post originale](htt
 <img src="images/2098799449237782991-1.jpg" alt="Immagine 1" width="480" />
 
 <img src="images/2098799449237782991-2.jpg" alt="Immagine 2" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2098797110401335713"></a>
+
+### Traduzione in corso
+
+Autore：[@sdjn\_wgc](https://x.com/sdjn_wgc) · [Post originale](https://x.com/sdjn_wgc/status/2098797110401335713)
+
+Fotografia · Ritratto / Selfie · Architettura / Interni · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2098797110401335713-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2098779220566839714"></a>
+
+### Traduzione in corso
+
+Autore：[@AI\_money\_club](https://x.com/AI_money_club) · [Post originale](https://x.com/AI_money_club/status/2098779220566839714)
+
+Fotografia · Personaggio · Cibo / Bevande · Pubblicato
+
+Post originale：[@AI\_money\_club](https://x.com/AI_money_club) · [Post originale](https://x.com/AI_money_club/status/2098767892028535126)
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2098779220566839714-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2098779220566839714-2.jpg" alt="Immagine 2" width="480" />
 
 **Prompt**
 
@@ -645,15 +693,37 @@ Traduzione in corso
 
 ---
 
+<a name="prompt-2099470719235318149"></a>
+
+### Traduzione in corso
+
+Autore：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Post originale](https://x.com/CyberTotal2026/status/2099470719235318149)
+
+Fotografia · Ritratto / Selfie · Personaggio · Articolo di moda · Architettura / Interni · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2099470719235318149-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
 <a name="prompt-2099370474455396482"></a>
 
-### Ritratto da studio fotorealistico di un'elegante donna che indossa un abito midi nero sartoriale.
+### Traduzione in corso
 
 Autore：[@MissDelulu9](https://x.com/MissDelulu9) · [Post originale](https://x.com/MissDelulu9/status/2099370474455396482)
 
 Fotografia · Ritratto / Selfie · Personaggio · Articolo di moda · Pubblicato
 
-**Riepilogo:** Ritratto da studio fotorealistico di un'elegante donna che indossa un abito midi nero sartoriale.
+**Riepilogo:** Traduzione in corso
 
 <img src="images/2099370474455396482-1.jpg" alt="Immagine 1" width="480" />
 
@@ -662,7 +732,7 @@ Fotografia · Ritratto / Selfie · Personaggio · Articolo di moda · Pubblicato
 **Prompt**
 
 ```text
-Crea un ritratto a figura intera da studio altamente fotorealistico di un'elegante donna adulta che indossa un sofisticato abito formale midi nero con maniche lunghe, vita sartoriale, tessuto pregiato e trama sottile. Gioielli minimali, eleganti tacchi a punta, capelli lisci e lucenti, trucco naturale e delicato, espressione dolce e sicura di sé. Sfondo di uno studio di moda di lusso, illuminazione morbida e diffusa, texture della pelle realistica, proporzioni naturali, fotografia editoriale cinematografica, obiettivo da 85 mm, ultra-dettagliato, 8K, nessun testo, nessuna filigrana.
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -759,7 +829,7 @@ Non omettere il lago alpino e il caffè freddo in basso a sinistra
 
 <a name="prompt-2099400168433152293"></a>
 
-### Prompt per un ritratto a distanza ravvicinata di una donna che guarda la fotocamera con occhi lucidi.
+### Traduzione in corso
 
 Autore：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Post originale](https://x.com/CyberTotal2026/status/2099400168433152293)
 
@@ -767,7 +837,7 @@ Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
 
 Post originale：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Post originale](https://x.com/CyberTotal2026/status/2093263569249005578)
 
-**Riepilogo:** Prompt per un ritratto a distanza ravvicinata di una donna che guarda la fotocamera con occhi lucidi.
+**Riepilogo:** Traduzione in corso
 
 <img src="images/2099400168433152293-1.jpg" alt="Immagine 1" width="480" />
 
@@ -776,29 +846,7 @@ Post originale：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Post origin
 **Prompt**
 
 ```text
-Tema:
-Ritratto a distanza ravvicinata con occhi lucidi
-
-Soggetto:
-Una fotografia verticale scattata dall'alto a distanza ravvicinata di una donna sui vent'anni. Il soggetto occupa ampiamente il centro dell'inquadratura, sporgendo la parte superiore del corpo in avanti mentre guarda verso l'alto verso la fotocamera. Una mano è leggermente aperta a coppa appena sotto la bocca, con poche gocce d'acqua trasparenti posate sul palmo. Uno sfondo interno scuro e un'atmosfera intima tipica della vicinanza ravvicinata.
-
-Persona ed espressione:
-Tratti del viso piccoli e tondeggianti con una mascella morbida. Grandi occhi castani che guardano dritto verso la fotocamera, con gli angoli esterni leggermente all'ingiù che conferiscono un'impressione pacata. Sulla palpebra inferiore è presente un velo naturale di lacrime, con una minuscola lacrima appena visibile vicino all'angolo esterno dell'occhio, senza sembrare un viso in lacrime. Sopracciglia castane sottili, blush rosa chiaro, ciglia delicate e labbra lucide rosa beige. Lunghi capelli castano chiaro con onde morbide, frangia sottile e ciocche sottili che incorniciano le guance.
-
-Abbigliamento e posa:
-Top smanicato a coste sottili rosa chiaro. È visibile un profondo scollo a V con un piccolo fiocco al centro, abbinato sotto a un capo corto color avorio chiaro. Busto inclinato verso la fotocamera e spalle leggermente rientrate. Una mano sotto il viso con il palmo rivolto verso l'alto e le dita naturalmente incurvate per raccogliere una piccola quantità di gocce d'acqua.
-
-Sfondo e luce:
-Interno caratterizzato da tonalità marrone scuro e nero. Sul fondo a sinistra si intravedono mobili scuri e piccoli fogli di carta sfocati, mentre sul fondo a destra compaiono un mobile contenitore nero e piccoli oggetti bianchi sfocati. Una luce calda e morbida proveniente dal fronte illumina chiaramente viso, capelli, spalle e palmo della mano, mentre lo sfondo degrada nel buio. La pelle presenta una lucentezza discreta, con piccoli riflessi sulle pupille e sulla superficie delle lacrime.
-
-Composizione e fotocamera:
-Verticale 4:3. Ritratto a distanza estremamente ravvicinata con il viso posizionato ampiamente al centro della metà superiore dell'inquadratura. Prospettiva leggermente dall'alto con effetto grandangolare, che mette fortemente in primo piano viso e mano. Inquadratura che va dalla sommità del capo al petto e a parte delle cosce, con il palmo della mano sovrapposto nella parte inferiore centrale dell'inquadratura. Messa a fuoco netta su viso e occhi, con sfondo morbidamente sfocato.
-
-Texture e stile:
-Resa fotografica realistica. Pelle liscia che conserva la grana naturale, capelli morbidi visibili filo per filo, tessuto a coste, gocce d'acqua e trasparenza delle lacrime resi nei minimi dettagli. Toni caldi e morbidi, evitando HDR eccessivo o filtri leviganti marcati. Tridimensionalità tipica dello scatto ravvicinato e atmosfera naturale come una foto di vita quotidiana.
-
-Negativo:
-Lacrime grandi e innaturali; espressione gonfia di pianto
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -882,6 +930,28 @@ Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
 **Riepilogo:** Traduzione in corso
 
 <img src="images/2099262094302761246-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2099152153722159320"></a>
+
+### Traduzione in corso
+
+Autore：[@Aqsahere\_](https://x.com/Aqsahere_) · [Post originale](https://x.com/Aqsahere_/status/2099152153722159320)
+
+Fotografia · Ritratto / Selfie · Personaggio · Articolo di moda · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2099152153722159320-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
@@ -2290,6 +2360,30 @@ Traduzione in corso
 
 ---
 
+<a name="prompt-2098762789489873062"></a>
+
+### Traduzione in corso
+
+Autore：[@lovimg\_com](https://x.com/lovimg_com) · [Post originale](https://x.com/lovimg_com/status/2098762789489873062)
+
+Poster / Volantino · Illustrazione · Retro / Vintage · Articolo di moda · Testo / Tipografia · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2098762789489873062-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2098762789489873062-2.jpg" alt="Immagine 2" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
 <a name="prompt-2098314775344394279"></a>
 
 ### Prompt per foto di gruppo delle Otto Bellezze di Qinhuai con flash diretto CCD in stile classico
@@ -2675,7 +2769,7 @@ Silenzioso, poetico, raffinato, minimale, innocente, artistico, riflessivo, prem
 
 <a name="prompt-2100102387323076955"></a>
 
-### Traduzione in corso
+### Genera una raccolta in griglia 3x3 di scatti spontanei falliti di dilettanti
 
 Autore：[@AI\_jacksaku](https://x.com/AI_jacksaku) · [Post originale](https://x.com/AI_jacksaku/status/2100102387323076955)
 
@@ -2683,7 +2777,7 @@ Altro · Pubblicato
 
 Post originale：[@AI\_jacksaku](https://x.com/AI_jacksaku) · [Post originale](https://x.com/AI_jacksaku/status/2097878193013199231)
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Genera una raccolta in griglia 3x3 di scatti spontanei falliti di dilettanti
 
 <img src="images/2100102387323076955-1.jpg" alt="Immagine 1" width="480" />
 
@@ -2692,7 +2786,7 @@ Post originale：[@AI\_jacksaku](https://x.com/AI_jacksaku) · [Post originale](
 **Prompt**
 
 ```text
-Traduzione in corso
+Numerose foto fallite di dilettanti, 3x3, 9:16
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -3308,6 +3402,28 @@ Cristiano Ronaldo che mangia uno shawarma
 
 ---
 
+<a name="prompt-2097582500273115191"></a>
+
+### Traduzione in corso
+
+Autore：[@ky6001481673691](https://x.com/ky6001481673691) · [Post originale](https://x.com/ky6001481673691/status/2097582500273115191)
+
+Ritratto / Selfie · Personaggio · Articolo di moda · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2097582500273115191-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
 <a name="prompt-2097558679956664521"></a>
 
 ### Ritratto horror cibernetico con un umanoide emaciato con maschera di porcellana fessurata, cavi sulla testa e illuminazione monocromatica ad alto contrasto.
@@ -3448,6 +3564,30 @@ Scena 5 (7–9s): Il flacone viene tenuto con eleganza in una mano e ruotato len
 Scena 6 (9–10s): Inquadratura hero finale del flacone Cheng Guang Cocoa Soft Glow circondato da fave di cacao e foglie. La telecamera si avvicina lentamente, sottili effetti scintillanti, sfondo caldo e lussuoso, composizione pulita focalizzata sul prodotto.
 
 Stile: fotorealistico, pubblicità di bellezza premium, illuminazione cinematografica, movimenti delle mani realistici, transizioni fluide della telecamera, profondità di campo ridotta, bokeh morbido, toni dorati caldi, 4K, altamente dettagliato, movimento naturale, nessuna distorsione, nessun prodotto aggiuntivo, nessuna modifica all'etichetta del flacone o al marchio.
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2098762663941832907"></a>
+
+### Traduzione in corso
+
+Autore：[@lovimg\_com](https://x.com/lovimg_com) · [Post originale](https://x.com/lovimg_com/status/2098762663941832907)
+
+Poster / Volantino · Testo / Tipografia · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2098762663941832907-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2098762663941832907-2.jpg" alt="Immagine 2" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)
