@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-16T04:34:53.205Z",
+  "model": "image2.5",
+  "prompt": "真实东方女性 × 纳米级真人 × 穿梭在巨大存储单元之间 × DRAM存储城市 × 纳米摩天大楼 × 密集晶体管阵列 × 电子显微镜视角抓拍 × 微观黑色背景\n\n图2\n\n真实东方女性 × 纳米级真人 × 穿梭在巨大存储结构之间 × 可爱俏皮表情 × 双手扶着巨大存储结构探头张望 × 3D NAND存储城市 × 纳米摩天大楼 × 无限堆叠存储单元 × 电子显微镜视角抓拍 × 微观黑色背景",
+  "promptTranslations": {
+    "en": "Realistic East Asian woman × nanoscale real person × weaving between gigantic memory cells × DRAM memory city × nano skyscrapers × dense transistor array × electron microscope perspective snapshot × microscopic black background\\n\\nImage 2\\n\\nRealistic East Asian woman × nanoscale real person × weaving between gigantic memory structures × cute and playful expression × holding onto a massive memory structure with both hands, peeking out and looking around × 3D NAND memory city × nano skyscrapers × infinitely stacked memory cells × electron microscope perspective snapshot × microscopic black background"
+  },
+  "summaryTranslations": {
+    "en": "A nanoscale East Asian woman navigating DRAM and 3D NAND memory cell skyscraper chip cities from a microscopic electron microscope perspective."
+  },
+  "translationVersion": 2,
+  "summary": "微观电子显微镜视角下的纳米级东方女性穿梭于DRAM与3D NAND存储单元摩天大楼芯片城市。",
+  "summaryEn": "Nanoscale Asian woman navigating through DRAM and 3D NAND memory city skyscrapers under electron microscope perspective.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2099508984541769771",
+      "canonicalUrl": "https://x.com/DeepBlueX0/status/2099508984541769771",
+      "author": {
+        "username": "DeepBlueX0",
+        "displayName": "DeepBlue深藍",
+        "profileUrl": "https://x.com/DeepBlueX0"
+      },
+      "originalText": "行星级恒星级巨人～\n\n🔵 GPT image 2.5 Prompt:\n\n真实东方汉服女性 × 行星级真人放大 × 手托🌍 × 😜👌 × 月球视角CCD相机抓拍 × 黑色宇宙背景\n——————————\n\n通用模版：\n\n真实【人物身份】 × 【超尺度设定】 × 【核心动作＋主体】 × 【emoji 表情＋手势】 × 【特殊视角＋相机抓拍】 × 【背景环境】 https://t.co/r4ppQiCyxY"
+    },
+    "id": "2100051568154538130",
+    "canonicalUrl": "https://x.com/DeepBlueX0/status/2100051568154538130",
+    "author": {
+      "username": "DeepBlueX0",
+      "displayName": "DeepBlue深藍",
+      "profileUrl": "https://x.com/DeepBlueX0"
+    },
+    "publishedAt": "2026-09-16T02:38:05.000Z",
+    "collectedAt": "2026-09-16T04:17:07.209Z",
+    "language": "zh",
+    "originalText": "就想看看这存储芯片是不是金子做的？\n\n🔵 GPT image 2.5 Prompt:\n\n图1\n\n真实东方女性 × 纳米级真人 × 穿梭在巨大存储单元之间 × DRAM存储城市 × 纳米摩天大楼 × 密集晶体管阵列 × 电子显微镜视角抓拍 × 微观黑色背景\n\n图2\n\n真实东方女性 × 纳米级真人 × 穿梭在巨大存储结构之间 × 可爱俏皮表情 × 双手扶着巨大存储结构探头张望 × 3D NAND存储城市 × 纳米摩天大楼 × 无限堆叠存储单元 × 电子显微镜视角抓拍 × 微观黑色背景",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSThw72a4AAC2eZ.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSThw72a4AAC2eZ.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSThw71aAAAZh_w.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSThw71aAAAZh_w.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSL0SPwaQAAr7fX.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSL0SPwaQAAr7fX.jpg",
+        "sourcePostId": "2099508984541769771"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSL0SPqa0AAjWnl.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSL0SPqa0AAjWnl.jpg",
+        "sourcePostId": "2099508984541769771"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSL0SPkaoAAdQzo.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSL0SPkaoAAdQzo.jpg",
+        "sourcePostId": "2099508984541769771"
+      }
+    ],
+    "metrics": {
+      "likeCount": 4,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 369
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/DeepBlueX0/status/2100051568154538130",
+  "coverUrl": "https://pbs.twimg.com/media/HSThw72a4AAC2eZ.jpg",
+  "coverPath": "images/2100051568154538130-1.jpg",
+  "imagePaths": [
+    "images/2100051568154538130-1.jpg",
+    "images/2100051568154538130-2.jpg",
+    "images/2100051568154538130-3.jpg",
+    "images/2100051568154538130-4.jpg",
+    "images/2100051568154538130-5.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSThw72a4AAC2eZ",
+    "x-image:/media/HSThw71aAAAZh_w",
+    "x-image:/media/HSL0SPwaQAAr7fX",
+    "x-image:/media/HSL0SPqa0AAjWnl",
+    "x-image:/media/HSL0SPkaoAAdQzo",
+    "x-post:2100051568154538130",
+    "x-post:2099508984541769771"
+  ],
+  "analysis": {
+    "summary": "微观电子显微镜视角下的纳米级东方女性穿梭于DRAM与3D NAND存储单元摩天大楼芯片城市。",
+    "summaryEn": "Nanoscale Asian woman navigating through DRAM and 3D NAND memory city skyscrapers under electron microscope perspective.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "图1与图2中生动展示了纳米级东方女性穿梭在标注有DRAM及3D NAND的巨大微观存储芯片阵列建筑间，视角和背景设定与提示词完全相符。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "真实东方女性 × 纳米级真人 × 穿梭在巨大存储单元之间 × DRAM存储城市 × 纳米摩天大楼 × 密集晶体管阵列 × 电子显微镜视角抓拍 × 微观黑色背景\n\n图2\n\n真实东方女性 × 纳米级真人 × 穿梭在巨大存储结构之间 × 可爱俏皮表情 × 双手扶着巨大存储结构探头张望 × 3D NAND存储城市 × 纳米摩天大楼 × 无限堆叠存储单元 × 电子显微镜视角抓拍 × 微观黑色背景",
+    "sourceRange": {
+      "start": 48,
+      "end": 242
+    },
+    "translations": {
+      "zh": "真实东方女性 × 纳米级真人 × 穿梭在巨大存储单元之间 × DRAM存储城市 × 纳米摩天大楼 × 密集晶体管阵列 × 电子显微镜视角抓拍 × 微观黑色背景\n\n图2\n\n真实东方女性 × 纳米级真人 × 穿梭在巨大存储结构之间 × 可爱俏皮表情 × 双手扶着巨大存储结构探头张望 × 3D NAND存储城市 × 纳米摩天大楼 × 无限堆叠存储单元 × 电子显微镜视角抓拍 × 微观黑色背景",
+      "en": "Realistic East Asian female × nanoscale human × traversing among huge memory units × DRAM memory city × nano skyscrapers × dense transistor array × electron microscope snapshot angle × microscopic black background\n\nImage 2\n\nRealistic East Asian female × nanoscale human × traversing among huge memory structures × cute and playful expression × holding huge memory structures with both hands peeking out × 3D NAND memory city × nano skyscrapers × infinitely stacked memory cells × electron microscope snapshot angle × microscopic black background"
+    },
+    "targetModels": [
+      "image2.5"
+    ],
+    "category": "text-to-image",
+    "useCase": "微观芯片世界与纳米级人物写实概念设计",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
