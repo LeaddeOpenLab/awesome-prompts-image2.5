@@ -35,7 +35,7 @@ Adicione uma estrela a este repositório para acompanhar a nossa seleção diár
 
 <a name="prompt-2100101909634036032"></a>
 
-### Tradução em curso
+### Imagem em grelha 3x3 a reunir fotografias instantâneas quotidianas falhadas de amadores.
 
 Autor：[@cnyzgkc](https://x.com/cnyzgkc) · [Publicação original](https://x.com/cnyzgkc/status/2100101909634036032)
 
@@ -43,7 +43,7 @@ Fotografia · Retrato / Selfie · Publicado
 
 Publicação original：[@KinGao476942](https://x.com/KinGao476942) · [Publicação original](https://x.com/KinGao476942/status/2100086793995706689)
 
-**Resumo:** Tradução em curso
+**Resumo:** Imagem em grelha 3x3 a reunir fotografias instantâneas quotidianas falhadas de amadores.
 
 <img src="images/2100101909634036032-1.jpg" alt="Imagem 1" width="480" />
 
@@ -54,7 +54,7 @@ Publicação original：[@KinGao476942](https://x.com/KinGao476942) · [Publica�
 **Prompt**
 
 ```text
-Tradução em curso
+Inúmeras fotografias falhadas de amadores, 3x3, 9:16
 ```
 
 [↑ Voltar às categorias](#catalog)

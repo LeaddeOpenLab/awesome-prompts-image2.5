@@ -35,7 +35,7 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 
 <a name="prompt-2100101909634036032"></a>
 
-### Çeviri sürüyor
+### Amatörlerin günlük hayatta çektiği başarısız enstantane fotoğrafları bir araya getiren 3x3 ızgara görseli.
 
 Yazar：[@cnyzgkc](https://x.com/cnyzgkc) · [Orijinal gönderi](https://x.com/cnyzgkc/status/2100101909634036032)
 
@@ -43,7 +43,7 @@ Fotoğrafçılık · Portre / Selfie · Yayımlandı
 
 Orijinal gönderi：[@KinGao476942](https://x.com/KinGao476942) · [Orijinal gönderi](https://x.com/KinGao476942/status/2100086793995706689)
 
-**Özet:** Çeviri sürüyor
+**Özet:** Amatörlerin günlük hayatta çektiği başarısız enstantane fotoğrafları bir araya getiren 3x3 ızgara görseli.
 
 <img src="images/2100101909634036032-1.jpg" alt="Görsel 1" width="480" />
 
@@ -54,7 +54,7 @@ Orijinal gönderi：[@KinGao476942](https://x.com/KinGao476942) · [Orijinal gö
 **İstem**
 
 ```text
-Çeviri sürüyor
+Amatörlerin çok sayıda başarısız fotoğrafı, 3x3, 9:16
 ```
 
 [↑ Kategorilere dön](#catalog)

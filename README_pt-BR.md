@@ -35,7 +35,7 @@ Dê uma estrela a este repositório para acompanhar nossa seleção diária de p
 
 <a name="prompt-2100101909634036032"></a>
 
-### Tradução em andamento
+### Imagem em grade 3x3 reunindo fotos instantâneas cotidianas que deram errado tiradas por amadores.
 
 Autor：[@cnyzgkc](https://x.com/cnyzgkc) · [Publicação original](https://x.com/cnyzgkc/status/2100101909634036032)
 
@@ -43,7 +43,7 @@ Fotografia · Retrato / Selfie · Publicado
 
 Publicação original：[@KinGao476942](https://x.com/KinGao476942) · [Publicação original](https://x.com/KinGao476942/status/2100086793995706689)
 
-**Resumo:** Tradução em andamento
+**Resumo:** Imagem em grade 3x3 reunindo fotos instantâneas cotidianas que deram errado tiradas por amadores.
 
 <img src="images/2100101909634036032-1.jpg" alt="Imagem 1" width="480" />
 
@@ -54,7 +54,7 @@ Publicação original：[@KinGao476942](https://x.com/KinGao476942) · [Publica�
 **Prompt**
 
 ```text
-Tradução em andamento
+Inúmeras fotos com falhas de amadores, 3x3, 9:16
 ```
 
 [↑ Voltar às categorias](#catalog)

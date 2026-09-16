@@ -35,7 +35,7 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 
 <a name="prompt-2100101909634036032"></a>
 
-### Đang dịch
+### Hình ảnh lưới 3x3 tập hợp những bức ảnh chụp nhanh đời thường bị hỏng của người nghiệp dư.
 
 Tác giả：[@cnyzgkc](https://x.com/cnyzgkc) · [Bài gốc](https://x.com/cnyzgkc/status/2100101909634036032)
 
@@ -43,7 +43,7 @@ Nhiếp ảnh · Chân dung / Ảnh tự chụp · Đã xuất bản
 
 Bài gốc：[@KinGao476942](https://x.com/KinGao476942) · [Bài gốc](https://x.com/KinGao476942/status/2100086793995706689)
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Hình ảnh lưới 3x3 tập hợp những bức ảnh chụp nhanh đời thường bị hỏng của người nghiệp dư.
 
 <img src="images/2100101909634036032-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -54,7 +54,7 @@ Bài gốc：[@KinGao476942](https://x.com/KinGao476942) · [Bài gốc](https:/
 **Câu lệnh**
 
 ```text
-Đang dịch
+Vô số bức ảnh chụp hỏng của người nghiệp dư, 3x3, 9:16
 ```
 
 [↑ Về danh mục](#catalog)

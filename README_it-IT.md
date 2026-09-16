@@ -35,7 +35,7 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 
 <a name="prompt-2100101909634036032"></a>
 
-### Traduzione in corso
+### Immagine a griglia 3x3 che raccoglie istantanee quotidiane fallite scattate da dilettanti.
 
 Autore：[@cnyzgkc](https://x.com/cnyzgkc) · [Post originale](https://x.com/cnyzgkc/status/2100101909634036032)
 
@@ -43,7 +43,7 @@ Fotografia · Ritratto / Selfie · Pubblicato
 
 Post originale：[@KinGao476942](https://x.com/KinGao476942) · [Post originale](https://x.com/KinGao476942/status/2100086793995706689)
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Immagine a griglia 3x3 che raccoglie istantanee quotidiane fallite scattate da dilettanti.
 
 <img src="images/2100101909634036032-1.jpg" alt="Immagine 1" width="480" />
 
@@ -54,7 +54,7 @@ Post originale：[@KinGao476942](https://x.com/KinGao476942) · [Post originale]
 **Prompt**
 
 ```text
-Traduzione in corso
+Numerose foto fallite di dilettanti, 3x3, 9:16
 ```
 
 [↑ Torna alle categorie](#catalog)

@@ -35,7 +35,7 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 
 <a name="prompt-2100101909634036032"></a>
 
-### Traduction en cours
+### Image en grille 3x3 rassemblant des instantanés quotidiens ratés d'amateurs.
 
 Auteur：[@cnyzgkc](https://x.com/cnyzgkc) · [Publication originale](https://x.com/cnyzgkc/status/2100101909634036032)
 
@@ -43,7 +43,7 @@ Photographie · Portrait / Selfie · Publié
 
 Publication originale：[@KinGao476942](https://x.com/KinGao476942) · [Publication originale](https://x.com/KinGao476942/status/2100086793995706689)
 
-**Résumé:** Traduction en cours
+**Résumé:** Image en grille 3x3 rassemblant des instantanés quotidiens ratés d'amateurs.
 
 <img src="images/2100101909634036032-1.jpg" alt="Image 1" width="480" />
 
@@ -54,7 +54,7 @@ Publication originale：[@KinGao476942](https://x.com/KinGao476942) · [Publicat
 **Consigne**
 
 ```text
-Traduction en cours
+De nombreuses photos ratées d'amateurs, 3x3, 9:16
 ```
 
 [↑ Retour aux catégories](#catalog)

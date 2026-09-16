@@ -35,7 +35,7 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 
 <a name="prompt-2100101909634036032"></a>
 
-### Übersetzung läuft
+### Ein 3x3-Rasterbild, das alltägliche, misslungene Amateur-Schnappschüsse sammelt.
 
 Autor：[@cnyzgkc](https://x.com/cnyzgkc) · [Originalbeitrag](https://x.com/cnyzgkc/status/2100101909634036032)
 
@@ -43,7 +43,7 @@ Fotografie · Porträt / Selfie · Veröffentlicht
 
 Originalbeitrag：[@KinGao476942](https://x.com/KinGao476942) · [Originalbeitrag](https://x.com/KinGao476942/status/2100086793995706689)
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Ein 3x3-Rasterbild, das alltägliche, misslungene Amateur-Schnappschüsse sammelt.
 
 <img src="images/2100101909634036032-1.jpg" alt="Bild 1" width="480" />
 
@@ -54,7 +54,7 @@ Originalbeitrag：[@KinGao476942](https://x.com/KinGao476942) · [Originalbeitra
 **Prompt**
 
 ```text
-Übersetzung läuft
+Zahlreiche misslungene Amateurfotos, 3x3, 9:16
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

@@ -35,7 +35,7 @@ Dale una estrella a este repositorio para seguir nuestra selección diaria y des
 
 <a name="prompt-2100101909634036032"></a>
 
-### Traducción en curso
+### Imagen en cuadrícula de 3x3 que recopila fotos instantáneas fallidas cotidianas de aficionados.
 
 Autor：[@cnyzgkc](https://x.com/cnyzgkc) · [Publicación original](https://x.com/cnyzgkc/status/2100101909634036032)
 
@@ -43,7 +43,7 @@ Fotografía · Retrato / Selfie · Publicado
 
 Publicación original：[@KinGao476942](https://x.com/KinGao476942) · [Publicación original](https://x.com/KinGao476942/status/2100086793995706689)
 
-**Resumen:** Traducción en curso
+**Resumen:** Imagen en cuadrícula de 3x3 que recopila fotos instantáneas fallidas cotidianas de aficionados.
 
 <img src="images/2100101909634036032-1.jpg" alt="Imagen 1" width="480" />
 
@@ -54,7 +54,7 @@ Publicación original：[@KinGao476942](https://x.com/KinGao476942) · [Publicac
 **Prompt**
 
 ```text
-Traducción en curso
+Muchas fotos fallidas de aficionados, 3x3, 9:16
 ```
 
 [↑ Volver a categorías](#catalog)
