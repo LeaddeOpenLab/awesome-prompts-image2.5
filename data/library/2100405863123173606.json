@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-17T04:26:09.868Z",
+  "model": "image2.5",
+  "prompt": "以提供的苹果桌面图片为首帧，16:9，15 秒，固定镜头，一镜到底。保持女子的五官、黑色侠客服装、发型及蓝色雾气背景一致，保留桌面图标、菜单栏与 Dock。 \n0—4 秒：桌面壁纸中的女子突然动起来，神情淡定，用手中同一把短刀连续向上抛接两次，刀刃在空中旋转，动作自然，发丝轻轻飘动。 \n4—6 秒：第三次抛接时失手，短刀脱手，刀尖朝观众方向飞来，撞上屏幕玻璃。伴随清脆的玻璃碎裂声，撞击点瞬间扩散出蛛网状裂纹，覆盖在人物和桌面 UI 前方，画面短促震动一次。 \n6—9 秒：女子先愣住，随即睁大眼睛、皱眉，露出明显着急、闯祸后的慌张表情。她看看裂纹，又看向观众，手忙脚乱地试图遮住裂纹，发现遮不住。 \n9—14 秒：她突然想到办法，伸手点击右上角的控制中心，打开带太阳图标的屏幕亮度控件，急促地将亮度滑块向左调低。每次操作都让整个屏幕同步变暗，人物、背景、图标和裂纹一起逐渐隐入黑暗；她一边操作，一边心虚地看向观众，最后将亮度调至最低。\n14—15 秒：画面完全纯黑，保持一秒，不出现任何文字或标志。 声音：开头是轻快的武侠器乐和飞刀旋转的破风声；撞击时音乐骤停，突出玻璃碎裂声；随后保留慌乱的衣料摩擦声和 UI 点击声，最终安静收尾。 约束：不切镜头、不变换人物、不更换背景、不新增人物或飞刀、不出现实体电脑外框或键盘。裂纹始终固定在屏幕玻璃平面上。最后变黑必须由女子操作亮度控件触发，不能突然切黑",
+  "promptTranslations": {
+    "en": "Using the provided Apple desktop image as the first frame, 16:9, 15 seconds, fixed camera, continuous one-shot. Maintain consistency in the woman's facial features, black martial artist outfit, hairstyle, and blue misty background; preserve desktop icons, menu bar, and the Dock.\n0–4 seconds: The woman in the desktop wallpaper suddenly comes to life with a calm expression, tossing and catching the same short dagger twice consecutively into the air; the blade spins in mid-air with natural movement, and strands of her hair gently drift.\n4–6 seconds: On the third toss, she fumbles, and the short dagger slips from her hand; the blade tip flies toward the audience and strikes the screen glass. Accompanied by a crisp sound of shattering glass, web-like cracks instantly radiate from the impact point, overlaying in front of the character and desktop UI, accompanied by a brief screen shake.\n6–9 seconds: The woman freezes at first, then widens her eyes and furrows her brows, showing an overtly flustered and panicked expression of someone who just caused trouble. She looks at the cracks, then looks at the audience, hurriedly trying to cover the cracks with her hands only to find it impossible.\n9–14 seconds: She suddenly gets an idea, reaches out to click the Control Center in the top-right corner, opens the screen brightness slider with the sun icon, and frantically drags the brightness slider to the left to lower it. Each adjustment synchronizes with the entire screen dimming, causing the character, background, icons, and cracks to gradually fade into darkness together; as she adjusts it, she glances guiltily toward the audience, finally pulling the brightness to the absolute lowest.\n14–15 seconds: The screen turns completely pitch black and holds for one second, without any text or logo appearing.\nAudio: Begins with brisk martial arts instrumental music and the whooshing sound of the spinning dagger cutting through the air; the music cuts out abruptly upon impact, emphasizing the sound of shattering glass; followed by sounds of flustered fabric rustling and UI clicking, ending in complete silence.\nConstraints: No camera cuts, no character changes, no background changes, no additional characters or flying daggers, no physical computer frame or keyboard. Cracks must remain permanently fixed on the screen glass plane. The final darkening must be triggered by the woman operating the brightness slider, not by a sudden cut to black."
+  },
+  "summaryTranslations": {
+    "en": "Creative video prompt starting with a Mac desktop: A black-clad female warrior in the wallpaper fumbles a thrown dagger, shattering the screen glass, and in a panic opens the Control Center to dim the screen and conceal the cracks."
+  },
+  "translationVersion": 2,
+  "summary": "以Mac桌面为首帧的创意视频提示词：壁纸中的黑衣女侠抛飞刀失手打碎屏幕玻璃，慌乱中打开控制中心调暗屏幕掩盖裂纹。",
+  "summaryEn": "A creative video prompt using a Mac desktop as the initial frame: a female warrior in wallpaper accidentally cracks the screen glass with a tossed dagger and dims display brightness to hide the damage.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100405863123173606",
+    "canonicalUrl": "https://x.com/TanLuAI/status/2100405863123173606",
+    "author": {
+      "username": "TanLuAI",
+      "displayName": "探路AI",
+      "profileUrl": "https://x.com/TanLuAI"
+    },
+    "publishedAt": "2026-09-17T02:05:56.000Z",
+    "collectedAt": "2026-09-17T04:16:57.158Z",
+    "language": "zh",
+    "originalText": "完了完了  闯祸了~第一女主把新买的Mac桌面搞碎了😆\n\n参考@PixelAigc 的提示词 做的一个黑衣刀客版的桌面视频\n\n视频模型用的seedance 2.0（每日免费额度）\n\n图片是GPT image 2.5（大家也可以设为壁纸 以后再截图）\n\n提示词：\n以提供的苹果桌面图片为首帧，16:9，15 秒，固定镜头，一镜到底。保持女子的五官、黑色侠客服装、发型及蓝色雾气背景一致，保留桌面图标、菜单栏与 Dock。 \n0—4 秒：桌面壁纸中的女子突然动起来，神情淡定，用手中同一把短刀连续向上抛接两次，刀刃在空中旋转，动作自然，发丝轻轻飘动。 \n4—6 秒：第三次抛接时失手，短刀脱手，刀尖朝观众方向飞来，撞上屏幕玻璃。伴随清脆的玻璃碎裂声，撞击点瞬间扩散出蛛网状裂纹，覆盖在人物和桌面 UI 前方，画面短促震动一次。 \n6—9 秒：女子先愣住，随即睁大眼睛、皱眉，露出明显着急、闯祸后的慌张表情。她看看裂纹，又看向观众，手忙脚乱地试图遮住裂纹，发现遮不住。 \n9—14 秒：她突然想到办法，伸手点击右上角的控制中心，打开带太阳图标的屏幕亮度控件，急促地将亮度滑块向左调低。每次操作都让整个屏幕同步变暗，人物、背景、图标和裂纹一起逐渐隐入黑暗；她一边操作，一边心虚地看向观众，最后将亮度调至最低。\n14—15 秒：画面完全纯黑，保持一秒，不出现任何文字或标志。 声音：开头是轻快的武侠器乐和飞刀旋转的破风声；撞击时音乐骤停，突出玻璃碎裂声；随后保留慌乱的衣料摩擦声和 UI 点击声，最终安静收尾。 约束：不切镜头、不变换人物、不更换背景、不新增人物或飞刀、不出现实体电脑外框或键盘。裂纹始终固定在屏幕玻璃平面上。最后变黑必须由女子操作亮度控件触发，不能突然切黑",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/TanLuAI/status/2100405863123173606",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2100404208872919040/img/JMxfQF64saAPo_ae.jpg",
+        "analysisUrl": "https://x.com/TanLuAI/status/2100405863123173606"
+      }
+    ],
+    "metrics": {
+      "likeCount": 26,
+      "repostCount": 2,
+      "replyCount": 3,
+      "quoteCount": 0,
+      "viewCount": 1617
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/TanLuAI/status/2100405863123173606",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2100404208872919040/img/JMxfQF64saAPo_ae.jpg",
+  "coverPath": "covers/2100405863123173606.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2100404208872919040",
+    "x-post:2100405863123173606"
+  ],
+  "analysis": {
+    "summary": "以Mac桌面为首帧的创意视频提示词：壁纸中的黑衣女侠抛飞刀失手打碎屏幕玻璃，慌乱中打开控制中心调暗屏幕掩盖裂纹。",
+    "summaryEn": "A creative video prompt using a Mac desktop as the initial frame: a female warrior in wallpaper accidentally cracks the screen glass with a tossed dagger and dims display brightness to hide the damage.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "视频完整呈现了首帧Mac桌面壁纸中黑衣女子抛刀失手、屏幕击裂扩散裂纹、慌张遮挡以及拉出控制中心将亮度滑至最低黑屏的全部动作和时间线。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "以提供的苹果桌面图片为首帧，16:9，15 秒，固定镜头，一镜到底。保持女子的五官、黑色侠客服装、发型及蓝色雾气背景一致，保留桌面图标、菜单栏与 Dock。 \n0—4 秒：桌面壁纸中的女子突然动起来，神情淡定，用手中同一把短刀连续向上抛接两次，刀刃在空中旋转，动作自然，发丝轻轻飘动。 \n4—6 秒：第三次抛接时失手，短刀脱手，刀尖朝观众方向飞来，撞上屏幕玻璃。伴随清脆的玻璃碎裂声，撞击点瞬间扩散出蛛网状裂纹，覆盖在人物和桌面 UI 前方，画面短促震动一次。 \n6—9 秒：女子先愣住，随即睁大眼睛、皱眉，露出明显着急、闯祸后的慌张表情。她看看裂纹，又看向观众，手忙脚乱地试图遮住裂纹，发现遮不住。 \n9—14 秒：她突然想到办法，伸手点击右上角的控制中心，打开带太阳图标的屏幕亮度控件，急促地将亮度滑块向左调低。每次操作都让整个屏幕同步变暗，人物、背景、图标和裂纹一起逐渐隐入黑暗；她一边操作，一边心虚地看向观众，最后将亮度调至最低。\n14—15 秒：画面完全纯黑，保持一秒，不出现任何文字或标志。 声音：开头是轻快的武侠器乐和飞刀旋转的破风声；撞击时音乐骤停，突出玻璃碎裂声；随后保留慌乱的衣料摩擦声和 UI 点击声，最终安静收尾。 约束：不切镜头、不变换人物、不更换背景、不新增人物或飞刀、不出现实体电脑外框或键盘。裂纹始终固定在屏幕玻璃平面上。最后变黑必须由女子操作亮度控件触发，不能突然切黑",
+    "sourceRange": {
+      "start": 131,
+      "end": 732
+    },
+    "translations": {
+      "zh": "以提供的苹果桌面图片为首帧，16:9，15 秒，固定镜头，一镜到底。保持女子的五官、黑色侠客服装、发型及蓝色雾气背景一致，保留桌面图标、菜单栏与 Dock。 \n0—4 秒：桌面壁纸中的女子突然动起来，神情淡定，用手中同一把短刀连续向上抛接两次，刀刃在空中旋转，动作自然，发丝轻轻飘动。 \n4—6 秒：第三次抛接时失手，短刀脱手，刀尖朝观众方向飞来，撞上屏幕玻璃。伴随清脆的玻璃碎裂声，撞击点瞬间扩散出蛛网状裂纹，覆盖在人物和桌面 UI 前方，画面短促震动一次。 \n6—9 秒：女子先愣住，随即睁大眼睛、皱眉，露出明显着急、闯祸后的慌张表情。她看看裂纹，又看向观众，手忙脚乱地试图遮住裂纹，发现遮不住。 \n9—14 秒：她突然想到办法，伸手点击右上角的控制中心，打开带太阳图标的屏幕亮度控件，急促地将亮度滑块向左调低。每次操作都让整个屏幕同步变暗，人物、背景、图标和裂纹一起逐渐隐入黑暗；她一边操作，一边心虚地看向观众，最后将亮度调至最低。\n14—15 秒：画面完全纯黑，保持一秒，不出现任何文字或标志。 声音：开头是轻快的武侠器乐和飞刀旋转的破风声；撞击时音乐骤停，突出玻璃碎裂声；随后保留慌乱的衣料摩擦声和 UI 点击声，最终安静收尾。 约束：不切镜头、不变换人物、不更换背景、不新增人物或飞刀、不出现实体电脑外框或键盘。裂纹始终固定在屏幕玻璃平面上。最后变黑必须由女子操作亮度控件触发，不能突然切黑",
+      "en": "Use the provided Apple desktop image as the first frame, 16:9, 15 seconds, fixed camera, single take. Keep the woman's facial features, black warrior outfit, hairstyle, and blue misty background consistent, retaining desktop icons, menu bar, and Dock. \n0-4s: The woman moves calmly, tossing and catching a short knife twice as the blade spins. \n4-6s: On the third toss she fumbles; the knife hits the screen glass, spreading web-like cracks over the UI with a brief screen shake. \n6-9s: Shocked and panicked, she frantically tries and fails to cover the crack with her hands. \n9-14s: She pulls down the top-right Control Center and drags the brightness slider down, dimming the screen to black while looking guiltily at the viewer. \n14-15s: Solid black screen for 1 second. Audio: martial arts instrumental and blade swooshes, sudden stop on glass shatter, rustling fabric and UI clicks, ending quietly. Constraints: no cuts, keep character/background identical, cracks stay fixed on glass, screen dimming triggered only by slider."
+    },
+    "targetModels": [
+      "image2.5"
+    ],
+    "category": "image-to-video",
+    "useCase": "creative_video",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}

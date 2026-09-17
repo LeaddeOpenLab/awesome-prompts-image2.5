@@ -19,7 +19,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**128** 条内容 · 最新收录: **2026-09-17**
+**131** 条内容 · 最新收录: **2026-09-17**
 
 <a name="catalog"></a>
 
@@ -560,6 +560,50 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 ```text
 树林中一片空地的照片，周围有大量绿叶植物，细节极其丰富
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
+
+<a name="prompt-2100425761840890004"></a>
+
+### 翻译中
+
+作者：[@CyberTotal2026](https://x.com/CyberTotal2026) · [查看 X 原帖](https://x.com/CyberTotal2026/status/2100425761840890004)
+
+摄影 · 人像 / 自拍 · 角色 · 时尚单品 · 已推流
+
+**概括:** 翻译中
+
+<img src="images/2100425761840890004-1.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
+
+<a name="prompt-2100394808036516139"></a>
+
+### 翻译中
+
+作者：[@CyberTotal2026](https://x.com/CyberTotal2026) · [查看 X 原帖](https://x.com/CyberTotal2026/status/2100394808036516139)
+
+摄影 · 人像 / 自拍 · 角色 · 风景 / 自然 · 已推流
+
+**概括:** 翻译中
+
+<img src="images/2100394808036516139-1.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
 ```
 
 [↑ 返回分类目录](#catalog)
@@ -2898,6 +2942,28 @@ SHIBUYA • SHINJUKU • HARAJUKU • AKIHABARA
 <a name="category-other"></a>
 
 ## 其他
+
+<a name="prompt-2100405863123173606"></a>
+
+### 翻译中
+
+作者：[@TanLuAI](https://x.com/TanLuAI) · [查看 X 原帖](https://x.com/TanLuAI/status/2100405863123173606)
+
+摘要 / 背景 · 已推流
+
+**概括:** 翻译中
+
+<img src="covers/2100405863123173606.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
 
 <a name="prompt-2100255511228932598"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**128** Prompts · Latest addition: **2026-09-17**
+**131** Prompts · Latest addition: **2026-09-17**
 
 <a name="catalog"></a>
 
@@ -617,6 +617,94 @@ Photography · Landscape / Nature · Published
 
 ```text
 Photo of a clearing in the woods with lots of green foliage, highly detailed
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2100425761840890004"></a>
+
+### A full-body mirror selfie of a woman wearing dusty mauve attire, reflected in a hotel's arched mirror.
+
+Author：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Source](https://x.com/CyberTotal2026/status/2100425761840890004)
+
+Photography · Portrait / Selfie · Character · Fashion Item · Published
+
+**Summary:** A full-body mirror selfie of a woman wearing dusty mauve attire, reflected in a hotel's arched mirror.
+
+<img src="images/2100425761840890004-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Theme:
+Mauve in the Mirror
+
+Subject:
+In the center of the frame, a full-body selfie taken by a young woman in a hotel hallway is reflected in a large arched mirror with a black frame. Inside the mirror, a polished beige stone floor, a wooden sliding door, and a bedside table with a black lamp in the far left of the frame are visible, with the mirror frame enclosing the entire perimeter of the image.
+
+Person / Expression:
+Brown hair loosely gathered at the back of the head into an updo accented with pearl-like ornaments, wispy bangs, and loose strands along the cheeks; slender brown eyes, and pale rose cheeks and lips. Her face is turned slightly downward to the right toward her smartphone, with a calm expression as she checks the screen.
+
+Clothing / Pose:
+A dusty mauve short-sleeved crop top featuring a deep V-neckline, cascading ruffles, and thin lace-up ties in the center. Greige high-cut bottoms paired with a matching sheer knee-length pencil skirt, a black chain bag, a wide silver bangle, and delicate black thong sandals. She holds a black smartphone with her right hand while her left hand gently pulls at the waist of her skirt.
+
+Background / Lighting:
+A modern hotel guest room background featuring the encircling black mirror frame, a warm wooden wall on the right side of the frame, a beige stone floor in the foreground, and a black table lamp on the left. The overhead ceiling light serves as the primary light source, complemented by the lamp in the far left, casting soft, warm light evenly across the figure, with slender reflections stretching across the stone floor.
+
+Composition / Camera:
+A 7:10 vertical composition with a level camera positioned directly in front of the arched mirror, framing the subject from head to toe in the center with a standard field of view equivalent to a smartphone. The mirror frame is left on all four edges, with margin also left on the floor below her feet. Clear focus is maintained on the full body inside the mirror, while the bedroom in the background is softly blurred.
+
+Texture / Style:
+Photorealistic live-action photograph. A serene hotel mirror selfie exquisitely capturing the updo hair, ruffles and lace-up details, sheer mesh skirt, metallic jewelry, and reflections on the stone floor and mirror.
+
+Negative:
+Changes to the mauve outfit and its sheer texture; missing mirror frame or incomplete full body
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2100394808036516139"></a>
+
+### Portrait prompt of a young woman in a white bikini standing by a resort poolside at dusk.
+
+Author：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Source](https://x.com/CyberTotal2026/status/2100394808036516139)
+
+Photography · Portrait / Selfie · Character · Landscape / Nature · Published
+
+**Summary:** Portrait prompt of a young woman in a white bikini standing by a resort poolside at dusk.
+
+<img src="images/2100394808036516139-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Subject:
+Sunset Melting by the Water
+
+Main Subject:
+On the left side of the frame, a young woman stands by the water at a modern resort poolside at dusk. In the background on the right, a calm infinity pool, closed white parasols, and distant mountain ridges are visible; on the left, a bar lounge with warm lighting; at the top, white architecture and glass railings.
+
+Person / Expression:
+Wet-look light brown hair touching her shoulders, wispy bangs falling on her forehead, brown eyes and long eyelashes visible in profile, a straight nose bridge, and natural coral lips. In a three-quarter profile facing toward the upper left of the frame, with a calm, dignified expression gazing into the distance.
+
+Attire / Pose:
+A white triangle bikini swimsuit top with thin shoulder and neck straps, paired with white drawstring wide-leg pants worn low on the waist. Standing straight with both arms behind her back and shoulders pulled back, turning only her upper torso slightly to the left.
+
+Background / Lighting:
+The background consists of gray stone flooring in the foreground, a calm water surface and evening sky on the right, and white architecture with warm bar lighting on the left. The warm indoor lighting on the left acts as the primary light source illuminating the subject in soft amber, supplemented by cool diffused light from the sky on the far right, creating elongated reflections on the water surface.
+
+Composition / Camera:
+4:5 vertical composition, shot with a standard lens positioned slightly higher than waist level, framing from the top of the head to the upper thighs. The subject is placed prominently toward the left side of the frame, leaving ample negative space for the pool and evening sky on the right half. The pants are cropped at the bottom edge, with sharp focus on the face and upper body, and the distant background softly blurred.
+
+Texture / Style:
+Photorealistic live-action photograph. High detail in the wet hair, skin catching the evening light, pleats of the white swimsuit, thin pants, and reflections on the water and glass, rendered in an elegant twilight color palette blending blue and amber.
+
+Negative:
+Changes to a frontal face or smiling expression; changes to the white swimsuit and low-waisted pants
 ```
 
 [↑ Back to categories](#catalog)
@@ -3192,6 +3280,35 @@ Create ONE independent high-end editorial poster for EACH uploaded photo. Never 
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2100405863123173606"></a>
+
+### Creative video prompt starting with a Mac desktop: A black-clad female warrior in the wallpaper fumbles a thrown dagger, shattering the screen glass, and in a panic opens the Control Center to dim the screen and conceal the cracks.
+
+Author：[@TanLuAI](https://x.com/TanLuAI) · [Source](https://x.com/TanLuAI/status/2100405863123173606)
+
+Abstract / Background · Published
+
+**Summary:** Creative video prompt starting with a Mac desktop: A black-clad female warrior in the wallpaper fumbles a thrown dagger, shattering the screen glass, and in a panic opens the Control Center to dim the screen and conceal the cracks.
+
+<img src="covers/2100405863123173606.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Using the provided Apple desktop image as the first frame, 16:9, 15 seconds, fixed camera, continuous one-shot. Maintain consistency in the woman's facial features, black martial artist outfit, hairstyle, and blue misty background; preserve desktop icons, menu bar, and the Dock.
+0–4 seconds: The woman in the desktop wallpaper suddenly comes to life with a calm expression, tossing and catching the same short dagger twice consecutively into the air; the blade spins in mid-air with natural movement, and strands of her hair gently drift.
+4–6 seconds: On the third toss, she fumbles, and the short dagger slips from her hand; the blade tip flies toward the audience and strikes the screen glass. Accompanied by a crisp sound of shattering glass, web-like cracks instantly radiate from the impact point, overlaying in front of the character and desktop UI, accompanied by a brief screen shake.
+6–9 seconds: The woman freezes at first, then widens her eyes and furrows her brows, showing an overtly flustered and panicked expression of someone who just caused trouble. She looks at the cracks, then looks at the audience, hurriedly trying to cover the cracks with her hands only to find it impossible.
+9–14 seconds: She suddenly gets an idea, reaches out to click the Control Center in the top-right corner, opens the screen brightness slider with the sun icon, and frantically drags the brightness slider to the left to lower it. Each adjustment synchronizes with the entire screen dimming, causing the character, background, icons, and cracks to gradually fade into darkness together; as she adjusts it, she glances guiltily toward the audience, finally pulling the brightness to the absolute lowest.
+14–15 seconds: The screen turns completely pitch black and holds for one second, without any text or logo appearing.
+Audio: Begins with brisk martial arts instrumental music and the whooshing sound of the spinning dagger cutting through the air; the music cuts out abruptly upon impact, emphasizing the sound of shattering glass; followed by sounds of flustered fabric rustling and UI clicking, ending in complete silence.
+Constraints: No camera cuts, no character changes, no background changes, no additional characters or flying daggers, no physical computer frame or keyboard. Cracks must remain permanently fixed on the screen glass plane. The final darkening must be triggered by the woman operating the brightness slider, not by a sudden cut to black.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2100255511228932598"></a>
 

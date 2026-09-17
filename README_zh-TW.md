@@ -19,7 +19,7 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 為儲存庫加上 Star，追蹤每日精選提示詞，持續獲得創作靈感。
 
-**128** 筆內容 · 最新收錄: **2026-09-17**
+**131** 筆內容 · 最新收錄: **2026-09-17**
 
 <a name="catalog"></a>
 
@@ -560,6 +560,50 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 ```text
 樹林中一片空地的照片，周圍有大量綠葉植物，細節極其豐富
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
+
+<a name="prompt-2100425761840890004"></a>
+
+### 翻譯中
+
+作者：[@CyberTotal2026](https://x.com/CyberTotal2026) · [查看 X 原帖](https://x.com/CyberTotal2026/status/2100425761840890004)
+
+攝影 · 人像 / 自拍 · 角色 · 時尚單品 · 已推流
+
+**概括:** 翻譯中
+
+<img src="images/2100425761840890004-1.jpg" alt="圖片 1" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
+
+<a name="prompt-2100394808036516139"></a>
+
+### 翻譯中
+
+作者：[@CyberTotal2026](https://x.com/CyberTotal2026) · [查看 X 原帖](https://x.com/CyberTotal2026/status/2100394808036516139)
+
+攝影 · 人像 / 自拍 · 角色 · 風景 / 大自然 · 已推流
+
+**概括:** 翻譯中
+
+<img src="images/2100394808036516139-1.jpg" alt="圖片 1" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
 ```
 
 [↑ 返回分類目錄](#catalog)
@@ -2898,6 +2942,28 @@ SHIBUYA • SHINJUKU • HARAJUKU • AKIHABARA
 <a name="category-other"></a>
 
 ## 其他
+
+<a name="prompt-2100405863123173606"></a>
+
+### 翻譯中
+
+作者：[@TanLuAI](https://x.com/TanLuAI) · [查看 X 原帖](https://x.com/TanLuAI/status/2100405863123173606)
+
+摘要 / 背景 · 已推流
+
+**概括:** 翻譯中
+
+<img src="covers/2100405863123173606.jpg" alt="圖片 1" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
 
 <a name="prompt-2100255511228932598"></a>
 

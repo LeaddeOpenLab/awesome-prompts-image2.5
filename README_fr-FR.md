@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**128** Prompts · Dernier ajout: **2026-09-17**
+**131** Prompts · Dernier ajout: **2026-09-17**
 
 <a name="catalog"></a>
 
@@ -555,6 +555,50 @@ Photographie · Paysage / Nature · Publié
 
 ```text
 Photo d'une clairière dans les bois avec un feuillage vert abondant, très détaillée
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2100425761840890004"></a>
+
+### Traduction en cours
+
+Auteur：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publication originale](https://x.com/CyberTotal2026/status/2100425761840890004)
+
+Photographie · Portrait / Selfie · Personnage · Article de mode · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2100425761840890004-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2100394808036516139"></a>
+
+### Traduction en cours
+
+Auteur：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publication originale](https://x.com/CyberTotal2026/status/2100394808036516139)
+
+Photographie · Portrait / Selfie · Personnage · Paysage / Nature · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2100394808036516139-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -2891,6 +2935,28 @@ Calme, poétique, raffiné, minimaliste, innocent, artistique, réfléchi, haut 
 <a name="category-other"></a>
 
 ## Autres
+
+<a name="prompt-2100405863123173606"></a>
+
+### Traduction en cours
+
+Auteur：[@TanLuAI](https://x.com/TanLuAI) · [Publication originale](https://x.com/TanLuAI/status/2100405863123173606)
+
+Résumé / Contexte · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2100405863123173606.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2100255511228932598"></a>
 
