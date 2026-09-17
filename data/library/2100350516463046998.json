@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-17T00:26:13.459Z",
+  "model": "image2",
+  "prompt": "主題：\n静かな夜のソファ\n\n主体：\n画面中央、薄暗いリビングの丸みあるブラウンレザーソファで若い女性が深くもたれてくつろぐ。画面左奥には横型ブラインド、白い曲線形の卓上ランプとキャビネット、画面右奥には立て掛けた額、右前景には丸いサイドテーブルと小さな金属物がある。\n\n人物・表情：\n顎下で丸く広がる無造作な黒髪ボブ、額に落ちる長めの束感前髪、大きな濃い茶色の瞳、細いアイライン、薄い赤みの頬、艶のあるくすみピンクの唇。顔を正面へ向け、わずかに顎を引き、落ち着いた無表情に近い眼差しでカメラを見る。\n\n服装・ポーズ：\n白い細肩紐のリブキャミソール型クロップトップ、濃紺のハイウエストショートパンツ、グレーの短いソックス。右腕を頭上へ曲げて手を髪に置き、左手を脚の間へ下ろし、左膝を高く立て、右脚を手前へ伸ばして広い奥行きを作る。\n\n背景・光：\n背景は中央のブラウンレザー、画面左のアイボリー家具と白壁、画面右の暗い木部を合わせた夜の室内。左奥と右奥の卓上ランプを光源に柔らかな暖色光が届き、顔と上半身を穏やかに照らし、周囲は深い茶色の陰影に沈む。\n\n構図・カメラ：\n9:16の縦長構図、ソファ前の低いカメラ位置から広角寄りで全身を頭上の手から足先までを収める。人物を中央に置き、手前へ伸びた右脚を大きく、左膝を左側に配置。右足は前景で軽くぼけ、顔にピント、背景は浅い被写界深度。\n\n質感・スタイル：\nフォトリアルな実写写真。無造作な黒髪、自然な肌、白いリブ生地、レザーの皺、布ソックス、暖かなランプの反射を精細にし、静かな夜の低彩度な色調にする。\n\nネガティブ：\n黒髪ボブと片腕を上げた姿勢の変更；脚の遠近感を弱めること",
+  "promptTranslations": {
+    "en": "Subject:\nQuiet night sofa\n\nMain Subject:\nIn the center of the frame, a young woman leans back deeply and relaxes on a rounded brown leather sofa in a dimly lit living room. In the background on the left are horizontal blinds, a white curved desk lamp, and a cabinet; in the background on the right is a leaning picture frame; in the right foreground is a round side table and a small metallic object.\n\nCharacter and Expression:\nA messy black bob flaring roundly below the jawline, long piecey bangs falling over the forehead, large dark brown eyes, thin eyeliner, slightly flushed cheeks, and glossy dusty-pink lips. Facing forward with the chin slightly pulled in, she gazes into the camera with a calm, almost neutral expression.\n\nClothing and Pose:\nA white ribbed camisole crop top with thin shoulder straps, dark navy high-waisted shorts, and short gray socks. Her right arm is bent above her head with her hand resting in her hair, her left hand rests down between her legs, her left knee is pulled up high, and her right leg is extended forward toward the viewer, creating a wide sense of depth.\n\nBackground and Light:\nThe background is a nighttime interior combining the central brown leather, ivory furniture and a white wall on the left, and dark woodwork on the right. Soft warm light reaches from desk lamps in the left and right background, gently illuminating her face and upper body while the surroundings sink into deep brown shadows.\n\nComposition and Camera:\nA 9:16 vertical composition, captured from a low camera position in front of the sofa with a wide-angle perspective to fit the full body from the hand above her head to her toes. The subject is positioned centrally, with the forward-extended right leg appearing large and the left knee placed on the left side. The right foot is slightly blurred in the foreground, focus is on the face, and the background has a shallow depth of field.\n\nTexture and Style:\nPhotorealistic real-life photography. Render messy black hair, natural skin, white ribbed fabric, leather creases, cloth socks, and warm lamp reflections in fine detail, with a low-saturation color palette befitting a quiet night.\n\nNegative:\nAltering the black bob hair and the pose with one arm raised; weakening the perspective of the legs"
+  },
+  "summaryTranslations": {
+    "en": "Realistic portrait prompt of a woman relaxing on a leather sofa in a dimly lit nighttime living room."
+  },
+  "translationVersion": 2,
+  "summary": "薄暗い夜のリビングでレザーソファにくつろぐ女性のリアルなポートレートプロンプト。",
+  "summaryEn": "Prompt for a photorealistic night portrait of a woman lounging on a leather sofa.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100350516463046998",
+    "canonicalUrl": "https://x.com/CyberTotal2026/status/2100350516463046998",
+    "author": {
+      "username": "CyberTotal2026",
+      "displayName": "Prompt アトリエ｜AI画像プロンプト",
+      "profileUrl": "https://x.com/CyberTotal2026"
+    },
+    "publishedAt": "2026-09-16T22:26:00.000Z",
+    "collectedAt": "2026-09-17T00:15:54.843Z",
+    "language": "ja",
+    "originalText": "静かな部屋で深呼吸。あたたかな灯りに包まれるだけで、少し力が抜ける🛋️🕯️🤍\n\n#AIart #AI写真 #くつろぎ時間\n\n【GPT Image2プロンプト】\n\n主題：\n静かな夜のソファ\n\n主体：\n画面中央、薄暗いリビングの丸みあるブラウンレザーソファで若い女性が深くもたれてくつろぐ。画面左奥には横型ブラインド、白い曲線形の卓上ランプとキャビネット、画面右奥には立て掛けた額、右前景には丸いサイドテーブルと小さな金属物がある。\n\n人物・表情：\n顎下で丸く広がる無造作な黒髪ボブ、額に落ちる長めの束感前髪、大きな濃い茶色の瞳、細いアイライン、薄い赤みの頬、艶のあるくすみピンクの唇。顔を正面へ向け、わずかに顎を引き、落ち着いた無表情に近い眼差しでカメラを見る。\n\n服装・ポーズ：\n白い細肩紐のリブキャミソール型クロップトップ、濃紺のハイウエストショートパンツ、グレーの短いソックス。右腕を頭上へ曲げて手を髪に置き、左手を脚の間へ下ろし、左膝を高く立て、右脚を手前へ伸ばして広い奥行きを作る。\n\n背景・光：\n背景は中央のブラウンレザー、画面左のアイボリー家具と白壁、画面右の暗い木部を合わせた夜の室内。左奥と右奥の卓上ランプを光源に柔らかな暖色光が届き、顔と上半身を穏やかに照らし、周囲は深い茶色の陰影に沈む。\n\n構図・カメラ：\n9:16の縦長構図、ソファ前の低いカメラ位置から広角寄りで全身を頭上の手から足先までを収める。人物を中央に置き、手前へ伸びた右脚を大きく、左膝を左側に配置。右足は前景で軽くぼけ、顔にピント、背景は浅い被写界深度。\n\n質感・スタイル：\nフォトリアルな実写写真。無造作な黒髪、自然な肌、白いリブ生地、レザーの皺、布ソックス、暖かなランプの反射を精細にし、静かな夜の低彩度な色調にする。\n\nネガティブ：\n黒髪ボブと片腕を上げた姿勢の変更；脚の遠近感を弱めること",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSB8SdUa4AEUJTP.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSB8SdUa4AEUJTP.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 27,
+      "repostCount": 1,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 961
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/CyberTotal2026/status/2100350516463046998",
+  "coverUrl": "https://pbs.twimg.com/media/HSB8SdUa4AEUJTP.jpg",
+  "coverPath": "images/2100350516463046998-1.jpg",
+  "imagePaths": [
+    "images/2100350516463046998-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSB8SdUa4AEUJTP",
+    "x-post:2100350516463046998"
+  ],
+  "analysis": {
+    "summary": "薄暗い夜のリビングでレザーソファにくつろぐ女性のリアルなポートレートプロンプト。",
+    "summaryEn": "Prompt for a photorealistic night portrait of a woman lounging on a leather sofa.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "添付画像の人物のポーズ（片腕を頭上、脚のパースペクティブ）、衣装（白キャミソール、濃紺ショートパンツ、グレーソックス）、ソファや卓上ランプの配置、構図がプロンプトと精密に一致しています。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "主題：\n静かな夜のソファ\n\n主体：\n画面中央、薄暗いリビングの丸みあるブラウンレザーソファで若い女性が深くもたれてくつろぐ。画面左奥には横型ブラインド、白い曲線形の卓上ランプとキャビネット、画面右奥には立て掛けた額、右前景には丸いサイドテーブルと小さな金属物がある。\n\n人物・表情：\n顎下で丸く広がる無造作な黒髪ボブ、額に落ちる長めの束感前髪、大きな濃い茶色の瞳、細いアイライン、薄い赤みの頬、艶のあるくすみピンクの唇。顔を正面へ向け、わずかに顎を引き、落ち着いた無表情に近い眼差しでカメラを見る。\n\n服装・ポーズ：\n白い細肩紐のリブキャミソール型クロップトップ、濃紺のハイウエストショートパンツ、グレーの短いソックス。右腕を頭上へ曲げて手を髪に置き、左手を脚の間へ下ろし、左膝を高く立て、右脚を手前へ伸ばして広い奥行きを作る。\n\n背景・光：\n背景は中央のブラウンレザー、画面左のアイボリー家具と白壁、画面右の暗い木部を合わせた夜の室内。左奥と右奥の卓上ランプを光源に柔らかな暖色光が届き、顔と上半身を穏やかに照らし、周囲は深い茶色の陰影に沈む。\n\n構図・カメラ：\n9:16の縦長構図、ソファ前の低いカメラ位置から広角寄りで全身を頭上の手から足先までを収める。人物を中央に置き、手前へ伸びた右脚を大きく、左膝を左側に配置。右足は前景で軽くぼけ、顔にピント、背景は浅い被写界深度。\n\n質感・スタイル：\nフォトリアルな実写写真。無造作な黒髪、自然な肌、白いリブ生地、レザーの皺、布ソックス、暖かなランプの反射を精細にし、静かな夜の低彩度な色調にする。\n\nネガティブ：\n黒髪ボブと片腕を上げた姿勢の変更；脚の遠近感を弱めること",
+    "sourceRange": {
+      "start": 81,
+      "end": 791
+    },
+    "translations": {
+      "zh": "主题：静谧夜晚的沙发。主体：画面中央，昏暗客厅中的圆弧棕色皮沙发上，一位年轻女性深深靠着放松。画面左后方有百叶窗、白色曲线台灯与边柜，右后方有倚靠的画框，右前景有圆形边几。人物与表情：齐下巴的自然凌乱黑短波波头，额前垂落长碎刘海，浓茶色大眼睛，淡眼线、微红面颊与光泽粉唇，正视镜头。服装与姿势：白色细带螺纹吊带短背心、深蓝高腰短裤、灰色短袜。右臂向上抬起搭在发间，左腿屈起，右腿向前伸展形成景深。背景与光影：暖光台灯照射面部与上半身。构图与风格：9:16低角度广角全身，真实摄影质感。",
+      "en": "Theme: Quiet night on a sofa. Subject: A young woman relaxes on a curved brown leather sofa in a dimly lit living room with blinds, lamps, and a side table. Features: Messy black chin-length bob, fringe bangs, dark brown eyes, soft blush, and glossy pink lips facing the camera. Attire/Pose: White ribbed cami crop top, navy high-waisted shorts, gray socks; right arm raised to her hair, left knee raised, right leg stretched forward creating wide depth. Light/Style: Warm table lamp lighting, 9:16 vertical low-angle wide shot, photorealistic style."
+    },
+    "targetModels": [
+      "image2"
+    ],
+    "category": "text-to-image",
+    "useCase": "AI photographic portrait",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
