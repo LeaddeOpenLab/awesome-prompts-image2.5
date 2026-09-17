@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**131** Prompt · Son eklenen: **2026-09-17**
+**134** Prompt · Son eklenen: **2026-09-17**
 
 <a name="catalog"></a>
 
@@ -555,6 +555,50 @@ Fotoğrafçılık · Manzara / Doğa · Yayımlandı
 
 ```text
 Ormanda bol yeşil yaprakları olan bir açıklığın fotoğrafı, son derece detaylı
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2100454954330980559"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Orijinal gönderi](https://x.com/CyberTotal2026/status/2100454954330980559)
+
+Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2100454954330980559-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2100486914876850304"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Orijinal gönderi](https://x.com/CyberTotal2026/status/2100486914876850304)
+
+Fotoğrafçılık · Karakter · Moda Ürünü · Özet / Arka Plan · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2100486914876850304-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -2920,6 +2964,30 @@ Sakin, şiirsel, zarif, minimal, masum, sanatsal, düşünceli, birinci sınıf 
 <a name="category-other"></a>
 
 ## Diğer
+
+<a name="prompt-2100498666763030990"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@lovimg\_com](https://x.com/lovimg_com) · [Orijinal gönderi](https://x.com/lovimg_com/status/2100498666763030990)
+
+Poster / El İlanı · Portre / Selfie · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2100498666763030990-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2100498666763030990-2.jpg" alt="Görsel 2" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2100405863123173606"></a>
 

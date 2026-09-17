@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**131** Prompts · Zuletzt hinzugefügt: **2026-09-17**
+**134** Prompts · Zuletzt hinzugefügt: **2026-09-17**
 
 <a name="catalog"></a>
 
@@ -555,6 +555,50 @@ Fotografie · Landschaft / Natur · Veröffentlicht
 
 ```text
 Foto einer Waldlichtung mit viel grünem Blattwerk, sehr detailliert
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2100454954330980559"></a>
+
+### Übersetzung läuft
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Originalbeitrag](https://x.com/CyberTotal2026/status/2100454954330980559)
+
+Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2100454954330980559-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2100486914876850304"></a>
+
+### Übersetzung läuft
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Originalbeitrag](https://x.com/CyberTotal2026/status/2100486914876850304)
+
+Fotografie · Charakter · Modeartikel · Zusammenfassung / Hintergrund · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2100486914876850304-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -2935,6 +2979,30 @@ Ruhig, poetisch, raffiniert, minimalistisch, unschuldig, künstlerisch, nachdenk
 <a name="category-other"></a>
 
 ## Sonstige
+
+<a name="prompt-2100498666763030990"></a>
+
+### Übersetzung läuft
+
+Autor：[@lovimg\_com](https://x.com/lovimg_com) · [Originalbeitrag](https://x.com/lovimg_com/status/2100498666763030990)
+
+Plakat / Flyer · Porträt / Selfie · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2100498666763030990-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2100498666763030990-2.jpg" alt="Bild 2" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2100405863123173606"></a>
 

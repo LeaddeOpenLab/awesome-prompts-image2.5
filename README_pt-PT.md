@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**131** Prompts · Adição mais recente: **2026-09-17**
+**134** Prompts · Adição mais recente: **2026-09-17**
 
 <a name="catalog"></a>
 
@@ -555,6 +555,50 @@ Fotografia · Paisagem / Natureza · Publicado
 
 ```text
 Fotografia de uma clareira na floresta com muita folhagem verde, altamente detalhada
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2100454954330980559"></a>
+
+### Tradução em curso
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicação original](https://x.com/CyberTotal2026/status/2100454954330980559)
+
+Fotografia · Retrato / Selfie · Personagem · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2100454954330980559-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2100486914876850304"></a>
+
+### Tradução em curso
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicação original](https://x.com/CyberTotal2026/status/2100486914876850304)
+
+Fotografia · Personagem · Item de Moda · Resumo / Contexto · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2100486914876850304-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -2920,6 +2964,30 @@ Tranquilo, poético, refinado, minimalista, inocente, artístico, ponderado, sof
 <a name="category-other"></a>
 
 ## Outros
+
+<a name="prompt-2100498666763030990"></a>
+
+### Tradução em curso
+
+Autor：[@lovimg\_com](https://x.com/lovimg_com) · [Publicação original](https://x.com/lovimg_com/status/2100498666763030990)
+
+Pôster / Folheto · Retrato / Selfie · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2100498666763030990-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2100498666763030990-2.jpg" alt="Imagem 2" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2100405863123173606"></a>
 

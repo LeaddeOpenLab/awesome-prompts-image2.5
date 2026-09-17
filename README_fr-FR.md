@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**131** Prompts · Dernier ajout: **2026-09-17**
+**134** Prompts · Dernier ajout: **2026-09-17**
 
 <a name="catalog"></a>
 
@@ -555,6 +555,50 @@ Photographie · Paysage / Nature · Publié
 
 ```text
 Photo d'une clairière dans les bois avec un feuillage vert abondant, très détaillée
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2100454954330980559"></a>
+
+### Traduction en cours
+
+Auteur：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publication originale](https://x.com/CyberTotal2026/status/2100454954330980559)
+
+Photographie · Portrait / Selfie · Personnage · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2100454954330980559-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2100486914876850304"></a>
+
+### Traduction en cours
+
+Auteur：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publication originale](https://x.com/CyberTotal2026/status/2100486914876850304)
+
+Photographie · Personnage · Article de mode · Résumé / Contexte · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2100486914876850304-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -2935,6 +2979,30 @@ Calme, poétique, raffiné, minimaliste, innocent, artistique, réfléchi, haut 
 <a name="category-other"></a>
 
 ## Autres
+
+<a name="prompt-2100498666763030990"></a>
+
+### Traduction en cours
+
+Auteur：[@lovimg\_com](https://x.com/lovimg_com) · [Publication originale](https://x.com/lovimg_com/status/2100498666763030990)
+
+Affiche / Flyer · Portrait / Selfie · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2100498666763030990-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2100498666763030990-2.jpg" alt="Image 2" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2100405863123173606"></a>
 

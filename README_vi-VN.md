@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**131** Prompt · Bổ sung mới nhất: **2026-09-17**
+**134** Prompt · Bổ sung mới nhất: **2026-09-17**
 
 <a name="catalog"></a>
 
@@ -560,6 +560,50 @@ Nhiếp ảnh · Phong cảnh / Thiên nhiên · Đã xuất bản
 
 ```text
 Ảnh chụp một bãi đất trống trong rừng với nhiều tán lá xanh tươi, rất chi tiết
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2100454954330980559"></a>
+
+### Đang dịch
+
+Tác giả：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Bài gốc](https://x.com/CyberTotal2026/status/2100454954330980559)
+
+Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2100454954330980559-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2100486914876850304"></a>
+
+### Đang dịch
+
+Tác giả：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Bài gốc](https://x.com/CyberTotal2026/status/2100486914876850304)
+
+Nhiếp ảnh · Nhân vật · Mặt hàng thời trang · Tóm tắt / Bối cảnh · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2100486914876850304-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
 ```
 
 [↑ Về danh mục](#catalog)
@@ -2942,6 +2986,30 @@ Tạo MỘT áp phích biên tập cao cấp độc lập cho MỖI bức ảnh 
 <a name="category-other"></a>
 
 ## Khác
+
+<a name="prompt-2100498666763030990"></a>
+
+### Đang dịch
+
+Tác giả：[@lovimg\_com](https://x.com/lovimg_com) · [Bài gốc](https://x.com/lovimg_com/status/2100498666763030990)
+
+Áp phích / Tờ rơi · Chân dung / Ảnh tự chụp · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2100498666763030990-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2100498666763030990-2.jpg" alt="Hình ảnh 2" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2100405863123173606"></a>
 

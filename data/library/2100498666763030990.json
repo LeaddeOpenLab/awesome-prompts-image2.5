@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-17T08:26:11.705Z",
+  "model": "image2.5",
+  "prompt": "请基于我上传的照片，制作一张独立的3:4竖版“焦外抽离双生”视觉海报。\n\n画面严格分为上下两个区域，高度1:1，各占50%。\n\n上下必须保持：\n\n同一个主体、同一张脸、同一个动作、同一个姿态、同一个视线方向、同一个主体位置、同一个场景、同一个拍摄角度、同一套构图关系。\n\n不要重新设计人物。\n\n不要更换背景。\n\n不要改变照片内容。\n\n上半部分｜REAL\n\n完整保留上传的原始照片。\n\n保持原始手机摄影、数码相机或生活抓拍质感。\n\n人物、背景、环境信息全部保留。\n\n可以进行轻度曝光和色彩整理，但不要改变景深关系。\n\n让观众能够明确看到照片原本的真实状态。\n\n下半部分｜85MM F/1.2\n\n严格基于上半部分相同画面重新模拟一次专业全画幅大光圈人像摄影。\n\n模拟：\n\n85mm全画幅定焦镜头，f/1.2光圈。\n\n主体眼睛、面部、主要轮廓保持高清锐利。\n\n根据真实空间距离重新计算景深。\n\n主体所在焦平面清晰。\n\n主体前后的环境按照距离逐级进入失焦状态。\n\n近距离背景保持少量结构。\n\n中距离背景开始柔化。\n\n远距离背景完全转化为自然奶油焦外。\n\n背景中的：\n\n路灯、车灯、橱窗、树叶反光、金属反射、阳光高光\n\n自然转化为不同大小、不同虚化程度的真实光学bokeh。\n\n焦外必须具有真实镜头特征：\n\n柔和圆形光斑、边缘轻微猫眼形变、高光渐变、前后景深层次、真实空间压缩感。\n\n人物头发、肩膀、衣服边缘不能出现人工抠图感。\n\n发丝与焦外之间需要自然过渡。\n\n保留轻微镜头呼吸、色散、颗粒、曝光误差和真实摄影缺陷。\n\n最终效果必须像：\n\n同一个摄影师没有移动位置，只把普通手机换成了一支85mm F1.2专业镜头重新拍了一次。\n\n禁止：\n\n整块背景高斯模糊。\n\n禁止背景变成没有空间层级的一团颜色。\n\n禁止把人物抠出来贴在模糊背景上。\n\n禁止换脸。\n\n禁止改变人物动作。\n\n禁止增加不存在的建筑或景物。\n\n禁止插画感。\n\n禁止过度磨皮。\n\n禁止塑料皮肤。\n\n禁止AI棚拍感。",
+  "promptTranslations": {
+    "en": "Please create a standalone 3:4 vertical \"Bokeh Isolation Twin\" visual poster based on my uploaded photo.\n\nThe frame is strictly divided into upper and lower regions, with a 1:1 height ratio, each occupying 50%.\n\nThe top and bottom must maintain:\n\nThe exact same subject, the same face, the same action, the same posture, the same gaze direction, the same subject position, the same scene, the same shooting angle, and the same compositional relationship.\n\nDo not redesign the person.\n\nDo not change the background.\n\nDo not alter the photo's content.\n\nUpper Half | REAL\n\nCompletely preserve the original uploaded photo.\n\nMaintain the original mobile phone photography, digital camera, or candid snapshot texture.\n\nFully retain the person, background, and environmental details.\n\nSlight exposure and color adjustments are allowed, but do not change the depth of field relationships.\n\nAllow the viewer to clearly see the original, authentic state of the photo.\n\nLower Half | 85MM F/1.2\n\nStrictly simulate a professional full-frame large-aperture portrait photograph based on the exact same frame as the upper half.\n\nSimulate:\n\nAn 85mm full-frame prime lens, f/1.2 aperture.\n\nThe subject's eyes, face, and primary contours remain high-definition and sharp.\n\nRecalculate depth of field based on real spatial distance.\n\nThe focal plane where the subject is located remains sharp.\n\nThe environment in front of and behind the subject enters a defocused state progressively according to distance.\n\nThe near background retains a small amount of structural definition.\n\nThe mid-distance background begins to soften.\n\nThe distant background is completely transformed into a natural, creamy bokeh.\n\nIn the background:\n\nStreetlights, car lights, display windows, leaf reflections, metal glints, and sunlight highlights\n\nNaturally transform into realistic optical bokeh of varying sizes and degrees of blur.\n\nThe out-of-focus areas must exhibit authentic lens characteristics:\n\nSoft circular light spots, slight cat-eye deformation at the edges, highlight gradients, foreground/background depth-of-field layering, and realistic spatial compression.\n\nThe subject's hair, shoulders, and clothing edges must not have an artificial cutout look.\n\nA natural transition between hair strands and the bokeh is required.\n\nPreserve subtle lens breathing, chromatic aberration, grain, exposure imperfections, and authentic photographic flaws.\n\nThe final result must look like:\n\nThe same photographer did not move positions, but simply switched from an ordinary smartphone to an 85mm F1.2 professional lens and shot it again.\n\nProhibited:\n\nGaussian blurring the entire background.\n\nProhibited: The background turning into a flat blob of color without spatial depth.\n\nProhibited: Cutting out the person and pasting them onto a blurred background.\n\nProhibited: Face swapping.\n\nProhibited: Changing the subject's pose or action.\n\nProhibited: Adding nonexistent buildings or scenery.\n\nProhibited: Illustrative or painterly look.\n\nProhibited: Excessive skin smoothing.\n\nProhibited: Plastic skin.\n\nProhibited: AI studio-shot look."
+  },
+  "summaryTranslations": {
+    "en": "Create a 3:4 comparison poster based on the uploaded photo, with the upper part featuring the snapshot texture of the original image, and the lower part simulating an 85mm F1.2 full-frame large-aperture creamy bokeh effect."
+  },
+  "translationVersion": 2,
+  "summary": "基于上传照片制作3:4对比海报，上部为原图抓拍质感，下部模拟85mm F1.2全画幅大光圈奶油焦外效果。",
+  "summaryEn": "Creates a 3:4 split comparison poster: original photo on top and simulated 85mm f/1.2 shallow DOF bokeh portrait on the bottom.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100498666763030990",
+    "canonicalUrl": "https://x.com/lovimg_com/status/2100498666763030990",
+    "author": {
+      "username": "lovimg_com",
+      "displayName": "lovimg_com",
+      "profileUrl": "https://x.com/lovimg_com"
+    },
+    "publishedAt": "2026-09-17T08:14:42.000Z",
+    "collectedAt": "2026-09-17T08:16:24.265Z",
+    "language": "zh",
+    "originalText": "@lovimg_com https://t.co/9efpNLo7eA\n\nCreated with GPT Image 2.5\n\n🎨 Prompt:\n请基于我上传的照片，制作一张独立的3:4竖版“焦外抽离双生”视觉海报。\n\n画面严格分为上下两个区域，高度1:1，各占50%。\n\n上下必须保持：\n\n同一个主体、同一张脸、同一个动作、同一个姿态、同一个视线方向、同一个主体位置、同一个场景、同一个拍摄角度、同一套构图关系。\n\n不要重新设计人物。\n\n不要更换背景。\n\n不要改变照片内容。\n\n上半部分｜REAL\n\n完整保留上传的原始照片。\n\n保持原始手机摄影、数码相机或生活抓拍质感。\n\n人物、背景、环境信息全部保留。\n\n可以进行轻度曝光和色彩整理，但不要改变景深关系。\n\n让观众能够明确看到照片原本的真实状态。\n\n下半部分｜85MM F/1.2\n\n严格基于上半部分相同画面重新模拟一次专业全画幅大光圈人像摄影。\n\n模拟：\n\n85mm全画幅定焦镜头，f/1.2光圈。\n\n主体眼睛、面部、主要轮廓保持高清锐利。\n\n根据真实空间距离重新计算景深。\n\n主体所在焦平面清晰。\n\n主体前后的环境按照距离逐级进入失焦状态。\n\n近距离背景保持少量结构。\n\n中距离背景开始柔化。\n\n远距离背景完全转化为自然奶油焦外。\n\n背景中的：\n\n路灯、车灯、橱窗、树叶反光、金属反射、阳光高光\n\n自然转化为不同大小、不同虚化程度的真实光学bokeh。\n\n焦外必须具有真实镜头特征：\n\n柔和圆形光斑、边缘轻微猫眼形变、高光渐变、前后景深层次、真实空间压缩感。\n\n人物头发、肩膀、衣服边缘不能出现人工抠图感。\n\n发丝与焦外之间需要自然过渡。\n\n保留轻微镜头呼吸、色散、颗粒、曝光误差和真实摄影缺陷。\n\n最终效果必须像：\n\n同一个摄影师没有移动位置，只把普通手机换成了一支85mm F1.2专业镜头重新拍了一次。\n\n禁止：\n\n整块背景高斯模糊。\n\n禁止背景变成没有空间层级的一团颜色。\n\n禁止把人物抠出来贴在模糊背景上。\n\n禁止换脸。\n\n禁止改变人物动作。\n\n禁止增加不存在的建筑或景物。\n\n禁止插画感。\n\n禁止过度磨皮。\n\n禁止塑料皮肤。\n\n禁止AI棚拍感。",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSZ4ZYKWIAAO_pT.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSZ4ZYKWIAAO_pT.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSZ4ZYJWEAApNHN.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSZ4ZYJWEAApNHN.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 6
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/lovimg_com/status/2100498666763030990",
+  "coverUrl": "https://pbs.twimg.com/media/HSZ4ZYKWIAAO_pT.jpg",
+  "coverPath": "images/2100498666763030990-1.jpg",
+  "imagePaths": [
+    "images/2100498666763030990-1.jpg",
+    "images/2100498666763030990-2.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSZ4ZYKWIAAO_pT",
+    "x-image:/media/HSZ4ZYJWEAApNHN",
+    "x-post:2100498666763030990"
+  ],
+  "analysis": {
+    "summary": "基于上传照片制作3:4对比海报，上部为原图抓拍质感，下部模拟85mm F1.2全画幅大光圈奶油焦外效果。",
+    "summaryEn": "Creates a 3:4 split comparison poster: original photo on top and simulated 85mm f/1.2 shallow DOF bokeh portrait on the bottom.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "配图清晰展示了上下50/50对比构图，上图标注'REAL'保留原貌，下图标注'85MM F/1.2'呈现主体清晰背景强虚化光斑效果，与提示词严格一致。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "请基于我上传的照片，制作一张独立的3:4竖版“焦外抽离双生”视觉海报。\n\n画面严格分为上下两个区域，高度1:1，各占50%。\n\n上下必须保持：\n\n同一个主体、同一张脸、同一个动作、同一个姿态、同一个视线方向、同一个主体位置、同一个场景、同一个拍摄角度、同一套构图关系。\n\n不要重新设计人物。\n\n不要更换背景。\n\n不要改变照片内容。\n\n上半部分｜REAL\n\n完整保留上传的原始照片。\n\n保持原始手机摄影、数码相机或生活抓拍质感。\n\n人物、背景、环境信息全部保留。\n\n可以进行轻度曝光和色彩整理，但不要改变景深关系。\n\n让观众能够明确看到照片原本的真实状态。\n\n下半部分｜85MM F/1.2\n\n严格基于上半部分相同画面重新模拟一次专业全画幅大光圈人像摄影。\n\n模拟：\n\n85mm全画幅定焦镜头，f/1.2光圈。\n\n主体眼睛、面部、主要轮廓保持高清锐利。\n\n根据真实空间距离重新计算景深。\n\n主体所在焦平面清晰。\n\n主体前后的环境按照距离逐级进入失焦状态。\n\n近距离背景保持少量结构。\n\n中距离背景开始柔化。\n\n远距离背景完全转化为自然奶油焦外。\n\n背景中的：\n\n路灯、车灯、橱窗、树叶反光、金属反射、阳光高光\n\n自然转化为不同大小、不同虚化程度的真实光学bokeh。\n\n焦外必须具有真实镜头特征：\n\n柔和圆形光斑、边缘轻微猫眼形变、高光渐变、前后景深层次、真实空间压缩感。\n\n人物头发、肩膀、衣服边缘不能出现人工抠图感。\n\n发丝与焦外之间需要自然过渡。\n\n保留轻微镜头呼吸、色散、颗粒、曝光误差和真实摄影缺陷。\n\n最终效果必须像：\n\n同一个摄影师没有移动位置，只把普通手机换成了一支85mm F1.2专业镜头重新拍了一次。\n\n禁止：\n\n整块背景高斯模糊。\n\n禁止背景变成没有空间层级的一团颜色。\n\n禁止把人物抠出来贴在模糊背景上。\n\n禁止换脸。\n\n禁止改变人物动作。\n\n禁止增加不存在的建筑或景物。\n\n禁止插画感。\n\n禁止过度磨皮。\n\n禁止塑料皮肤。\n\n禁止AI棚拍感。",
+    "sourceRange": {
+      "start": 75,
+      "end": 909
+    },
+    "translations": {
+      "zh": "请基于我上传的照片，制作一张独立的3:4竖版“焦外抽离双生”视觉海报。\n\n画面严格分为上下两个区域，高度1:1，各占50%。\n\n上下必须保持：同一个主体、同一张脸、同一个动作、同一个姿态、同一个视线方向、同一个主体位置、同一个场景、同一个拍摄角度、同一套构图关系。\n\n不要重新设计人物。不要更换背景。不要改变照片内容。\n\n上半部分｜REAL：完整保留上传的原始照片，保持原始手机/相机生活抓拍质感。\n\n下半部分｜85MM F/1.2：基于上半部分重新模拟85mm f/1.2全画幅大光圈摄影效果，主体锐利清晰，背景根据景深自然奶油虚化与产生真实光斑bokeh。",
+      "en": "Create a 3:4 vertical poster comparing the original photo with an 85mm f/1.2 shallow depth-of-field simulation. The frame is split 50/50 vertically. Top: original photo intact. Bottom: simulated 85mm f/1.2 large aperture portrait with realistic bokeh, sharp subject, and layered background blur while keeping identical composition, subject, and scene."
+    },
+    "targetModels": [
+      "image2.5"
+    ],
+    "category": "text-to-image",
+    "useCase": "基于输入照片生成上下对比的85mm大光圈虚化效果海报",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}

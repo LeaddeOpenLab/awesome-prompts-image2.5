@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**131** Prompts · Latest addition: **2026-09-17**
+**134** Prompts · Latest addition: **2026-09-17**
 
 <a name="catalog"></a>
 
@@ -617,6 +617,94 @@ Photography · Landscape / Nature · Published
 
 ```text
 Photo of a clearing in the woods with lots of green foliage, highly detailed
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2100454954330980559"></a>
+
+### Realistic photo prompt of a young woman wearing a striped bra top making a double peace sign in a tropical resort lounge.
+
+Author：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Source](https://x.com/CyberTotal2026/status/2100454954330980559)
+
+Photography · Portrait / Selfie · Character · Published
+
+**Summary:** Realistic photo prompt of a young woman wearing a striped bra top making a double peace sign in a tropical resort lounge.
+
+<img src="images/2100454954330980559-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Subject:
+Double peace sign in the tropics
+
+Main Subject:
+In the center of the frame, in a tropical resort lounge with wooden beams and a large opening, a young woman reaches both hands toward the camera making double peace signs. In the center background, an off-white sofa with white cushions, a dark navy patterned cushion, a wooden table, and blurred palm trees and a swimming pool are visible.
+
+Person / Expression:
+Light brown hair gathered loosely in a high bun/updo, with thin bangs and loose strands framing the cheeks, large bright brown eyes, defined eyeliner, soft pink cheeks, and a radiant smile showing her teeth. Facing forward, her lively expression looks directly into the camera.
+
+Clothing / Pose:
+A bra top featuring light lavender and white fine vertical stripes, lace and buttons, and thin shoulder straps, matching wide choker wrapped around her neck, extremely short faded denim shorts, a belly button piercing, and long lavender nails. Both arms are extended wide forward, making V-signs with both hands.
+
+Background / Lighting:
+The background is an open lounge with dark wooden pillars and beams on the left and right of the frame, a white fabric sofa in the center, and tropical greenery and a water surface in the distance. Soft daytime natural light enters through the large opening at the front left as the main light source, brightly illuminating her face and body, casting strong highlights on both hands in the foreground and gentle shadows in the background.
+
+Composition / Camera:
+3:4 vertical composition, chest-height camera fitted with a wide-angle lens, framing from the top of the head to the upper thighs. The subject is placed in the center, with both hands—appearing large due to forced perspective—positioned toward the upper left and front right, keeping all fingertips within the frame. A depth of field that focuses sharply on the face while keeping the hands discernible, softly blurring the background.
+
+Texture / Style:
+Photorealistic real-life photograph. High-definition details on bright skin, individual loose hairs, stripes and lace, faded denim, long nails, and the textures of wood and fabric, captured in a breezy, vibrant resort color palette.
+
+Negative:
+Changes to the two-handed V-signs and strong perspective; changes to the color and pattern of the outfit
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2100486914876850304"></a>
+
+### Realistic photo prompt of a young woman in a black mini dress reclining on the floor of a hotel lounge with wine and a night view in the background.
+
+Author：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Source](https://x.com/CyberTotal2026/status/2100486914876850304)
+
+Photography · Character · Fashion Item · Abstract / Background · Published
+
+**Summary:** Realistic photo prompt of a young woman in a black mini dress reclining on the floor of a hotel lounge with wine and a night view in the background.
+
+<img src="images/2100486914876850304-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Theme:
+The Afterglow of Night View and Wine
+
+Subject:
+In the lower right of the frame, inside a dimly lit hotel lounge overlooking a city night view, a young woman leans while sitting sideways on the carpet in front of a large patterned armchair. On a black round table on the left side of the frame, there are a bottle of red wine and a glass, a lit candle, a small black handbag, with a red chair and the light outside the window in the background.
+
+Person and Expression:
+A dark brown bob tucked inward beneath the jawline, thin bangs above the eyes, large brown eyes, delicate eyeliner, flushed cheeks, and slightly parted glossy reddish lips. Face turned to the front, with a calm gaze looking at the camera in a quiet expression.
+
+Attire and Pose:
+A black halter-neck mini dress with a thin strip of fabric wrapped around the neck and a deeply plunging neckline, paired with thin black strappy high-heeled sandals. Leaning her right shoulder and elbow against the chair, holding the neck fabric with her right hand, hips resting on the carpet, both legs extended together and stretched out toward the lower left.
+
+Background and Lighting:
+A lounge with dark wood walls, heavy curtains, a beige patterned armchair, a black marble-style table, and a pale blue night view outside the window. Soft amber light spreads from a table lamp in the center background and the candle in the foreground, illuminating her face and legs, while the surroundings sink into deep black and brown shadows.
+
+Composition and Camera:
+3:4 vertical composition, standard lens from a floor-level low angle capturing the entire body diagonally from the top of the head to the tips of the heels. Placing the figure in the lower right, leaving a still life of wine on the left, and negative space with the night view in the upper left. The toes are placed near the bottom edge, with focus on the face and upper body, and the night view featuring large circular bokeh.
+
+Texture and Style:
+Photorealistic live-action photograph. Detailed rendering of the black dress and slender shoe straps, warm skin reflections, carpet patterns, marble gloss, and glass reflections of the wine and candle, set in a cinematic low-light warm color tone.
+
+Negative:
+Alteration of leg placement while sitting sideways on the floor; absence of wine and night view
 ```
 
 [↑ Back to categories](#catalog)
@@ -3280,6 +3368,118 @@ Create ONE independent high-end editorial poster for EACH uploaded photo. Never 
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2100498666763030990"></a>
+
+### Create a 3:4 comparison poster based on the uploaded photo, with the upper part featuring the snapshot texture of the original image, and the lower part simulating an 85mm F1.2 full-frame large-aperture creamy bokeh effect.
+
+Author：[@lovimg\_com](https://x.com/lovimg_com) · [Source](https://x.com/lovimg_com/status/2100498666763030990)
+
+Poster / Flyer · Portrait / Selfie · Published
+
+**Summary:** Create a 3:4 comparison poster based on the uploaded photo, with the upper part featuring the snapshot texture of the original image, and the lower part simulating an 85mm F1.2 full-frame large-aperture creamy bokeh effect.
+
+<img src="images/2100498666763030990-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2100498666763030990-2.jpg" alt="Image 2" width="480" />
+
+**Prompt**
+
+```text
+Please create a standalone 3:4 vertical "Bokeh Isolation Twin" visual poster based on my uploaded photo.
+
+The frame is strictly divided into upper and lower regions, with a 1:1 height ratio, each occupying 50%.
+
+The top and bottom must maintain:
+
+The exact same subject, the same face, the same action, the same posture, the same gaze direction, the same subject position, the same scene, the same shooting angle, and the same compositional relationship.
+
+Do not redesign the person.
+
+Do not change the background.
+
+Do not alter the photo's content.
+
+Upper Half | REAL
+
+Completely preserve the original uploaded photo.
+
+Maintain the original mobile phone photography, digital camera, or candid snapshot texture.
+
+Fully retain the person, background, and environmental details.
+
+Slight exposure and color adjustments are allowed, but do not change the depth of field relationships.
+
+Allow the viewer to clearly see the original, authentic state of the photo.
+
+Lower Half | 85MM F/1.2
+
+Strictly simulate a professional full-frame large-aperture portrait photograph based on the exact same frame as the upper half.
+
+Simulate:
+
+An 85mm full-frame prime lens, f/1.2 aperture.
+
+The subject's eyes, face, and primary contours remain high-definition and sharp.
+
+Recalculate depth of field based on real spatial distance.
+
+The focal plane where the subject is located remains sharp.
+
+The environment in front of and behind the subject enters a defocused state progressively according to distance.
+
+The near background retains a small amount of structural definition.
+
+The mid-distance background begins to soften.
+
+The distant background is completely transformed into a natural, creamy bokeh.
+
+In the background:
+
+Streetlights, car lights, display windows, leaf reflections, metal glints, and sunlight highlights
+
+Naturally transform into realistic optical bokeh of varying sizes and degrees of blur.
+
+The out-of-focus areas must exhibit authentic lens characteristics:
+
+Soft circular light spots, slight cat-eye deformation at the edges, highlight gradients, foreground/background depth-of-field layering, and realistic spatial compression.
+
+The subject's hair, shoulders, and clothing edges must not have an artificial cutout look.
+
+A natural transition between hair strands and the bokeh is required.
+
+Preserve subtle lens breathing, chromatic aberration, grain, exposure imperfections, and authentic photographic flaws.
+
+The final result must look like:
+
+The same photographer did not move positions, but simply switched from an ordinary smartphone to an 85mm F1.2 professional lens and shot it again.
+
+Prohibited:
+
+Gaussian blurring the entire background.
+
+Prohibited: The background turning into a flat blob of color without spatial depth.
+
+Prohibited: Cutting out the person and pasting them onto a blurred background.
+
+Prohibited: Face swapping.
+
+Prohibited: Changing the subject's pose or action.
+
+Prohibited: Adding nonexistent buildings or scenery.
+
+Prohibited: Illustrative or painterly look.
+
+Prohibited: Excessive skin smoothing.
+
+Prohibited: Plastic skin.
+
+Prohibited: AI studio-shot look.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2100405863123173606"></a>
 

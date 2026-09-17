@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**131** Prompt · Ultima aggiunta: **2026-09-17**
+**134** Prompt · Ultima aggiunta: **2026-09-17**
 
 <a name="catalog"></a>
 
@@ -555,6 +555,50 @@ Fotografia · Paesaggio / Natura · Pubblicato
 
 ```text
 Foto di una radura nel bosco con abbondante fogliame verde, altamente dettagliata
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2100454954330980559"></a>
+
+### Traduzione in corso
+
+Autore：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Post originale](https://x.com/CyberTotal2026/status/2100454954330980559)
+
+Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2100454954330980559-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2100486914876850304"></a>
+
+### Traduzione in corso
+
+Autore：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Post originale](https://x.com/CyberTotal2026/status/2100486914876850304)
+
+Fotografia · Personaggio · Articolo di moda · Abstract / Contesto · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2100486914876850304-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -2935,6 +2979,30 @@ Silenzioso, poetico, raffinato, minimale, innocente, artistico, riflessivo, prem
 <a name="category-other"></a>
 
 ## Altro
+
+<a name="prompt-2100498666763030990"></a>
+
+### Traduzione in corso
+
+Autore：[@lovimg\_com](https://x.com/lovimg_com) · [Post originale](https://x.com/lovimg_com/status/2100498666763030990)
+
+Poster / Volantino · Ritratto / Selfie · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2100498666763030990-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2100498666763030990-2.jpg" alt="Immagine 2" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2100405863123173606"></a>
 
