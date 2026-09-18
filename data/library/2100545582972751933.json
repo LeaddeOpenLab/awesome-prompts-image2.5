@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-18T02:33:29.608Z",
+  "model": "image2.5",
+  "prompt": "👠凝光coser，足疗技师，包房，旗袍，服务中，CCD直闪，客户POV视角\n\n🎤凝光coser+甘雨coser，商K陪玩，KTV包房，角色配色极简连衣裙，与客人欢乐互动，CCD直闪+手机拍摄\n\n🎱少女凝光coser，台球助教，台球室，蓬蓬短裙+白丝袜，打台球，CCD直闪+客户POV视角",
+  "promptTranslations": {
+    "en": "👠 Ningguang cosplayer, foot massage technician, private room, cheongsam, in service, direct CCD flash, client POV perspective\\n\\n🎤 Ningguang cosplayer + Ganyu cosplayer, commercial KTV companions, KTV private room, character-colored minimalist dresses, joyfully interacting with guests, direct CCD flash + smartphone shot\\n\\n🎱 Young maiden Ningguang cosplayer, pool assistant instructor, billiard hall, puffy mini skirt + white silk stockings, playing billiards, direct CCD flash + client POV perspective"
+  },
+  "summaryTranslations": {
+    "en": "A collection of direct CCD flash POV realistic photo prompts featuring Genshin Impact characters Ningguang and Ganyu in service settings such as foot massage, KTV, and billiard rooms."
+  },
+  "translationVersion": 2,
+  "summary": "原神角色凝光与甘雨在足疗、KTV及台球室等服务场景的CCD直闪POV拟真照片提示词合集。",
+  "summaryEn": "Prompt set depicting Genshin Impact characters Ningguang and Ganyu in realistic foot massage, KTV, and billiard club service scenarios captured with CCD flash POV.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100545582972751933",
+    "canonicalUrl": "https://x.com/0xkyne/status/2100545582972751933",
+    "author": {
+      "username": "0xkyne",
+      "displayName": "月无关 | 0xKyne",
+      "profileUrl": "https://x.com/0xkyne"
+    },
+    "publishedAt": "2026-09-17T11:21:07.000Z",
+    "collectedAt": "2026-09-18T02:15:35.232Z",
+    "language": "zh",
+    "originalText": "到底是谁在给 ChatGPT Image 2.5 喂本土数据啊😂？\n\n它不仅知道什么是 “技师”\n它还知道什么是 “商K”\n它甚至知道什么是 “助教” 😆\n\n纯学术交流，分享这组极简克制的 Prompt：\n👠凝光coser，足疗技师，包房，旗袍，服务中，CCD直闪，客户POV视角\n\n🎤凝光coser+甘雨coser，商K陪玩，KTV包房，角色配色极简连衣裙，与客人欢乐互动，CCD直闪+手机拍摄\n\n🎱少女凝光coser，台球助教，台球室，蓬蓬短裙+白丝袜，打台球，CCD直闪+客户POV视角\n\n#AIart #promptshare",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSai6AfbYAA5OJL.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSai6AfbYAA5OJL.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSai6_PaMAAEvkS.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSai6_PaMAAEvkS.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSai8sZaUAEO6f8.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSai8sZaUAEO6f8.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSai-GUaAAEvSzN.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSai-GUaAAEvSzN.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 86,
+      "repostCount": 6,
+      "replyCount": 17,
+      "quoteCount": 0,
+      "viewCount": 5589
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/0xkyne/status/2100545582972751933",
+  "coverUrl": "https://pbs.twimg.com/media/HSai6AfbYAA5OJL.jpg",
+  "coverPath": "images/2100545582972751933-1.jpg",
+  "imagePaths": [
+    "images/2100545582972751933-1.jpg",
+    "images/2100545582972751933-2.jpg",
+    "images/2100545582972751933-3.jpg",
+    "images/2100545582972751933-4.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSai6AfbYAA5OJL",
+    "x-image:/media/HSai6_PaMAAEvkS",
+    "x-image:/media/HSai8sZaUAEO6f8",
+    "x-image:/media/HSai-GUaAAEvSzN",
+    "x-post:2100545582972751933"
+  ],
+  "analysis": {
+    "summary": "原神角色凝光与甘雨在足疗、KTV及台球室等服务场景的CCD直闪POV拟真照片提示词合集。",
+    "summaryEn": "Prompt set depicting Genshin Impact characters Ningguang and Ganyu in realistic foot massage, KTV, and billiard club service scenarios captured with CCD flash POV.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "提供的四张配图完全对应提示词中的三个场景：台球助教打台球、足疗技师服务、商K内凝光与甘雨coser与客人互动，且均具备CCD直闪和POV拍摄特征。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "👠凝光coser，足疗技师，包房，旗袍，服务中，CCD直闪，客户POV视角\n\n🎤凝光coser+甘雨coser，商K陪玩，KTV包房，角色配色极简连衣裙，与客人欢乐互动，CCD直闪+手机拍摄\n\n🎱少女凝光coser，台球助教，台球室，蓬蓬短裙+白丝袜，打台球，CCD直闪+客户POV视角",
+    "sourceRange": {
+      "start": 103,
+      "end": 246
+    },
+    "translations": {
+      "zh": "👠凝光coser，足疗技师，包房，旗袍，服务中，CCD直闪，客户POV视角\n\n🎤凝光coser+甘雨coser，商K陪玩，KTV包房，角色配色极简连衣裙，与客人欢乐互动，CCD直闪+手机拍摄\n\n🎱少女凝光coser，台球助教，台球室，蓬蓬短裙+白丝袜，打台球，CCD直闪+客户POV视角",
+      "en": "👠Ningguang cosplayer, foot massage technician, private room, cheongsam, serving, CCD direct flash, customer POV perspective\n\n🎤Ningguang cosplayer + Ganyu cosplayer, KTV companion, KTV private room, minimalist dress matching character colors, cheerful interaction with guests, CCD direct flash + mobile shot\n\n🎱Young Ningguang cosplayer, billiards assistant coach, pool hall, ruffled miniskirt + white stockings, playing pool, CCD direct flash + customer POV perspective"
+    },
+    "targetModels": [
+      "image2.5"
+    ],
+    "category": "text-to-image",
+    "useCase": "Genshin Impact cosplay roleplay scenarios with CCD flash aesthetic",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [
+        "mild-suggestive"
+      ],
+      "copyright": [
+        "Ningguang (Genshin Impact)",
+        "Ganyu (Genshin Impact)"
+      ]
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
