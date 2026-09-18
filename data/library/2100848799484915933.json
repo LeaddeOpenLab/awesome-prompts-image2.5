@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-18T08:29:03.760Z",
+  "model": "image2",
+  "prompt": "主題：\n街角のベージュ\n\n主体：\n画面中央右、石張りの建物前の静かな街角で若い女性が装飾のある黒い街灯柱へ体を預け、透明な袋に入った小さな焼き菓子を頬の近くに持つ。背景にベージュの石壁、黒い玄関灯、鉢植えの緑と赤い花、歩道と車道が見える。\n\n人物・表情：\n顎下で外へ軽く動くダークブラウンのボブ、風で額に流れる前髪、大きな茶色の瞳、細いアイライン、淡いピーチの頬、少し開いた艶のある唇。顔を左へ傾けて街灯柱へ近づけ、穏やかな表情でカメラを見る。\n\n服装・ポーズ：\n胸元に細かな横ギャザーが入るグレージュのストラップレスチューブトップ、ゆったりした白いカーゴパンツ、腰に結ぶ金茶とアイボリーの柄スカーフ、白いボリュームスニーカー、黒い細チョーカー。右手で焼き菓子を頬へ寄せ、左手をパンツのポケットに入れ、右膝を曲げて足を柱へつける。\n\n背景・光：\n背景は画面左のベージュ石と植木、画面右の黒い金属柱、前景の暗いアスファルトが作る落ち着いた街角。左上方の木立を主光源に木漏れ日のある硬い昼光が差し、髪と肩、白いパンツへ明るい斑点を作り、柱と路面に深い影を落とす。\n\n構図・カメラ：\n3:4の縦構図、腰の高さに置いたカメラの標準レンズで全身を大きく、頭頂から白いスニーカーまでを収める。人物を中央右、黒い柱を右の強い縦線にし、曲げた脚を下部へ斜めに配置。靴まで画面内に収め、顔にピント、背景は中程度の被写界深度。\n\n質感・スタイル：\nフォトリアルな実写写真。短い髪、ギャザー布、薄い白パンツ、柄スカーフ、透明な菓子袋、石壁と鋳鉄の質感を高精細にし、ベージュと黒を中心にした自然な街角スナップにする。\n\nネガティブ：\n柱にもたれて片膝を曲げる姿勢の変更；腰スカーフと白パンツの欠落",
+  "promptTranslations": {
+    "en": "Subject: Beige on a Street Corner. Main Subject: In the center-right of the frame, on a quiet street corner in front of a stone-faced building, a young woman leans against an ornate black lamppost, holding a small baked treat in a clear bag near her cheek. In the background, a beige stone wall, a black entrance lantern, potted greenery and red flowers, a sidewalk, and a roadway are visible. Person / Expression: Dark brown bob lightly flipping outward below the chin, bangs drifting across the forehead in the wind, large brown eyes, thin eyeliner, pale peach cheeks, and slightly parted glossy lips. Her face is tilted to the left toward the lamppost, gazing at the camera with a gentle expression. Attire / Pose: A greige strapless tube top with fine horizontal gathers across the chest, relaxed white cargo pants, a patterned scarf in golden brown and ivory tied around the waist, chunky white sneakers, and a thin black choker. Her right hand brings the baked treat near her cheek, her left hand is in her pants pocket, and her right knee is bent with her foot resting against the post. Background / Lighting: The background consists of beige stone and potted plants on the left of the frame, a black metal post on the right of the frame, and dark asphalt in the foreground, creating a tranquil street corner. With foliage in the upper left acting as the primary light source, hard daylight filtered through leaves casts dappled highlights across her hair, shoulders, and white pants, while throwing deep shadows on the post and road surface. Composition / Camera: 3:4 vertical composition, captured with a standard lens placed at waist height to prominently frame the full body from the top of the head down to the white sneakers. The subject is placed center-right, the black post creates a strong vertical line on the right, and the bent leg is positioned diagonally at the bottom. Shoes are included within the frame, focus is on the face, with a medium depth of field in the background. Texture / Style: Photorealistic live-action photograph. High-definition textures of short hair, gathered fabric, lightweight white pants, patterned scarf, transparent pastry bag, stone wall, and cast iron, creating a natural street-corner snapshot centered around beige and black tones. Negative: Changes to the posture of leaning against the post with one knee bent; omission of waist scarf and white pants."
+  },
+  "summaryTranslations": {
+    "en": "Beige-toned street corner snapshot-style prompt featuring a woman leaning against a black lamppost holding a baked treat"
+  },
+  "translationVersion": 2,
+  "summary": "黒い街灯柱にもたれ焼き菓子を持つ女性のベージュ基調の街角スナップ風プロンプト",
+  "summaryEn": "Prompt for a beige-toned candid street snapshot of a woman holding a treat while leaning on a lamppost",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100848799484915933",
+    "canonicalUrl": "https://x.com/CyberTotal2026/status/2100848799484915933",
+    "author": {
+      "username": "CyberTotal2026",
+      "displayName": "Prompt アトリエ｜AI画像プロンプト",
+      "profileUrl": "https://x.com/CyberTotal2026"
+    },
+    "publishedAt": "2026-09-18T07:26:00.000Z",
+    "collectedAt": "2026-09-18T08:16:23.885Z",
+    "language": "ja",
+    "originalText": "焼きたての香りを連れて、街角でひと休み。ベージュの日は気分までやわらかい🥐🤎🌿\n\n#AIart #AI写真 #街角スナップ\n\n【GPT Image2プロンプト】\n\n主題：\n街角のベージュ\n\n主体：\n画面中央右、石張りの建物前の静かな街角で若い女性が装飾のある黒い街灯柱へ体を預け、透明な袋に入った小さな焼き菓子を頬の近くに持つ。背景にベージュの石壁、黒い玄関灯、鉢植えの緑と赤い花、歩道と車道が見える。\n\n人物・表情：\n顎下で外へ軽く動くダークブラウンのボブ、風で額に流れる前髪、大きな茶色の瞳、細いアイライン、淡いピーチの頬、少し開いた艶のある唇。顔を左へ傾けて街灯柱へ近づけ、穏やかな表情でカメラを見る。\n\n服装・ポーズ：\n胸元に細かな横ギャザーが入るグレージュのストラップレスチューブトップ、ゆったりした白いカーゴパンツ、腰に結ぶ金茶とアイボリーの柄スカーフ、白いボリュームスニーカー、黒い細チョーカー。右手で焼き菓子を頬へ寄せ、左手をパンツのポケットに入れ、右膝を曲げて足を柱へつける。\n\n背景・光：\n背景は画面左のベージュ石と植木、画面右の黒い金属柱、前景の暗いアスファルトが作る落ち着いた街角。左上方の木立を主光源に木漏れ日のある硬い昼光が差し、髪と肩、白いパンツへ明るい斑点を作り、柱と路面に深い影を落とす。\n\n構図・カメラ：\n3:4の縦構図、腰の高さに置いたカメラの標準レンズで全身を大きく、頭頂から白いスニーカーまでを収める。人物を中央右、黒い柱を右の強い縦線にし、曲げた脚を下部へ斜めに配置。靴まで画面内に収め、顔にピント、背景は中程度の被写界深度。\n\n質感・スタイル：\nフォトリアルな実写写真。短い髪、ギャザー布、薄い白パンツ、柄スカーフ、透明な菓子袋、石壁と鋳鉄の質感を高精細にし、ベージュと黒を中心にした自然な街角スナップにする。\n\nネガティブ：\n柱にもたれて片膝を曲げる姿勢の変更；腰スカーフと白パンツの欠落",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSCc2CqbcAApaoL.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSCc2CqbcAApaoL.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 8,
+      "repostCount": 1,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 541
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/CyberTotal2026/status/2100848799484915933",
+  "coverUrl": "https://pbs.twimg.com/media/HSCc2CqbcAApaoL.jpg",
+  "coverPath": "images/2100848799484915933-1.jpg",
+  "imagePaths": [
+    "images/2100848799484915933-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSCc2CqbcAApaoL",
+    "x-post:2100848799484915933"
+  ],
+  "analysis": {
+    "summary": "黒い街灯柱にもたれ焼き菓子を持つ女性のベージュ基調の街角スナップ風プロンプト",
+    "summaryEn": "Prompt for a beige-toned candid street snapshot of a woman holding a treat while leaning on a lamppost",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "添付画像の人物のポーズ、服装（グレージュのチューブトップ、白パンツ、腰のスカーフ）、小道具（焼き菓子）、背景の街灯柱や石壁がプロンプトと完全に一致している。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "主題：\n街角のベージュ\n\n主体：\n画面中央右、石張りの建物前の静かな街角で若い女性が装飾のある黒い街灯柱へ体を預け、透明な袋に入った小さな焼き菓子を頬の近くに持つ。背景にベージュの石壁、黒い玄関灯、鉢植えの緑と赤い花、歩道と車道が見える。\n\n人物・表情：\n顎下で外へ軽く動くダークブラウンのボブ、風で額に流れる前髪、大きな茶色の瞳、細いアイライン、淡いピーチの頬、少し開いた艶のある唇。顔を左へ傾けて街灯柱へ近づけ、穏やかな表情でカメラを見る。\n\n服装・ポーズ：\n胸元に細かな横ギャザーが入るグレージュのストラップレスチューブトップ、ゆったりした白いカーゴパンツ、腰に結ぶ金茶とアイボリーの柄スカーフ、白いボリュームスニーカー、黒い細チョーカー。右手で焼き菓子を頬へ寄せ、左手をパンツのポケットに入れ、右膝を曲げて足を柱へつける。\n\n背景・光：\n背景は画面左のベージュ石と植木、画面右の黒い金属柱、前景の暗いアスファルトが作る落ち着いた街角。左上方の木立を主光源に木漏れ日のある硬い昼光が差し、髪と肩、白いパンツへ明るい斑点を作り、柱と路面に深い影を落とす。\n\n構図・カメラ：\n3:4の縦構図、腰の高さに置いたカメラの標準レンズで全身を大きく、頭頂から白いスニーカーまでを収める。人物を中央右、黒い柱を右の強い縦線にし、曲げた脚を下部へ斜めに配置。靴まで画面内に収め、顔にピント、背景は中程度の被写界深度。\n\n質感・スタイル：\nフォトリアルな実写写真。短い髪、ギャザー布、薄い白パンツ、柄スカーフ、透明な菓子袋、石壁と鋳鉄の質感を高精細にし、ベージュと黒を中心にした自然な街角スナップにする。\n\nネガティブ：\n柱にもたれて片膝を曲げる姿勢の変更；腰スカーフと白パンツの欠落",
+    "sourceRange": {
+      "start": 82,
+      "end": 818
+    },
+    "translations": {
+      "zh": "主题：街角的米色调\n主体：画面中右侧，石砌建筑前的安静街角，一位年轻女性倚靠在带装饰的黑色灯柱上，手里拿着一小袋装在透明袋子里的点心靠近脸颊。背景为米色石墙、黑色门灯、盆栽绿植与红花、人行道和车道。\n人物与表情：深棕色鲍伯短发，刘海微拂，棕色大眼，淡桃色脸颊，微张有光泽的双唇。头部向左倾斜倚靠灯柱，神情温和看着镜头。\n服装与姿势：灰米色抹胸上衣，宽松白色工装裤，腰系金棕色图案丝巾，厚底白色运动鞋，黑色细项圈。右手持点心贴脸，左手插兜，右膝弯曲将脚抵在柱子上。\n背景与光影：午后强烈的林荫碎光，洒在头发、肩膀和裤子上，柱子和路面投下深色阴影。\n构图与相机：3:4竖画幅，齐腰视线标准镜头全景全身构图，面部对焦，中等景深。\n质感与风格：逼真写实摄影，自然街拍风格。\n负面：改变倚靠柱子弯曲单膝的姿势；缺失腰部丝巾与白裤。",
+      "en": "Subject: Beige on a street corner\nMain Subject: In the center-right of the frame, a young woman leans against a decorative black lamppost on a quiet street corner in front of a stone building, holding a small baked treat in a clear bag near her cheek. In the background are beige stone walls, a black entryway lamp, potted plants with green foliage and red flowers, along with the sidewalk and street.\nPerson & Expression: Dark brown bob hair, bangs brushed by the breeze, large brown eyes, pale peach cheeks, slightly parted glossy lips. Head tilted to the left toward the post, looking at the camera with a calm expression.\nAttire & Pose: Greige ruched strapless tube top, loose white cargo pants, gold-brown patterned scarf tied around the waist, bulky white sneakers, thin black choker. Right hand brings the pastry to her cheek, left hand in pocket, right knee bent resting against the pole.\nBackground & Light: Afternoon sun casting dappled shadows through leaves onto hair, shoulders, and pants, casting deep shadows on the pole and asphalt.\nComposition: 3:4 vertical framing, waist-level standard lens framing full body, focused on face, medium depth of field.\nStyle: Photorealistic candid street snap.\nNegative: Altering pose of leaning on pole with bent knee; missing waist scarf or white pants."
+    },
+    "targetModels": [
+      "image2"
+    ],
+    "category": "text-to-image",
+    "useCase": "街角スナップ風ポートレート写真の生成",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
