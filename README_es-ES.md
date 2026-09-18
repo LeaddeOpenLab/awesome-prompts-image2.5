@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**138** Prompts · Última incorporación: **2026-09-18**
+**145** Prompts · Última incorporación: **2026-09-18**
 
 <a name="catalog"></a>
 
@@ -59,13 +59,13 @@ Numerosas fotos fallidas de aficionados, 3x3, 9:16
 
 <a name="prompt-2100221410358735319"></a>
 
-### Un prompt de selfis realistas en cuadrícula de 3x3 que imita una serie de fotos fallidas de aficionados.
+### Traducción en curso
 
 Autor：[@oneruofeng](https://x.com/oneruofeng) · [Publicación original](https://x.com/oneruofeng/status/2100221410358735319)
 
 Fotografía · Retrato / Selfie · Publicado
 
-**Resumen:** Un prompt de selfis realistas en cuadrícula de 3x3 que imita una serie de fotos fallidas de aficionados.
+**Resumen:** Traducción en curso
 
 <img src="images/2100221410358735319-1.jpg" alt="Imagen 1" width="480" />
 
@@ -74,7 +74,7 @@ Fotografía · Retrato / Selfie · Publicado
 **Prompt**
 
 ```text
-Una serie de fotos fallidas de aficionados, 3x3, 9:16
+Traducción en curso
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -161,20 +161,20 @@ Traducción en curso
 
 <a name="prompt-2099374878910734661"></a>
 
-### Paisaje surrealista de cañón 9:16, gigantesco anillo de nubes arremolinadas con efecto time-stack de larga exposición, viajero de espaldas en el lecho del valle.
+### Traducción en curso
 
 Autor：[@listudio](https://x.com/listudio) · [Publicación original](https://x.com/listudio/status/2099374878910734661)
 
 Fotografía · Paisaje / Naturaleza · Publicado
 
-**Resumen:** Paisaje surrealista de cañón 9:16, gigantesco anillo de nubes arremolinadas con efecto time-stack de larga exposición, viajero de espaldas en el lecho del valle.
+**Resumen:** Traducción en curso
 
 <img src="images/2099374878910734661-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Crea una fotografía de apilamiento temporal (time-stack) hiperrealista y surrealista de un cañón en formato vertical 9:16. Un fondo de cañón amplio y seco, flanqueado por enormes paredes rocosas estratificadas verticales en tonos marrón cálido, ocre y negro carbón que se elevan desde los bordes del primer plano, formando un marco natural oscuro, con las texturas de la roca y la grava manteniendo un detalle nítido. En el cielo, en la distancia media y lejana del cañón, aparece un gigantesco anillo de nubes arremolinadas que ocupa la mayor parte del área central, revelando un sereno cielo azul grisáceo en el centro del hueco circular. Utiliza un efecto de exposición prolongada con cámara fija y apilamiento temporal de múltiples fotogramas: densos cúmulos giran lentamente en la misma dirección, fundiéndose en estelas concéntricas continuas y suaves; la pared interior presenta cientos y miles de delicadas estrías de nubes en forma de arco, y los bordes del hueco circular tienen trazos suaves de rotación; las nubes conservan su volumen real de luces y sombras y una textura blanco lechosa, sin parecer un túnel sólido ni mostrar ruido fracturado. El lecho del cañón se abre ampliamente desde el primer plano y converge hacia la lejanía; un viajero adulto de espaldas a la cámara se encuentra de pie en el centro inferior, ocupando solo alrededor del 2% de la altura de la imagen y manteniéndose nítido. La cálida luz del sol en la parte superior derecha atraviesa las grietas de las nubes; la exposición continua hace que las luces se difundan suavemente, iluminando la pared de nubes y los bordes rocosos del lado derecho; la roca cálida, el cielo azul grisáceo frío y las nubes blanco lechosas de gran brillo forman una relación tricromática contenida. Grano de película sutil, perspectiva atmosférica natural, silencio épico y sensación sobrecogedora. El desenfoque de movimiento solo afecta a las nubes y a una leve bruma de polvo; las paredes de roca, el lecho del valle y la figura humana permanecen nítidos. Sin edificios, sin bosques densos, sin aves volando, sin texto, sin logotipos, sin marcas de agua, sin rayos.
+Traducción en curso
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -338,6 +338,54 @@ Publicación original：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicación
 <img src="images/2098799449237782991-1.jpg" alt="Imagen 1" width="480" />
 
 <img src="images/2098799449237782991-2.jpg" alt="Imagen 2" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2098797110401335713"></a>
+
+### Traducción en curso
+
+Autor：[@sdjn\_wgc](https://x.com/sdjn_wgc) · [Publicación original](https://x.com/sdjn_wgc/status/2098797110401335713)
+
+Fotografía · Retrato / Selfie · Arquitectura / Interiorismo · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2098797110401335713-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2098779220566839714"></a>
+
+### Traducción en curso
+
+Autor：[@AI\_money\_club](https://x.com/AI_money_club) · [Publicación original](https://x.com/AI_money_club/status/2098779220566839714)
+
+Fotografía · Personaje · Comida / Bebida · Publicado
+
+Publicación original：[@AI\_money\_club](https://x.com/AI_money_club) · [Publicación original](https://x.com/AI_money_club/status/2098767892028535126)
+
+**Resumen:** Traducción en curso
+
+<img src="images/2098779220566839714-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2098779220566839714-2.jpg" alt="Imagen 2" width="480" />
 
 **Prompt**
 
@@ -874,15 +922,37 @@ Traducción en curso
 
 ---
 
+<a name="prompt-2099470719235318149"></a>
+
+### Traducción en curso
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicación original](https://x.com/CyberTotal2026/status/2099470719235318149)
+
+Fotografía · Retrato / Selfie · Personaje · Artículo de moda · Arquitectura / Interiorismo · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2099470719235318149-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
 <a name="prompt-2099370474455396482"></a>
 
-### Retrato de estudio fotorrealista de una mujer elegante con un vestido midi negro entallado.
+### Traducción en curso
 
 Autor：[@MissDelulu9](https://x.com/MissDelulu9) · [Publicación original](https://x.com/MissDelulu9/status/2099370474455396482)
 
 Fotografía · Retrato / Selfie · Personaje · Artículo de moda · Publicado
 
-**Resumen:** Retrato de estudio fotorrealista de una mujer elegante con un vestido midi negro entallado.
+**Resumen:** Traducción en curso
 
 <img src="images/2099370474455396482-1.jpg" alt="Imagen 1" width="480" />
 
@@ -891,7 +961,7 @@ Fotografía · Retrato / Selfie · Personaje · Artículo de moda · Publicado
 **Prompt**
 
 ```text
-Crea un retrato de estudio de cuerpo entero altamente fotorrealista de una mujer adulta y elegante que lleva un sofisticado vestido formal midi negro de manga larga, cintura entallada, tejido de primera calidad y textura sutil. Joyería minimalista, elegantes tacones de punta, cabello pulido y liso, maquillaje suave y natural, expresión segura y dulce. Fondo de estudio de moda de lujo, iluminación suave y difusa, textura de piel realista, proporciones naturales, fotografía editorial cinematográfica, lente de 85 mm, ultradetallado, 8K, sin texto, sin marcas de agua.
+Traducción en curso
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -988,7 +1058,7 @@ No omitir el lago alpino ni el café helado en la esquina inferior izquierda
 
 <a name="prompt-2099400168433152293"></a>
 
-### Prompt de retrato en primerísimo plano de una mujer que mira a la cámara con ojos llorosos.
+### Traducción en curso
 
 Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicación original](https://x.com/CyberTotal2026/status/2099400168433152293)
 
@@ -996,7 +1066,7 @@ Fotografía · Retrato / Selfie · Personaje · Publicado
 
 Publicación original：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicación original](https://x.com/CyberTotal2026/status/2093263569249005578)
 
-**Resumen:** Prompt de retrato en primerísimo plano de una mujer que mira a la cámara con ojos llorosos.
+**Resumen:** Traducción en curso
 
 <img src="images/2099400168433152293-1.jpg" alt="Imagen 1" width="480" />
 
@@ -1005,29 +1075,7 @@ Publicación original：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publ
 **Prompt**
 
 ```text
-Tema:
-Retrato en primer plano de ojos llorosos
-
-Sujeto:
-Fotografía vertical en plano muy cerrado tomada desde arriba de una mujer de unos 20 años. La persona ocupa gran parte del centro del encuadre, inclinando la parte superior del cuerpo hacia adelante mientras mira hacia arriba a la cámara. Tiene una mano ligeramente ahuecada justo debajo de la boca, con unas pocas gotas de agua transparentes sobre la palma. El fondo interior oscuro y una atmósfera íntima propia de la corta distancia.
-
-Persona y expresión:
-Rostro pequeño y redondeado con una línea de mandíbula suave. Grandes ojos castaños que miran directamente a la cámara, con las comisuras exteriores ligeramente caídas dando una impresión serena. Una película natural de lágrimas en el párpado inferior y apenas una pequeña lágrima visible cerca del rabillo del ojo, sin llegar a ser una expresión de llanto. Cejas marrones delgadas, rubor tenue en tono rosa, pestañas delicadas y labios brillantes en tono rosa beige. Cabello largo castaño claro con ondas suaves, flequillo ligero y mechones finos alrededor del rostro que acarician las mejillas.
-
-Vestimenta y pose:
-Top sin mangas de canalé fino en rosa pálido. Se aprecia un escote en V pronunciado con un pequeño lazo en el centro, combinado debajo con una prenda inferior corta en tono marfil claro. Postura con el torso inclinado hacia la cámara y los hombros ligeramente encogidos hacia adentro. Una mano debajo del rostro con la palma hacia arriba y los dedos curvados de forma natural sosteniendo unas gotas de agua.
-
-Fondo e iluminación:
-Interior dominado por tonos marrones oscuros y negros. Al fondo a la izquierda se aprecian muebles oscuros y pequeños papeles desenfocados, y al fondo a la derecha objetos de almacenaje negros y pequeños detalles blancos borrosos. Una luz cálida y suave proveniente del frente ilumina el rostro, el cabello, los hombros y la palma de la mano, mientras que el fondo cae en una sombra más profunda. La piel tiene un brillo sutil y controlado, con pequeños reflejos en las pupilas y en la superficie de las lágrimas.
-
-Composición y cámara:
-Formato vertical 4:3. Retrato en primerísimo plano con el rostro situado predominantemente en el centro de la mitad superior del encuadre. Perspectiva angular moderada que mira ligeramente hacia abajo desde una posición elevada, haciendo resaltar con fuerza el rostro y la mano en primer plano. Abarca desde la coronilla hasta el pecho y parte de los muslos, con la palma de la mano superpuesta en la parte inferior central del encuadre. Enfoque nítido en el rostro y las pupilas, con el fondo suavemente desenfocado.
-
-Textura y estilo:
-Expresión fotográfica realista. Piel suave que conserva la textura natural, cabello suave visible mechón por mechón, tejido de canalé, gotas de agua y la transparencia de las lágrimas representados minuciosamente. Tonalidades cálidas y suaves, evitando el HDR excesivo o los filtros intensos de embellecimiento. Sensación de volumen tridimensional típica de las tomas de cerca y un aire natural como el de una fotografía cotidiana.
-
-Negativo:
-Lágrimas grandes y poco naturales; rostro hinchado por llorar
+Traducción en curso
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -1111,6 +1159,28 @@ Fotografía · Retrato / Selfie · Personaje · Publicado
 **Resumen:** Traducción en curso
 
 <img src="images/2099262094302761246-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2099152153722159320"></a>
+
+### Traducción en curso
+
+Autor：[@Aqsahere\_](https://x.com/Aqsahere_) · [Publicación original](https://x.com/Aqsahere_/status/2099152153722159320)
+
+Fotografía · Retrato / Selfie · Personaje · Artículo de moda · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2099152153722159320-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
@@ -1929,20 +1999,26 @@ cartoon, anime, painting, CGI, 3D render, low quality, distorted buildings, warp
 
 <a name="prompt-2100839251294446037"></a>
 
-### Traducción en curso
+### Retrato cinematográfico de un personaje femenino con pelo bob morado atándose los zapatos en unas ruinas rodeada de humo naranja.
 
 Autor：[@Wareenaa](https://x.com/Wareenaa) · [Publicación original](https://x.com/Wareenaa/status/2100839251294446037)
 
 Cine / Fotograma de película · Retrato / Selfie · Personaje · Artículo de moda · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Retrato cinematográfico de un personaje femenino con pelo bob morado atándose los zapatos en unas ruinas rodeada de humo naranja.
 
 <img src="images/2100839251294446037-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un retrato cinematográfico hiperrealista de cuerpo entero del mismo personaje femenino joven de la imagen de referencia, conservando su apariencia característica: corte de pelo bob recto a la altura de la barbilla en color violeta púrpura vivo con flequillo suave, piel de porcelana clara, pecas naturales en la nariz y las mejillas, ojos almendrados de color avellana/marrón claro, nariz pequeña y recta, rasgos faciales delicados, labios naturales brillantes y figura esbelta.
+
+Está sentada en una silla de madera rústica, con una rodilla levantada hacia el pecho mientras sostiene y ajusta el cordón del zapato del pie levantado. Se inclina ligeramente hacia adelante con la cabeza ladeada hacia la cámara y una expresión tranquila y relajada. Viste una camiseta holgada de manga corta oversize de color verde oliva, vaqueros de mezclilla azul claro con los bajos remangados, zapatillas de lona oscuras estilo Converse con suela blanca, gafas de montura redonda negra y un pequeño bolso cruzado/riñonera de color beige.
+
+Ambienta la escena al aire libre entre ruinas desgastadas de piedra y ladrillo, con un antiguo arco de piedra que enmarca la composición, plantas secas y follaje en primer plano, y la silla de madera apoyada sobre un suelo de tierra natural. Llena el fondo con un denso humo de color naranja claro y melocotón, creando una bruma dramática y de ensueño.
+
+Utiliza una iluminación natural suave y evocadora con cálidos tonos de humo pastel, sombras realistas, profundidad de campo cinematográfica, piel y cabello detallados, texturas auténticas de mezclilla y tela, neblina atmosférica, calidad fotorrealista, 8K ultradetallado, fotografía editorial de primera calidad y una estética rústica y de ensueño.
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -2569,7 +2645,7 @@ Transforma la foto en un estilo de diario de viaje dibujado a mano con lápices 
 
 <a name="prompt-2100241141967081911"></a>
 
-### Prompt de fotografía en primerísimo plano extremo de arte de uñas de estilo tradicional chino centrado en la estética de la dinastía Song, que enfatiza fijar el enfoque en el exquisito impacto visual de la manicura.
+### Traducción en curso
 
 Autor：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicación original](https://x.com/DeepBlueX0/status/2100241141967081911)
 
@@ -2577,7 +2653,7 @@ Fotografía · Tinta / Estilo chino · Publicado
 
 Publicación original：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicación original](https://x.com/DeepBlueX0/status/2100101510634037441)
 
-**Resumen:** Prompt de fotografía en primerísimo plano extremo de arte de uñas de estilo tradicional chino centrado en la estética de la dinastía Song, que enfatiza fijar el enfoque en el exquisito impacto visual de la manicura.
+**Resumen:** Traducción en curso
 
 <img src="images/2100241141967081911-1.jpg" alt="Imagen 1" width="480" />
 
@@ -2592,7 +2668,7 @@ Publicación original：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicación
 **Prompt**
 
 ```text
-Estética de la dinastía Song × Primerísimo primer plano extremo de manicura de estilo Song × Enfoque fijado en el arte de uñas como elemento visual principal
+Traducción en curso
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -2686,6 +2762,30 @@ Publicación original：[@huku\_ken\_ai](https://x.com/huku_ken_ai) · [Publicac
 
 ```text
 Extrae los sujetos, contornos, poses y relaciones narrativas más característicos de la imagen, y reconstrúyelos en una ilustración editorial hecha a mano, ligera, rústica y retro. Evitando la reproducción mecánica de detalles, la ilustración se reinterpreta a través de formas generalizadas, proporciones adecuadamente exageradas, rasgos simbólicos y metáforas visuales humorísticas, manteniendo al mismo tiempo la expresión característica del original. Estas ilustraciones fusionan la ilustración editorial modernista, el diseño gráfico de la Bauhaus, los libros ilustrados infantiles, el arte naíf y las técnicas de boceto en tendencia. Las formas son concisas, los contornos dan una impresión ligeramente ambigua reflejando los errores típicos del dibujo a mano, y ciertos elementos se amplían adecuadamente para crear una imagen con narrativa, estilo y un toque lúdico.
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2098762789489873062"></a>
+
+### Traducción en curso
+
+Autor：[@lovimg\_com](https://x.com/lovimg_com) · [Publicación original](https://x.com/lovimg_com/status/2098762789489873062)
+
+Póster / Folleto · Ilustración · Retro / Vintage · Artículo de moda · Texto / Tipografía · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2098762789489873062-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2098762789489873062-2.jpg" alt="Imagen 2" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -3243,13 +3343,13 @@ Traducción en curso
 
 <a name="prompt-2100255511228932598"></a>
 
-### Instantáneas fallidas verticales en cuadrícula de cuatro, escena de recolección de raíces de loto en un estanque de lotos y personajes
+### Traducción en curso
 
 Autor：[@ahamme35638](https://x.com/ahamme35638) · [Publicación original](https://x.com/ahamme35638/status/2100255511228932598)
 
 Personaje · Publicado
 
-**Resumen:** Instantáneas fallidas verticales en cuadrícula de cuatro, escena de recolección de raíces de loto en un estanque de lotos y personajes
+**Resumen:** Traducción en curso
 
 <img src="images/2100255511228932598-1.jpg" alt="Imagen 1" width="480" />
 
@@ -3260,7 +3360,7 @@ Personaje · Publicado
 **Prompt**
 
 ```text
-Fotos fallidas verticales en 2×2, escena de recolección de raíces de loto en un estanque de lotos + personaje
+Traducción en curso
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -3902,6 +4002,28 @@ Cristiano Ronaldo comiendo shawarma
 
 ---
 
+<a name="prompt-2097582500273115191"></a>
+
+### Traducción en curso
+
+Autor：[@ky6001481673691](https://x.com/ky6001481673691) · [Publicación original](https://x.com/ky6001481673691/status/2097582500273115191)
+
+Retrato / Selfie · Personaje · Artículo de moda · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2097582500273115191-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
 <a name="prompt-2097558679956664521"></a>
 
 ### Retrato de terror cibernético que presenta a un humanoide demacrado con una máscara de porcelana agrietada, cables en la cabeza e iluminación monocromática de alto contraste.
@@ -4042,6 +4164,30 @@ Escena 5 (7–9 s): La botella se sostiene con elegancia con una mano y se gira 
 Escena 6 (9–10 s): Plano principal final de la botella de Cheng Guang Cocoa Soft Glow rodeada de granos de cacao y hojas. La cámara se acerca lentamente, sutiles efectos de destellos, fondo cálido y lujoso, composición limpia centrada en el producto.
 
 Estilo: fotorrealista, anuncio de belleza premium, iluminación cinematográfica, movimientos de manos realistas, transiciones de cámara fluidas, profundidad de campo reducida, bokeh suave, tonos dorados cálidos, 4K, altamente detallado, movimiento natural, sin distorsiones, sin productos adicionales, sin cambios en la etiqueta o marca de la botella.
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2098762663941832907"></a>
+
+### Traducción en curso
+
+Autor：[@lovimg\_com](https://x.com/lovimg_com) · [Publicación original](https://x.com/lovimg_com/status/2098762663941832907)
+
+Póster / Folleto · Texto / Tipografía · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2098762663941832907-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2098762663941832907-2.jpg" alt="Imagen 2" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
 ```
 
 [↑ Volver a categorías](#catalog)

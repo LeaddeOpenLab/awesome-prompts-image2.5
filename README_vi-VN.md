@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**138** Prompt · Bổ sung mới nhất: **2026-09-18**
+**145** Prompt · Bổ sung mới nhất: **2026-09-18**
 
 <a name="catalog"></a>
 
@@ -59,13 +59,13 @@ Hàng loạt bức ảnh chụp hỏng của người nghiệp dư, 3x3, 9:16
 
 <a name="prompt-2100221410358735319"></a>
 
-### Lời nhắc ảnh selfie dạng lưới 3x3 chân thực mô phỏng hàng loạt ảnh chụp hỏng của dân nghiệp dư.
+### Đang dịch
 
 Tác giả：[@oneruofeng](https://x.com/oneruofeng) · [Bài gốc](https://x.com/oneruofeng/status/2100221410358735319)
 
 Nhiếp ảnh · Chân dung / Ảnh tự chụp · Đã xuất bản
 
-**Tóm tắt:** Lời nhắc ảnh selfie dạng lưới 3x3 chân thực mô phỏng hàng loạt ảnh chụp hỏng của dân nghiệp dư.
+**Tóm tắt:** Đang dịch
 
 <img src="images/2100221410358735319-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -74,7 +74,7 @@ Nhiếp ảnh · Chân dung / Ảnh tự chụp · Đã xuất bản
 **Câu lệnh**
 
 ```text
-Hàng loạt ảnh chụp hỏng của dân nghiệp dư, 3x3, 9:16
+Đang dịch
 ```
 
 [↑ Về danh mục](#catalog)
@@ -161,20 +161,20 @@ Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng th
 
 <a name="prompt-2099374878910734661"></a>
 
-### Phong cảnh hẻm núi siêu thực 9:16, vòng xoáy mây khổng lồ cùng hiệu ứng phơi sáng lâu time-stack, người lữ hành quay lưng dưới đáy hẻm núi.
+### Đang dịch
 
 Tác giả：[@listudio](https://x.com/listudio) · [Bài gốc](https://x.com/listudio/status/2099374878910734661)
 
 Nhiếp ảnh · Phong cảnh / Thiên nhiên · Đã xuất bản
 
-**Tóm tắt:** Phong cảnh hẻm núi siêu thực 9:16, vòng xoáy mây khổng lồ cùng hiệu ứng phơi sáng lâu time-stack, người lữ hành quay lưng dưới đáy hẻm núi.
+**Tóm tắt:** Đang dịch
 
 <img src="images/2099374878910734661-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Tạo một bức ảnh chụp time-stack siêu thực tỉ lệ 9:16 định dạng dọc, chân thực như ảnh chụp về một hẻm núi. Đáy hẻm núi rộng và khô cằn, hai bên là những vách đá phân tầng khổng lồ dựng đứng mang sắc nâu ấm, màu đất son và đen than nhô lên từ rìa cận cảnh, tạo thành khung cảnh tự nhiên tối màu, kết cấu đá và sỏi cát vẫn giữ rõ chi tiết sắc nét. Phía trên bầu trời trung cảnh và hậu cảnh của hẻm núi xuất hiện một vòng xoáy mây khổng lồ chiếm phần lớn diện tích trung tâm, tâm lỗ tròn để lộ bầu trời xanh xám tĩnh lặng. Sử dụng kỹ thuật phơi sáng lâu với góc máy cố định kết hợp hiệu ứng time-stack nhiều khung hình: những đám mây tích dày đặc từ từ cuộn tròn theo cùng một chiều xoay, hòa vào nhau thành các đường đồng tâm liên tục, mềm mại; vách trong hiển thị hàng trăm hàng ngàn vân mây hình vòng cung tinh tế, rìa lỗ tròn có vệt chuyển động xoay êm dịu; khối mây vẫn giữ được thể tích sáng tối chân thực cùng chất cảm trắng sữa, không giống đường hầm cứng nhắc, không xuất hiện nhiễu vỡ hạt. Đáy thung lũng mở rộng từ tiền cảnh và thu hẹp dần về phía xa, một người lữ hành trưởng thành quay lưng về phía ống kính đứng ở vị trí trung tâm bên dưới, chỉ chiếm khoảng 2% chiều cao khung hình nhưng vẫn sắc nét. Ánh nắng ấm áp phía trên bên phải xuyên qua khe mây, sự phơi sáng liên tục làm cho vùng sáng lan tỏa mềm mại, chiếu sáng bức tường mây và mép đá bên phải; đá màu ấm, bầu trời xanh xám lạnh cùng mây trắng sữa rực rỡ tạo nên mối quan hệ ba màu sắc hài hòa và kiềm chế. Hạt phim mịn, phối cảnh không khí tự nhiên, tĩnh lặng mang tính sử thi và cảm giác choáng ngợp. Hiện tượng vệt mờ chuyển động chỉ tác động lên mây và một ít bụi mù; vách đá, đáy hẻm núi và con người vẫn sắc nét. Không có công trình kiến trúc, không rừng rậm, không chim bay, không chữ, không logo, không watermark, không sấm sét.
+Đang dịch
 ```
 
 [↑ Về danh mục](#catalog)
@@ -338,6 +338,54 @@ Bài gốc：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Bài gốc](https://x.c
 <img src="images/2098799449237782991-1.jpg" alt="Hình ảnh 1" width="480" />
 
 <img src="images/2098799449237782991-2.jpg" alt="Hình ảnh 2" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2098797110401335713"></a>
+
+### Đang dịch
+
+Tác giả：[@sdjn\_wgc](https://x.com/sdjn_wgc) · [Bài gốc](https://x.com/sdjn_wgc/status/2098797110401335713)
+
+Nhiếp ảnh · Chân dung / Ảnh tự chụp · Kiến trúc / Nội thất · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2098797110401335713-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2098779220566839714"></a>
+
+### Đang dịch
+
+Tác giả：[@AI\_money\_club](https://x.com/AI_money_club) · [Bài gốc](https://x.com/AI_money_club/status/2098779220566839714)
+
+Nhiếp ảnh · Nhân vật · Thực phẩm / Đồ uống · Đã xuất bản
+
+Bài gốc：[@AI\_money\_club](https://x.com/AI_money_club) · [Bài gốc](https://x.com/AI_money_club/status/2098767892028535126)
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2098779220566839714-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2098779220566839714-2.jpg" alt="Hình ảnh 2" width="480" />
 
 **Câu lệnh**
 
@@ -874,15 +922,37 @@ Nhiếp ảnh · Nhân vật · Đã xuất bản
 
 ---
 
+<a name="prompt-2099470719235318149"></a>
+
+### Đang dịch
+
+Tác giả：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Bài gốc](https://x.com/CyberTotal2026/status/2099470719235318149)
+
+Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng thời trang · Kiến trúc / Nội thất · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2099470719235318149-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
 <a name="prompt-2099370474455396482"></a>
 
-### Bức chân dung studio chân thực về một người phụ nữ thanh lịch mặc váy midi màu đen may đo vừa vặn.
+### Đang dịch
 
 Tác giả：[@MissDelulu9](https://x.com/MissDelulu9) · [Bài gốc](https://x.com/MissDelulu9/status/2099370474455396482)
 
 Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng thời trang · Đã xuất bản
 
-**Tóm tắt:** Bức chân dung studio chân thực về một người phụ nữ thanh lịch mặc váy midi màu đen may đo vừa vặn.
+**Tóm tắt:** Đang dịch
 
 <img src="images/2099370474455396482-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -891,7 +961,7 @@ Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng th
 **Câu lệnh**
 
 ```text
-Tạo một bức chân dung toàn thân trong studio cực kỳ chân thực về một người phụ nữ trưởng thành thanh lịch mặc chiếc váy dạ hội midi màu đen tinh tế dài tay, eo ôm vừa vặn, chất liệu vải cao cấp và có kết cấu tinh xảo. Trang sức tối giản, giày cao gót mũi nhọn thanh lịch, mái tóc bóng mượt chải chuốt, trang điểm tự nhiên nhẹ nhàng, biểu cảm tự tin và dịu dàng. Bối cảnh studio thời trang sang trọng, ánh sáng khuếch tán dịu nhẹ, kết cấu da chân thực, tỷ lệ cơ thể tự nhiên, phong cách nhiếp ảnh thời trang biên tập điện ảnh, ống kính 85mm, siêu chi tiết, 8K, không văn bản, không hình mờ.
+Đang dịch
 ```
 
 [↑ Về danh mục](#catalog)
@@ -988,7 +1058,7 @@ Không bỏ qua hồ nước miền núi và cốc cà phê đá ở góc dướ
 
 <a name="prompt-2099400168433152293"></a>
 
-### Lời nhắc chân dung cực cận của một phụ nữ với đôi mắt ngấn lệ ngước nhìn lên máy ảnh.
+### Đang dịch
 
 Tác giả：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Bài gốc](https://x.com/CyberTotal2026/status/2099400168433152293)
 
@@ -996,7 +1066,7 @@ Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất b�
 
 Bài gốc：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Bài gốc](https://x.com/CyberTotal2026/status/2093263569249005578)
 
-**Tóm tắt:** Lời nhắc chân dung cực cận của một phụ nữ với đôi mắt ngấn lệ ngước nhìn lên máy ảnh.
+**Tóm tắt:** Đang dịch
 
 <img src="images/2099400168433152293-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -1005,29 +1075,7 @@ Bài gốc：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Bài gốc](htt
 **Câu lệnh**
 
 ```text
-Chủ đề:
-Chân dung cận cảnh đôi mắt ngấn lệ
-
-Chủ thể:
-Bức ảnh chụp dọc từ góc cao ở cự ly cực gần của một phụ nữ ở độ tuổi 20. Nhân vật chiếm phần lớn trung tâm khung hình, nghiêng thân trên về phía trước và ngước nhìn lên máy ảnh. Một bàn tay hơi mở ra như đang hứng nước ngay dưới khóe môi, trên lòng bàn tay đọng một vài giọt nước trong suốt. Hậu cảnh trong nhà khá tối, toát lên cảm giác thân mật đặc trưng của khoảng cách gần.
-
-Nhân vật và biểu cảm:
-Gương mặt nhỏ nhắn tròn trịa cùng đường viền hàm mềm mại. Đôi mắt nâu to tròn nhìn thẳng vào ống kính, đuôi mắt hơi cụp nhẹ tạo ấn tượng hiền hòa. Màng nước mắt tự nhiên ở mí mắt dưới, chỉ thấy một giọt nước mắt cực nhỏ gần đuôi mắt mà không tạo vẻ mặt khóc nức nở. Lông mày nâu mảnh, má hồng tông cánh hồng nhạt, hàng mi tinh tế, đôi môi bóng màu hồng be. Mái tóc dài màu nâu sáng uốn sóng lơi, với tóc mái thưa và những lọn tóc con mềm mại ôm lấy gò má.
-
-Trang phục và tư thế:
-Áo sát nách chất liệu len tăm gân nhỏ màu hồng nhạt. Cổ chữ V hơi sâu với chiếc nơ nhỏ ở chính giữa, kết hợp với trang phục ngắn bên dưới tông màu trắng ngà nhạt. Thân trên nghiêng về phía máy ảnh, vai hơi khép vào trong. Một bàn tay ngửa lên dưới khuôn mặt, các ngón tay cong tự nhiên đón lấy vài giọt nước.
-
-Bối cảnh và ánh sáng:
-Không gian trong nhà với tông màu nâu tối và đen làm chủ đạo. Phía sau bên trái mờ ảo đồ nội thất tối màu và giấy tờ nhỏ, phía sau bên phải là ngăn chứa đồ màu đen và phụ kiện nhỏ màu trắng bị xóa phông. Ánh sáng ấm áp mềm mại hơi chếch từ phía trước chiếu sáng rõ khuôn mặt, mái tóc, bờ vai và lòng bàn tay, trong khi hậu cảnh chìm vào bóng tối sâu hơn một bậc. Làn da có độ bóng nhẹ kiềm chế, xuất hiện vệt phản chiếu nhỏ trên bề mặt con ngươi và giọt lệ.
-
-Bố cục và máy ảnh:
-Khung hình dọc 4:3. Chân dung cực cận đặt khuôn mặt chiếm phần lớn ngay chính giữa nửa trên khung hình. Góc nhìn hơi rộng hướng nhìn từ trên cao xuống, làm nổi bật mạnh mẽ khuôn mặt và bàn tay ở tiền cảnh. Khung hình lấy từ đỉnh đầu, khuôn ngực đến một phần đùi, với lòng bàn tay nằm đè lên phần dưới trung tâm khung hình. Lấy nét rõ ràng vào khuôn mặt và đôi mắt, hậu cảnh xóa phông mềm mại.
-
-Chất cảm và phong cách:
-Phong cách nhiếp ảnh chân thực. Miêu tả chi tiết làn da mịn màng vẫn giữ được kết cấu tự nhiên, từng sợi tóc mềm mượt rõ nét, chất vải len tăm, giọt nước và độ trong suốt của nước mắt. Tông màu ấm áp và dịu nhẹ, tránh hiệu ứng HDR quá đà hay chỉnh da mịn quá mức. Chiều sâu nổi khối đặc trưng của góc chụp cận cảnh và không khí tự nhiên như một bức ảnh đời thường.
-
-Phủ định:
-Giọt nước mắt to hạt và thiếu tự nhiên; gương mặt sưng húp vì khóc
+Đang dịch
 ```
 
 [↑ Về danh mục](#catalog)
@@ -1111,6 +1159,28 @@ Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất b�
 **Tóm tắt:** Đang dịch
 
 <img src="images/2099262094302761246-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2099152153722159320"></a>
+
+### Đang dịch
+
+Tác giả：[@Aqsahere\_](https://x.com/Aqsahere_) · [Bài gốc](https://x.com/Aqsahere_/status/2099152153722159320)
+
+Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng thời trang · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2099152153722159320-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
@@ -1929,20 +1999,26 @@ hoạt hình, anime, tranh vẽ, CGI, kết xuất 3D, chất lượng thấp, t
 
 <a name="prompt-2100839251294446037"></a>
 
-### Đang dịch
+### Bức chân dung điện ảnh về nhân vật nữ tóc bob tím đang buộc dây giày trong đống đổ nát ngập tràn khói cam.
 
 Tác giả：[@Wareenaa](https://x.com/Wareenaa) · [Bài gốc](https://x.com/Wareenaa/status/2100839251294446037)
 
 Điện ảnh / Ảnh tĩnh từ phim · Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng thời trang · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Bức chân dung điện ảnh về nhân vật nữ tóc bob tím đang buộc dây giày trong đống đổ nát ngập tràn khói cam.
 
 <img src="images/2100839251294446037-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một bức chân dung điện ảnh toàn thân siêu thực của nhân vật nữ trẻ tuổi giống hệt trong ảnh tham chiếu, giữ nguyên diện mạo đặc trưng của cô ấy: mái tóc bob thẳng ngang cằm màu tím violet rực rỡ với mái ngố mềm mại, làn da trắng sứ, tàn nhang tự nhiên trên mũi và má, đôi mắt hạnh nhân màu hạt dẻ/nâu nhạt, sống mũi thẳng nhỏ nhắn, đường nét khuôn mặt thanh tú, đôi môi căng bóng tự nhiên và vóc dáng thon thả.
+
+Cô ngồi trên một chiếc ghế gỗ mộc mạc, một đầu gối co lên sát ngực trong khi tay cầm và chỉnh dây giày của bàn chân được nâng lên. Cô hơi nghiêng người về phía trước, đầu nghiêng nhẹ về phía máy ảnh với biểu cảm điềm tĩnh, thư thái. Cô mặc một chiếc áo phông ngắn tay dáng rộng oversize màu xanh ô liu, quần jeans denim màu xanh nhạt xắn gấu, giày thể thao phong cách Converse bằng vải canvas màu tối với đế trắng, kính mắt gọng tròn màu đen và một chiếc túi đeo chéo/đeo hông nhỏ màu be.
+
+Đặt bối cảnh ngoài trời giữa tàn tích đá và gạch phong hóa, với một vòm đá cổ đóng khung bố cục, thảm thực vật khô cằn ở tiền cảnh, và chiếc ghế gỗ đặt trên nền đất mộc mạc. Làm đầy hậu cảnh bằng làn khói dày đặc màu cam nhạt và màu đào, tạo nên một màn sương mờ ảo đầy kịch tính.
+
+Sử dụng ánh sáng tự nhiên dịu nhẹ giàu cảm xúc với tông khói màu pastel ấm áp, đổ bóng chân thực, độ sâu trường ảnh điện ảnh, làn da và mái tóc chi tiết, kết cấu chân thực của vải và denim, làn sương mờ khí quyển, chất lượng ảnh chụp siêu thực, chi tiết cực đỉnh 8K, nhiếp ảnh biên tập cao cấp, thẩm mỹ mộc mạc nên thơ.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -2569,7 +2645,7 @@ Chuyển đổi bức ảnh thành phong cách nhật ký du lịch vẽ tay b�
 
 <a name="prompt-2100241141967081911"></a>
 
-### Câu lệnh nhiếp ảnh cận cảnh cực gần về nghệ thuật làm móng phong cách cổ phong Trung Hoa lấy thẩm mỹ thời Tống làm cốt lõi, nhấn mạnh vào việc khóa tiêu điểm vào nét đẹp tinh xảo của bộ móng.
+### Đang dịch
 
 Tác giả：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Bài gốc](https://x.com/DeepBlueX0/status/2100241141967081911)
 
@@ -2577,7 +2653,7 @@ Nhiếp ảnh · Mực / Phong cách Trung Hoa · Đã xuất bản
 
 Bài gốc：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Bài gốc](https://x.com/DeepBlueX0/status/2100101510634037441)
 
-**Tóm tắt:** Câu lệnh nhiếp ảnh cận cảnh cực gần về nghệ thuật làm móng phong cách cổ phong Trung Hoa lấy thẩm mỹ thời Tống làm cốt lõi, nhấn mạnh vào việc khóa tiêu điểm vào nét đẹp tinh xảo của bộ móng.
+**Tóm tắt:** Đang dịch
 
 <img src="images/2100241141967081911-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -2592,7 +2668,7 @@ Bài gốc：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Bài gốc](https://x.c
 **Câu lệnh**
 
 ```text
-Thẩm mỹ thời Tống × Cận cảnh cực gần nghệ thuật làm móng phong cách thời Tống × Khóa tiêu điểm vào hình ảnh móng làm chủ đạo
+Đang dịch
 ```
 
 [↑ Về danh mục](#catalog)
@@ -2686,6 +2762,30 @@ Bài gốc：[@huku\_ken\_ai](https://x.com/huku_ken_ai) · [Bài gốc](https:/
 
 ```text
 Trích xuất các chủ thể, đường nét, tư thế và mối quan hệ tự sự đặc trưng nhất từ hình ảnh, rồi tái cấu trúc chúng thành các minh họa xã luận vẽ tay mang phong cách nhẹ nhàng, mộc mạc và hoài cổ. Tránh việc sao chép chi tiết một cách máy móc; hình minh họa được diễn giải lại thông qua các hình dạng khái quát, tỷ lệ phóng đại vừa phải, các đặc điểm mang tính biểu tượng và phép ẩn dụ thị giác hài hước, đồng thời vẫn giữ được nét biểu cảm đặc trưng của bản gốc. Những minh họa này là sự kết hợp giữa minh họa xã luận hiện đại, thiết kế đồ họa Bauhaus, sách tranh thiếu nhi, nghệ thuật ngây thơ (naive art) và các kỹ thuật phác thảo xu hướng. Hình khối ngắn gọn, các đường viền hơi mờ phản ánh những nét vẽ sai tự nhiên của tranh vẽ tay, và các yếu tố cụ thể được phóng to một cách thích hợp để tạo ra hình ảnh giàu tính tự sự, phong cách và vui tươi.
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2098762789489873062"></a>
+
+### Đang dịch
+
+Tác giả：[@lovimg\_com](https://x.com/lovimg_com) · [Bài gốc](https://x.com/lovimg_com/status/2098762789489873062)
+
+Áp phích / Tờ rơi · Minh họa · Cổ điển / Cổ điển · Mặt hàng thời trang · Văn bản / Kiểu chữ · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2098762789489873062-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2098762789489873062-2.jpg" alt="Hình ảnh 2" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
 ```
 
 [↑ Về danh mục](#catalog)
@@ -3221,13 +3321,13 @@ Tóm tắt / Bối cảnh · Đã xuất bản
 
 <a name="prompt-2100255511228932598"></a>
 
-### Khoảnh khắc chụp hỏng dạng lưới 4 ô dọc, khung cảnh hồ sen hái củ sen và nhân vật
+### Đang dịch
 
 Tác giả：[@ahamme35638](https://x.com/ahamme35638) · [Bài gốc](https://x.com/ahamme35638/status/2100255511228932598)
 
 Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Khoảnh khắc chụp hỏng dạng lưới 4 ô dọc, khung cảnh hồ sen hái củ sen và nhân vật
+**Tóm tắt:** Đang dịch
 
 <img src="images/2100255511228932598-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -3238,7 +3338,7 @@ Nhân vật · Đã xuất bản
 **Câu lệnh**
 
 ```text
-Ảnh chụp hỏng dạng dọc 2×2, khung cảnh hái củ sen ở hồ sen + nhân vật
+Đang dịch
 ```
 
 [↑ Về danh mục](#catalog)
@@ -3880,6 +3980,28 @@ Cristiano Ronaldo đang ăn shawarma
 
 ---
 
+<a name="prompt-2097582500273115191"></a>
+
+### Đang dịch
+
+Tác giả：[@ky6001481673691](https://x.com/ky6001481673691) · [Bài gốc](https://x.com/ky6001481673691/status/2097582500273115191)
+
+Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng thời trang · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2097582500273115191-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
 <a name="prompt-2097558679956664521"></a>
 
 ### Chân dung kinh dị điều khiển học khắc họa một người gầy gò với mặt nạ sứ nứt nẻ, dây cáp trên đầu và ánh sáng đơn sắc tương phản cao.
@@ -4020,6 +4142,30 @@ Cảnh 5 (7–9 giây): Chai được cầm trang nhã bằng một tay và từ
 Cảnh 6 (9–10 giây): Cảnh quay sản phẩm chủ đạo cuối cùng của chai Cheng Guang Cocoa Soft Glow được bao quanh bởi hạt ca cao và lá cây. Máy quay từ từ tiến lại gần, hiệu ứng lấp lánh nhẹ nhàng, phông nền ấm áp sang trọng, bố cục gọn gàng tập trung vào sản phẩm.
 
 Phong cách: chân thực như ảnh chụp, quảng cáo sắc đẹp cao cấp, ánh sáng điện ảnh, chuyển động tay chân thực, chuyển cảnh máy quay mượt mà, độ sâu trường ảnh nông, bokeh mềm mại, tông màu vàng ấm áp, 4K, độ chi tiết cao, chuyển động tự nhiên, không biến dạng, không có sản phẩm thừa, không thay đổi nhãn mác chai hoặc thương hiệu.
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2098762663941832907"></a>
+
+### Đang dịch
+
+Tác giả：[@lovimg\_com](https://x.com/lovimg_com) · [Bài gốc](https://x.com/lovimg_com/status/2098762663941832907)
+
+Áp phích / Tờ rơi · Văn bản / Kiểu chữ · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2098762663941832907-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2098762663941832907-2.jpg" alt="Hình ảnh 2" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
 ```
 
 [↑ Về danh mục](#catalog)
