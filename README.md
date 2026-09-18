@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**139** Prompts · Latest addition: **2026-09-18**
+**140** Prompts · Latest addition: **2026-09-18**
 
 <a name="catalog"></a>
 
@@ -617,6 +617,50 @@ Photography · Landscape / Nature · Published
 
 ```text
 Photo of a clearing in the woods with lots of green foliage, highly detailed
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2100935621976191407"></a>
+
+### Realistic portrait of a woman in denim shorts and a blue top looking back in front of a vanity mirror.
+
+Author：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Source](https://x.com/CyberTotal2026/status/2100935621976191407)
+
+Photography · Portrait / Selfie · Character · Published
+
+**Summary:** Realistic portrait of a woman in denim shorts and a blue top looking back in front of a vanity mirror.
+
+<img src="images/2100935621976191407-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Theme:
+Denim Blue in Front of the Mirror
+
+Subject:
+In the center-right of the frame, in front of a large vanity mirror lined with round light bulbs, a young woman sits sideways on a white counter, twisting her upper body to look back at the camera. In the mirror, her back and the back view of her denim shorts are reflected at the same angle, with a small houseplant on the left and transparent cosmetic bottles arranged on the right.
+
+Person & Expression:
+Light brown, loosely curled hair falling below her chest, wispy bangs grazing her eyes, large brown eyes, thin eyeliner, pale pink cheeks, and slightly parted glossy lips. Her face is turned toward the camera over her right shoulder, chin tucked, gazing with a composed expression.
+
+Outfit & Pose:
+A form-fitting blue camisole crop top with thin shoulder straps, high-waisted faded denim shorts with heavy fraying, and white thin-strap heeled sandals on her feet. Sitting sideways on the counter, both hands resting on the surface, her right leg extended long forward, left knee bent, and hips turned toward the back.
+
+Background & Lighting:
+The background is a dressing room featuring the white counter in the foreground, a large mirror in the center, a light wooden wall on the left, and a row of round light bulbs on the right. Soft, warm light envelops the scene evenly from the numerous bulbs surrounding the mirror, creating smooth highlights on her hair, shoulders, legs, and the stone counter.
+
+Composition & Camera:
+A 4:5 vertical composition, captured with a standard lens at waist level, framing the full figure from the crown of the head down to near the ankle of the lowered right leg. The subject is prominently positioned center-right, leaving room for the mirror reflection on the left and the row of bulbs on the right. The tips of her toes are cropped at the bottom edge; sharp focus on her face and body, with a depth of field that allows the mirror reflection to remain clearly discernible.
+
+Texture & Style:
+Photorealistic live-action photograph. High definition on the long wavy hair, sheer blue top, frayed denim, white stone surface, round light bulbs, and mirror reflections, conveying the refined, warm sheen typical of an elegant vanity room.
+
+Negative:
+Mismatch between the pose or clothing of the mirror reflection and the real subject; changes to the sideways seated, looking-back pose
 ```
 
 [↑ Back to categories](#catalog)
