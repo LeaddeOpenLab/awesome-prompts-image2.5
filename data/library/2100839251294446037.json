@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-18T07:37:08.985Z",
+  "model": "image2",
+  "prompt": "Create a hyper-realistic full-body cinematic portrait of the same young adult female character from the reference image, preserving her signature appearance: vivid violet-purple chin-length straight bob haircut with soft bangs, fair porcelain skin, natural freckles across her nose and cheeks, hazel/light-brown almond-shaped eyes, small straight nose, delicate facial features, glossy natural lips, and slim physique.\n\nShe is seated on a rustic wooden chair, one knee pulled up toward her chest while she holds and adjusts the shoelace of her raised foot. She leans slightly forward with her head tilted toward the camera and a calm relaxed expression. She wears an oversized loose olive-green short-sleeved T-shirt, light-blue denim jeans with rolled-up cuffs, dark canvas Converse-style sneakers with white soles, black round-framed glasses, and a small beige crossbody/waist bag.\n\nSet the scene outdoors among weathered stone and brick ruins, with an old stone archway framing the composition, dry plants and foliage in the foreground, and the wooden chair resting on earthy dirt ground. Fill the background with thick light-orange and peach-colored smoke creating a dreamy dramatic haze.\n\nUse soft moody natural lighting with warm pastel smoke tones, realistic shadows, cinematic depth of field, detailed skin and hair, authentic denim and fabric textures, atmospheric haze, photorealistic quality, ultra-detailed 8K, premium editorial photography, dreamy rustic aesthetic.",
+  "promptTranslations": {
+    "en": "Create a hyper-realistic full-body cinematic portrait of the same young adult female character from the reference image, preserving her signature appearance: vivid violet-purple chin-length straight bob haircut with soft bangs, fair porcelain skin, natural freckles across her nose and cheeks, hazel/light-brown almond-shaped eyes, small straight nose, delicate facial features, glossy natural lips, and slim physique.\\n\\nShe is seated on a rustic wooden chair, one knee pulled up toward her chest while she holds and adjusts the shoelace of her raised foot. She leans slightly forward with her head tilted toward the camera and a calm relaxed expression. She wears an oversized loose olive-green short-sleeved T-shirt, light-blue denim jeans with rolled-up cuffs, dark canvas Converse-style sneakers with white soles, black round-framed glasses, and a small beige crossbody/waist bag.\\n\\nSet the scene outdoors among weathered stone and brick ruins, with an old stone archway framing the composition, dry plants and foliage in the foreground, and the wooden chair resting on earthy dirt ground. Fill the background with thick light-orange and peach-colored smoke creating a dreamy dramatic haze.\\n\\nUse soft moody natural lighting with warm pastel smoke tones, realistic shadows, cinematic depth of field, detailed skin and hair, authentic denim and fabric textures, atmospheric haze, photorealistic quality, ultra-detailed 8K, premium editorial photography, dreamy rustic aesthetic."
+  },
+  "summaryTranslations": {
+    "en": "Cinematic portrait of a purple-bob female character tying her shoes in ruins surrounded by orange smoke."
+  },
+  "translationVersion": 2,
+  "summary": "Cinematic portrait of a purple-bob female character tying her shoes in ruins surrounded by orange smoke.",
+  "summaryEn": "Cinematic portrait of a purple-bob female character tying her shoes in ruins surrounded by orange smoke.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100839251294446037",
+    "canonicalUrl": "https://x.com/Wareenaa/status/2100839251294446037",
+    "author": {
+      "username": "Wareenaa",
+      "displayName": "Wareen AI 💟",
+      "profileUrl": "https://x.com/Wareenaa"
+    },
+    "publishedAt": "2026-09-18T06:48:03.000Z",
+    "collectedAt": "2026-09-18T07:24:59.561Z",
+    "language": "en",
+    "originalText": "GPT Image 2 on ChatGPT\n\nPrompt:\n\nCreate a hyper-realistic full-body cinematic portrait of the same young adult female character from the reference image, preserving her signature appearance: vivid violet-purple chin-length straight bob haircut with soft bangs, fair porcelain skin, natural freckles across her nose and cheeks, hazel/light-brown almond-shaped eyes, small straight nose, delicate facial features, glossy natural lips, and slim physique.\n\nShe is seated on a rustic wooden chair, one knee pulled up toward her chest while she holds and adjusts the shoelace of her raised foot. She leans slightly forward with her head tilted toward the camera and a calm relaxed expression. She wears an oversized loose olive-green short-sleeved T-shirt, light-blue denim jeans with rolled-up cuffs, dark canvas Converse-style sneakers with white soles, black round-framed glasses, and a small beige crossbody/waist bag.\n\nSet the scene outdoors among weathered stone and brick ruins, with an old stone archway framing the composition, dry plants and foliage in the foreground, and the wooden chair resting on earthy dirt ground. Fill the background with thick light-orange and peach-colored smoke creating a dreamy dramatic haze.\n\nUse soft moody natural lighting with warm pastel smoke tones, realistic shadows, cinematic depth of field, detailed skin and hair, authentic denim and fabric textures, atmospheric haze, photorealistic quality, ultra-detailed 8K, premium editorial photography, dreamy rustic aesthetic.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSeuKPFbYAAF_Dn.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSeuKPFbYAAF_Dn.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 19,
+      "repostCount": 0,
+      "replyCount": 17,
+      "quoteCount": 0,
+      "viewCount": 172
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Wareenaa/status/2100839251294446037",
+  "coverUrl": "https://pbs.twimg.com/media/HSeuKPFbYAAF_Dn.jpg",
+  "coverPath": "images/2100839251294446037-1.jpg",
+  "imagePaths": [
+    "images/2100839251294446037-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSeuKPFbYAAF_Dn",
+    "x-post:2100839251294446037"
+  ],
+  "analysis": {
+    "summary": "Cinematic portrait of a purple-bob female character tying her shoes in ruins surrounded by orange smoke.",
+    "summaryEn": "Cinematic portrait of a purple-bob female character tying her shoes in ruins surrounded by orange smoke.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The purple bob, round glasses, olive shirt, jeans, canvas sneakers, stone archway, and peach-orange smoke match the image."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Create a hyper-realistic full-body cinematic portrait of the same young adult female character from the reference image, preserving her signature appearance: vivid violet-purple chin-length straight bob haircut with soft bangs, fair porcelain skin, natural freckles across her nose and cheeks, hazel/light-brown almond-shaped eyes, small straight nose, delicate facial features, glossy natural lips, and slim physique.\n\nShe is seated on a rustic wooden chair, one knee pulled up toward her chest while she holds and adjusts the shoelace of her raised foot. She leans slightly forward with her head tilted toward the camera and a calm relaxed expression. She wears an oversized loose olive-green short-sleeved T-shirt, light-blue denim jeans with rolled-up cuffs, dark canvas Converse-style sneakers with white soles, black round-framed glasses, and a small beige crossbody/waist bag.\n\nSet the scene outdoors among weathered stone and brick ruins, with an old stone archway framing the composition, dry plants and foliage in the foreground, and the wooden chair resting on earthy dirt ground. Fill the background with thick light-orange and peach-colored smoke creating a dreamy dramatic haze.\n\nUse soft moody natural lighting with warm pastel smoke tones, realistic shadows, cinematic depth of field, detailed skin and hair, authentic denim and fabric textures, atmospheric haze, photorealistic quality, ultra-detailed 8K, premium editorial photography, dreamy rustic aesthetic.",
+    "sourceRange": {
+      "start": 33,
+      "end": 1511
+    },
+    "translations": {
+      "zh": "创作一张超写实全身电影质感肖像，呈现参考图中的同一年轻女性角色，保留其标志性外貌：鲜艳的紫罗兰色及下巴齐平直波波头配空气刘海、瓷白肌肤、鼻梁与两颊的自然雀斑、浅褐色杏仁眼、精致五官与修长身形。\n\n她坐在质朴的木椅上，单膝提起贴近胸口，系抬起脚的鞋带。身体微倾，头朝镜头微偏，神态恬淡。身穿宽松橄榄绿短袖T恤、卷边浅蓝牛仔裤、白底深色帆布鞋、黑色圆框眼镜与米色小斜挎包。\n\n场景设在斑驳的砖石废墟户外，古老石拱门构成画框，前景有枯植，背景弥漫着浓厚的浅橙与桃粉色烟雾，营造如梦似幻的氛围。\n\n采用柔和电影光影与暖色粉烟调，具真实阴影、景深与超细节写性质感。",
+      "en": "Create a hyper-realistic full-body cinematic portrait of the same young adult female character from the reference image, preserving her signature appearance: vivid violet-purple chin-length straight bob haircut with soft bangs, fair porcelain skin, natural freckles across her nose and cheeks, hazel/light-brown almond-shaped eyes, small straight nose, delicate facial features, glossy natural lips, and slim physique.\n\nShe is seated on a rustic wooden chair, one knee pulled up toward her chest while she holds and adjusts the shoelace of her raised foot. She leans slightly forward with her head tilted toward the camera and a calm relaxed expression. She wears an oversized loose olive-green short-sleeved T-shirt, light-blue denim jeans with rolled-up cuffs, dark canvas Converse-style sneakers with white soles, black round-framed glasses, and a small beige crossbody/waist bag.\n\nSet the scene outdoors among weathered stone and brick ruins, with an old stone archway framing the composition, dry plants and foliage in the foreground, and the wooden chair resting on earthy dirt ground. Fill the background with thick light-orange and peach-colored smoke creating a dreamy dramatic haze.\n\nUse soft moody natural lighting with warm pastel smoke tones, realistic shadows, cinematic depth of field, detailed skin and hair, authentic denim and fabric textures, atmospheric haze, photorealistic quality, ultra-detailed 8K, premium editorial photography, dreamy rustic aesthetic."
+    },
+    "targetModels": [
+      "image2"
+    ],
+    "category": "text-to-image",
+    "useCase": "Cinematic portrait generation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": [
+        "Converse-style sneakers"
+      ]
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-18T07:36:15.549Z",
+  "model": "image2",
+  "prompt": "主題：\n真夏にきらめく横顔\n\n主体：\n画面右、鮮やかな青空を背に若い女性の右向き横顔と肩、胸元を極端な近距離かつ低い位置から捉える。画面上部右に白く輝く太陽、左上に小さな白い雲、下端中央にごく細いターコイズの海が見える。\n\n人物・表情：\n明るいアッシュブラウンの髪を後頭部の低い位置で丸いシニヨンにまとめ、頬に細い後れ毛を残す。右目は画面端に半分見え、右耳に小粒ピアスと細い金銀のフープ、長い睫毛、自然な眉、艶のある淡いピンクの唇。顔を画面右へ向け、遠くを見る静かな横顔で、右半分は画面端で裁切される。\n\n服装・ポーズ：\nマスタードイエローの細い肩紐と首紐を持つ三角ビキニ水着トップ、長さの違う二本の華奢な金色ネックレスと小粒の透明ペンダント。肩を少し前へ寄せ、首を長く伸ばして右へ向き、腕は画面外に置く。\n\n背景・光：\n背景は画面左の濃く澄んだ青空と白い雲、中央下の遠い海だけの真夏の屋外。右上方の太陽を主光源に硬い逆光が当たり、頭髪と肩に白い縁光、肌と黄色い水着に強いハイライトを作り、顔の左側には柔らかな反射光が回る。\n\n構図・カメラ：\n9:16の縦長構図、肩より低い超近距離の広角視点で顔の右半分、首、両肩、胸元を大きく収める。横顔を画面右端で大胆に裁切し、左上の青空に大きな余白を残す。耳と髪、唇付近にピント、空は均一な深い被写界深度。\n\n質感・スタイル：\nフォトリアルな実写写真。逆光で透ける後れ毛、耳とアクセサリー、自然な肌、黄色い水着の縫い目、強い太陽光を高精細にし、青と黄色の鮮烈な対比を保つ。\n\nネガティブ：\n正面顔や全身構図への変更；低い視点と右端裁切の変更",
+  "promptTranslations": {
+    "en": "Subject:\nA profile glowing in midsummer\n\nMain Subject:\nOn the right side of the frame, set against a vivid blue sky, a young woman's right-facing profile, shoulders, and décolletage captured from an extremely close distance and low angle. In the upper right of the frame is a brightly shining white sun, in the upper left a small white cloud, and at the bottom center a very thin strip of turquoise sea is visible.\n\nPerson / Expression:\nLight ash-brown hair gathered into a round chignon low at the back of the head, with wisps of stray hair falling against the cheek. The right eye is half visible at the edge of the frame, with small studs and thin gold and silver hoops in the right ear, long eyelashes, natural eyebrows, and glossy pale pink lips. Her face is turned toward the right of the frame, showing a quiet profile gazing into the distance, with the right half cropped by the edge of the frame.\n\nClothing / Pose:\nA mustard yellow triangle bikini top with thin shoulder and neck straps, two delicate gold necklaces of different lengths with a small transparent pendant. Her shoulders are slightly pulled forward, neck extended long as she faces right, with her arms out of frame.\n\nBackground / Lighting:\nMidsummer outdoors with a background composed solely of a deep, clear blue sky and white clouds on the left side of the frame, and the distant sea at the bottom center. Hard backlighting with the sun in the upper right as the primary light source creates a white rim light along her hair and shoulders, strong highlights on her skin and yellow swimsuit, and soft reflected light wraps around the left side of her face.\n\nComposition / Camera:\n9:16 vertical composition, an ultra-close-up wide-angle perspective from below the shoulders that largely captures the right half of her face, neck, both shoulders, and décolletage. The profile is boldly cropped at the right edge of the frame, leaving ample negative space in the blue sky on the upper left. Sharp focus around the ear, hair, and lips, with a uniform, deep depth of field for the sky.\n\nTexture / Style:\nPhotorealistic live-action photograph. High-definition rendering of backlit translucent stray hairs, ears and accessories, natural skin texture, stitching on the yellow swimsuit, and intense sunlight, maintaining a vivid contrast between blue and yellow.\n\nNegative:\nChanges to a frontal face or full-body composition; alterations to the low-angle perspective and right-edge cropping"
+  },
+  "summaryTranslations": {
+    "en": "A close-up photo prompt of a woman's profile wearing a yellow bikini and gold accessories against a backdrop of blue sky and backlighting."
+  },
+  "translationVersion": 2,
+  "summary": "青空と逆光を背景に、黄色いビキニとゴールドアクセサリーを身につけた女性の横顔クローズアップ写真プロンプト。",
+  "summaryEn": "Prompt for a photorealistic close-up portrait of a woman in a yellow bikini facing right under bright sun and blue sky.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100819355332427950",
+    "canonicalUrl": "https://x.com/CyberTotal2026/status/2100819355332427950",
+    "author": {
+      "username": "CyberTotal2026",
+      "displayName": "Prompt アトリエ｜AI画像プロンプト",
+      "profileUrl": "https://x.com/CyberTotal2026"
+    },
+    "publishedAt": "2026-09-18T05:29:00.000Z",
+    "collectedAt": "2026-09-18T07:24:59.561Z",
+    "language": "ja",
+    "originalText": "真夏の空を見上げたら、光までアクセサリーみたいにきらめいた☀️💎💛\n\n#AIart #AI写真 #夏の横顔\n\n【GPT Image2プロンプト】\n\n主題：\n真夏にきらめく横顔\n\n主体：\n画面右、鮮やかな青空を背に若い女性の右向き横顔と肩、胸元を極端な近距離かつ低い位置から捉える。画面上部右に白く輝く太陽、左上に小さな白い雲、下端中央にごく細いターコイズの海が見える。\n\n人物・表情：\n明るいアッシュブラウンの髪を後頭部の低い位置で丸いシニヨンにまとめ、頬に細い後れ毛を残す。右目は画面端に半分見え、右耳に小粒ピアスと細い金銀のフープ、長い睫毛、自然な眉、艶のある淡いピンクの唇。顔を画面右へ向け、遠くを見る静かな横顔で、右半分は画面端で裁切される。\n\n服装・ポーズ：\nマスタードイエローの細い肩紐と首紐を持つ三角ビキニ水着トップ、長さの違う二本の華奢な金色ネックレスと小粒の透明ペンダント。肩を少し前へ寄せ、首を長く伸ばして右へ向き、腕は画面外に置く。\n\n背景・光：\n背景は画面左の濃く澄んだ青空と白い雲、中央下の遠い海だけの真夏の屋外。右上方の太陽を主光源に硬い逆光が当たり、頭髪と肩に白い縁光、肌と黄色い水着に強いハイライトを作り、顔の左側には柔らかな反射光が回る。\n\n構図・カメラ：\n9:16の縦長構図、肩より低い超近距離の広角視点で顔の右半分、首、両肩、胸元を大きく収める。横顔を画面右端で大胆に裁切し、左上の青空に大きな余白を残す。耳と髪、唇付近にピント、空は均一な深い被写界深度。\n\n質感・スタイル：\nフォトリアルな実写写真。逆光で透ける後れ毛、耳とアクセサリー、自然な肌、黄色い水着の縫い目、強い太陽光を高精細にし、青と黄色の鮮烈な対比を保つ。\n\nネガティブ：\n正面顔や全身構図への変更；低い視点と右端裁切の変更",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSCaLtsbsAApBMb.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSCaLtsbsAApBMb.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 21,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 1,
+      "viewCount": 1048
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/CyberTotal2026/status/2100819355332427950",
+  "coverUrl": "https://pbs.twimg.com/media/HSCaLtsbsAApBMb.jpg",
+  "coverPath": "images/2100819355332427950-1.jpg",
+  "imagePaths": [
+    "images/2100819355332427950-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSCaLtsbsAApBMb",
+    "x-post:2100819355332427950"
+  ],
+  "analysis": {
+    "summary": "青空と逆光を背景に、黄色いビキニとゴールドアクセサリーを身につけた女性の横顔クローズアップ写真プロンプト。",
+    "summaryEn": "Prompt for a photorealistic close-up portrait of a woman in a yellow bikini facing right under bright sun and blue sky.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Image exhibits the described low-angle cropped side profile, mustard yellow bikini, chignon bun, bright blue sky, and sun backlight."
+    },
+    "videoQuality": null,
+    "originalPrompt": "主題：\n真夏にきらめく横顔\n\n主体：\n画面右、鮮やかな青空を背に若い女性の右向き横顔と肩、胸元を極端な近距離かつ低い位置から捉える。画面上部右に白く輝く太陽、左上に小さな白い雲、下端中央にごく細いターコイズの海が見える。\n\n人物・表情：\n明るいアッシュブラウンの髪を後頭部の低い位置で丸いシニヨンにまとめ、頬に細い後れ毛を残す。右目は画面端に半分見え、右耳に小粒ピアスと細い金銀のフープ、長い睫毛、自然な眉、艶のある淡いピンクの唇。顔を画面右へ向け、遠くを見る静かな横顔で、右半分は画面端で裁切される。\n\n服装・ポーズ：\nマスタードイエローの細い肩紐と首紐を持つ三角ビキニ水着トップ、長さの違う二本の華奢な金色ネックレスと小粒の透明ペンダント。肩を少し前へ寄せ、首を長く伸ばして右へ向き、腕は画面外に置く。\n\n背景・光：\n背景は画面左の濃く澄んだ青空と白い雲、中央下の遠い海だけの真夏の屋外。右上方の太陽を主光源に硬い逆光が当たり、頭髪と肩に白い縁光、肌と黄色い水着に強いハイライトを作り、顔の左側には柔らかな反射光が回る。\n\n構図・カメラ：\n9:16の縦長構図、肩より低い超近距離の広角視点で顔の右半分、首、両肩、胸元を大きく収める。横顔を画面右端で大胆に裁切し、左上の青空に大きな余白を残す。耳と髪、唇付近にピント、空は均一な深い被写界深度。\n\n質感・スタイル：\nフォトリアルな実写写真。逆光で透ける後れ毛、耳とアクセサリー、自然な肌、黄色い水着の縫い目、強い太陽光を高精細にし、青と黄色の鮮烈な対比を保つ。\n\nネガティブ：\n正面顔や全身構図への変更；低い視点と右端裁切の変更",
+    "sourceRange": {
+      "start": 74,
+      "end": 764
+    },
+    "translations": {
+      "zh": "主题：盛夏闪耀的侧脸。主体：画面右侧，背对湛蓝天空，超近距低仰角捕捉年轻女性右侧面容、肩胸部。右上方有白炽太阳，左上有白云，底部露微量绿松石色海面。人物：浅灰棕发梳低丸子头，右耳戴细圈耳环，淡粉唇。着装：芥末黄三角比基尼上衣，双层金项链。光照强逆光，写实风格。",
+      "en": "Subject: Profile in midsummer. Young woman in mustard yellow bikini top viewed from a low close-up angle facing right against clear blue sky, low bun hair, dainty gold jewelry, backlight rim lighting, photorealistic photo."
+    },
+    "targetModels": [
+      "image2"
+    ],
+    "category": "text-to-image",
+    "useCase": "Portrait Photography",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
