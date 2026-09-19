@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**160** Prompt · Ultima aggiunta: **2026-09-19**
+**154** Prompt · Ultima aggiunta: **2026-09-19**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,44 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 <a name="category-photography"></a>
 
 ## Fotografia
+
+<a name="prompt-2101395682712285664"></a>
+
+### Traduzione in corso
+
+Autore：[@SaasJunctionHQ](https://x.com/SaasJunctionHQ) · [Post originale](https://x.com/SaasJunctionHQ/status/2101395682712285664)
+
+Fotografia · Paesaggio / Natura · Pubblicato
+
+Post originale：[@SaasJunctionHQ](https://x.com/SaasJunctionHQ) · [Post originale](https://x.com/SaasJunctionHQ/status/2090485613640446116)
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2101395682712285664-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2101395682712285664-2.jpg" alt="Immagine 2" width="480" />
+
+<img src="images/2101395682712285664-3.jpg" alt="Immagine 3" width="480" />
+
+<img src="images/2101395682712285664-4.jpg" alt="Immagine 4" width="480" />
+
+<img src="images/2101395682712285664-5.jpg" alt="Immagine 5" width="480" />
+
+<img src="images/2101395682712285664-6.jpg" alt="Immagine 6" width="480" />
+
+<img src="images/2101395682712285664-7.jpg" alt="Immagine 7" width="480" />
+
+<img src="images/2101395682712285664-8.jpg" alt="Immagine 8" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2100266849506316292"></a>
 
@@ -59,13 +97,13 @@ Numerose foto fallite di dilettanti, 3x3, 9:16
 
 <a name="prompt-2100221410358735319"></a>
 
-### Traduzione in corso
+### Un prompt per selfie realistici in griglia 3x3 che imita numerose foto amatoriali mal riuscite.
 
 Autore：[@oneruofeng](https://x.com/oneruofeng) · [Post originale](https://x.com/oneruofeng/status/2100221410358735319)
 
 Fotografia · Ritratto / Selfie · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Un prompt per selfie realistici in griglia 3x3 che imita numerose foto amatoriali mal riuscite.
 
 <img src="images/2100221410358735319-1.jpg" alt="Immagine 1" width="480" />
 
@@ -74,7 +112,7 @@ Fotografia · Ritratto / Selfie · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+Numerose foto amatoriali mal riuscite, 3x3, 9:16
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -161,20 +199,20 @@ Traduzione in corso
 
 <a name="prompt-2099374878910734661"></a>
 
-### Traduzione in corso
+### Paesaggio surreale di canyon in 9:16, gigantesco anello di nuvole vorticose con effetto time-stack a lunga esposizione, viaggiatore di spalle sul fondo della valle.
 
 Autore：[@listudio](https://x.com/listudio) · [Post originale](https://x.com/listudio/status/2099374878910734661)
 
 Fotografia · Paesaggio / Natura · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Paesaggio surreale di canyon in 9:16, gigantesco anello di nuvole vorticose con effetto time-stack a lunga esposizione, viaggiatore di spalle sul fondo della valle.
 
 <img src="images/2099374878910734661-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea una fotografia time-stack iperrealista e surreale di un canyon in formato verticale 9:16. Un fondovalle ampio e arido, affiancato da imponenti pareti rocciose stratificate verticali nei toni del marrone caldo, ocra e nero antracite che si innalzano dai bordi del primo piano, formando una cornice naturale scura, con la texture della roccia e della ghiaia che mantiene dettagli nitidi. Nel cielo, tra il piano medio e lo sfondo del canyon, appare un gigantesco anello di nuvole vorticose che occupa gran parte dell'area centrale, rivelando al centro del foro circolare un sereno cielo grigio-blu. Utilizza un effetto di lunga esposizione da postazione fissa combinato con un time-stack a più fotogrammi: spessi cumuli ruotano lentamente nella stessa direzione di rotazione, fondendosi in linee di flusso concentriche, continue e morbide; la parete interna presenta centinaia e migliaia di delicate striature nuvolose ad arco e i bordi del foro mostrano morbide scie di rotazione; le nuvole mantengono un volume realistico di luci e ombre e una consistenza bianco latte, senza sembrare un tunnel solido e senza artefatti o rumore frammentato. Il fondo della valle si allarga in primo piano e converge verso la lontananza; un viaggiatore adulto di spalle si trova in basso al centro, occupando solo circa il 2% dell'altezza del fotogramma e rimanendo nitido. La calda luce del sole in alto a destra filtra tra gli squarci delle nuvole; l'esposizione continua diffonde delicatamente le alte luci, illuminando la parete di nuvole di destra e i bordi rocciosi; la roccia calda, il cielo freddo grigio-blu e le nuvole bianco latte brillanti creano una sobria relazione tricromatica. Grana della pellicola sottile, prospettiva aerea naturale, silenzio epico e senso di maestosità opprimente. Il motion blur si applica solo alle nuvole e a un leggero velo di polvere; le pareti rocciose, il fondovalle e la persona restano perfettamente nitidi. Senza edifici, senza fitta boscaglia, senza uccelli in volo, senza scritte, senza loghi, senza filigrane, senza fulmini.
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -338,54 +376,6 @@ Post originale：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Post originale](htt
 <img src="images/2098799449237782991-1.jpg" alt="Immagine 1" width="480" />
 
 <img src="images/2098799449237782991-2.jpg" alt="Immagine 2" width="480" />
-
-**Prompt**
-
-```text
-Traduzione in corso
-```
-
-[↑ Torna alle categorie](#catalog)
-
----
-
-<a name="prompt-2098797110401335713"></a>
-
-### Traduzione in corso
-
-Autore：[@sdjn\_wgc](https://x.com/sdjn_wgc) · [Post originale](https://x.com/sdjn_wgc/status/2098797110401335713)
-
-Fotografia · Ritratto / Selfie · Architettura / Interni · Pubblicato
-
-**Riepilogo:** Traduzione in corso
-
-<img src="images/2098797110401335713-1.jpg" alt="Immagine 1" width="480" />
-
-**Prompt**
-
-```text
-Traduzione in corso
-```
-
-[↑ Torna alle categorie](#catalog)
-
----
-
-<a name="prompt-2098779220566839714"></a>
-
-### Traduzione in corso
-
-Autore：[@AI\_money\_club](https://x.com/AI_money_club) · [Post originale](https://x.com/AI_money_club/status/2098779220566839714)
-
-Fotografia · Personaggio · Cibo / Bevande · Pubblicato
-
-Post originale：[@AI\_money\_club](https://x.com/AI_money_club) · [Post originale](https://x.com/AI_money_club/status/2098767892028535126)
-
-**Riepilogo:** Traduzione in corso
-
-<img src="images/2098779220566839714-1.jpg" alt="Immagine 1" width="480" />
-
-<img src="images/2098779220566839714-2.jpg" alt="Immagine 2" width="480" />
 
 **Prompt**
 
@@ -1183,37 +1173,15 @@ Traduzione in corso
 
 ---
 
-<a name="prompt-2099470719235318149"></a>
-
-### Traduzione in corso
-
-Autore：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Post originale](https://x.com/CyberTotal2026/status/2099470719235318149)
-
-Fotografia · Ritratto / Selfie · Personaggio · Articolo di moda · Architettura / Interni · Pubblicato
-
-**Riepilogo:** Traduzione in corso
-
-<img src="images/2099470719235318149-1.jpg" alt="Immagine 1" width="480" />
-
-**Prompt**
-
-```text
-Traduzione in corso
-```
-
-[↑ Torna alle categorie](#catalog)
-
----
-
 <a name="prompt-2099370474455396482"></a>
 
-### Traduzione in corso
+### Ritratto da studio fotorealistico di un'elegante donna che indossa un abito midi nero sartoriale.
 
 Autore：[@MissDelulu9](https://x.com/MissDelulu9) · [Post originale](https://x.com/MissDelulu9/status/2099370474455396482)
 
 Fotografia · Ritratto / Selfie · Personaggio · Articolo di moda · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Ritratto da studio fotorealistico di un'elegante donna che indossa un abito midi nero sartoriale.
 
 <img src="images/2099370474455396482-1.jpg" alt="Immagine 1" width="480" />
 
@@ -1222,7 +1190,7 @@ Fotografia · Ritratto / Selfie · Personaggio · Articolo di moda · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea un ritratto a figura intera da studio altamente fotorealistico di un'elegante donna adulta che indossa un sofisticato abito formale midi nero con maniche lunghe, vita sartoriale, tessuto pregiato e trama sottile. Gioielli minimali, eleganti tacchi a punta, capelli lisci e lucenti, trucco naturale e delicato, espressione dolce e sicura di sé. Sfondo di uno studio di moda di lusso, illuminazione morbida e diffusa, texture della pelle realistica, proporzioni naturali, fotografia editoriale cinematografica, obiettivo da 85 mm, ultra-dettagliato, 8K, nessun testo, nessuna filigrana.
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -1319,7 +1287,7 @@ Non omettere il lago alpino e il caffè freddo in basso a sinistra
 
 <a name="prompt-2099400168433152293"></a>
 
-### Traduzione in corso
+### Prompt per un ritratto a distanza ravvicinata di una donna che guarda la fotocamera con occhi lucidi.
 
 Autore：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Post originale](https://x.com/CyberTotal2026/status/2099400168433152293)
 
@@ -1327,7 +1295,7 @@ Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
 
 Post originale：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Post originale](https://x.com/CyberTotal2026/status/2093263569249005578)
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per un ritratto a distanza ravvicinata di una donna che guarda la fotocamera con occhi lucidi.
 
 <img src="images/2099400168433152293-1.jpg" alt="Immagine 1" width="480" />
 
@@ -1336,7 +1304,29 @@ Post originale：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Post origin
 **Prompt**
 
 ```text
-Traduzione in corso
+Tema:
+Ritratto a distanza ravvicinata con occhi lucidi
+
+Soggetto:
+Una fotografia verticale scattata dall'alto a distanza ravvicinata di una donna sui vent'anni. Il soggetto occupa ampiamente il centro dell'inquadratura, sporgendo la parte superiore del corpo in avanti mentre guarda verso l'alto verso la fotocamera. Una mano è leggermente aperta a coppa appena sotto la bocca, con poche gocce d'acqua trasparenti posate sul palmo. Uno sfondo interno scuro e un'atmosfera intima tipica della vicinanza ravvicinata.
+
+Persona ed espressione:
+Tratti del viso piccoli e tondeggianti con una mascella morbida. Grandi occhi castani che guardano dritto verso la fotocamera, con gli angoli esterni leggermente all'ingiù che conferiscono un'impressione pacata. Sulla palpebra inferiore è presente un velo naturale di lacrime, con una minuscola lacrima appena visibile vicino all'angolo esterno dell'occhio, senza sembrare un viso in lacrime. Sopracciglia castane sottili, blush rosa chiaro, ciglia delicate e labbra lucide rosa beige. Lunghi capelli castano chiaro con onde morbide, frangia sottile e ciocche sottili che incorniciano le guance.
+
+Abbigliamento e posa:
+Top smanicato a coste sottili rosa chiaro. È visibile un profondo scollo a V con un piccolo fiocco al centro, abbinato sotto a un capo corto color avorio chiaro. Busto inclinato verso la fotocamera e spalle leggermente rientrate. Una mano sotto il viso con il palmo rivolto verso l'alto e le dita naturalmente incurvate per raccogliere una piccola quantità di gocce d'acqua.
+
+Sfondo e luce:
+Interno caratterizzato da tonalità marrone scuro e nero. Sul fondo a sinistra si intravedono mobili scuri e piccoli fogli di carta sfocati, mentre sul fondo a destra compaiono un mobile contenitore nero e piccoli oggetti bianchi sfocati. Una luce calda e morbida proveniente dal fronte illumina chiaramente viso, capelli, spalle e palmo della mano, mentre lo sfondo degrada nel buio. La pelle presenta una lucentezza discreta, con piccoli riflessi sulle pupille e sulla superficie delle lacrime.
+
+Composizione e fotocamera:
+Verticale 4:3. Ritratto a distanza estremamente ravvicinata con il viso posizionato ampiamente al centro della metà superiore dell'inquadratura. Prospettiva leggermente dall'alto con effetto grandangolare, che mette fortemente in primo piano viso e mano. Inquadratura che va dalla sommità del capo al petto e a parte delle cosce, con il palmo della mano sovrapposto nella parte inferiore centrale dell'inquadratura. Messa a fuoco netta su viso e occhi, con sfondo morbidamente sfocato.
+
+Texture e stile:
+Resa fotografica realistica. Pelle liscia che conserva la grana naturale, capelli morbidi visibili filo per filo, tessuto a coste, gocce d'acqua e trasparenza delle lacrime resi nei minimi dettagli. Toni caldi e morbidi, evitando HDR eccessivo o filtri leviganti marcati. Tridimensionalità tipica dello scatto ravvicinato e atmosfera naturale come una foto di vita quotidiana.
+
+Negativo:
+Lacrime grandi e innaturali; espressione gonfia di pianto
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -1420,28 +1410,6 @@ Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
 **Riepilogo:** Traduzione in corso
 
 <img src="images/2099262094302761246-1.jpg" alt="Immagine 1" width="480" />
-
-**Prompt**
-
-```text
-Traduzione in corso
-```
-
-[↑ Torna alle categorie](#catalog)
-
----
-
-<a name="prompt-2099152153722159320"></a>
-
-### Traduzione in corso
-
-Autore：[@Aqsahere\_](https://x.com/Aqsahere_) · [Post originale](https://x.com/Aqsahere_/status/2099152153722159320)
-
-Fotografia · Ritratto / Selfie · Personaggio · Articolo di moda · Pubblicato
-
-**Riepilogo:** Traduzione in corso
-
-<img src="images/2099152153722159320-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
@@ -2531,13 +2499,13 @@ Stile: Illustrazione editoriale contemporanea, forme concettuali e semplificate,
 
 <a name="prompt-2101315631237021853"></a>
 
-### Traduzione in corso
+### Un modello di prompt per creare poster con schizzi architettonici minimalisti vintage raffiguranti monumenti celebri con dettagli geometrici e tipografia.
 
 Autore：[@Naiknelofar788](https://x.com/Naiknelofar788) · [Post originale](https://x.com/Naiknelofar788/status/2101315631237021853)
 
 Poster / Volantino · Schizzo / Line Art · Retro / Vintage · Minimalismo · Architettura / Interni · Testo / Tipografia · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Un modello di prompt per creare poster con schizzi architettonici minimalisti vintage raffiguranti monumenti celebri con dettagli geometrici e tipografia.
 
 <img src="images/2101315631237021853-1.jpg" alt="Immagine 1" width="480" />
 
@@ -2546,7 +2514,17 @@ Poster / Volantino · Schizzo / Line Art · Retro / Vintage · Minimalismo · Ar
 **Prompt**
 
 ```text
-Traduzione in corso
+Un sofisticato poster artistico architettonico e minimalista con [LANDMARK / STRUCTURE] come soggetto centrale, illustrato in un raffinato stile a schizzo architettonico disegnato a mano. Mantieni la silhouette riconoscibile, le proporzioni e i dettagli architettonici distintivi del monumento, trasformandolo al contempo in un'elegante composizione artistica.
+
+Utilizza una tavolozza monocromatica limitata ispirata al luogo, con morbide tonalità vintage su uno sfondo di carta bianco caldo/avorio. Combina delicate linee a inchiostro, tratteggi architettonici sottili, una trama a mezzatinta impercettibile e dettagli di stampa leggermente invecchiati.
+
+Circonda la struttura con alcune forme geometriche astratte, morbidi cerchi traslucidi, sottili elementi atmosferici, uccelli o minuscoli dettagli contestuali che completano il monumento senza sovrastarlo. Aggiungi un delicato senso di profondità attraverso strati sovrapposti e tratti sfumati.
+
+Includi una piccola tipografia minimalista su un lato: [CITY / COUNTRY], [LANDMARK NAME] e coordinate facoltative o un breve testo descrittivo del luogo, disposti come una stampa artistica di viaggio di alta qualità.
+
+Spazio negativo pulito, graphic design editoriale, estetica da poster di viaggio di qualità museale, composizione elegante, lusso discreto, texture serigrafica vintage, illustrazione architettonica artistica, nessuna persona, nessuno sfondo fotorealistico, nessun oggetto non necessario, composizione verticale 4:5.
+
+[LANDMARK] ripensato come un poster artistico di viaggio minimalista da collezione, che unisce schizzi architettonici, incisione vintage, forme geometriche astratte, linee delicate, texture mezzatinta, colori tenui ispirati al luogo ed elegante spazio negativo. Il monumento rimane immediatamente riconoscibile, ma assume l'aspetto di un'opera d'arte grafica moderna realizzata a mano. Aggiungi minuscoli uccelli, sottili elementi ambientali, coordinate e una tipografia minimale del luogo. Estetica editoriale premium, artistica, sofisticata, perfetta per la condivisione, verticale 4:5.
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -2977,7 +2955,7 @@ Trasforma la foto nello stile di un diario di viaggio disegnato a mano con matit
 
 <a name="prompt-2100241141967081911"></a>
 
-### Traduzione in corso
+### Prompt fotografico in primissimo piano estremo per nail art in stile tradizionale cinese incentrato sull'estetica della dinastia Song, che enfatizza il blocco della messa a fuoco sullo squisito impatto visivo delle unghie.
 
 Autore：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Post originale](https://x.com/DeepBlueX0/status/2100241141967081911)
 
@@ -2985,7 +2963,7 @@ Fotografia · Inchiostro / Stile Cinese · Pubblicato
 
 Post originale：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Post originale](https://x.com/DeepBlueX0/status/2100101510634037441)
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt fotografico in primissimo piano estremo per nail art in stile tradizionale cinese incentrato sull'estetica della dinastia Song, che enfatizza il blocco della messa a fuoco sullo squisito impatto visivo delle unghie.
 
 <img src="images/2100241141967081911-1.jpg" alt="Immagine 1" width="480" />
 
@@ -3000,7 +2978,7 @@ Post originale：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Post originale](htt
 **Prompt**
 
 ```text
-Traduzione in corso
+Estetica della dinastia Song × Primissimo piano estremo di nail art in stile Song × Messa a fuoco bloccata sul visual principale della nail art
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -3094,30 +3072,6 @@ Post originale：[@huku\_ken\_ai](https://x.com/huku_ken_ai) · [Post originale]
 
 ```text
 Estrai dall'immagine i soggetti, i contorni, le pose e le relazioni narrative più caratteristici, e ricostruiscili in un'illustrazione editoriale disegnata a mano, leggera, rustica e rétro. Evitando la riproduzione meccanica dei dettagli, l'illustrazione viene reinterpretata attraverso forme generalizzate, proporzioni moderatamente esagerate, tratti simbolici e metafore visive umoristiche, mantenendo al contempo l'espressione caratteristica dell'originale. Queste illustrazioni fondono l'illustrazione editoriale modernista, il graphic design della Bauhaus, i libri illustrati per bambini, l'arte naïf e le tecniche di sketch di tendenza. Le forme sono essenziali, le linee di contorno danno un'impressione leggermente vaga riflettendo le imperfezioni tipiche del disegno a mano libera, e determinati elementi sono opportunamente ingranditi per creare un'immagine ricca di narrazione, stile e giocosità.
-```
-
-[↑ Torna alle categorie](#catalog)
-
----
-
-<a name="prompt-2098762789489873062"></a>
-
-### Traduzione in corso
-
-Autore：[@lovimg\_com](https://x.com/lovimg_com) · [Post originale](https://x.com/lovimg_com/status/2098762789489873062)
-
-Poster / Volantino · Illustrazione · Retro / Vintage · Articolo di moda · Testo / Tipografia · Pubblicato
-
-**Riepilogo:** Traduzione in corso
-
-<img src="images/2098762789489873062-1.jpg" alt="Immagine 1" width="480" />
-
-<img src="images/2098762789489873062-2.jpg" alt="Immagine 2" width="480" />
-
-**Prompt**
-
-```text
-Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -3675,13 +3629,13 @@ Traduzione in corso
 
 <a name="prompt-2100255511228932598"></a>
 
-### Traduzione in corso
+### Scatti malriusciti verticali a quattro riquadri, scena di raccolta delle radici di loto nello stagno e personaggi
 
 Autore：[@ahamme35638](https://x.com/ahamme35638) · [Post originale](https://x.com/ahamme35638/status/2100255511228932598)
 
 Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Scatti malriusciti verticali a quattro riquadri, scena di raccolta delle radici di loto nello stagno e personaggi
 
 <img src="images/2100255511228932598-1.jpg" alt="Immagine 1" width="480" />
 
@@ -3692,7 +3646,7 @@ Personaggio · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+Foto fallite verticali 2×2, scena di raccolta di radici di loto in uno stagno di loto + personaggio
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -4334,28 +4288,6 @@ Cristiano Ronaldo che mangia uno shawarma
 
 ---
 
-<a name="prompt-2097582500273115191"></a>
-
-### Traduzione in corso
-
-Autore：[@ky6001481673691](https://x.com/ky6001481673691) · [Post originale](https://x.com/ky6001481673691/status/2097582500273115191)
-
-Ritratto / Selfie · Personaggio · Articolo di moda · Pubblicato
-
-**Riepilogo:** Traduzione in corso
-
-<img src="images/2097582500273115191-1.jpg" alt="Immagine 1" width="480" />
-
-**Prompt**
-
-```text
-Traduzione in corso
-```
-
-[↑ Torna alle categorie](#catalog)
-
----
-
 <a name="prompt-2097558679956664521"></a>
 
 ### Ritratto horror cibernetico con un umanoide emaciato con maschera di porcellana fessurata, cavi sulla testa e illuminazione monocromatica ad alto contrasto.
@@ -4496,30 +4428,6 @@ Scena 5 (7–9s): Il flacone viene tenuto con eleganza in una mano e ruotato len
 Scena 6 (9–10s): Inquadratura hero finale del flacone Cheng Guang Cocoa Soft Glow circondato da fave di cacao e foglie. La telecamera si avvicina lentamente, sottili effetti scintillanti, sfondo caldo e lussuoso, composizione pulita focalizzata sul prodotto.
 
 Stile: fotorealistico, pubblicità di bellezza premium, illuminazione cinematografica, movimenti delle mani realistici, transizioni fluide della telecamera, profondità di campo ridotta, bokeh morbido, toni dorati caldi, 4K, altamente dettagliato, movimento naturale, nessuna distorsione, nessun prodotto aggiuntivo, nessuna modifica all'etichetta del flacone o al marchio.
-```
-
-[↑ Torna alle categorie](#catalog)
-
----
-
-<a name="prompt-2098762663941832907"></a>
-
-### Traduzione in corso
-
-Autore：[@lovimg\_com](https://x.com/lovimg_com) · [Post originale](https://x.com/lovimg_com/status/2098762663941832907)
-
-Poster / Volantino · Testo / Tipografia · Pubblicato
-
-**Riepilogo:** Traduzione in corso
-
-<img src="images/2098762663941832907-1.jpg" alt="Immagine 1" width="480" />
-
-<img src="images/2098762663941832907-2.jpg" alt="Immagine 2" width="480" />
-
-**Prompt**
-
-```text
-Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)

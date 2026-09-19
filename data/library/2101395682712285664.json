@@ -1,0 +1,165 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-19T20:25:36.559Z",
+  "model": "image2.5",
+  "prompt": "{\n  \"prompt_name\": \"Aerial Island Logo Shape Generator\",\n  \"user_input_required\": {\n    \"input_type\": [\"company_name (text)\", \"logo_image (upload)\"],\n    \"instruction\": \"Provide only a company name OR upload a logo image. The system will auto-generate the rest of the scene.\"\n  },\n  \"scene\": {\n    \"subject\": \"A remote tropical island photographed from a direct top-down aerial drone perspective, with its coastline and landmass naturally contoured to replicate the silhouette of the provided company logo\",\n    \"shape_source\": \"{{company_logo_or_name_silhouette}}\",\n    \"shape_fidelity\": \"The island's outline must be instantly recognizable as the logo shape when viewed from above, while still appearing like a naturally formed landmass — no artificial or man-made geometry\"\n  },\n  \"environment\": {\n    \"vegetation\": \"Dense, lush tropical palm trees and greenery covering the interior of the island\",\n    \"shoreline\": \"Fine white sand beaches tracing the entire perimeter of the logo-shaped landmass\",\n    \"water\": {\n      \"inner_ring\": \"Shallow crystal-clear turquoise lagoon encircling the island\",\n      \"outer_ring\": \"Deep sapphire-blue open ocean with realistic wave patterns and natural foam texture\"\n    }\n  },\n  \"lighting\": {\n    \"type\": \"Warm golden-hour sunlight\",\n    \"effects\": [\"soft natural shadows\", \"cinematic highlights on water\", \"gentle lens glow at frame edge\"]\n  },\n  \"photography_style\": {\n    \"genre\": \"High-end luxury travel and real estate aerial photography\",\n    \"camera_angle\": \"Directly overhead (bird's eye / nadir view)\",\n    \"realism\": \"Ultra-photorealistic, natural, organic — must not look CGI or artificially rendered\",\n    \"resolution\": \"8K, hyper-detailed textures on water, sand, and foliage\"\n  },\n  \"exclusions\": [\n    \"no visible text or watermarks\",\n    \"no people\",\n    \"no buildings or man-made structures\",\n    \"no boats\"\n  ]\n}",
+  "promptTranslations": {
+    "en": "{\n  \"prompt_name\": \"Aerial Island Logo Shape Generator\",\n  \"user_input_required\": {\n    \"input_type\": [\"company_name (text)\", \"logo_image (upload)\"],\n    \"instruction\": \"Provide only a company name OR upload a logo image. The system will auto-generate the rest of the scene.\"\n  },\n  \"scene\": {\n    \"subject\": \"A remote tropical island photographed from a direct top-down aerial drone perspective, with its coastline and landmass naturally contoured to replicate the silhouette of the provided company logo\",\n    \"shape_source\": \"{{company_logo_or_name_silhouette}}\",\n    \"shape_fidelity\": \"The island's outline must be instantly recognizable as the logo shape when viewed from above, while still appearing like a naturally formed landmass — no artificial or man-made geometry\"\n  },\n  \"environment\": {\n    \"vegetation\": \"Dense, lush tropical palm trees and greenery covering the interior of the island\",\n    \"shoreline\": \"Fine white sand beaches tracing the entire perimeter of the logo-shaped landmass\",\n    \"water\": {\n      \"inner_ring\": \"Shallow crystal-clear turquoise lagoon encircling the island\",\n      \"outer_ring\": \"Deep sapphire-blue open ocean with realistic wave patterns and natural foam texture\"\n    }\n  },\n  \"lighting\": {\n    \"type\": \"Warm golden-hour sunlight\",\n    \"effects\": [\"soft natural shadows\", \"cinematic highlights on water\", \"gentle lens glow at frame edge\"]\n  },\n  \"photography_style\": {\n    \"genre\": \"High-end luxury travel and real estate aerial photography\",\n    \"camera_angle\": \"Directly overhead (bird's eye / nadir view)\",\n    \"realism\": \"Ultra-photorealistic, natural, organic — must not look CGI or artificially rendered\",\n    \"resolution\": \"8K, hyper-detailed textures on water, sand, and foliage\"\n  },\n  \"exclusions\": [\n    \"no visible text or watermarks\",\n    \"no people\",\n    \"no buildings or man-made structures\",\n    \"no boats\"\n  ]\n}"
+  },
+  "summaryTranslations": {
+    "en": "Drone aerial photography prompt shaping a luxury tropical island's coastline into a brand logo, featuring white sand beaches, turquoise lagoons, and lush palms."
+  },
+  "translationVersion": 2,
+  "summary": "Drone aerial photography prompt shaping a luxury tropical island's coastline into a brand logo, featuring white sand beaches, turquoise lagoons, and lush palms.",
+  "summaryEn": "Drone aerial photography prompt shaping a luxury tropical island's coastline into a brand logo, featuring white sand beaches, turquoise lagoons, and lush palms.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2090485613640446116",
+      "canonicalUrl": "https://x.com/SaasJunctionHQ/status/2090485613640446116",
+      "author": {
+        "username": "SaasJunctionHQ",
+        "displayName": "SaaS Junction ✦ Daily AI News & Prompts",
+        "profileUrl": "https://x.com/SaasJunctionHQ"
+      },
+      "originalText": "A single firework. One logo. Nothing else. \n\nBookmark for later 🔖\n\n[ Logo Series - Part 2 ]\n\nNano Banana 2 Designer Prompt:\n\n{\n  \"style_name\": \"Fireworks Logo - Close Crop (v2)\",\n  \"description\": \"A photorealistic long-exposure night photograph of a single massive firework burst whose shape and color zones exactly recreate a brand's logo, shot in a tight crop that fills almost the entire frame with the burst itself, with only a thin strip of distant city skyline glimpsed at the very bottom edge — no water or reflection in this crop.\",\n\n  \"user_input\": {\n    \"instructions\": \"The user only needs to provide ONE of the following. Everything else in this template is handled automatically.\",\n    \"option_1\": \"company_name (e.g. 'Google', 'Pepsi', 'McDonald's', 'YouTube')\",\n    \"option_2\": \"uploaded_logo_image\",\n    \"auto_resolution_rules\": [\n      \"If company_name is given, identify the brand's current official logo shape/silhouette and its exact official brand color palette (hex-accurate).\",\n      \"If uploaded_logo_image is given, extract the logo's silhouette and sample its exact colors directly from the file.\",\n      \"Preserve the logo's true proportions and letterform/mark structure — the firework silhouette must be instantly recognizable as that specific logo.\",\n      \"If the logo has multiple distinct color regions (e.g. Google's 'G'), split the firework burst into matching spatial color zones, each occupying the same relative position as in the real logo (e.g. top/left/right/bottom arcs).\"\n    ]\n  },\n\n  \"subject\": {\n    \"primary_element\": \"One large firework explosion whose outer silhouette and internal color zones together trace the brand logo's exact shape\",\n    \"framing\": \"EXTREME CLOSE / DOMINANT — the burst fills approximately 85-90% of the frame height, from near the top edge down to just above the bottom skyline strip; only slim black margins remain at the far left/right corners\",\n    \"scale\": \"Burst spans nearly the full image width edge-to-edge\",\n    \"burst_structure\": [\n      \"Each brand-color region rendered as its own cluster of willow-style light trails — thin, curving, feathery, varying in thickness, fading gradually toward the tips rather than cutting off sharply\",\n      \"3-5 distinct white-hot ignition flares scattered irregularly (not symmetrically) within each color zone, each with a soft glow halo\",\n      \"One color zone (typically whichever forms the densest/blockiest part of the logo, e.g. a crossbar or thick stroke) should be rendered tighter and more chrysanthemum-like — a denser cluster of short bright bursts — to visually contrast with the looser willow trails elsewhere\",\n      \"Adjacent color zones softly bleed/overlap into one another at their shared borders — the separation between logo color regions should NOT look razor-sharp or vector-clean, it should look like real overlapping firework shells\",\n      \"The negative/dark space required by the logo's shape (e.g. the counter of a letter) must be preserved as pure black sky, not filled with sparks\"\n    ]\n  },\n\n  \"logo_color_mapping\": {\n    \"rule\": \"Use the brand's exact official logo colors, spatially arranged to match the real logo's layout.\",\n    \"examples_for_reference_only\": {\n      \"Google\": \"Red (#EA4335) top arc, yellow/gold (#FBBC05) left arc, green (#34A853) bottom arc, blue (#4285F4) right side as a denser blocky cluster forming the G's crossbar, with a dark negative-space gap at the G's opening\",\n      \"Pepsi\": \"Red (#E32934) upper swirl, white (#FFFFFF) diagonal center band, blue (#004B93) lower swirl, matching the Pepsi globe\",\n      \"McDonald's\": \"Solid golden yellow (#FFC72C) twin arches forming the 'M'\",\n      \"YouTube\": \"Red (#FF0000) rounded-rectangle outer burst with a white (#FFFFFF) triangular play-icon burst as the bright core\",\n      \"generic_single_color_logo\": \"Render the entire burst in that one brand color, white-hot at ignition points fading into the saturated brand hue toward the trail tips\"\n    },\n    \"multi_color_logos\": \"Keep each color confined to its correct spatial region of the burst — do not blend colors that aren't adjacent in the real logo\"\n  },\n\n  \"atmosphere_and_secondary_elements\": {\n    \"smoke\": \"Asymmetric gray-white smoke, noticeably concentrated on one side (e.g. lower-left), partially veiling a few trails there; the opposite side/top stays comparatively clear\",\n    \"secondary_fireworks\": \"NONE in this crop — no visible secondary sparkler trails or launch glow; the frame is tight enough that only the main burst is present\",\n    \"embers\": \"A few faint fading spark trails may drift at the lower edge of the burst, mostly absorbed into the smoke\"\n  },\n\n  \"background\": {\n    \"sky\": \"Near-pure black night sky, no stars, no moon, no clouds aside from the firework's own smoke\",\n    \"skyline_strip\": \"A thin, mostly-silhouetted strip of distant low-rise city buildings visible only at the very bottom edge of the frame, occupying no more than the bottom 5-8% of the image height\",\n    \"skyline_lighting\": \"A handful of tiny, sparse warm pinpoint lights (windows/streetlights) within the silhouette — subtle, not a major focal element\",\n    \"water\": \"NOT present in this crop — no water surface, no reflection\"\n  },\n\n  \"photographic_style\": {\n    \"technique\": \"Long-exposure night fireworks photography, DSLR/mirrorless on tripod, telephoto-ish framing tight on the burst\",\n    \"characteristics\": [\n      \"Sharp, crisp light trails consistent with a multi-second exposure\",\n      \"Deep true blacks in the sky with no clipped highlights except at the ignition cores\",\n      \"Natural photographic grain, no digital noise/banding, no illustration or CGI look\",\n      \"Slight soft glow/bloom around the brightest ignition points\",\n      \"Colors read as accurate and true-to-brand, not artificially oversaturated\"\n    ],\n    \"camera_angle\": \"Eye-level, framed tightly enough that the burst occupies nearly the entire vertical frame\",\n    \"aspect_ratio\": \"3:4 portrait\",\n    \"resolution\": \"High resolution, tack-sharp trail detail, professional photography quality\"\n  },\n\n  \"exclusions\": {\n    \"no_ui_overlays\": \"Do NOT include any on-image UI elements — no comparison thumbnail boxes, no 'Logo'/'Style' labels, no before/after chips\",\n    \"no_watermarks\": \"Do NOT include any account handles, watermarks, credits, or captions like 'Swipe for More'\",\n    \"no_flat_logo_overlay\": \"Do NOT paste a flat 2D vector logo anywhere — the logo must exist only as the physical shape of the firework itself\",\n    \"no_water_in_this_variant\": \"Do NOT add a water surface or reflection — this crop is sky/burst + thin skyline strip only\",\n    \"no_extra_text\": \"No text, captions, or subtitles anywhere in the image\"\n  },\n\n  \"negative_prompt\": \"flat vector logo overlay, 2D logo sticker, watermark, username, handle, caption text, UI buttons, comparison thumbnails, before/after boxes, daytime, blue sky, people, crowd, cartoon style, illustration, painting, low resolution, blurry, distorted logo shape, incorrect brand colors, extra unrelated logos, oversaturated flat colors, stars in sky, moon, clipped highlights, overexposed sky, duplicate fireworks, text, subtitles, borders, frame, water, reflection, harbor, ocean, river, large visible skyline, secondary sparkler trails, launch barge glow\"\n}"
+    },
+    "id": "2101395682712285664",
+    "canonicalUrl": "https://x.com/SaasJunctionHQ/status/2101395682712285664",
+    "author": {
+      "username": "SaasJunctionHQ",
+      "displayName": "SaaS Junction ✦ Daily AI News & Prompts",
+      "profileUrl": "https://x.com/SaasJunctionHQ"
+    },
+    "publishedAt": "2026-09-19T19:39:07.000Z",
+    "collectedAt": "2026-09-19T20:17:23.806Z",
+    "language": "en",
+    "originalText": "GPT Image 2.5 Prompt: Your logo becomes the coastline of a luxury tropical island.\n\n[ Logo Series - Part 2 ]\n\nPrompt:\n\n{\n  \"prompt_name\": \"Aerial Island Logo Shape Generator\",\n  \"user_input_required\": {\n    \"input_type\": [\"company_name (text)\", \"logo_image (upload)\"],\n    \"instruction\": \"Provide only a company name OR upload a logo image. The system will auto-generate the rest of the scene.\"\n  },\n  \"scene\": {\n    \"subject\": \"A remote tropical island photographed from a direct top-down aerial drone perspective, with its coastline and landmass naturally contoured to replicate the silhouette of the provided company logo\",\n    \"shape_source\": \"{{company_logo_or_name_silhouette}}\",\n    \"shape_fidelity\": \"The island's outline must be instantly recognizable as the logo shape when viewed from above, while still appearing like a naturally formed landmass — no artificial or man-made geometry\"\n  },\n  \"environment\": {\n    \"vegetation\": \"Dense, lush tropical palm trees and greenery covering the interior of the island\",\n    \"shoreline\": \"Fine white sand beaches tracing the entire perimeter of the logo-shaped landmass\",\n    \"water\": {\n      \"inner_ring\": \"Shallow crystal-clear turquoise lagoon encircling the island\",\n      \"outer_ring\": \"Deep sapphire-blue open ocean with realistic wave patterns and natural foam texture\"\n    }\n  },\n  \"lighting\": {\n    \"type\": \"Warm golden-hour sunlight\",\n    \"effects\": [\"soft natural shadows\", \"cinematic highlights on water\", \"gentle lens glow at frame edge\"]\n  },\n  \"photography_style\": {\n    \"genre\": \"High-end luxury travel and real estate aerial photography\",\n    \"camera_angle\": \"Directly overhead (bird's eye / nadir view)\",\n    \"realism\": \"Ultra-photorealistic, natural, organic — must not look CGI or artificially rendered\",\n    \"resolution\": \"8K, hyper-detailed textures on water, sand, and foliage\"\n  },\n  \"exclusions\": [\n    \"no visible text or watermarks\",\n    \"no people\",\n    \"no buildings or man-made structures\",\n    \"no boats\"\n  ]\n}",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSmnvy6boAAfttO.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSmnvy6boAAfttO.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSmnx-wasAATSlo.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSmnx-wasAATSlo.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSmnyzbbAAApVso.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSmnyzbbAAApVso.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSmn12ZboAAkhph.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSmn12ZboAAkhph.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HQLlLbsaIAAqrnz.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HQLlLbsaIAAqrnz.jpg",
+        "sourcePostId": "2090485613640446116"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HQLlLbpa8AAC9yP.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HQLlLbpa8AAC9yP.jpg",
+        "sourcePostId": "2090485613640446116"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HQLlLboacAADdWf.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HQLlLboacAADdWf.jpg",
+        "sourcePostId": "2090485613640446116"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HQLlLb_aYAAF3al.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HQLlLb_aYAAF3al.jpg",
+        "sourcePostId": "2090485613640446116"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 40
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/SaasJunctionHQ/status/2101395682712285664",
+  "coverUrl": "https://pbs.twimg.com/media/HSmnvy6boAAfttO.jpg",
+  "coverPath": "images/2101395682712285664-1.jpg",
+  "imagePaths": [
+    "images/2101395682712285664-1.jpg",
+    "images/2101395682712285664-2.jpg",
+    "images/2101395682712285664-3.jpg",
+    "images/2101395682712285664-4.jpg",
+    "images/2101395682712285664-5.jpg",
+    "images/2101395682712285664-6.jpg",
+    "images/2101395682712285664-7.jpg",
+    "images/2101395682712285664-8.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSmnvy6boAAfttO",
+    "x-image:/media/HSmnx-wasAATSlo",
+    "x-image:/media/HSmnyzbbAAApVso",
+    "x-image:/media/HSmn12ZboAAkhph",
+    "x-image:/media/HQLlLbsaIAAqrnz",
+    "x-image:/media/HQLlLbpa8AAC9yP",
+    "x-image:/media/HQLlLboacAADdWf",
+    "x-image:/media/HQLlLb_aYAAF3al",
+    "x-post:2101395682712285664",
+    "x-post:2090485613640446116"
+  ],
+  "analysis": {
+    "summary": "Drone aerial photography prompt shaping a luxury tropical island's coastline into a brand logo, featuring white sand beaches, turquoise lagoons, and lush palms.",
+    "summaryEn": "Drone aerial photography prompt shaping a luxury tropical island's coastline into a brand logo, featuring white sand beaches, turquoise lagoons, and lush palms.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Generated images showcase tropical islands strictly conforming to logos (OpenAI, Starbucks, Airbnb, Porsche) from a top-down aerial perspective surrounded by turquoise water and beaches."
+    },
+    "videoQuality": null,
+    "originalPrompt": "{\n  \"prompt_name\": \"Aerial Island Logo Shape Generator\",\n  \"user_input_required\": {\n    \"input_type\": [\"company_name (text)\", \"logo_image (upload)\"],\n    \"instruction\": \"Provide only a company name OR upload a logo image. The system will auto-generate the rest of the scene.\"\n  },\n  \"scene\": {\n    \"subject\": \"A remote tropical island photographed from a direct top-down aerial drone perspective, with its coastline and landmass naturally contoured to replicate the silhouette of the provided company logo\",\n    \"shape_source\": \"{{company_logo_or_name_silhouette}}\",\n    \"shape_fidelity\": \"The island's outline must be instantly recognizable as the logo shape when viewed from above, while still appearing like a naturally formed landmass — no artificial or man-made geometry\"\n  },\n  \"environment\": {\n    \"vegetation\": \"Dense, lush tropical palm trees and greenery covering the interior of the island\",\n    \"shoreline\": \"Fine white sand beaches tracing the entire perimeter of the logo-shaped landmass\",\n    \"water\": {\n      \"inner_ring\": \"Shallow crystal-clear turquoise lagoon encircling the island\",\n      \"outer_ring\": \"Deep sapphire-blue open ocean with realistic wave patterns and natural foam texture\"\n    }\n  },\n  \"lighting\": {\n    \"type\": \"Warm golden-hour sunlight\",\n    \"effects\": [\"soft natural shadows\", \"cinematic highlights on water\", \"gentle lens glow at frame edge\"]\n  },\n  \"photography_style\": {\n    \"genre\": \"High-end luxury travel and real estate aerial photography\",\n    \"camera_angle\": \"Directly overhead (bird's eye / nadir view)\",\n    \"realism\": \"Ultra-photorealistic, natural, organic — must not look CGI or artificially rendered\",\n    \"resolution\": \"8K, hyper-detailed textures on water, sand, and foliage\"\n  },\n  \"exclusions\": [\n    \"no visible text or watermarks\",\n    \"no people\",\n    \"no buildings or man-made structures\",\n    \"no boats\"\n  ]\n}",
+    "sourceRange": {
+      "start": 119,
+      "end": 1992
+    },
+    "translations": {
+      "zh": "俯瞰无人机视角下的热带奢华海岛摄影提示词，陆地与海岸线形态完美贴合指定品牌标志轮廓，配备白沙滩、清澈绿松石色潟湖和深蓝海洋。",
+      "en": "Drone aerial photography prompt shaping a luxury tropical island's coastline into a brand logo, featuring white sand beaches, turquoise lagoons, and lush palms."
+    },
+    "targetModels": [
+      "image2.5"
+    ],
+    "category": "text-to-image",
+    "useCase": "Logo-shaped aerial tropical island landscape generation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": [
+        "Mentions commercial logo silhouettes (e.g. OpenAI, Starbucks, Airbnb, Porsche in visual samples)"
+      ]
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
