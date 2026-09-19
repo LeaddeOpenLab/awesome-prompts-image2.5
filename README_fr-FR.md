@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**146** Prompts · Dernier ajout: **2026-09-19**
+**150** Prompts · Dernier ajout: **2026-09-19**
 
 <a name="catalog"></a>
 
@@ -555,6 +555,94 @@ Photographie · Paysage / Nature · Publié
 
 ```text
 Photo d'une clairière dans les bois avec un feuillage vert abondant, très détaillée
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2101282658466562299"></a>
+
+### Traduction en cours
+
+Auteur：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publication originale](https://x.com/CyberTotal2026/status/2101282658466562299)
+
+Photographie · Portrait / Selfie · Personnage · Paysage / Nature · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2101282658466562299-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2101239624718856403"></a>
+
+### Traduction en cours
+
+Auteur：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publication originale](https://x.com/CyberTotal2026/status/2101239624718856403)
+
+Photographie · Personnage · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2101239624718856403-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2101272591956840655"></a>
+
+### Traduction en cours
+
+Auteur：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publication originale](https://x.com/CyberTotal2026/status/2101272591956840655)
+
+Photographie · Portrait / Selfie · Personnage · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2101272591956840655-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2101251955922256022"></a>
+
+### Traduction en cours
+
+Auteur：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publication originale](https://x.com/CyberTotal2026/status/2101251955922256022)
+
+Photographie · Portrait / Selfie · Personnage · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2101251955922256022-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -2276,20 +2364,21 @@ Créez une feuille d'examen avec la mise en page du CET-4 d'anglais, mais où to
 
 <a name="prompt-2101196922715250752"></a>
 
-### Traduction en cours
+### Illustration éditoriale contemporaine d'une jeune fille japonaise mettant en vedette des formes simplifiées et un espace négatif.
 
 Auteur：[@miyajin333](https://x.com/miyajin333) · [Publication originale](https://x.com/miyajin333/status/2101196922715250752)
 
 Illustration · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Illustration éditoriale contemporaine d'une jeune fille japonaise mettant en vedette des formes simplifiées et un espace négatif.
 
 <img src="images/2101196922715250752-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Sujet : Jeune fille japonaise
+Style : Illustration éditoriale contemporaine, formes conceptuelles et simplifiées, proportions expressives, palette de couleurs limitée et sophistiquée, espace négatif audacieux, textures subtiles, formes géométriques légèrement déformées, simplicité visuelle intellectuelle, illustration moderne de style magazine, palette de couleurs analogues, rapport d'aspect 3:4.
 ```
 
 [↑ Retour aux catégories](#catalog)

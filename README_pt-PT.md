@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**146** Prompts · Adição mais recente: **2026-09-19**
+**150** Prompts · Adição mais recente: **2026-09-19**
 
 <a name="catalog"></a>
 
@@ -555,6 +555,94 @@ Fotografia · Paisagem / Natureza · Publicado
 
 ```text
 Fotografia de uma clareira na floresta com muita folhagem verde, altamente detalhada
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2101282658466562299"></a>
+
+### Tradução em curso
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicação original](https://x.com/CyberTotal2026/status/2101282658466562299)
+
+Fotografia · Retrato / Selfie · Personagem · Paisagem / Natureza · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2101282658466562299-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2101239624718856403"></a>
+
+### Tradução em curso
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicação original](https://x.com/CyberTotal2026/status/2101239624718856403)
+
+Fotografia · Personagem · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2101239624718856403-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2101272591956840655"></a>
+
+### Tradução em curso
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicação original](https://x.com/CyberTotal2026/status/2101272591956840655)
+
+Fotografia · Retrato / Selfie · Personagem · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2101272591956840655-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2101251955922256022"></a>
+
+### Tradução em curso
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicação original](https://x.com/CyberTotal2026/status/2101251955922256022)
+
+Fotografia · Retrato / Selfie · Personagem · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2101251955922256022-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -2269,20 +2357,21 @@ Crie uma prova no formato do exame de inglês CET-4, mas na qual todas as pergun
 
 <a name="prompt-2101196922715250752"></a>
 
-### Tradução em curso
+### Ilustração editorial contemporânea de uma rapariga japonesa destacando formas simplificadas e espaço negativo.
 
 Autor：[@miyajin333](https://x.com/miyajin333) · [Publicação original](https://x.com/miyajin333/status/2101196922715250752)
 
 Ilustração · Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Ilustração editorial contemporânea de uma rapariga japonesa destacando formas simplificadas e espaço negativo.
 
 <img src="images/2101196922715250752-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Tema: Rapariga japonesa
+Estilo: Ilustração editorial contemporânea, formas concetuais e simplificadas, proporções expressivas, paleta de cores limitada e sofisticada, espaço negativo arrojado, texturas subtis, formas geométricas ligeiramente distorcidas, simplicidade visual intelectual, ilustração moderna em estilo de revista, esquema de cores análogas, proporção de aspeto 3:4.
 ```
 
 [↑ Voltar às categorias](#catalog)

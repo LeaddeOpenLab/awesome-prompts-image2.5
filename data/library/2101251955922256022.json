@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-19T12:57:33.869Z",
+  "model": "image2",
+  "prompt": "主題：\n朝光と大きなチェロ\n\n主体：\n画面中央、白い壁の前で若い女性が自分の身体を覆うほど大きな木製チェロを直立させ、裸足で立つ。琥珀色の胴、黒い指板、人物の横顔と手が主役。\n\n人物・表情：\n細い横顔、小さな顎、伏せ気味の暗い茶色の瞳、細い眉、すっきりした鼻筋、自然な赤桃色の唇。顔を画面右下へ向け、チェロの右側を静かに見下ろす。ダークブラウンの長い波打つ髪は後頭部で半分まとめ、薄い前髪と頬へ落ちる毛束があり、右肩へ流れる。\n\n服装・ポーズ：\nトップやドレスの種類、肩紐などの衣服構造は大きなチェロの胴に隠れるため推定せず、裸の肩、両腕、膝下だけを見せる。裸足で両脚を揃えて立ち、左肘を曲げて左手で黒いネック上部を握り、右腕を下へ伸ばして右手をチェロ右側の縁へ添える。\n\n背景・光：\n背景は凹凸のある白い壁と淡い床だけで、画面中央にチェロ、左側に窓枠の斜め影、下部にエンドピンと人物の裸足がある。画面左の窓から硬い直射朝日が壁、顔、腕、木の胴へ斜めに差し、右側へ柔らかな影を作る。\n\n構図・カメラ：\n2:3の縦構図、人物の腰と同じ高さの正面カメラでチェロの渦巻き先端からエンドピン、両足先まで全身を収める。チェロを中央へ非常に大きく置き、人物の顔と身体を右側から少しだけ見せる。楽器全体を画面内に収め、木の胴と横顔にピント、白壁は平坦に保つ。\n\n質感・スタイル：\nフォトリアルな実写写真。琥珀色の木目、黒い指板と弦、金属エンドピン、自然な肌と柔らかな髪を高精細にし、白壁と暖かな木色の静かな朝景。\n\nネガティブ：\nチェロの全形と人物を隠す比率変更；弓や椅子の追加",
+  "promptTranslations": {
+    "en": "Subject:\nMorning Light and a Large Cello\n\nMain Subject:\nIn the center of the frame, in front of a white wall, a young woman stands barefoot, holding upright a wooden cello large enough to cover her body. The amber-colored body, black fingerboard, and the woman's profile and hands take center stage.\n\nPerson / Expression:\nA slender profile, small chin, slightly downcast dark brown eyes, thin eyebrows, a clean nasal bridge, and natural rosy-pink lips. Her face is turned toward the lower right of the frame, quietly looking down the right side of the cello. Her long, dark brown wavy hair is half tied up at the back of her head, with wispy bangs and strands falling over her cheek, flowing over her right shoulder.\n\nClothing / Pose:\nClothing structures such as the type of top, dress, or shoulder straps are hidden behind the large cello body and are not presumed, revealing only bare shoulders, both arms, and below the knees. She stands barefoot with both legs together, bending her left elbow to grip the upper part of the black neck with her left hand, and extending her right arm downward to rest her right hand against the right edge of the cello.\n\nBackground / Lighting:\nThe background consists only of a textured white wall and a pale floor, with the cello in the center of the frame, diagonal shadows of a window frame on the left, and the endpin and the subject's bare feet at the bottom. Harsh, direct morning sunlight slants in from a window on the left side of the frame onto the wall, face, arms, and wooden body, casting soft shadows to the right.\n\nComposition / Camera:\nA 2:3 vertical composition, shot with a frontal camera at the height of the subject's waist, capturing the full body from the tip of the cello's scroll to the endpin and the tips of both feet. The cello is placed very prominently in the center, revealing only a small portion of the person's face and body from the right side. The entire instrument is contained within the frame, with focus on the wooden body and the profile, keeping the white wall flat.\n\nTexture / Style:\nPhotorealistic live-action photograph. High-definition rendering of the amber wood grain, black fingerboard and strings, metal endpin, natural skin, and soft hair, creating a quiet morning scene with white walls and warm wood tones.\n\nNegative:\nAspect ratio changes that obscure the full shape of the cello and the person; addition of a bow or chair"
+  },
+  "summaryTranslations": {
+    "en": "A realistic morning light portrait of a young woman standing barefoot behind a large wooden cello."
+  },
+  "translationVersion": 2,
+  "summary": "大きな木製チェロの後ろに裸足で立つ若い女性の写実的な朝光ポートレート。",
+  "summaryEn": "Photorealistic morning portrait of a barefoot young woman standing behind a large cello.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2101251955922256022",
+    "canonicalUrl": "https://x.com/CyberTotal2026/status/2101251955922256022",
+    "author": {
+      "username": "CyberTotal2026",
+      "displayName": "Prompt アトリエ｜AI画像プロンプト",
+      "profileUrl": "https://x.com/CyberTotal2026"
+    },
+    "publishedAt": "2026-09-19T10:08:00.000Z",
+    "collectedAt": "2026-09-19T12:17:10.788Z",
+    "language": "ja",
+    "originalText": "大きな木の響きに隠れて、静かな午後。弦の向こうに光が差し込む🎻☀️🤎\n\n#AIart #AI写真 #チェロのある風景\n\n【GPT Image2プロンプト】\n\n主題：\n朝光と大きなチェロ\n\n主体：\n画面中央、白い壁の前で若い女性が自分の身体を覆うほど大きな木製チェロを直立させ、裸足で立つ。琥珀色の胴、黒い指板、人物の横顔と手が主役。\n\n人物・表情：\n細い横顔、小さな顎、伏せ気味の暗い茶色の瞳、細い眉、すっきりした鼻筋、自然な赤桃色の唇。顔を画面右下へ向け、チェロの右側を静かに見下ろす。ダークブラウンの長い波打つ髪は後頭部で半分まとめ、薄い前髪と頬へ落ちる毛束があり、右肩へ流れる。\n\n服装・ポーズ：\nトップやドレスの種類、肩紐などの衣服構造は大きなチェロの胴に隠れるため推定せず、裸の肩、両腕、膝下だけを見せる。裸足で両脚を揃えて立ち、左肘を曲げて左手で黒いネック上部を握り、右腕を下へ伸ばして右手をチェロ右側の縁へ添える。\n\n背景・光：\n背景は凹凸のある白い壁と淡い床だけで、画面中央にチェロ、左側に窓枠の斜め影、下部にエンドピンと人物の裸足がある。画面左の窓から硬い直射朝日が壁、顔、腕、木の胴へ斜めに差し、右側へ柔らかな影を作る。\n\n構図・カメラ：\n2:3の縦構図、人物の腰と同じ高さの正面カメラでチェロの渦巻き先端からエンドピン、両足先まで全身を収める。チェロを中央へ非常に大きく置き、人物の顔と身体を右側から少しだけ見せる。楽器全体を画面内に収め、木の胴と横顔にピント、白壁は平坦に保つ。\n\n質感・スタイル：\nフォトリアルな実写写真。琥珀色の木目、黒い指板と弦、金属エンドピン、自然な肌と柔らかな髪を高精細にし、白壁と暖かな木色の静かな朝景。\n\nネガティブ：\nチェロの全形と人物を隠す比率変更；弓や椅子の追加",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSbJaOMaUAANBcf.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSbJaOMaUAANBcf.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 16,
+      "repostCount": 0,
+      "replyCount": 2,
+      "quoteCount": 0,
+      "viewCount": 818
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/CyberTotal2026/status/2101251955922256022",
+  "coverUrl": "https://pbs.twimg.com/media/HSbJaOMaUAANBcf.jpg",
+  "coverPath": "images/2101251955922256022-1.jpg",
+  "imagePaths": [
+    "images/2101251955922256022-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSbJaOMaUAANBcf",
+    "x-post:2101251955922256022"
+  ],
+  "analysis": {
+    "summary": "大きな木製チェロの後ろに裸足で立つ若い女性の写実的な朝光ポートレート。",
+    "summaryEn": "Photorealistic morning portrait of a barefoot young woman standing behind a large cello.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "画面准确再现了巨大大提琴、赤足女子遮挡姿态、白墙、斜射光影和竖构图全景细节。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "主題：\n朝光と大きなチェロ\n\n主体：\n画面中央、白い壁の前で若い女性が自分の身体を覆うほど大きな木製チェロを直立させ、裸足で立つ。琥珀色の胴、黒い指板、人物の横顔と手が主役。\n\n人物・表情：\n細い横顔、小さな顎、伏せ気味の暗い茶色の瞳、細い眉、すっきりした鼻筋、自然な赤桃色の唇。顔を画面右下へ向け、チェロの右側を静かに見下ろす。ダークブラウンの長い波打つ髪は後頭部で半分まとめ、薄い前髪と頬へ落ちる毛束があり、右肩へ流れる。\n\n服装・ポーズ：\nトップやドレスの種類、肩紐などの衣服構造は大きなチェロの胴に隠れるため推定せず、裸の肩、両腕、膝下だけを見せる。裸足で両脚を揃えて立ち、左肘を曲げて左手で黒いネック上部を握り、右腕を下へ伸ばして右手をチェロ右側の縁へ添える。\n\n背景・光：\n背景は凹凸のある白い壁と淡い床だけで、画面中央にチェロ、左側に窓枠の斜め影、下部にエンドピンと人物の裸足がある。画面左の窓から硬い直射朝日が壁、顔、腕、木の胴へ斜めに差し、右側へ柔らかな影を作る。\n\n構図・カメラ：\n2:3の縦構図、人物の腰と同じ高さの正面カメラでチェロの渦巻き先端からエンドピン、両足先まで全身を収める。チェロを中央へ非常に大きく置き、人物の顔と身体を右側から少しだけ見せる。楽器全体を画面内に収め、木の胴と横顔にピント、白壁は平坦に保つ。\n\n質感・スタイル：\nフォトリアルな実写写真。琥珀色の木目、黒い指板と弦、金属エンドピン、自然な肌と柔らかな髪を高精細にし、白壁と暖かな木色の静かな朝景。\n\nネガティブ：\nチェロの全形と人物を隠す比率変更；弓や椅子の追加",
+    "sourceRange": {
+      "start": 79,
+      "end": 761
+    },
+    "translations": {
+      "zh": "主题：晨光与大提琴。白墙前年轻女子手扶立式大提琴赤足站立，侧颜低垂，柔和晨光斜射，极简写实摄影风格。",
+      "en": "Theme: Morning light and a large cello. A young woman stands barefoot behind an upright wooden cello against a white wall in realistic photo style."
+    },
+    "targetModels": [
+      "image2"
+    ],
+    "category": "text-to-image",
+    "useCase": "艺术人像写实摄影生成",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}

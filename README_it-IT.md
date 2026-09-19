@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**146** Prompt · Ultima aggiunta: **2026-09-19**
+**150** Prompt · Ultima aggiunta: **2026-09-19**
 
 <a name="catalog"></a>
 
@@ -555,6 +555,94 @@ Fotografia · Paesaggio / Natura · Pubblicato
 
 ```text
 Foto di una radura nel bosco con abbondante fogliame verde, altamente dettagliata
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2101282658466562299"></a>
+
+### Traduzione in corso
+
+Autore：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Post originale](https://x.com/CyberTotal2026/status/2101282658466562299)
+
+Fotografia · Ritratto / Selfie · Personaggio · Paesaggio / Natura · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2101282658466562299-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2101239624718856403"></a>
+
+### Traduzione in corso
+
+Autore：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Post originale](https://x.com/CyberTotal2026/status/2101239624718856403)
+
+Fotografia · Personaggio · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2101239624718856403-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2101272591956840655"></a>
+
+### Traduzione in corso
+
+Autore：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Post originale](https://x.com/CyberTotal2026/status/2101272591956840655)
+
+Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2101272591956840655-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2101251955922256022"></a>
+
+### Traduzione in corso
+
+Autore：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Post originale](https://x.com/CyberTotal2026/status/2101251955922256022)
+
+Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2101251955922256022-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -2276,20 +2364,21 @@ Crea una prova d'esame con l'impaginazione del CET-4 di inglese, ma in cui tutte
 
 <a name="prompt-2101196922715250752"></a>
 
-### Traduzione in corso
+### Illustrazione editoriale contemporanea di una ragazza giapponese caratterizzata da forme semplificate e spazio negativo.
 
 Autore：[@miyajin333](https://x.com/miyajin333) · [Post originale](https://x.com/miyajin333/status/2101196922715250752)
 
 Illustrazione · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Illustrazione editoriale contemporanea di una ragazza giapponese caratterizzata da forme semplificate e spazio negativo.
 
 <img src="images/2101196922715250752-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Soggetto: Ragazza giapponese
+Stile: Illustrazione editoriale contemporanea, forme concettuali e semplificate, proporzioni espressive, sofisticata tavolozza di colori limitata, spazio negativo audace, texture sottili, forme geometriche leggermente distorte, semplicità visiva intellettuale, illustrazione moderna in stile rivista, schema di colori analoghi, rapporto d'aspetto 3:4.
 ```
 
 [↑ Torna alle categorie](#catalog)

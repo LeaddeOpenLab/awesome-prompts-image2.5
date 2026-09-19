@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**146** Prompt · Son eklenen: **2026-09-19**
+**150** Prompt · Son eklenen: **2026-09-19**
 
 <a name="catalog"></a>
 
@@ -555,6 +555,94 @@ Fotoğrafçılık · Manzara / Doğa · Yayımlandı
 
 ```text
 Ormanda bol yeşil yaprakları olan bir açıklığın fotoğrafı, son derece detaylı
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2101282658466562299"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Orijinal gönderi](https://x.com/CyberTotal2026/status/2101282658466562299)
+
+Fotoğrafçılık · Portre / Selfie · Karakter · Manzara / Doğa · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2101282658466562299-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2101239624718856403"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Orijinal gönderi](https://x.com/CyberTotal2026/status/2101239624718856403)
+
+Fotoğrafçılık · Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2101239624718856403-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2101272591956840655"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Orijinal gönderi](https://x.com/CyberTotal2026/status/2101272591956840655)
+
+Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2101272591956840655-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2101251955922256022"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Orijinal gönderi](https://x.com/CyberTotal2026/status/2101251955922256022)
+
+Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2101251955922256022-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -2269,20 +2357,21 @@ Orijinal gönderi：[@Lonely\_\_MH](https://x.com/Lonely__MH) · [Orijinal gönd
 
 <a name="prompt-2101196922715250752"></a>
 
-### Çeviri sürüyor
+### Basitleştirilmiş formlar ve negatif alan içeren, bir Japon kızın çağdaş editoryal illüstrasyonu.
 
 Yazar：[@miyajin333](https://x.com/miyajin333) · [Orijinal gönderi](https://x.com/miyajin333/status/2101196922715250752)
 
 İllüstrasyon · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Basitleştirilmiş formlar ve negatif alan içeren, bir Japon kızın çağdaş editoryal illüstrasyonu.
 
 <img src="images/2101196922715250752-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Konu: Japon kız
+Tarz: Çağdaş editoryal illüstrasyon, kavramsal ve basitleştirilmiş formlar, etkileyici oranlar, sofistike sınırlı renk paleti, cesur negatif alan, ince dokular, hafifçe bozulmuş geometrik şekiller, entelektüel görsel sadelik, modern dergi tarzı illüstrasyon, benzer (analog) renk şeması, 3:4 en boy oranı.
 ```
 
 [↑ Kategorilere dön](#catalog)

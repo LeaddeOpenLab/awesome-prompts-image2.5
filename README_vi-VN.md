@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**146** Prompt · Bổ sung mới nhất: **2026-09-19**
+**150** Prompt · Bổ sung mới nhất: **2026-09-19**
 
 <a name="catalog"></a>
 
@@ -560,6 +560,94 @@ Nhiếp ảnh · Phong cảnh / Thiên nhiên · Đã xuất bản
 
 ```text
 Ảnh chụp một bãi đất trống trong rừng với nhiều tán lá xanh tươi, rất chi tiết
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2101282658466562299"></a>
+
+### Đang dịch
+
+Tác giả：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Bài gốc](https://x.com/CyberTotal2026/status/2101282658466562299)
+
+Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Phong cảnh / Thiên nhiên · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2101282658466562299-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2101239624718856403"></a>
+
+### Đang dịch
+
+Tác giả：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Bài gốc](https://x.com/CyberTotal2026/status/2101239624718856403)
+
+Nhiếp ảnh · Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2101239624718856403-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2101272591956840655"></a>
+
+### Đang dịch
+
+Tác giả：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Bài gốc](https://x.com/CyberTotal2026/status/2101272591956840655)
+
+Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2101272591956840655-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2101251955922256022"></a>
+
+### Đang dịch
+
+Tác giả：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Bài gốc](https://x.com/CyberTotal2026/status/2101251955922256022)
+
+Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2101251955922256022-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
 ```
 
 [↑ Về danh mục](#catalog)
@@ -2311,20 +2399,21 @@ Tạo một đề thi theo định dạng CET-4 (tiếng Anh cấp 4), nhưng to
 
 <a name="prompt-2101196922715250752"></a>
 
-### Đang dịch
+### Minh họa biên tập đương đại về một cô gái Nhật Bản nổi bật với các hình khối giản lược và không gian âm.
 
 Tác giả：[@miyajin333](https://x.com/miyajin333) · [Bài gốc](https://x.com/miyajin333/status/2101196922715250752)
 
 Minh họa · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Minh họa biên tập đương đại về một cô gái Nhật Bản nổi bật với các hình khối giản lược và không gian âm.
 
 <img src="images/2101196922715250752-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Chủ đề: Cô gái Nhật Bản
+Phong cách: Minh họa biên tập đương đại, hình khối mang tính khái niệm và giản lược, tỷ lệ đầy biểu cảm, bảng màu giới hạn tinh tế, không gian âm táo bạo, kết cấu tinh tế, hình học hơi biến dạng, sự đơn giản thị giác đầy trí tuệ, minh họa phong cách tạp chí hiện đại, phối màu tương đồng, tỷ lệ khung hình 3:4.
 ```
 
 [↑ Về danh mục](#catalog)

@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**146** Prompts · Última adição: **2026-09-19**
+**150** Prompts · Última adição: **2026-09-19**
 
 <a name="catalog"></a>
 
@@ -555,6 +555,94 @@ Fotografia · Paisagem / Natureza · Publicado
 
 ```text
 Foto de uma clareira na floresta com muita folhagem verde, altamente detalhada
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2101282658466562299"></a>
+
+### Tradução em andamento
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicação original](https://x.com/CyberTotal2026/status/2101282658466562299)
+
+Fotografia · Retrato / Selfie · Personagem · Paisagem / Natureza · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2101282658466562299-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2101239624718856403"></a>
+
+### Tradução em andamento
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicação original](https://x.com/CyberTotal2026/status/2101239624718856403)
+
+Fotografia · Personagem · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2101239624718856403-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2101272591956840655"></a>
+
+### Tradução em andamento
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicação original](https://x.com/CyberTotal2026/status/2101272591956840655)
+
+Fotografia · Retrato / Selfie · Personagem · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2101272591956840655-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2101251955922256022"></a>
+
+### Tradução em andamento
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicação original](https://x.com/CyberTotal2026/status/2101251955922256022)
+
+Fotografia · Retrato / Selfie · Personagem · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2101251955922256022-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -2269,20 +2357,21 @@ Crie uma prova no formato do exame de inglês CET-4, mas na qual todas as pergun
 
 <a name="prompt-2101196922715250752"></a>
 
-### Tradução em andamento
+### Ilustração editorial contemporânea de uma garota japonesa apresentando formas simplificadas e espaço negativo.
 
 Autor：[@miyajin333](https://x.com/miyajin333) · [Publicação original](https://x.com/miyajin333/status/2101196922715250752)
 
 Ilustração · Personagem · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Ilustração editorial contemporânea de uma garota japonesa apresentando formas simplificadas e espaço negativo.
 
 <img src="images/2101196922715250752-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Assunto: Garota japonesa
+Estilo: Ilustração editorial contemporânea, formas conceituais e simplificadas, proporções expressivas, paleta de cores limitada e sofisticada, espaço negativo marcante, texturas sutis, formas geométricas ligeiramente distorcidas, simplicidade visual intelectual, ilustração moderna em estilo de revista, esquema de cores análogas, proporção de tela 3:4.
 ```
 
 [↑ Voltar às categorias](#catalog)

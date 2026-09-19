@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-19T12:57:49.483Z",
+  "model": "image2",
+  "prompt": "主題：\n湯灯りの白いタオル\n\n主体：\n画面中央から左、石造りの温泉浴槽で若い女性が自分へ向けたカメラに近づき、白いバスタオルを胸元へ巻く。濡れた肌と髪、青緑の湯、奥の注ぎ口が主役。\n\n人物・表情：\n細い卵形の顔、小さな顎、大きな暗い茶色の瞳、細い眉、すっきりした鼻筋、少し開いた艶のある桃色の唇。顔を少し右へ傾け、近いカメラへ静かな視線を送る。濡れた黒褐色の髪は高い無造作な団子にまとめ、薄い前髪と頬や首へ張り付く長い後れ毛がある。\n\n服装・ポーズ：\n厚手で織り目のある白いバスタオルをストラップレスドレス状に胸元から腿へ巻き、右手で胸の右側を握って支える。浴槽の縁へ腰を下ろし、左腕をカメラ方向へ真っすぐ伸ばして自撮りし、右肘を曲げてタオルを身体へ押さえる。\n\n背景・光：\n画面右に青緑色の湯を張った長方形浴槽、奥に灰茶色の石壁、角形の注ぎ口と流れる湯、画面左に木桶、白い小タオル、四角い行灯、上部に照明された植物がある。画面左の行灯と上方の柔らかな暖色光が顔、肩、水滴を照らし、水面へ金色の反射を作る。\n\n構図・カメラ：\n3:4の縦構図、腕を伸ばした目線の正面カメラによる近接セルフィーで頭頂から胸下と片腿までを収めるバストアップ。顔を左上へ大きく、タオルを中央下、浴槽を右半分へ配置。左腕と腿は下端で裁切し、両目と顔にピント、湯口は軽くぼかす。\n\n質感・スタイル：\nフォトリアルな実写写真。濡れた自然な肌、細い後れ毛、水滴、厚い白タオル、暗い石、透明な湯と水面反射を高精細にし、琥珀色と青緑の落ち着いた温泉夜景。\n\nネガティブ：\n白いタオルと自撮りの左腕変更；乾いた髪",
+  "promptTranslations": {
+    "en": "Subject:\nWhite towel in hot spring lantern light\n\nMain Subject:\nCenter to left of the frame, in a stone hot spring bathtub, a young woman leans close to the camera pointed at herself, wrapping a white bath towel around her chest. Wet skin and hair, blue-green hot spring water, and a water spout in the background are the main focus.\n\nPerson / Expression:\nSlender oval face, small chin, large dark brown eyes, thin eyebrows, neat nose bridge, slightly parted glossy pink lips. Face tilted slightly to the right, casting a quiet gaze toward the close camera. Wet dark brownish-black hair gathered in a high messy bun, with wispy bangs and long stray strands clinging to her cheeks and neck.\n\nAttire / Pose:\nA thick, textured white bath towel wrapped strapless dress-style from her chest to her thighs, supported by her right hand gripping the right side of her chest. Sitting on the edge of the tub, her left arm extends straight toward the camera taking a selfie, and her right elbow is bent holding the towel to her body.\n\nBackground / Lighting:\nOn the right of the frame is a rectangular bathtub filled with blue-green hot spring water, in the background a gray-brown stone wall, a square water spout and flowing water; on the left of the frame are a wooden bucket, a small white towel, a square paper lantern, and illuminated plants above. The lantern on the left of the frame and soft warm light from above illuminate her face, shoulders, and water droplets, casting golden reflections on the water surface.\n\nComposition / Camera:\n3:4 vertical composition, a close-up bust-up selfie shot taken with an outstretched arm using a frontal camera at eye level, framing from the top of the head down to below the chest and one thigh. Face prominently placed in the upper left, towel in the lower center, and the bathtub occupying the right half. The left arm and thigh are cropped at the bottom edge; sharp focus on both eyes and face, with the water spout softly blurred.\n\nTexture / Style:\nPhotorealistic live-action photograph. High-definition rendering of wet natural skin, fine stray hairs, water droplets, thick white towel, dark stone, transparent hot spring water and surface reflections, depicting a serene hot spring night scene in amber and blue-green tones.\n\nNegative:\nChanges to the white towel and the selfie left arm; dry hair"
+  },
+  "summaryTranslations": {
+    "en": "Photorealistic portrait prompt of a young woman taking a selfie wrapped in a white bath towel in a stone hot spring bathtub."
+  },
+  "translationVersion": 2,
+  "summary": "石造りの温泉浴槽で白いバスタオルを巻き、自撮りをする若い女性のフォトリアルなポートレートプロンプト。",
+  "summaryEn": "A photorealistic portrait prompt of a young woman in a white bath towel taking a selfie in a hot spring bath.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2101272591956840655",
+    "canonicalUrl": "https://x.com/CyberTotal2026/status/2101272591956840655",
+    "author": {
+      "username": "CyberTotal2026",
+      "displayName": "Prompt アトリエ｜AI画像プロンプト",
+      "profileUrl": "https://x.com/CyberTotal2026"
+    },
+    "publishedAt": "2026-09-19T11:30:00.000Z",
+    "collectedAt": "2026-09-19T12:17:10.788Z",
+    "language": "ja",
+    "originalText": "湯上がりの頬に、灯りがひとつ。水音だけを聞く静かな夜♨️🕯️💧\n\n#AIart #AI写真 #温泉時間\n\n【GPT Image2プロンプト】\n\n主題：\n湯灯りの白いタオル\n\n主体：\n画面中央から左、石造りの温泉浴槽で若い女性が自分へ向けたカメラに近づき、白いバスタオルを胸元へ巻く。濡れた肌と髪、青緑の湯、奥の注ぎ口が主役。\n\n人物・表情：\n細い卵形の顔、小さな顎、大きな暗い茶色の瞳、細い眉、すっきりした鼻筋、少し開いた艶のある桃色の唇。顔を少し右へ傾け、近いカメラへ静かな視線を送る。濡れた黒褐色の髪は高い無造作な団子にまとめ、薄い前髪と頬や首へ張り付く長い後れ毛がある。\n\n服装・ポーズ：\n厚手で織り目のある白いバスタオルをストラップレスドレス状に胸元から腿へ巻き、右手で胸の右側を握って支える。浴槽の縁へ腰を下ろし、左腕をカメラ方向へ真っすぐ伸ばして自撮りし、右肘を曲げてタオルを身体へ押さえる。\n\n背景・光：\n画面右に青緑色の湯を張った長方形浴槽、奥に灰茶色の石壁、角形の注ぎ口と流れる湯、画面左に木桶、白い小タオル、四角い行灯、上部に照明された植物がある。画面左の行灯と上方の柔らかな暖色光が顔、肩、水滴を照らし、水面へ金色の反射を作る。\n\n構図・カメラ：\n3:4の縦構図、腕を伸ばした目線の正面カメラによる近接セルフィーで頭頂から胸下と片腿までを収めるバストアップ。顔を左上へ大きく、タオルを中央下、浴槽を右半分へ配置。左腕と腿は下端で裁切し、両目と顔にピント、湯口は軽くぼかす。\n\n質感・スタイル：\nフォトリアルな実写写真。濡れた自然な肌、細い後れ毛、水滴、厚い白タオル、暗い石、透明な湯と水面反射を高精細にし、琥珀色と青緑の落ち着いた温泉夜景。\n\nネガティブ：\n白いタオルと自撮りの左腕変更；乾いた髪",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSbKgBTb0AAD1qZ.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSbKgBTb0AAD1qZ.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 16,
+      "repostCount": 2,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 616
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]",
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/CyberTotal2026/status/2101272591956840655",
+  "coverUrl": "https://pbs.twimg.com/media/HSbKgBTb0AAD1qZ.jpg",
+  "coverPath": "images/2101272591956840655-1.jpg",
+  "imagePaths": [
+    "images/2101272591956840655-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSbKgBTb0AAD1qZ",
+    "x-post:2101272591956840655"
+  ],
+  "analysis": {
+    "summary": "石造りの温泉浴槽で白いバスタオルを巻き、自撮りをする若い女性のフォトリアルなポートレートプロンプト。",
+    "summaryEn": "A photorealistic portrait prompt of a young woman in a white bath towel taking a selfie in a hot spring bath.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "浴槽内の自撮り構図、白いタオル、濡れた肌や髪、行灯の暖色光、出水口など主要要素が画像と一致。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "主題：\n湯灯りの白いタオル\n\n主体：\n画面中央から左、石造りの温泉浴槽で若い女性が自分へ向けたカメラに近づき、白いバスタオルを胸元へ巻く。濡れた肌と髪、青緑の湯、奥の注ぎ口が主役。\n\n人物・表情：\n細い卵形の顔、小さな顎、大きな暗い茶色の瞳、細い眉、すっきりした鼻筋、少し開いた艶のある桃色の唇。顔を少し右へ傾け、近いカメラへ静かな視線を送る。濡れた黒褐色の髪は高い無造作な団子にまとめ、薄い前髪と頬や首へ張り付く長い後れ毛がある。\n\n服装・ポーズ：\n厚手で織り目のある白いバスタオルをストラップレスドレス状に胸元から腿へ巻き、右手で胸の右側を握って支える。浴槽の縁へ腰を下ろし、左腕をカメラ方向へ真っすぐ伸ばして自撮りし、右肘を曲げてタオルを身体へ押さえる。\n\n背景・光：\n画面右に青緑色の湯を張った長方形浴槽、奥に灰茶色の石壁、角形の注ぎ口と流れる湯、画面左に木桶、白い小タオル、四角い行灯、上部に照明された植物がある。画面左の行灯と上方の柔らかな暖色光が顔、肩、水滴を照らし、水面へ金色の反射を作る。\n\n構図・カメラ：\n3:4の縦構図、腕を伸ばした目線の正面カメラによる近接セルフィーで頭頂から胸下と片腿までを収めるバストアップ。顔を左上へ大きく、タオルを中央下、浴槽を右半分へ配置。左腕と腿は下端で裁切し、両目と顔にピント、湯口は軽くぼかす。\n\n質感・スタイル：\nフォトリアルな実写写真。濡れた自然な肌、細い後れ毛、水滴、厚い白タオル、暗い石、透明な湯と水面反射を高精細にし、琥珀色と青緑の落ち着いた温泉夜景。\n\nネガティブ：\n白いタオルと自撮りの左腕変更；乾いた髪",
+    "sourceRange": {
+      "start": 72,
+      "end": 759
+    },
+    "translations": {
+      "zh": "主题：\n汤灯下的白毛巾\n\n主体：\n画面中偏左，石造温泉浴池中一位年轻女性靠近对准自己的镜头，胸前裹着白色浴巾。湿润的肌肤与发丝、蓝绿色的温泉水、深处的出水口为主体。\n\n人物与表情：\n细巧的鹅蛋脸、小下巴、深褐色大眼睛、细眉、挺拔鼻梁与微张有光泽的粉色嘴唇。脸微向右倾，静静凝视近处镜头。湿润的黑褐发扎成高挽的凌乱丸子头，留有薄刘海与贴在脸颊、颈部的长碎发。\n\n服饰与姿势：\n质地厚实有纹理的白浴巾如抹胸裙般从胸前裹至大腿，右手握住胸口右侧固定。坐在浴池边缘，左臂径直伸向镜头自拍，右肘微屈将浴巾按贴身体。\n\n背景与光影：\n画面右侧为注满蓝绿池水的长方形浴池，深处为灰褐色石墙、方形出水口与潺潺流水；左侧有木桶、白色小毛巾、方形行灯与上方受光的绿植。行灯与上方柔和暖光照亮脸颊、肩膀与水滴，水面泛起金色反光。\n\n构图与镜头：\n3:4竖向构图，伸长手臂平视正面的近距离自拍胸像，容纳头顶至胸下与一侧大腿。脸部在左上方偏大，浴巾置于中下方，浴池占右半部分。双眼与面部对焦，出水口微虚化。\n\n质感与风格：\n写实真人照片。高精细刻画湿润自然肌肤、碎发、水珠、厚实白毛巾与清澈池水，呈琥珀色与蓝绿交织的沉静温泉夜景。\n\n负面提示：\n更改白色浴巾与自拍左臂；干燥头发",
+      "en": "Theme:\nWhite towel in hot spring light\n\nSubject:\nIn a stone hot spring bath, a young woman wrapped in a white bath towel leans close to the camera for a selfie, with wet skin, teal water, and a spout in the background.\n\nPerson & Expression:\nOval face, small chin, dark brown eyes, slight smile with glossy pink lips. Wet dark brown hair in a messy high bun with loose strands clinging to skin.\n\nClothing & Pose:\nThick white towel wrapped strapless from chest to thigh. Left arm extended holding camera for a selfie, right hand securing towel at chest.\n\nBackground & Light:\nTeal hot spring water, stone walls, square water spout, wooden bucket, and warm lantern lighting casting golden ripples.\n\nComposition & Camera:\n3:4 vertical close-up selfie from head to upper thigh, focusing sharply on face and eyes with a blurred background.\n\nStyle:\nPhotorealistic photo with detailed wet skin texture, water droplets, and serene evening spa lighting.\n\nNegative:\nAltering white towel and selfie left arm; dry hair"
+    },
+    "targetModels": [
+      "image2"
+    ],
+    "category": "text-to-image",
+    "useCase": "AI photography generation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}

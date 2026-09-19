@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**146** Prompts · Latest addition: **2026-09-19**
+**150** Prompts · Latest addition: **2026-09-19**
 
 <a name="catalog"></a>
 
@@ -617,6 +617,182 @@ Photography · Landscape / Nature · Published
 
 ```text
 Photo of a clearing in the woods with lots of green foliage, highly detailed
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2101282658466562299"></a>
+
+### Realistic portrait of a young woman on a high-rise balcony with a sunset sea view, wearing an off-white openwork knit sweater with green trim and floral swimwear.
+
+Author：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Source](https://x.com/CyberTotal2026/status/2101282658466562299)
+
+Photography · Portrait / Selfie · Character · Landscape / Nature · Published
+
+**Summary:** Realistic portrait of a young woman on a high-rise balcony with a sunset sea view, wearing an off-white openwork knit sweater with green trim and floral swimwear.
+
+<img src="images/2101282658466562299-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Subject:
+Green-Trimmed Knit by the Sunset Sea
+
+Main Subject:
+From the center to the right of the frame, on a high-rise balcony overlooking the sun setting into the sea, a young woman sits wearing an off-white openwork knit cardigan. The green trim, chest tie, and blue ditsy floral bikini bottoms take center stage.
+
+Person & Expression:
+Slender oval profile, small chin, light brown eyes looking at the sunset on the left of the frame, thin eyebrows, clean-cut bridge of the nose, natural pink lips. Her face is turned to the left, calmly gazing at the distant horizon. Wet, extremely long wavy dark-brown hair with wispy bangs flows down her back and over her right arm.
+
+Attire & Pose:
+An off-white long-sleeved openwork knit cardigan featuring a deeply open front, dark green piping, and a green cord tied in a single knot at the chest, revealing plenty of skin. Paired with low-rise swimwear bottoms featuring scattered blue flowers and green leaves on a white background. Sitting on the edge near the window with both legs opened toward the front, arms resting down at her sides with hands placed on the seating surface.
+
+Background & Light:
+The left half of the frame shows an orange sunset, pink clouds, a blue ocean with a golden path of light, and a distant coastline at the bottom; the right side of the frame features a black window frame, indoor plants, and a wooden chair. With the low setting sun on the left as the primary light source, soft backlighting illuminates her profile, hair, shoulders, and the knit borders in gold.
+
+Composition & Camera:
+3:4 vertical composition, captured from a near-frontal camera angle positioned slightly higher than the seated subject's waist, framing a three-quarter portrait from the crown of her head to mid-thigh. The subject is framed prominently on the right half, while the sunset and horizon are arranged on the left half. Both legs are cropped at the lateral and bottom edges; focus is sharp on her profile and the green trim, with the sea moderately blurred.
+
+Texture & Style:
+Photorealistic live-action photography. High definition on wet natural skin and hair, coarse openwork knit, green piping, floral fabric, glass, and reflections on the sea surface, depicted in serene twilight tones of off-white, green, and sunset orange.
+
+Negative:
+Altering the open-front green-trimmed knit; omitting the sunset and the sea
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2101239624718856403"></a>
+
+### A live-action top-down overhead photo prompt capturing a woman in a white bikini floating on her back in an outdoor pool while resting her head on the stone edge.
+
+Author：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Source](https://x.com/CyberTotal2026/status/2101239624718856403)
+
+Photography · Character · Published
+
+**Summary:** A live-action top-down overhead photo prompt capturing a woman in a white bikini floating on her back in an outdoor pool while resting her head on the stone edge.
+
+<img src="images/2101239624718856403-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Theme:
+White floating on the water surface
+
+Main Subject:
+In the center of the frame, a young woman floats straight on her back on the surface of a bright outdoor swimming pool, resting only her head on the stone edge. The white ruffled bikini, aligned long legs, and shimmering light patterns on the water surface take center stage.
+
+Person and Expression:
+A slender, inverted oval face, small chin, large brown eyes, thin eyebrows, neat nose bridge, and slightly parted reddish-pink lips. Her face is directed straight up toward the overhead camera, offering a calm gaze. Wet dark brown hair is tied in the back, with short strands spreading around her head and onto the stone edge.
+
+Attire and Pose:
+A white thin-strap triangle bikini top with delicate ruffles along the bust and edges, paired with matching low-rise bottoms with thin side ties on both hips. Lying on her back stretching her body across the water surface, legs and toes pressed together, arms opened slightly at her sides with palms submerged underwater, resting the back of her head on the stone edge in the foreground.
+
+Background and Light:
+The entire background consists of transparent pale blue pool water and platinum-gold rippling light, with a granular grayish-brown stone edge at the bottom of the frame, free of any other objects. Harsh direct sunlight from above illuminates her skin, swimsuit, and the water surface, casting shifting mesh-like caustic reflections across her whole body.
+
+Composition and Camera:
+Vertical 3:4 composition, directly overhead top-down bird's-eye camera capturing the full body from the upside-down crown of the head in the foreground to the tips of her toes in the distance. The subject is positioned prominently and vertically in the center, with her head at the lower edge and aligned legs extending into the upper half. Full body framed entirely within the shot, sharp focus on the face and chest, with crisp, clear light patterns on the water surface.
+
+Texture and Style:
+Photorealistic live-action photography. High definition detailing of natural wet skin, white ruffled fabric, transparent water, fine ripples, refracted light, and rough stone, bathed in dazzling daylight of pale light blue and white.
+
+Negative:
+Altering directly overhead bird's-eye angle and inverted head position; parting or spreading legs
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2101272591956840655"></a>
+
+### Photorealistic portrait prompt of a young woman taking a selfie wrapped in a white bath towel in a stone hot spring bathtub.
+
+Author：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Source](https://x.com/CyberTotal2026/status/2101272591956840655)
+
+Photography · Portrait / Selfie · Character · Published
+
+**Summary:** Photorealistic portrait prompt of a young woman taking a selfie wrapped in a white bath towel in a stone hot spring bathtub.
+
+<img src="images/2101272591956840655-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Subject:
+White towel in hot spring lantern light
+
+Main Subject:
+Center to left of the frame, in a stone hot spring bathtub, a young woman leans close to the camera pointed at herself, wrapping a white bath towel around her chest. Wet skin and hair, blue-green hot spring water, and a water spout in the background are the main focus.
+
+Person / Expression:
+Slender oval face, small chin, large dark brown eyes, thin eyebrows, neat nose bridge, slightly parted glossy pink lips. Face tilted slightly to the right, casting a quiet gaze toward the close camera. Wet dark brownish-black hair gathered in a high messy bun, with wispy bangs and long stray strands clinging to her cheeks and neck.
+
+Attire / Pose:
+A thick, textured white bath towel wrapped strapless dress-style from her chest to her thighs, supported by her right hand gripping the right side of her chest. Sitting on the edge of the tub, her left arm extends straight toward the camera taking a selfie, and her right elbow is bent holding the towel to her body.
+
+Background / Lighting:
+On the right of the frame is a rectangular bathtub filled with blue-green hot spring water, in the background a gray-brown stone wall, a square water spout and flowing water; on the left of the frame are a wooden bucket, a small white towel, a square paper lantern, and illuminated plants above. The lantern on the left of the frame and soft warm light from above illuminate her face, shoulders, and water droplets, casting golden reflections on the water surface.
+
+Composition / Camera:
+3:4 vertical composition, a close-up bust-up selfie shot taken with an outstretched arm using a frontal camera at eye level, framing from the top of the head down to below the chest and one thigh. Face prominently placed in the upper left, towel in the lower center, and the bathtub occupying the right half. The left arm and thigh are cropped at the bottom edge; sharp focus on both eyes and face, with the water spout softly blurred.
+
+Texture / Style:
+Photorealistic live-action photograph. High-definition rendering of wet natural skin, fine stray hairs, water droplets, thick white towel, dark stone, transparent hot spring water and surface reflections, depicting a serene hot spring night scene in amber and blue-green tones.
+
+Negative:
+Changes to the white towel and the selfie left arm; dry hair
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2101251955922256022"></a>
+
+### A realistic morning light portrait of a young woman standing barefoot behind a large wooden cello.
+
+Author：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Source](https://x.com/CyberTotal2026/status/2101251955922256022)
+
+Photography · Portrait / Selfie · Character · Published
+
+**Summary:** A realistic morning light portrait of a young woman standing barefoot behind a large wooden cello.
+
+<img src="images/2101251955922256022-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Subject:
+Morning Light and a Large Cello
+
+Main Subject:
+In the center of the frame, in front of a white wall, a young woman stands barefoot, holding upright a wooden cello large enough to cover her body. The amber-colored body, black fingerboard, and the woman's profile and hands take center stage.
+
+Person / Expression:
+A slender profile, small chin, slightly downcast dark brown eyes, thin eyebrows, a clean nasal bridge, and natural rosy-pink lips. Her face is turned toward the lower right of the frame, quietly looking down the right side of the cello. Her long, dark brown wavy hair is half tied up at the back of her head, with wispy bangs and strands falling over her cheek, flowing over her right shoulder.
+
+Clothing / Pose:
+Clothing structures such as the type of top, dress, or shoulder straps are hidden behind the large cello body and are not presumed, revealing only bare shoulders, both arms, and below the knees. She stands barefoot with both legs together, bending her left elbow to grip the upper part of the black neck with her left hand, and extending her right arm downward to rest her right hand against the right edge of the cello.
+
+Background / Lighting:
+The background consists only of a textured white wall and a pale floor, with the cello in the center of the frame, diagonal shadows of a window frame on the left, and the endpin and the subject's bare feet at the bottom. Harsh, direct morning sunlight slants in from a window on the left side of the frame onto the wall, face, arms, and wooden body, casting soft shadows to the right.
+
+Composition / Camera:
+A 2:3 vertical composition, shot with a frontal camera at the height of the subject's waist, capturing the full body from the tip of the cello's scroll to the endpin and the tips of both feet. The cello is placed very prominently in the center, revealing only a small portion of the person's face and body from the right side. The entire instrument is contained within the frame, with focus on the wooden body and the profile, keeping the white wall flat.
+
+Texture / Style:
+Photorealistic live-action photograph. High-definition rendering of the amber wood grain, black fingerboard and strings, metal endpin, natural skin, and soft hair, creating a quiet morning scene with white walls and warm wood tones.
+
+Negative:
+Aspect ratio changes that obscure the full shape of the cello and the person; addition of a bow or chair
 ```
 
 [↑ Back to categories](#catalog)

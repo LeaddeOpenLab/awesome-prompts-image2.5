@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**146** Prompts · Zuletzt hinzugefügt: **2026-09-19**
+**150** Prompts · Zuletzt hinzugefügt: **2026-09-19**
 
 <a name="catalog"></a>
 
@@ -555,6 +555,94 @@ Fotografie · Landschaft / Natur · Veröffentlicht
 
 ```text
 Foto einer Waldlichtung mit viel grünem Blattwerk, sehr detailliert
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2101282658466562299"></a>
+
+### Übersetzung läuft
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Originalbeitrag](https://x.com/CyberTotal2026/status/2101282658466562299)
+
+Fotografie · Porträt / Selfie · Charakter · Landschaft / Natur · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2101282658466562299-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2101239624718856403"></a>
+
+### Übersetzung läuft
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Originalbeitrag](https://x.com/CyberTotal2026/status/2101239624718856403)
+
+Fotografie · Charakter · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2101239624718856403-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2101272591956840655"></a>
+
+### Übersetzung läuft
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Originalbeitrag](https://x.com/CyberTotal2026/status/2101272591956840655)
+
+Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2101272591956840655-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2101251955922256022"></a>
+
+### Übersetzung läuft
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Originalbeitrag](https://x.com/CyberTotal2026/status/2101251955922256022)
+
+Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2101251955922256022-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -2276,20 +2364,21 @@ Erstelle eine Prüfungsarbeit im Layout des englischen CET-4, bei der jedoch all
 
 <a name="prompt-2101196922715250752"></a>
 
-### Übersetzung läuft
+### Zeitgenössische redaktionelle Illustration eines japanischen Mädchens mit vereinfachten Formen und Negativraum.
 
 Autor：[@miyajin333](https://x.com/miyajin333) · [Originalbeitrag](https://x.com/miyajin333/status/2101196922715250752)
 
 Illustration · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Zeitgenössische redaktionelle Illustration eines japanischen Mädchens mit vereinfachten Formen und Negativraum.
 
 <img src="images/2101196922715250752-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Motiv: Japanisches Mädchen
+Stil: Zeitgenössische redaktionelle Illustration, konzeptionelle und vereinfachte Formen, ausdrucksstarke Proportionen, raffinierte limitierte Farbpalette, mutiger Negativraum, subtile Texturen, leicht verzerrte geometrische Formen, intellektuelle visuelle Schlichtheit, moderne Illustration im Magazinstil, analoges Farbschema, Seitenverhältnis 3:4.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
