@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**153** Prompts · Última adição: **2026-09-19**
+**160** Prompts · Última adição: **2026-09-19**
 
 <a name="catalog"></a>
 
@@ -59,13 +59,13 @@ Inúmeras fotos fracassadas de amadores, 3x3, 9:16
 
 <a name="prompt-2100221410358735319"></a>
 
-### Um prompt de selfies realista em grade 3x3 imitando várias fotos com falhas de amadores.
+### Tradução em andamento
 
 Autor：[@oneruofeng](https://x.com/oneruofeng) · [Publicação original](https://x.com/oneruofeng/status/2100221410358735319)
 
 Fotografia · Retrato / Selfie · Publicado
 
-**Resumo:** Um prompt de selfies realista em grade 3x3 imitando várias fotos com falhas de amadores.
+**Resumo:** Tradução em andamento
 
 <img src="images/2100221410358735319-1.jpg" alt="Imagem 1" width="480" />
 
@@ -74,7 +74,7 @@ Fotografia · Retrato / Selfie · Publicado
 **Prompt**
 
 ```text
-Várias fotos com falhas de amadores, 3x3, 9:16
+Tradução em andamento
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -161,20 +161,20 @@ Tradução em andamento
 
 <a name="prompt-2099374878910734661"></a>
 
-### Paisagem surrealista de cânion em 9:16, gigantesco anel de nuvens em rotação com efeito time-stack de longa exposição, viajante de costas no leito do cânion.
+### Tradução em andamento
 
 Autor：[@listudio](https://x.com/listudio) · [Publicação original](https://x.com/listudio/status/2099374878910734661)
 
 Fotografia · Paisagem / Natureza · Publicado
 
-**Resumo:** Paisagem surrealista de cânion em 9:16, gigantesco anel de nuvens em rotação com efeito time-stack de longa exposição, viajante de costas no leito do cânion.
+**Resumo:** Tradução em andamento
 
 <img src="images/2099374878910734661-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Crie uma fotografia time-stack fotorrealista e surrealista de um cânion na proporção vertical 9:16. O leito do cânion é amplo e seco, flanqueado por imensas paredes rochosas estratificadas verticais em tons de marrom quente, ocre e preto carvão que se erguem a partir das bordas do primeiro plano, formando uma moldura natural escura, com texturas de rocha e cascalho mantendo detalhes nítidos. No céu, na meia-distância e ao fundo do cânion, surge um anel gigantesco de nuvens rodopiantes ocupando a maior parte da área central, revelando um céu cinza-azulado sereno no centro da abertura circular. Utilize um efeito de longa exposição com câmera estática e time-stack de múltiplos quadros: densos cúmulos giram lentamente no mesmo sentido de rotação, fundindo-se em linhas de fluxo concêntricas, contínuas e suaves; a parede interna exibe centenas e milhares de delicadas estrias de nuvens em forma de arco, e as bordas da abertura circular trazem rastros suaves de rotação; a massa de nuvens mantém o volume real de luz e sombra e uma textura branco-leitosa, sem parecer um túnel sólido e sem ruídos fragmentados. O leito do cânion se espalha amplamente no primeiro plano e se estreita em direção à distância; um viajante adulto de costas para a câmera está parado no centro inferior, ocupando apenas cerca de 2% da altura do quadro e mantendo-se nítido. A luz solar quente no canto superior direito atravessa as fendas das nuvens; a exposição contínua difunde suavemente as altas luzes, iluminando a parede de nuvens da direita e as bordas rochosas; a rocha quente, o céu cinza-azulado frio e as nuvens branco-leitosas brilhantes estabelecem uma relação tricromática contida. Granulação sutil de filme, perspectiva atmosférica natural, silêncio épico e sensação imponente de opressão. O desfoque de movimento aplica-se apenas às nuvens e a uma leve névoa de poeira; as paredes rochosas, o leito do vale e a figura humana permanecem nítidos. Sem construções, sem vegetação densa, sem pássaros voando, sem texto, sem logotipo, sem marca d'água, sem relâmpagos.
+Tradução em andamento
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -338,6 +338,54 @@ Publicação original：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicação
 <img src="images/2098799449237782991-1.jpg" alt="Imagem 1" width="480" />
 
 <img src="images/2098799449237782991-2.jpg" alt="Imagem 2" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2098797110401335713"></a>
+
+### Tradução em andamento
+
+Autor：[@sdjn\_wgc](https://x.com/sdjn_wgc) · [Publicação original](https://x.com/sdjn_wgc/status/2098797110401335713)
+
+Fotografia · Retrato / Selfie · Arquitetura / Interiores · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2098797110401335713-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2098779220566839714"></a>
+
+### Tradução em andamento
+
+Autor：[@AI\_money\_club](https://x.com/AI_money_club) · [Publicação original](https://x.com/AI_money_club/status/2098779220566839714)
+
+Fotografia · Personagem · Alimentos / Bebidas · Publicado
+
+Publicação original：[@AI\_money\_club](https://x.com/AI_money_club) · [Publicação original](https://x.com/AI_money_club/status/2098767892028535126)
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2098779220566839714-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2098779220566839714-2.jpg" alt="Imagem 2" width="480" />
 
 **Prompt**
 
@@ -1143,15 +1191,37 @@ Tradução em andamento
 
 ---
 
+<a name="prompt-2099470719235318149"></a>
+
+### Tradução em andamento
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicação original](https://x.com/CyberTotal2026/status/2099470719235318149)
+
+Fotografia · Retrato / Selfie · Personagem · Item de Moda · Arquitetura / Interiores · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2099470719235318149-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
 <a name="prompt-2099370474455396482"></a>
 
-### Retrato de estúdio fotorrealista de uma mulher elegante vestindo um vestido midi preto sob medida.
+### Tradução em andamento
 
 Autor：[@MissDelulu9](https://x.com/MissDelulu9) · [Publicação original](https://x.com/MissDelulu9/status/2099370474455396482)
 
 Fotografia · Retrato / Selfie · Personagem · Item de Moda · Publicado
 
-**Resumo:** Retrato de estúdio fotorrealista de uma mulher elegante vestindo um vestido midi preto sob medida.
+**Resumo:** Tradução em andamento
 
 <img src="images/2099370474455396482-1.jpg" alt="Imagem 1" width="480" />
 
@@ -1160,7 +1230,7 @@ Fotografia · Retrato / Selfie · Personagem · Item de Moda · Publicado
 **Prompt**
 
 ```text
-Crie um retrato de estúdio de corpo inteiro altamente fotorrealista de uma mulher adulta elegante vestindo um vestido formal midi preto sofisticado com mangas compridas, cintura sob medida, tecido premium e textura sutil. Joias minimalistas, elegantes sapatos de salto fino com bico fino, cabelo liso e polido, maquiagem suave e natural, expressão confiante e serena. Cenário de estúdio de moda de luxo, iluminação suave e difusa, textura de pele realista, proporções naturais, fotografia editorial cinematográfica, lente de 85 mm, ultradetalhado, 8K, sem texto, sem marca d'água.
+Tradução em andamento
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -1257,7 +1327,7 @@ Não omitir o lago de montanha nem o café gelado no canto inferior esquerdo
 
 <a name="prompt-2099400168433152293"></a>
 
-### Prompt de retrato em primeiríssimo plano de uma mulher olhando para cima em direção à câmera com olhos marejados.
+### Tradução em andamento
 
 Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicação original](https://x.com/CyberTotal2026/status/2099400168433152293)
 
@@ -1265,7 +1335,7 @@ Fotografia · Retrato / Selfie · Personagem · Publicado
 
 Publicação original：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicação original](https://x.com/CyberTotal2026/status/2093263569249005578)
 
-**Resumo:** Prompt de retrato em primeiríssimo plano de uma mulher olhando para cima em direção à câmera com olhos marejados.
+**Resumo:** Tradução em andamento
 
 <img src="images/2099400168433152293-1.jpg" alt="Imagem 1" width="480" />
 
@@ -1274,29 +1344,7 @@ Publicação original：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publ
 **Prompt**
 
 ```text
-Tema:
-Retrato em primeiríssimo plano com olhos marejados
-
-Sujeito:
-Uma fotografia vertical capturada de cima a uma distância extremamente próxima de uma mulher na faixa dos 20 anos. A pessoa ocupa predominantemente o centro da imagem, inclinando a parte superior do corpo para a frente enquanto olha para cima em direção à câmera. Uma das mãos está levemente aberta em concha logo abaixo da boca, com algumas gotas de água transparentes repousando na palma. Um fundo interno escuro e uma atmosfera íntima típica de grande proximidade.
-
-Pessoa e expressão:
-Rosto pequeno e arredondado, com uma linha de mandíbula suave. Olhos castanhos grandes olhando fixamente para a câmera, com os cantos externos ligeiramente caídos, transmitindo uma impressão serena. Há uma película natural de lágrimas na pálpebra inferior e apenas uma lágrima minúscula visível perto do canto externo do olho, sem parecer um rosto choroso. Sobrancelhas castanhas finas, blush rosa suave, cílios delicados e lábios brilhantes em tom rosa-bege. Cabelos longos castanho-claros com ondas suaves, franja rala e mechas finas contornando as bochechas.
-
-Vestimenta e pose:
-Blusa regata de malha canelada fina em rosa-claro. Decote em V profundo com um pequeno laço central visível, combinada com uma peça inferior curta em marfim-claro. Postura com o tronco inclinado em direção à câmera e os ombros levemente recolhidos para dentro. Uma das mãos posicionada sob o rosto com a palma voltada para cima e os dedos naturalmente curvados, segurando uma pequena quantidade de gotas de água.
-
-Fundo e iluminação:
-Ambiente interno em tons de marrom-escuro e preto. Ao fundo à esquerda, móveis escuros e papéis pequenos aparecem desfocados; ao fundo à direita, um compartimento preto e pequenos objetos brancos estão desfocados. Uma iluminação suave e quente, vinda principalmente de frente, ilumina com clareza o rosto, o cabelo, os ombros e a palma da mão, enquanto o fundo cai em sombras mais escuras. A pele tem um viço sutil, com pequenos reflexos nas pupilas e na superfície das lágrimas.
-
-Composição e câmera:
-Vertical 4:3. Retrato em ângulo extremamente próximo com o rosto posicionado em destaque no centro da metade superior do enquadramento. Perspectiva angular vista de cima com leve inclinação para baixo, destacando fortemente o rosto e a mão no primeiro plano. Enquadramento do topo da cabeça até o peito e parte das coxas, com a palma da mão sobreposta no centro inferior da imagem. Foco nítido no rosto e nos olhos, com fundo suavemente desfocado.
-
-Textura e estilo:
-Representação fotográfica realista. Pele macia preservando a textura natural, cabelos suaves visíveis fio a fio, tecido canelado, gotas de água e a transparência das lágrimas detalhadas com precisão. Tons quentes e suaves, evitando HDR excessivo ou suavização de pele artificial. Tridimensionalidade característica de foto próxima e atmosfera natural de uma fotografia cotidiana.
-
-Negativo:
-Lágrimas grandes e artificiais; rosto inchado de choro
+Tradução em andamento
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -1380,6 +1428,28 @@ Fotografia · Retrato / Selfie · Personagem · Publicado
 **Resumo:** Tradução em andamento
 
 <img src="images/2099262094302761246-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2099152153722159320"></a>
+
+### Tradução em andamento
+
+Autor：[@Aqsahere\_](https://x.com/Aqsahere_) · [Publicação original](https://x.com/Aqsahere_/status/2099152153722159320)
+
+Fotografia · Retrato / Selfie · Personagem · Item de Moda · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2099152153722159320-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
@@ -2079,20 +2149,46 @@ Retrato em alta resolução de um homem do sul da Ásia de 23 anos com os olhos 
 
 <a name="prompt-2101248200787320961"></a>
 
-### Tradução em andamento
+### Prompt de vídeo segmentado de 30 segundos de uma jovem correndo para entregar um envelope amarelo em uma Veneza invertida e dobrada no estilo Inception durante o pôr do sol na década de 1940.
 
 Autor：[@oggii\_0](https://x.com/oggii_0) · [Publicação original](https://x.com/oggii_0/status/2101248200787320961)
 
 Cinematográfico / Imagem de Filme · Personagem · Arquitetura / Interiores · Paisagem Urbana / Rua · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt de vídeo segmentado de 30 segundos de uma jovem correndo para entregar um envelope amarelo em uma Veneza invertida e dobrada no estilo Inception durante o pôr do sol na década de 1940.
 
 <img src="covers/2101248200787320961.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+[CHARACTER + STYLE]
+
+<<<image_1>>> é a referência de rosto e identidade. Uma jovem coreana no início dos seus vinte anos com EXATAMENTE o rosto de <<<image_1>>> — mesma estrutura facial, mesmos traços, pele coreana natural, sem óculos. Cabelo preto longo, vestindo um casaco-vestido de lã azul-petróleo dos anos 1940 com colarinho branco, uma bolsa tiracolo de couro marrom usada na transversal, meias cinzas até o joelho, sapatos de couro preto, segurando um envelope amarelo dobrado. Cada cena dela corresponde a <<<image_1>>>.
+
+Veneza dos anos 1940 na hora dourada. Gradação cinematográfica em âmbar e azul-petróleo, visual de filme anamórfico de 35mm, profundidade de campo rasa, raios solares volumétricos, granulação fina de filme. Arquitetura dobrável no estilo A Origem (Inception) — a cidade veneziana se curva para cima e fica suspensa invertida no alto como um teto espelhado. A mulher sempre permanece sob gravidade normal enquanto o mundo se dobra ao seu redor. Movimento contínuo de câmera, sem cortes bruscos.
+
+[TIMELINE PROMPT]
+
+0–3s: Plano de rastreamento lateral ao longo de um cais de pedra próximo ao Grande Canal no pôr do sol. A jovem de casaco azul-petróleo corre passando pela câmera, segurando um envelope amarelo. Acima dela, a cidade inteira paira de cabeça para baixo, espelhada — um homem de chapéu-coco passeia com um dachshund pela rua invertida. Um guarda-chuva vermelho flutua sem peso entre os dois mundos. Pombos se dispersam através da luz âmbar.
+
+3–6s: A câmera a segue por trás entrando em um beco estreito veneziano, folhas secas rodopiando em seu rastro. Na outra extremidade, a rua sobe em direção ao céu, prédios se empilhando verticalmente como uma parede de janelas. Seus passos ecoam entre as paredes de pedra.
+
+6–9s: A câmera gira lentamente 90 graus. A parede do beco se torna o chão sob seus pés; ela continua correndo, imperturbável. O giro continua em uma órbita ampla enquanto ela corre subindo uma escada em espiral de pedra flutuante suspensa no ar, fragmentos de telhados venezianos de terracota girando ao seu redor como um caleidoscópio.
+
+9–12s: Silhueta em plano extremamente aberto. Ela corre pelo topo de uma ponte de pedra em arco sobre um canal largo contra o pôr do sol ardente. A cidade espelhada paira tanto acima quanto abaixo do arco. No plano invertido, um pedestre solitário caminha na direção oposta. Pássaros disparam pelo enquadramento em câmera lenta.
+
+12–15s: Ângulo baixo olhando diretamente para cima entre duas paredes imponentes de edifícios, com o céu formando uma fina faixa brilhante. Ela salta através do abismo vertical, braços bem abertos, casaco e cabelos voando, bolsa balançando. A câmera foca nela contra o céu. O vento ruge.
+
+15–18s: Câmera na mão avançando por uma rua movimentada do mercado de Rialto dos anos 1940 — vendedores empilhando caixotes de maçãs, roupas penduradas no alto entre os edifícios. Ela ziguezagueia entre compradores desfocados em primeiro plano, correndo para longe da câmera. Uma maçã rola solta pelas pedras do calçamento.
+
+18–21s: A câmera se inclina para cima em direção a uma imponente torre sineira de tijolos — um campanário veneziano — enquanto a cidade ao redor se dobra e se curva em torno dele. A mulher parece minúscula na borda da torre, pausa contra o sol e depois dá um passo em direção aos telhados. Sinos começam a tocar.
+
+21–24s: Terraço ajardinado no telhado emoldurado por um caramanchão coberto de rosas. Uma senhora idosa em um cardigã cinza rega um canteiro de flores vívidas com um regador de lata. Atrás dela, Veneza e as cúpulas da Basílica de São Marcos brilham ao pôr do sol sobre a lagoa enquanto a cidade invertida paira no alto. A jovem se equilibra ao longo da balaustrada de pedra, de braços abertos, e depois salta para o terraço.
+
+24–27s: Ela estende o envelope amarelo. A senhora idosa se vira, pousa o regador e o pega. Ambas sorriem calorosamente uma para a outra. Pétalas de rosa sobem flutuando além delas, caindo em direção ao céu invertido.
+
+27–30s: A câmera recua e sobe rapidamente. A cidade inteira se dobra e gira até se tornar uma vista aérea zenital dos canais e ruas de Veneza se enrolando em uma esfera. As duas figuras minúsculas permanecem no terraço. Fade lento para uma luz quente.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -2874,7 +2970,7 @@ Converta a foto para o estilo de um diário de viagem desenhado à mão com láp
 
 <a name="prompt-2100241141967081911"></a>
 
-### Prompt de fotografia em primeiríssimo plano extremo de nail art no estilo tradicional chinês centrado na estética da dinastia Song, enfatizando o travamento do foco no visual requintado das unhas.
+### Tradução em andamento
 
 Autor：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicação original](https://x.com/DeepBlueX0/status/2100241141967081911)
 
@@ -2882,7 +2978,7 @@ Fotografia · Tinta / Estilo Chinês · Publicado
 
 Publicação original：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicação original](https://x.com/DeepBlueX0/status/2100101510634037441)
 
-**Resumo:** Prompt de fotografia em primeiríssimo plano extremo de nail art no estilo tradicional chinês centrado na estética da dinastia Song, enfatizando o travamento do foco no visual requintado das unhas.
+**Resumo:** Tradução em andamento
 
 <img src="images/2100241141967081911-1.jpg" alt="Imagem 1" width="480" />
 
@@ -2897,7 +2993,7 @@ Publicação original：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicação
 **Prompt**
 
 ```text
-Estética da dinastia Song × Primeiríssimo plano extremo de nail art no estilo Song × Foco travado no visual principal da nail art
+Tradução em andamento
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -2991,6 +3087,30 @@ Publicação original：[@huku\_ken\_ai](https://x.com/huku_ken_ai) · [Publica�
 
 ```text
 Extraia da imagem os elementos, contornos, poses e relações narrativas mais característicos, reconstruindo-os em uma ilustração editorial feita à mão, leve, rústica e retrô. Evitando a reprodução mecânica de detalhes, a ilustração é reinterpretada por meio de formas generalizadas, proporções moderadamente exageradas, traços simbólicos e metáforas visuais bem-humoradas, mantendo ao mesmo tempo a expressão característica do original. Essas ilustrações combinam a ilustração editorial modernista, o design gráfico da Bauhaus, livros ilustrados infantis, arte naïf e técnicas de esboço em alta. As formas são concisas, as linhas de contorno transmitem uma impressão ligeiramente imprecisa que reflete as imperfeições naturais do desenho à mão, e elementos específicos são ampliados adequadamente para criar uma imagem narrativa, estilosa e lúdica.
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2098762789489873062"></a>
+
+### Tradução em andamento
+
+Autor：[@lovimg\_com](https://x.com/lovimg_com) · [Publicação original](https://x.com/lovimg_com/status/2098762789489873062)
+
+Pôster / Flyer · Ilustração · Retrô / Vintage · Item de Moda · Texto / Tipografia · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2098762789489873062-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2098762789489873062-2.jpg" alt="Imagem 2" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -3548,13 +3668,13 @@ Tradução em andamento
 
 <a name="prompt-2100255511228932598"></a>
 
-### Instantâneos verticais de erros em grade de quatro, cena de colheita de raiz de lótus em lagoa de lótus e personagens
+### Tradução em andamento
 
 Autor：[@ahamme35638](https://x.com/ahamme35638) · [Publicação original](https://x.com/ahamme35638/status/2100255511228932598)
 
 Personagem · Publicado
 
-**Resumo:** Instantâneos verticais de erros em grade de quatro, cena de colheita de raiz de lótus em lagoa de lótus e personagens
+**Resumo:** Tradução em andamento
 
 <img src="images/2100255511228932598-1.jpg" alt="Imagem 1" width="480" />
 
@@ -3565,7 +3685,7 @@ Personagem · Publicado
 **Prompt**
 
 ```text
-Fotos com erro verticais 2×2, cena de colheita de raiz de lótus em lagoa de lótus + personagem
+Tradução em andamento
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -4207,6 +4327,28 @@ Cristiano Ronaldo comendo shawarma
 
 ---
 
+<a name="prompt-2097582500273115191"></a>
+
+### Tradução em andamento
+
+Autor：[@ky6001481673691](https://x.com/ky6001481673691) · [Publicação original](https://x.com/ky6001481673691/status/2097582500273115191)
+
+Retrato / Selfie · Personagem · Item de Moda · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2097582500273115191-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
 <a name="prompt-2097558679956664521"></a>
 
 ### Retrato de terror cibernético apresentando um humanoide esguio com uma máscara de porcelana rachada, cabos na cabeça e iluminação monocromática de alto contraste.
@@ -4347,6 +4489,30 @@ Cena 5 (7–9s): O frasco é segurado elegantemente com uma mão e girado lentam
 Cena 6 (9–10s): Tomada principal final do frasco de Cheng Guang Cocoa Soft Glow cercado por grãos de cacau e folhas. A câmera se aproxima lentamente (push-in), efeitos sutis de brilho, fundo quente e luxuoso, composição limpa com foco no produto.
 
 Estilo: fotorrealista, anúncio de beleza premium, iluminação cinematográfica, movimentos de mão realistas, transições de câmera suaves, profundidade de campo rasa, bokeh suave, tons dourados quentes, 4K, altamente detalhado, movimento natural, sem distorção, sem produtos adicionais, sem alteração no rótulo ou na marca do frasco.
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2098762663941832907"></a>
+
+### Tradução em andamento
+
+Autor：[@lovimg\_com](https://x.com/lovimg_com) · [Publicação original](https://x.com/lovimg_com/status/2098762663941832907)
+
+Pôster / Flyer · Texto / Tipografia · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2098762663941832907-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2098762663941832907-2.jpg" alt="Imagem 2" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
 ```
 
 [↑ Voltar às categorias](#catalog)

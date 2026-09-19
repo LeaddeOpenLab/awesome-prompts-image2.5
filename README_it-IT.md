@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**153** Prompt · Ultima aggiunta: **2026-09-19**
+**160** Prompt · Ultima aggiunta: **2026-09-19**
 
 <a name="catalog"></a>
 
@@ -59,13 +59,13 @@ Numerose foto fallite di dilettanti, 3x3, 9:16
 
 <a name="prompt-2100221410358735319"></a>
 
-### Un prompt per selfie realistici in griglia 3x3 che imita numerose foto amatoriali mal riuscite.
+### Traduzione in corso
 
 Autore：[@oneruofeng](https://x.com/oneruofeng) · [Post originale](https://x.com/oneruofeng/status/2100221410358735319)
 
 Fotografia · Ritratto / Selfie · Pubblicato
 
-**Riepilogo:** Un prompt per selfie realistici in griglia 3x3 che imita numerose foto amatoriali mal riuscite.
+**Riepilogo:** Traduzione in corso
 
 <img src="images/2100221410358735319-1.jpg" alt="Immagine 1" width="480" />
 
@@ -74,7 +74,7 @@ Fotografia · Ritratto / Selfie · Pubblicato
 **Prompt**
 
 ```text
-Numerose foto amatoriali mal riuscite, 3x3, 9:16
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -161,20 +161,20 @@ Traduzione in corso
 
 <a name="prompt-2099374878910734661"></a>
 
-### Paesaggio surreale di canyon in 9:16, gigantesco anello di nuvole vorticose con effetto time-stack a lunga esposizione, viaggiatore di spalle sul fondo della valle.
+### Traduzione in corso
 
 Autore：[@listudio](https://x.com/listudio) · [Post originale](https://x.com/listudio/status/2099374878910734661)
 
 Fotografia · Paesaggio / Natura · Pubblicato
 
-**Riepilogo:** Paesaggio surreale di canyon in 9:16, gigantesco anello di nuvole vorticose con effetto time-stack a lunga esposizione, viaggiatore di spalle sul fondo della valle.
+**Riepilogo:** Traduzione in corso
 
 <img src="images/2099374878910734661-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Crea una fotografia time-stack iperrealista e surreale di un canyon in formato verticale 9:16. Un fondovalle ampio e arido, affiancato da imponenti pareti rocciose stratificate verticali nei toni del marrone caldo, ocra e nero antracite che si innalzano dai bordi del primo piano, formando una cornice naturale scura, con la texture della roccia e della ghiaia che mantiene dettagli nitidi. Nel cielo, tra il piano medio e lo sfondo del canyon, appare un gigantesco anello di nuvole vorticose che occupa gran parte dell'area centrale, rivelando al centro del foro circolare un sereno cielo grigio-blu. Utilizza un effetto di lunga esposizione da postazione fissa combinato con un time-stack a più fotogrammi: spessi cumuli ruotano lentamente nella stessa direzione di rotazione, fondendosi in linee di flusso concentriche, continue e morbide; la parete interna presenta centinaia e migliaia di delicate striature nuvolose ad arco e i bordi del foro mostrano morbide scie di rotazione; le nuvole mantengono un volume realistico di luci e ombre e una consistenza bianco latte, senza sembrare un tunnel solido e senza artefatti o rumore frammentato. Il fondo della valle si allarga in primo piano e converge verso la lontananza; un viaggiatore adulto di spalle si trova in basso al centro, occupando solo circa il 2% dell'altezza del fotogramma e rimanendo nitido. La calda luce del sole in alto a destra filtra tra gli squarci delle nuvole; l'esposizione continua diffonde delicatamente le alte luci, illuminando la parete di nuvole di destra e i bordi rocciosi; la roccia calda, il cielo freddo grigio-blu e le nuvole bianco latte brillanti creano una sobria relazione tricromatica. Grana della pellicola sottile, prospettiva aerea naturale, silenzio epico e senso di maestosità opprimente. Il motion blur si applica solo alle nuvole e a un leggero velo di polvere; le pareti rocciose, il fondovalle e la persona restano perfettamente nitidi. Senza edifici, senza fitta boscaglia, senza uccelli in volo, senza scritte, senza loghi, senza filigrane, senza fulmini.
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -338,6 +338,54 @@ Post originale：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Post originale](htt
 <img src="images/2098799449237782991-1.jpg" alt="Immagine 1" width="480" />
 
 <img src="images/2098799449237782991-2.jpg" alt="Immagine 2" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2098797110401335713"></a>
+
+### Traduzione in corso
+
+Autore：[@sdjn\_wgc](https://x.com/sdjn_wgc) · [Post originale](https://x.com/sdjn_wgc/status/2098797110401335713)
+
+Fotografia · Ritratto / Selfie · Architettura / Interni · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2098797110401335713-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2098779220566839714"></a>
+
+### Traduzione in corso
+
+Autore：[@AI\_money\_club](https://x.com/AI_money_club) · [Post originale](https://x.com/AI_money_club/status/2098779220566839714)
+
+Fotografia · Personaggio · Cibo / Bevande · Pubblicato
+
+Post originale：[@AI\_money\_club](https://x.com/AI_money_club) · [Post originale](https://x.com/AI_money_club/status/2098767892028535126)
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2098779220566839714-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2098779220566839714-2.jpg" alt="Immagine 2" width="480" />
 
 **Prompt**
 
@@ -1135,15 +1183,37 @@ Traduzione in corso
 
 ---
 
+<a name="prompt-2099470719235318149"></a>
+
+### Traduzione in corso
+
+Autore：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Post originale](https://x.com/CyberTotal2026/status/2099470719235318149)
+
+Fotografia · Ritratto / Selfie · Personaggio · Articolo di moda · Architettura / Interni · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2099470719235318149-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
 <a name="prompt-2099370474455396482"></a>
 
-### Ritratto da studio fotorealistico di un'elegante donna che indossa un abito midi nero sartoriale.
+### Traduzione in corso
 
 Autore：[@MissDelulu9](https://x.com/MissDelulu9) · [Post originale](https://x.com/MissDelulu9/status/2099370474455396482)
 
 Fotografia · Ritratto / Selfie · Personaggio · Articolo di moda · Pubblicato
 
-**Riepilogo:** Ritratto da studio fotorealistico di un'elegante donna che indossa un abito midi nero sartoriale.
+**Riepilogo:** Traduzione in corso
 
 <img src="images/2099370474455396482-1.jpg" alt="Immagine 1" width="480" />
 
@@ -1152,7 +1222,7 @@ Fotografia · Ritratto / Selfie · Personaggio · Articolo di moda · Pubblicato
 **Prompt**
 
 ```text
-Crea un ritratto a figura intera da studio altamente fotorealistico di un'elegante donna adulta che indossa un sofisticato abito formale midi nero con maniche lunghe, vita sartoriale, tessuto pregiato e trama sottile. Gioielli minimali, eleganti tacchi a punta, capelli lisci e lucenti, trucco naturale e delicato, espressione dolce e sicura di sé. Sfondo di uno studio di moda di lusso, illuminazione morbida e diffusa, texture della pelle realistica, proporzioni naturali, fotografia editoriale cinematografica, obiettivo da 85 mm, ultra-dettagliato, 8K, nessun testo, nessuna filigrana.
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -1249,7 +1319,7 @@ Non omettere il lago alpino e il caffè freddo in basso a sinistra
 
 <a name="prompt-2099400168433152293"></a>
 
-### Prompt per un ritratto a distanza ravvicinata di una donna che guarda la fotocamera con occhi lucidi.
+### Traduzione in corso
 
 Autore：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Post originale](https://x.com/CyberTotal2026/status/2099400168433152293)
 
@@ -1257,7 +1327,7 @@ Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
 
 Post originale：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Post originale](https://x.com/CyberTotal2026/status/2093263569249005578)
 
-**Riepilogo:** Prompt per un ritratto a distanza ravvicinata di una donna che guarda la fotocamera con occhi lucidi.
+**Riepilogo:** Traduzione in corso
 
 <img src="images/2099400168433152293-1.jpg" alt="Immagine 1" width="480" />
 
@@ -1266,29 +1336,7 @@ Post originale：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Post origin
 **Prompt**
 
 ```text
-Tema:
-Ritratto a distanza ravvicinata con occhi lucidi
-
-Soggetto:
-Una fotografia verticale scattata dall'alto a distanza ravvicinata di una donna sui vent'anni. Il soggetto occupa ampiamente il centro dell'inquadratura, sporgendo la parte superiore del corpo in avanti mentre guarda verso l'alto verso la fotocamera. Una mano è leggermente aperta a coppa appena sotto la bocca, con poche gocce d'acqua trasparenti posate sul palmo. Uno sfondo interno scuro e un'atmosfera intima tipica della vicinanza ravvicinata.
-
-Persona ed espressione:
-Tratti del viso piccoli e tondeggianti con una mascella morbida. Grandi occhi castani che guardano dritto verso la fotocamera, con gli angoli esterni leggermente all'ingiù che conferiscono un'impressione pacata. Sulla palpebra inferiore è presente un velo naturale di lacrime, con una minuscola lacrima appena visibile vicino all'angolo esterno dell'occhio, senza sembrare un viso in lacrime. Sopracciglia castane sottili, blush rosa chiaro, ciglia delicate e labbra lucide rosa beige. Lunghi capelli castano chiaro con onde morbide, frangia sottile e ciocche sottili che incorniciano le guance.
-
-Abbigliamento e posa:
-Top smanicato a coste sottili rosa chiaro. È visibile un profondo scollo a V con un piccolo fiocco al centro, abbinato sotto a un capo corto color avorio chiaro. Busto inclinato verso la fotocamera e spalle leggermente rientrate. Una mano sotto il viso con il palmo rivolto verso l'alto e le dita naturalmente incurvate per raccogliere una piccola quantità di gocce d'acqua.
-
-Sfondo e luce:
-Interno caratterizzato da tonalità marrone scuro e nero. Sul fondo a sinistra si intravedono mobili scuri e piccoli fogli di carta sfocati, mentre sul fondo a destra compaiono un mobile contenitore nero e piccoli oggetti bianchi sfocati. Una luce calda e morbida proveniente dal fronte illumina chiaramente viso, capelli, spalle e palmo della mano, mentre lo sfondo degrada nel buio. La pelle presenta una lucentezza discreta, con piccoli riflessi sulle pupille e sulla superficie delle lacrime.
-
-Composizione e fotocamera:
-Verticale 4:3. Ritratto a distanza estremamente ravvicinata con il viso posizionato ampiamente al centro della metà superiore dell'inquadratura. Prospettiva leggermente dall'alto con effetto grandangolare, che mette fortemente in primo piano viso e mano. Inquadratura che va dalla sommità del capo al petto e a parte delle cosce, con il palmo della mano sovrapposto nella parte inferiore centrale dell'inquadratura. Messa a fuoco netta su viso e occhi, con sfondo morbidamente sfocato.
-
-Texture e stile:
-Resa fotografica realistica. Pelle liscia che conserva la grana naturale, capelli morbidi visibili filo per filo, tessuto a coste, gocce d'acqua e trasparenza delle lacrime resi nei minimi dettagli. Toni caldi e morbidi, evitando HDR eccessivo o filtri leviganti marcati. Tridimensionalità tipica dello scatto ravvicinato e atmosfera naturale come una foto di vita quotidiana.
-
-Negativo:
-Lacrime grandi e innaturali; espressione gonfia di pianto
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -1372,6 +1420,28 @@ Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
 **Riepilogo:** Traduzione in corso
 
 <img src="images/2099262094302761246-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2099152153722159320"></a>
+
+### Traduzione in corso
+
+Autore：[@Aqsahere\_](https://x.com/Aqsahere_) · [Post originale](https://x.com/Aqsahere_/status/2099152153722159320)
+
+Fotografia · Ritratto / Selfie · Personaggio · Articolo di moda · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2099152153722159320-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
@@ -2061,20 +2131,46 @@ Ritratto ad alta risoluzione di un uomo sudasiatico di 23 anni con gli occhi chi
 
 <a name="prompt-2101248200787320961"></a>
 
-### Traduzione in corso
+### Prompt video suddiviso in sequenze di 30 secondi di una giovane donna che corre in una città ripiegata e capovolta in stile Inception per consegnare una busta gialla al tramonto nella Venezia degli anni '40.
 
 Autore：[@oggii\_0](https://x.com/oggii_0) · [Post originale](https://x.com/oggii_0/status/2101248200787320961)
 
 Fermo immagine cinematografico / Still fotografico · Personaggio · Architettura / Interni · Paesaggio urbano / Strada · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt video suddiviso in sequenze di 30 secondi di una giovane donna che corre in una città ripiegata e capovolta in stile Inception per consegnare una busta gialla al tramonto nella Venezia degli anni '40.
 
 <img src="covers/2101248200787320961.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+[PERSONAGGIO + STILE]
+
+<<<image_1>>> è il riferimento per il volto e l'identità. Una giovane donna coreana poco più che ventenne con ESATTAMENTE il volto di <<<image_1>>> — stessa struttura facciale, stessi lineamenti, pelle coreana naturale, senza occhiali. Lunghi capelli neri, con indosso un abito-cappotto di lana verde ottanio anni '40 con colletto bianco, una borsa a tracolla di pelle marrone, calzettoni grigi al ginocchio, scarpe di pelle nera, con in mano una busta gialla piegata. Ogni inquadratura che la ritrae corrisponde a <<<image_1>>>.
+
+Venezia degli anni '40 durante l'ora d'oro. Color grading cinematografico ambra e verde ottanio, resa su pellicola anamorfica 35mm, profondità di campo ridotta, raggi di luce crepuscolare volumetrici, grana fine della pellicola. Architettura che si ripiega in stile Inception — la città lagunare si incurva verso l'alto e resta sospesa capovolta sopra la testa come un soffitto a specchio. La donna rimane sempre soggetta alla normale gravità mentre il mondo si ripiega intorno a lei. Movimento di macchina continuo, nessun taglio netto.
+
+[TIMELINE DEL PROMPT]
+
+0–3s: Carrellata laterale lungo una riva in pietra vicino al Canal Grande al tramonto. La giovane donna con il cappotto verde ottanio scatta oltre la cinepresa, stringendo una busta gialla. Sopra di lei l'intera città è sospesa a testa in giù, specchiata — un uomo con la bombetta porta a spasso un bassotto lungo la strada invertita. Un ombrello rosso fluttua senza peso tra i due mondi. I piccioni si disperdono attraverso la luce ambrata.
+
+3–6s: La cinepresa la segue alle spalle dentro una stretta calle veneziana, con foglie secche che volteggiano al suo passaggio. In fondo alla via, la strada si solleva verso il cielo, con gli edifici che si impilano verticalmente come una parete di finestre. I suoi passi echeggiano tra i muri di pietra.
+
+6–9s: La cinepresa ruota lentamente di 90 gradi. Il muro della calle diventa il suolo sotto i suoi piedi; lei continua a correre, impassibile. La rotazione prosegue in un'ampia orbita mentre sale di corsa una scala a chiocciola in pietra sospesa a mezz'aria, con frammenti di tetti veneziani in terracotta che ruotano attorno a lei come un caleidoscopio.
+
+9–12s: Campo lunghissimo in silhouette. Corre sulla sommità di un ponte ad arco in pietra sopra un ampio canale contro il sole calante fiammeggiante. La città specchiata è sospesa sia sopra che sotto l'arco. Sul piano capovolto, un passante solitario cammina nella direzione opposta. Uccelli attraversano l'inquadratura al rallentatore.
+
+12–15s: Inquadratura dal basso verso l'alto che guarda dritta tra due imponenti pareti di palazzi, con il cielo ridotto a una sottile striscia luminosa. Salta attraverso il baratro verticale, a braccia aperte, cappotto e capelli al vento, tracolla oscillante. La cinepresa si sofferma su di lei stagliata contro il cielo. Il vento ruggisce.
+
+15–18s: Spinta in avanti con macchina a mano attraverso un'affollata via del mercato di Rialto degli anni '40 — venditori che accatastano cassette di mele, bucato steso in alto tra gli edifici. Si fa strada zigzagando tra gli avventori sfocati in primo piano, allontanandosi dalla cinepresa. Una mela rotola libera sui ciottoli.
+
+18–21s: La cinepresa si inclina verso l'alto lungo un maestoso campanile in mattoni — un campanile veneziano — mentre la città circostante si ripiega e si incurva attorno ad esso. La donna appare minuscola sul cornicione della torre, si sofferma contro il sole, poi salta giù verso i tetti. Le campane iniziano a rintoccare.
+
+21–24s: Terrazza giardino sul tetto incorniciata da un pergolato coperto di rose. Un'anziana donna con un cardigan grigio innaffia un'aiuola di fiori vivaci con un annaffiatoio di latta. Dietro di lei, Venezia e le cupole della Basilica di San Marco brillano al tramonto sulla laguna mentre la città capovolta è sospesa sopra la testa. La giovane donna cammina in equilibrio lungo la balaustra in pietra a braccia tese, poi salta sulla terrazza.
+
+24–27s: Porge la busta gialla. L'anziana donna si volta, posa l'annaffiatoio e la prende. Entrambe si scambiano un caloroso sorriso. Petali di rosa fluttuano verso l'alto superandole, cadendo verso il cielo capovolto.
+
+27–30s: La cinepresa indietreggia e si solleva rapidamente. L'intera città si ripiega e ruota fino a diventare una ripresa aerea zenitale dei canali e delle calli di Venezia che si incurvano a formare una sfera. Le due minuscole figure rimangono sulla terrazza. Lenta dissolvenza verso una luce calda.
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -2881,7 +2977,7 @@ Trasforma la foto nello stile di un diario di viaggio disegnato a mano con matit
 
 <a name="prompt-2100241141967081911"></a>
 
-### Prompt fotografico in primissimo piano estremo per nail art in stile tradizionale cinese incentrato sull'estetica della dinastia Song, che enfatizza il blocco della messa a fuoco sullo squisito impatto visivo delle unghie.
+### Traduzione in corso
 
 Autore：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Post originale](https://x.com/DeepBlueX0/status/2100241141967081911)
 
@@ -2889,7 +2985,7 @@ Fotografia · Inchiostro / Stile Cinese · Pubblicato
 
 Post originale：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Post originale](https://x.com/DeepBlueX0/status/2100101510634037441)
 
-**Riepilogo:** Prompt fotografico in primissimo piano estremo per nail art in stile tradizionale cinese incentrato sull'estetica della dinastia Song, che enfatizza il blocco della messa a fuoco sullo squisito impatto visivo delle unghie.
+**Riepilogo:** Traduzione in corso
 
 <img src="images/2100241141967081911-1.jpg" alt="Immagine 1" width="480" />
 
@@ -2904,7 +3000,7 @@ Post originale：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Post originale](htt
 **Prompt**
 
 ```text
-Estetica della dinastia Song × Primissimo piano estremo di nail art in stile Song × Messa a fuoco bloccata sul visual principale della nail art
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -2998,6 +3094,30 @@ Post originale：[@huku\_ken\_ai](https://x.com/huku_ken_ai) · [Post originale]
 
 ```text
 Estrai dall'immagine i soggetti, i contorni, le pose e le relazioni narrative più caratteristici, e ricostruiscili in un'illustrazione editoriale disegnata a mano, leggera, rustica e rétro. Evitando la riproduzione meccanica dei dettagli, l'illustrazione viene reinterpretata attraverso forme generalizzate, proporzioni moderatamente esagerate, tratti simbolici e metafore visive umoristiche, mantenendo al contempo l'espressione caratteristica dell'originale. Queste illustrazioni fondono l'illustrazione editoriale modernista, il graphic design della Bauhaus, i libri illustrati per bambini, l'arte naïf e le tecniche di sketch di tendenza. Le forme sono essenziali, le linee di contorno danno un'impressione leggermente vaga riflettendo le imperfezioni tipiche del disegno a mano libera, e determinati elementi sono opportunamente ingranditi per creare un'immagine ricca di narrazione, stile e giocosità.
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2098762789489873062"></a>
+
+### Traduzione in corso
+
+Autore：[@lovimg\_com](https://x.com/lovimg_com) · [Post originale](https://x.com/lovimg_com/status/2098762789489873062)
+
+Poster / Volantino · Illustrazione · Retro / Vintage · Articolo di moda · Testo / Tipografia · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2098762789489873062-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2098762789489873062-2.jpg" alt="Immagine 2" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -3555,13 +3675,13 @@ Traduzione in corso
 
 <a name="prompt-2100255511228932598"></a>
 
-### Scatti malriusciti verticali a quattro riquadri, scena di raccolta delle radici di loto nello stagno e personaggi
+### Traduzione in corso
 
 Autore：[@ahamme35638](https://x.com/ahamme35638) · [Post originale](https://x.com/ahamme35638/status/2100255511228932598)
 
 Personaggio · Pubblicato
 
-**Riepilogo:** Scatti malriusciti verticali a quattro riquadri, scena di raccolta delle radici di loto nello stagno e personaggi
+**Riepilogo:** Traduzione in corso
 
 <img src="images/2100255511228932598-1.jpg" alt="Immagine 1" width="480" />
 
@@ -3572,7 +3692,7 @@ Personaggio · Pubblicato
 **Prompt**
 
 ```text
-Foto fallite verticali 2×2, scena di raccolta di radici di loto in uno stagno di loto + personaggio
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -4214,6 +4334,28 @@ Cristiano Ronaldo che mangia uno shawarma
 
 ---
 
+<a name="prompt-2097582500273115191"></a>
+
+### Traduzione in corso
+
+Autore：[@ky6001481673691](https://x.com/ky6001481673691) · [Post originale](https://x.com/ky6001481673691/status/2097582500273115191)
+
+Ritratto / Selfie · Personaggio · Articolo di moda · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2097582500273115191-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
 <a name="prompt-2097558679956664521"></a>
 
 ### Ritratto horror cibernetico con un umanoide emaciato con maschera di porcellana fessurata, cavi sulla testa e illuminazione monocromatica ad alto contrasto.
@@ -4354,6 +4496,30 @@ Scena 5 (7–9s): Il flacone viene tenuto con eleganza in una mano e ruotato len
 Scena 6 (9–10s): Inquadratura hero finale del flacone Cheng Guang Cocoa Soft Glow circondato da fave di cacao e foglie. La telecamera si avvicina lentamente, sottili effetti scintillanti, sfondo caldo e lussuoso, composizione pulita focalizzata sul prodotto.
 
 Stile: fotorealistico, pubblicità di bellezza premium, illuminazione cinematografica, movimenti delle mani realistici, transizioni fluide della telecamera, profondità di campo ridotta, bokeh morbido, toni dorati caldi, 4K, altamente dettagliato, movimento naturale, nessuna distorsione, nessun prodotto aggiuntivo, nessuna modifica all'etichetta del flacone o al marchio.
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2098762663941832907"></a>
+
+### Traduzione in corso
+
+Autore：[@lovimg\_com](https://x.com/lovimg_com) · [Post originale](https://x.com/lovimg_com/status/2098762663941832907)
+
+Poster / Volantino · Testo / Tipografia · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2098762663941832907-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2098762663941832907-2.jpg" alt="Immagine 2" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)

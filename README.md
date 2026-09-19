@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**153** Prompts · Latest addition: **2026-09-19**
+**160** Prompts · Latest addition: **2026-09-19**
 
 <a name="catalog"></a>
 
@@ -411,6 +411,75 @@ The nine-grid maintains a unified photography system and spatial continuity; cha
 Bottom left signature "● DeepBlue"; "●" is a solid #0B3D91 dark blue circle, "DeepBlue" is a natural, delicate white handwritten font.
 
 No modern bras, modern panties, modern underwear sets, modern lace underwear, modern bra strap structures, modern underwear cuts, modern clothing, modern furniture, modern objects, modern styling/makeup, different characters, different hair colors, modern hairstyles, Xianxia costumes, Song-style clothing, clothes suddenly disappearing, clothes suddenly appearing, clothing color changes, clothing style changes, hairstyle sudden changes, scene jumps, reference image six-view layouts, character design sheets, white studio backgrounds, duplicated steps, extra people, text, numbers, titles, watermarks, or brand logos.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2098797110401335713"></a>
+
+### Oriental classical style portrait of a woman looking back backstage at a traditional theater, meticulously depicting her attire, chignon, and stage lighting.
+
+Author：[@sdjn\_wgc](https://x.com/sdjn_wgc) · [Source](https://x.com/sdjn_wgc/status/2098797110401335713)
+
+Photography · Portrait / Selfie · Architecture / Interior · Published
+
+**Summary:** Oriental classical style portrait of a woman looking back backstage at a traditional theater, meticulously depicting her attire, chignon, and stage lighting.
+
+<img src="images/2098797110401335713-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+An exquisitely beautiful 23-year-old adult East Asian woman, an Oriental classical cinematic interpretation of the fictional literary character Pan Jinlian, with a well-proportioned and voluptuous figure, naturally full breasts carrying a soft sense of weight, a slender waist and rounded hips forming a natural proportion, exuding a gorgeous, confident demeanor with a hint of unrevealed vulnerability in her eyes. Wearing a dark wine-red, lightweight jacquard gauze low-cut U-neck dance robe, the form-fitting short upper garment outlined with soft gold thread depicting crabapple blossom patterns, paired below with a low-waisted black-and-red gradient floor-length skirt, complete wine-red lining with secure coverage, a short tassel hanging at the side of her waist, and soft, layered hemlines.
+
+Stage-ready glamorous makeup, exquisitely upturned eyeliner, rich lip color, jet-black hair styled into a full cloud chignon, symmetrically inserted with gold leaf dangling hairpins on both sides, wearing a pair of delicate red jade drop earrings.
+
+She stands at the boundary between the backstage of an old traditional theater and the stage, one foot already stepping toward the stage entrance, the other firmly planted on the wooden floorboards, one hand lightly gripping the heavy curtain, turning back to make eye contact with the camera after hearing the stage announcement. Behind her, makeup mirror lights, vintage prop trunks, and hanging theatrical costumes sink into warm darkness; golden stage light spilling through the gap in the curtains cuts across her shoulder and neck, freezing the frame at the moment when she is about to take the stage yet still lingers for this one look.
+
+105mm portrait photography, vertical two-thirds body composition, three-quarter glance-back angle with a clear front view of her face, the curtain forming a dark framing effect, large aperture with shallow depth of field, stage lights dissolving into golden creamy bokeh, authentic skin texture and delicate highlights, golden rim backlight from the curtain gap contouring her silhouette, warm light from the vanity mirror illuminating her eyes, high-end ancient-style cinematic photography, ultra realistic, masterpiece, best quality.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2098779220566839714"></a>
+
+### Realistic snapshot prompt of a Japanese woman preparing instant noodles under single range-hood light in a dark kitchen.
+
+Author：[@AI\_money\_club](https://x.com/AI_money_club) · [Source](https://x.com/AI_money_club/status/2098779220566839714)
+
+Photography · Character · Food / Drink · Published
+
+Source：[@AI\_money\_club](https://x.com/AI_money_club) · [Source](https://x.com/AI_money_club/status/2098767892028535126)
+
+**Summary:** Realistic snapshot prompt of a Japanese woman preparing instant noodles under single range-hood light in a dark kitchen.
+
+<img src="images/2098779220566839714-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2098779220566839714-2.jpg" alt="Image 2" width="480" />
+
+**Prompt**
+
+```text
+A completely fictional 20-year-old adult Japanese woman is preparing instant noodles alone in a small apartment kitchen after midnight.
+
+She wears a loose white T-shirt and comfortable navy lounge pants. She stands naturally beside the kitchen counter, pouring hot water into a cup of instant noodles while looking down at it.
+
+A small warm range-hood light above the counter is the primary practical light source. Most of the kitchen and adjoining room remain dark.
+
+An electric kettle, opened noodle packaging, chopsticks, a half-finished bottle of tea, dish soap, a drying rack, and several unwashed dishes are casually visible. The kitchen looks genuinely used rather than styled for photography.
+
+Shot as an ordinary handheld photograph with a 35mm lens.
+One clearly defined practical light source in an otherwise dark nighttime room.
+
+Natural perspective, physically consistent lighting, realistic exposure falloff, slightly crushed shadows, subtle sensor noise in dark areas, mild lens softness, faint natural motion blur, realistic highlight clipping, restrained dynamic range.
+
+Authentic raw photographic rendering, natural skin tonal variation, subtle realistic skin texture, realistic hair strands. No beauty retouching, no artificial HDR, no glowing skin, no cinematic lighting.
+
+Include ordinary, slightly imperfect everyday objects and natural clutter. Nothing is perfectly arranged.
 ```
 
 [↑ Back to categories](#catalog)
@@ -1681,6 +1750,50 @@ Do not omit the first-person hand-holding and the rectangular watch in the foreg
 
 ---
 
+<a name="prompt-2099470719235318149"></a>
+
+### A serene indoor portrait of a woman sitting on the floor by a blue-green wall in a grass-green camisole mini dress, making use of window light and leaf shadows.
+
+Author：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Source](https://x.com/CyberTotal2026/status/2099470719235318149)
+
+Photography · Portrait / Selfie · Character · Fashion Item · Architecture / Interior · Published
+
+**Summary:** A serene indoor portrait of a woman sitting on the floor by a blue-green wall in a grass-green camisole mini dress, making use of window light and leaf shadows.
+
+<img src="images/2099470719235318149-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Theme:
+Blue Wall and Light Green Dress
+
+Main Subject:
+A vertical orientation photograph of an adult woman sitting with her legs folded on the floor beside an aged blue-green wall, wearing a light grass-green spaghetti-strap mini dress. The subject is positioned relative to the center of the frame.
+
+Person / Expression:
+Below-shoulder-length light brown straight hair with thin bangs. A slender oval face contour, brown eyes looking toward the left of the frame, natural eyebrows, a small nose, and pale pink lips. A serene profile with her back resting against the wall.
+
+Clothing / Pose:
+The pale grass-green spaghetti-strap mini dress features ruching and thin tie strings at the bust, a subtle botanical pattern across the entire fabric, and small frills at the hem. One leg is stretched out long forward, while the other leg is tucked inward, with her right hand placed on the floor and her left hand resting on her thigh.
+
+Background / Lighting:
+A rough blue-green wall with rust-colored speckles, a gray floor, and a large potted plant with white curtains in the far left. Oblique light enters from a window on the left, casting sharp leaf shadows across her legs and the floor. The primary light in the background is soft illumination from the window side.
+
+Composition / Camera:
+3:4 vertical composition, full-body photograph taken from a low angle near the floor at an oblique frontal perspective. The subject is placed at the center-right, the potted plant at the far left background, and the extended leg diagonally toward the lower left. In focus on the face, the light green fabric, and the wall's texture. Capturing the subject prominently with focus on the main character, with mild bokeh in the background.
+
+Texture / Style:
+Photorealistic, quiet indoor photography. Finely rendering the thin fabric and frills, peeling paint of the blue-green wall, potted foliage, sharp window shadows, and natural skin.
+
+Negative:
+Do not omit the mottled blue-green wall or the one leg extended onto the floor
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
 <a name="prompt-2099370474455396482"></a>
 
 ### Photorealistic studio portrait of an elegant woman wearing a tailored black midi dress.
@@ -1967,6 +2080,34 @@ Photorealistic resort photography. Naturally and intricately captures wet hair s
 
 Negative:
 Do not change the small floral pattern on the off-white base and wet hair into a solid-colored dry look
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2099152153722159320"></a>
+
+### ULTRA-REALISTIC NATURAL SMARTPHONE PHOTOGRAPH candid portrait of a young East Asian woman in a plaid dress relaxing in a lush tropical garden café.
+
+Author：[@Aqsahere\_](https://x.com/Aqsahere_) · [Source](https://x.com/Aqsahere_/status/2099152153722159320)
+
+Photography · Portrait / Selfie · Character · Fashion Item · Published
+
+**Summary:** ULTRA-REALISTIC NATURAL SMARTPHONE PHOTOGRAPH candid portrait of a young East Asian woman in a plaid dress relaxing in a lush tropical garden café.
+
+<img src="images/2099152153722159320-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+ULTRA-REALISTIC NATURAL SMARTPHONE PHOTOGRAPH, vertical 3:4, candid outdoor lifestyle portrait of a young East Asian woman relaxing in a lush tropical garden café.
+She has long, naturally wavy dark brown hair falling softly over her shoulders and down her back, with a natural center-parted hairstyle. Her face has delicate youthful features, clear realistic skin, and a soft relaxed smile as she looks directly toward the camera.
+She is wearing a fitted brown and muted mauve plaid sleeveless mini dress with thin spaghetti straps and a softly gathered, slightly flared skirt. The dress has a subtle vintage-inspired checkered pattern and natural fabric folds.
+She is seated casually on a simple light-colored outdoor chair, leaning slightly toward one side in a relaxed candid pose. One arm rests naturally on the chair while her other hand gently touches her hair. Her posture feels effortless and unposed.
+The setting is a beautiful tropical garden with dense lush greenery, large banana leaves, broad tropical plants, ferns, trees, and potted plants surrounding the seating area. A dark modern outdoor staircase with wooden steps and black vertical railings is visible behind her, blending naturally into the garden architecture. A textured gravel pathway extends into the background.
+Soft natural daylight filters through the trees, creating realistic highlights and gentle shadows across her face, hair, dress, and surrounding foliage. Slightly shaded garden atmosphere with beautiful natural depth.
+RAW smartphone photography aesthetic, ultra-realistic skin texture, individual hair strands, realistic fabric texture, authentic natural lighting, subtle imperfections, realistic body proportions, natural facial details, no excessive retouching, no beauty filter, no plastic skin, no CGI appearance, realistic background, gentle depth of field, candid vacation lifestyle photography, vertical 3:4 composition.
 ```
 
 [↑ Back to categories](#catalog)
@@ -3682,6 +3823,40 @@ Extract the most distinctive subjects, contours, poses, and narrative relationsh
 
 ---
 
+<a name="prompt-2098762789489873062"></a>
+
+### Vintage screen printing style indie publishing fashion poster prompt with geometric layout and specific brand visual elements.
+
+Author：[@lovimg\_com](https://x.com/lovimg_com) · [Source](https://x.com/lovimg_com/status/2098762789489873062)
+
+Poster / Flyer · Illustration · Retro / Vintage · Fashion Item · Text / Typography · Published
+
+**Summary:** Vintage screen printing style indie publishing fashion poster prompt with geometric layout and specific brand visual elements.
+
+<img src="images/2098762789489873062-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2098762789489873062-2.jpg" alt="Image 2" width="480" />
+
+**Prompt**
+
+```text
+{Character}, vintage screen print fashion illustration × indie publishing poster × geometric character design × VOXCAT brand visual.
+
+Retain the character's most recognizable hairstyle silhouette, primary color palette, clothing features, and signature accessories, but redesign them into a sleek, modern fashion look. The character's proportions are naturally elongated, adopting static Editorial poses such as standing in three-quarter view, leaning, turning, looking back, crossing arms, or holding a character prop, automatically adapting the action according to the character's temperament.
+
+The visual utilizes 3–4 highly recognizable spot colors, establishing a primary color system based on the character's representative colors, employing hard-edge flat coloring, coarse halftone dots, screen print ink layers, slight misregistration, localized ink build-up, and paper fiber texture. The character's contours are bold and geometric, with highly summarized details, sculpting the body and clothing through large color blocks and silhouettes, without using soft digital gouache effects.
+
+The background adopts an asymmetrical geometric composition, organizing the layout with expansive circles, rectangles, arcs, cropped color blocks, and negative space, creating relationships of occlusion, intersection, and boundary-crossing between the character and geometric forms, evoking a 1960s–1970s vintage commercial printing × contemporary indie art poster aesthetic.
+
+Integrate VOXCAT brand elements: a minimalist stylized “V” × cat ear/cat tail geometric logo in the top-left corner; a small handwritten artist signature “voxCAT” in the bottom-right corner; naturally incorporate an understated VOXCAT woven label, tonal embroidered pattern, or micro metal nameplate onto the character's outfit according to the styling; a minimal number of “VOXCAT / VC / V×C” micro-printed serial numbers can be added to the layout as design elements, harmonizing with the screen printing system without overpowering the composition.
+
+Vertical character key visual, expansive negative space, 3–4 spot color printing, coarse halftone screen, misregistration shift, paper grain, geometric color blocks, bold silhouette, minimalist with the tactile quality of a collectible indie art print.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
 <a name="prompt-2098314775344394279"></a>
 
 ### Traditional Chinese style CCD direct flash Eight Beauties of Qinhuai group photo prompt
@@ -4896,6 +5071,28 @@ Cristiano Ronaldo eating shawarma
 
 ---
 
+<a name="prompt-2097582500273115191"></a>
+
+### Full-body backlit portrait of an East Asian woman in an open-back pomegranate red and gold embroidered outfit with a sheer cape in a nighttime palace corridor.
+
+Author：[@ky6001481673691](https://x.com/ky6001481673691) · [Source](https://x.com/ky6001481673691/status/2097582500273115191)
+
+Portrait / Selfie · Character · Fashion Item · Published
+
+**Summary:** Full-body backlit portrait of an East Asian woman in an open-back pomegranate red and gold embroidered outfit with a sheer cape in a nighttime palace corridor.
+
+<img src="images/2097582500273115191-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Pose lock → adult East Asian woman → large area clean open back → sheer tulle cape tied at the neck → pomegranate red and gold embroidered attire → nighttime palace corridor → warm backlighting → low-noise skin constraint → full body without cropping feet → negative constraints.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
 <a name="prompt-2097558679956664521"></a>
 
 ### Cybernetic horror portrait featuring a gaunt humanoid with a cracked porcelain mask, head cables, and high-contrast monochrome lighting.
@@ -5036,6 +5233,57 @@ Scene 5 (7–9s): The bottle is held elegantly in one hand and slowly rotated to
 Scene 6 (9–10s): Final hero shot of the Cheng Guang Cocoa Soft Glow bottle surrounded by cocoa beans and leaves. Camera slowly pushes in, subtle sparkling effects, luxurious warm background, clean product-focused composition.
 
 Style: photorealistic, premium beauty advertisement, cinematic lighting, realistic hand movements, smooth camera transitions, shallow depth of field, soft bokeh, warm golden tones, 4K, highly detailed, natural motion, no distortion, no extra products, no change to bottle label or branding.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2098762663941832907"></a>
+
+### A structured prompt template and layout design guidelines for generating cultural exhibition posters with a 'central-axis framing' composition.
+
+Author：[@lovimg\_com](https://x.com/lovimg_com) · [Source](https://x.com/lovimg_com/status/2098762663941832907)
+
+Poster / Flyer · Text / Typography · Published
+
+**Summary:** A structured prompt template and layout design guidelines for generating cultural exhibition posters with a 'central-axis framing' composition.
+
+<img src="images/2098762663941832907-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2098762663941832907-2.jpg" alt="Image 2" width="480" />
+
+**Prompt**
+
+```text
+[Theme]: ____
+[Chinese Title]: ____
+[English Title]: ____
+[Left Element]: ____
+[Right Element]: ____
+[Central Axis Content]: ____
+[Framing Technique]: Character Action / Light & Shadow Projection / Positive & Negative Contrast / Smoke & Airflow / Solid Silhouette
+[Primary Color Palette]: ____
+[Secondary Colors]: ____
+[Date / Venue]: ____
+[Aspect Ratio]: 9:16
+
+Generate a poster with a strong sense of design and the aesthetic quality of a cultural exhibition, utilizing a "central-axis framing" composition. The visual should establish a clear and stable vertical central axis, where the visual elements on both the left and right sides converge to guide the viewer's gaze toward the center. The two sides should not merely serve as symmetrical decoration, but actively participate in thematic expression—this can include figures, flowing sleeves, smoke, artifacts, architecture, projections, material silhouettes, or different states of the same theme.
+
+Flexibly select the framing technique according to the theme:
+Character Action: utilize postures, sleeves, fabric, and bodily curves to carve out a central negative space;
+Light & Shadow Projection: allow shadows or highlights on either side to converge toward the center;
+Positive & Negative Contrast: employ original vs. finished product, solid form vs. imprint, negative engraving vs. positive print to establish a central-axis relationship;
+Smoke & Airflow: let two streams of continuously rising or swirling lines envelop the center;
+Solid Silhouette: use the edges of artifacts, architecture, or natural forms to collectively frame the central area.
+
+The title must be the visual core of the piece and genuinely participate in the composition. Large-format vertical or horizontal typesetting, staggered arrangements, top-and-bottom splitting, or cross-zone layouts can be used; avoid repeatedly defaulting to the same "four-character title" format. Typography is permitted to subtly interlace, overlap, or edge against the main subject, provided it remains clearly legible.
+
+The overall information density should be richer than typical posters, with minor exhibition details included along the central axis, sidebars, and bottom. A compact research-style module may also be integrated—such as motion trajectories, craft process steps, airflow shifts, or structural diagrams—making the visual resemble a mature museum poster and editorial design.
+
+Limit the color palette to 3–5 dominant colors, establishing clear, large color-block relationships. At first glance, the viewer should perceive the bilateral visual forces and central-axis focus; at second glance, read the title; and at third glance, discover the conceptual link between the composition method and the theme.
+
+Overall requirements: sophisticated, clean, complete, richly layered, visually striking; avoid mechanical symmetry, rigid template feels, presentation-slide-style info boxes, meaningless decorations, mottled noise, blurred text, and low-fidelity AI artifacts.
 ```
 
 [↑ Back to categories](#catalog)

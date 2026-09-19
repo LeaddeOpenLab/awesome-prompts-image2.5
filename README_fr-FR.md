@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**153** Prompts · Dernier ajout: **2026-09-19**
+**160** Prompts · Dernier ajout: **2026-09-19**
 
 <a name="catalog"></a>
 
@@ -59,13 +59,13 @@ Nombreuses photos ratées d'amateurs, 3x3, 9:16
 
 <a name="prompt-2100221410358735319"></a>
 
-### Un prompt de selfies réaliste en grille 3x3 imitant de nombreuses photos ratées d'amateurs.
+### Traduction en cours
 
 Auteur：[@oneruofeng](https://x.com/oneruofeng) · [Publication originale](https://x.com/oneruofeng/status/2100221410358735319)
 
 Photographie · Portrait / Selfie · Publié
 
-**Résumé:** Un prompt de selfies réaliste en grille 3x3 imitant de nombreuses photos ratées d'amateurs.
+**Résumé:** Traduction en cours
 
 <img src="images/2100221410358735319-1.jpg" alt="Image 1" width="480" />
 
@@ -74,7 +74,7 @@ Photographie · Portrait / Selfie · Publié
 **Consigne**
 
 ```text
-De nombreuses photos ratées d'amateurs, 3x3, 9:16
+Traduction en cours
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -161,20 +161,20 @@ Traduction en cours
 
 <a name="prompt-2099374878910734661"></a>
 
-### Paysage de canyon surréaliste en 9:16, anneau de nuages tourbillonnants géant avec effet time-stack en pose longue, voyageur de dos au fond de la vallée.
+### Traduction en cours
 
 Auteur：[@listudio](https://x.com/listudio) · [Publication originale](https://x.com/listudio/status/2099374878910734661)
 
 Photographie · Paysage / Nature · Publié
 
-**Résumé:** Paysage de canyon surréaliste en 9:16, anneau de nuages tourbillonnants géant avec effet time-stack en pose longue, voyageur de dos au fond de la vallée.
+**Résumé:** Traduction en cours
 
 <img src="images/2099374878910734661-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Créer une photographie time-stack surréaliste et photoréaliste d'un canyon au format vertical 9:16. Un fond de canyon large et sec, encadré par d'immenses parois rocheuses stratifiées verticales aux tons brun chaud, ocre et noir charbon s'élevant depuis les bords du premier plan, formant un cadre naturel sombre, avec les textures de la roche et du gravier restant d'une netteté détaillée. Dans le ciel, au plan moyen et à l'arrière-plan du canyon, apparaît un anneau géant de nuages tourbillonnants occupant la majeure partie de la zone centrale, révélant un ciel bleu-gris serein au centre de l'ouverture circulaire. Utiliser un effet de pose longue à appareil photo fixe associé à un empilement temporel (time-stack) multi-images : d'épais cumulus s'enroulent lentement dans le même sens de rotation, fusionnant en lignes de flux concentriques, continues et fluides ; la paroi intérieure présente des centaines et des milliers de fines stries nuageuses en arc de cercle, et les bords de l'ouverture portent de doux filés de rotation ; la masse nuageuse conserve son volume réel d'ombre et de lumière ainsi qu'une texture blanc laiteux, ne ressemblant pas à un tunnel solide et sans bruit de fragmentation. Le fond de la vallée s'étend largement depuis le premier plan et converge vers le lointain ; un voyageur adulte de dos se tient au centre en bas, n'occupant qu'environ 2 % de la hauteur de l'image, restant parfaitement net. Une chaude lumière solaire en haut à droite traverse les failles nuageuses, l'exposition continue diffusant doucement les hautes lumières et éclairant la paroi nuageuse droite ainsi que les arêtes rocheuses ; la roche chaude, le ciel bleu-gris froid et les nuages blanc laiteux très lumineux composent une relation trichrome sobre. Grain de film subtil, perspective atmosphérique naturelle, silence épique et sentiment d'immensité écrasante. Le flou de mouvement s'applique uniquement aux nuages et à une légère brume de poussière ; les falaises, le fond de la vallée et le personnage restent nets. Sans bâtiment, sans forêt dense, sans oiseaux en vol, sans texte, sans logo, sans filigrane, sans éclairs.
+Traduction en cours
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -338,6 +338,54 @@ Publication originale：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publication 
 <img src="images/2098799449237782991-1.jpg" alt="Image 1" width="480" />
 
 <img src="images/2098799449237782991-2.jpg" alt="Image 2" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2098797110401335713"></a>
+
+### Traduction en cours
+
+Auteur：[@sdjn\_wgc](https://x.com/sdjn_wgc) · [Publication originale](https://x.com/sdjn_wgc/status/2098797110401335713)
+
+Photographie · Portrait / Selfie · Architecture / Intérieur · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2098797110401335713-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2098779220566839714"></a>
+
+### Traduction en cours
+
+Auteur：[@AI\_money\_club](https://x.com/AI_money_club) · [Publication originale](https://x.com/AI_money_club/status/2098779220566839714)
+
+Photographie · Personnage · Alimentation / Boissons · Publié
+
+Publication originale：[@AI\_money\_club](https://x.com/AI_money_club) · [Publication originale](https://x.com/AI_money_club/status/2098767892028535126)
+
+**Résumé:** Traduction en cours
+
+<img src="images/2098779220566839714-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2098779220566839714-2.jpg" alt="Image 2" width="480" />
 
 **Consigne**
 
@@ -1135,15 +1183,37 @@ Traduction en cours
 
 ---
 
+<a name="prompt-2099470719235318149"></a>
+
+### Traduction en cours
+
+Auteur：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publication originale](https://x.com/CyberTotal2026/status/2099470719235318149)
+
+Photographie · Portrait / Selfie · Personnage · Article de mode · Architecture / Intérieur · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2099470719235318149-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
 <a name="prompt-2099370474455396482"></a>
 
-### Portrait de studio photoréaliste d'une femme élégante portant une robe midi noire cintrée.
+### Traduction en cours
 
 Auteur：[@MissDelulu9](https://x.com/MissDelulu9) · [Publication originale](https://x.com/MissDelulu9/status/2099370474455396482)
 
 Photographie · Portrait / Selfie · Personnage · Article de mode · Publié
 
-**Résumé:** Portrait de studio photoréaliste d'une femme élégante portant une robe midi noire cintrée.
+**Résumé:** Traduction en cours
 
 <img src="images/2099370474455396482-1.jpg" alt="Image 1" width="480" />
 
@@ -1152,7 +1222,7 @@ Photographie · Portrait / Selfie · Personnage · Article de mode · Publié
 **Consigne**
 
 ```text
-Créez un portrait en studio en pied extrêmement photoréaliste d'une femme adulte élégante portant une robe de soirée midi noire sophistiquée à manches longues, taille cintrée, tissu haut de gamme et texture subtile. Bijoux minimalistes, élégants escarpins à bout pointu, cheveux lisses et impeccables, maquillage naturel et doux, expression douce et confiante. Fond de studio de mode de luxe, éclairage diffus et doux, texture de peau réaliste, proportions naturelles, photographie éditoriale cinématographique, objectif 85 mm, ultra-détaillé, 8K, sans texte, sans filigrane.
+Traduction en cours
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -1249,7 +1319,7 @@ Ne pas omettre le lac de montagne ni le café glacé en bas à gauche
 
 <a name="prompt-2099400168433152293"></a>
 
-### Prompt de portrait en très gros plan d'une femme levant les yeux vers l'appareil photo avec les yeux embués.
+### Traduction en cours
 
 Auteur：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publication originale](https://x.com/CyberTotal2026/status/2099400168433152293)
 
@@ -1257,7 +1327,7 @@ Photographie · Portrait / Selfie · Personnage · Publié
 
 Publication originale：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publication originale](https://x.com/CyberTotal2026/status/2093263569249005578)
 
-**Résumé:** Prompt de portrait en très gros plan d'une femme levant les yeux vers l'appareil photo avec les yeux embués.
+**Résumé:** Traduction en cours
 
 <img src="images/2099400168433152293-1.jpg" alt="Image 1" width="480" />
 
@@ -1266,29 +1336,7 @@ Publication originale：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publ
 **Consigne**
 
 ```text
-Thème :
-Portrait en très gros plan aux yeux embués
-
-Sujet :
-Une photo verticale capturant en plongée et à très courte distance une femme dans la vingtaine. Le sujet occupe une grande partie du centre de l'image, penchant le haut du corps vers l'avant tout en levant les yeux vers l'appareil photo. Une main est légèrement ouverte en coupe juste sous sa bouche, avec quelques gouttes d'eau transparentes posées sur la paume. Un arrière-plan d'intérieur sombre et une atmosphère intime propre à la grande proximité.
-
-Personnage et expression :
-Visage petit et arrondi avec une ligne de mâchoire douce. De grands yeux bruns regardent fixement l'appareil, les coins externes légèrement tombants pour une impression paisible. Une fine pellicule naturelle de larmes recouvre la paupière inférieure, et une minuscule larme est tout juste visible près du coin externe de l'œil, sans donner l'impression de pleurer. Sourcils bruns fins, fard à joues rose pâle, cils délicats et lèvres brillantes beige rosé. De longs cheveux châtain clair aux ondulations légères, avec une frange fine et de mèches délicates encadrant les joues.
-
-Tenue et pose :
-Un haut sans manches en maille finement côtelée rose pâle. Un décolleté en V plongeant orné d'un petit nœud au centre est visible, assorti d'un bas court de couleur ivoire pâle. Buste penché vers l'appareil photo, épaules légèrement rentrées vers l'intérieur. Une main sous le visage, paume vers le haut, les doigts naturellement incurvés pour retenir une petite quantité de gouttes d'eau.
-
-Arrière-plan et lumière :
-Intérieur dominé par le brun foncé et le noir. À l'arrière-plan à gauche, des meubles sombres et de petits papiers apparaissent flous ; à droite, un meuble de rangement noir et de petits objets blancs sont également estompés. Une lumière chaude et douce venant principalement de face éclaire vivement le visage, les cheveux, les épaules et la paume, tandis que l'arrière-plan s'assombrit nettement. La peau présente un éclat discret, avec de légers reflets sur les pupilles et la surface des larmes.
-
-Composition et prise de vue :
-Format vertical 4:3. Portrait en très gros plan avec le visage occupant largement le centre de la moitié supérieure de l'image. Angle de vue légèrement plongeant au grand-angle, mettant fortement en valeur le visage et la main au premier plan. Cadre allant du sommet de la tête à la poitrine et à une partie des cuisses, la paume de la main venant se placer au centre bas de l'image. Mise au point nette sur le visage et les yeux, avec un arrière-plan doucement flouté.
-
-Texture et style :
-Rendu photographique réaliste. Peau lisse préservant son grain naturel, cheveux soyeux perceptibles brin par brin, texture côtelée, gouttes d'eau et transparence des larmes minutieusement représentées. Tonalités chaudes et douces, évitant tout effet HDR excessif ou retouche beauté prononcée. Tridimensionnalité typique d'une prise de vue rapprochée et sensation naturelle d'une photo du quotidien.
-
-Négatif :
-Grosses larmes artificielles ; visage bouffi de larmes
+Traduction en cours
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -1372,6 +1420,28 @@ Photographie · Portrait / Selfie · Personnage · Publié
 **Résumé:** Traduction en cours
 
 <img src="images/2099262094302761246-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2099152153722159320"></a>
+
+### Traduction en cours
+
+Auteur：[@Aqsahere\_](https://x.com/Aqsahere_) · [Publication originale](https://x.com/Aqsahere_/status/2099152153722159320)
+
+Photographie · Portrait / Selfie · Personnage · Article de mode · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2099152153722159320-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
@@ -2061,20 +2131,46 @@ Portrait haute résolution d'un homme sud-asiatique de 23 ans aux yeux fermés e
 
 <a name="prompt-2101248200787320961"></a>
 
-### Traduction en cours
+### Prompt de vidéo segmentée de 30 secondes montrant une jeune femme courant à travers une ville pliée et inversée à la manière d'Inception pour livrer une enveloppe jaune au coucher du soleil dans la Venise des années 1940.
 
 Auteur：[@oggii\_0](https://x.com/oggii_0) · [Publication originale](https://x.com/oggii_0/status/2101248200787320961)
 
 Image cinématographique / Photogramme de film · Personnage · Architecture / Intérieur · Paysage urbain / Rue · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de vidéo segmentée de 30 secondes montrant une jeune femme courant à travers une ville pliée et inversée à la manière d'Inception pour livrer une enveloppe jaune au coucher du soleil dans la Venise des années 1940.
 
 <img src="covers/2101248200787320961.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+[PERSONNAGE + STYLE]
+
+<<<image_1>>> est la référence de visage et d'identité. Une jeune femme coréenne au début de la vingtaine avec EXACTEMENT le visage de <<<image_1>>> — même structure faciale, mêmes traits, peau coréenne naturelle, sans lunettes. Longs cheveux noirs, vêtue d'une robe-manteau en laine bleu canard style années 1940 avec col blanc, d'une sacoche en cuir marron portée en bandoulière, de chaussettes hautes grises, de chaussures en cuir noir, tenant une enveloppe jaune pliée. Chaque plan la représentant correspond à <<<image_1>>>.
+
+Venise dans les années 1940 à l'heure dorée. Étalonnage cinématographique ambré et bleu canard, rendu de film anamorphique 35 mm, faible profondeur de champ, rayons crépusculaires volumétriques, grain argentique fin. Architecture repliable façon Inception — la cité vénitienne s'incurve vers le haut et flotte inversée au-dessus comme un plafond en miroir. La femme reste toujours soumise à une gravité normale pendant que le monde se replie autour d'elle. Mouvement de caméra continu, aucune coupe franche.
+
+[PROMPT DE CHRONOLOGIE]
+
+0–3s : Travelling latéral le long d'un quai en pierre bordant le Grand Canal au coucher du soleil. La jeune femme au manteau bleu canard sprinte devant la caméra, serrant une enveloppe jaune contre elle. Au-dessus d'elle, la ville entière flotte à l'envers, en miroir — un homme en chapeau melon promène un teckel dans la rue inversée. Un parapluie rouge flotte en apesanteur entre les deux mondes. Des pigeons s'éparpillent à travers la lumière ambrée.
+
+3–6s : La caméra la suit par-derrière dans une étroite ruelle vénitienne, des feuilles mortes tourbillonnant dans son sillage. Tout au bout, la rue se soulève vers le ciel, les bâtiments s'empilant verticalement comme un mur de fenêtres. Ses bruits de pas résonnent entre les murs de pierre.
+
+6–9s : La caméra effectue une lente rotation de 90 degrés. Le mur de la ruelle devient le sol sous ses pieds ; elle continue de courir, imperturbable. La rotation se poursuit en une large orbite alors qu'elle gravit à toute vitesse un escalier en colimaçon en pierre flottant dans les airs, des fragments de toits vénitiens en terre cuite tournoyant autour d'elle comme dans un caléidoscope.
+
+9–12s : Très grand plan large en silhouette. Elle traverse en courant le sommet d'un pont de pierre en arche enjambant un large canal, sur fond de soleil couchant flamboyant. La ville en miroir est suspendue à la fois au-dessus et en dessous de l'arche. Sur le plan inversé, un piéton solitaire marche dans la direction opposée. Des oiseaux traversent le cadre au ralenti.
+
+12–15s : Plongée inversée en contre-plongée totale entre deux façades d'immeubles vertigineuses, le ciel ne formant plus qu'une mince bande lumineuse. Elle saute par-dessus le gouffre vertical, les bras grands ouverts, son manteau et ses cheveux au vent, la sacoche oscillant. La caméra reste fixée sur elle qui se découpe sur le ciel. Le vent rugit.
+
+15–18s : Rapprochement caméra à l'épaule à travers une ruelle animée du marché du Rialto des années 1940 — des marchands empilant des cageots de pommes, du linge suspendu au-dessus des têtes entre les immeubles. Elle se faufile entre les passants flous au premier plan, fuyant la caméra. Une pomme s'échappe et roule sur les pavés.
+
+18–21s : La caméra s'incline vers le haut le long d'un imposant clocher en brique — un campanile vénitien — pendant que la ville environnante s'enroule et se plie autour de lui. La femme apparaît minuscule sur la corniche de la tour, s'arrête un instant face au soleil, puis s'élance vers les toits. Les cloches se mettent à sonner.
+
+21–24s : Terrasse-jardin sur le toit encadrée par une tonnelle couverte de roses. Une femme âgée vêtue d'un gilet gris arrose un parterre de fleurs éclatantes avec un arrosoir en fer-blanc. Derrière elle, Venise et les coupoles de la basilique Saint-Marc scintillent au coucher du soleil sur la lagune tandis que la ville inversée est suspendue au-dessus. La jeune femme avance en équilibre le long de la balustrade en pierre, les bras écartés, puis saute sur la terrasse.
+
+24–27s : Elle lui tend l'enveloppe jaune. La vieille femme se retourne, pose l'arrosoir et la prend. Toutes deux s'échangent un sourire chaleureux. Des pétales de rose s'élèvent en dérivant le long d'elles, tombant vers le ciel inversé.
+
+27–30s : La caméra recule et prend rapidement de la hauteur. La ville entière se replie et pivote jusqu'à devenir une vue aérienne zénithale des canaux et ruelles de Venise s'enroulant en sphère. Les deux silhouettes minuscules restent sur la terrasse. Fondu lent vers une lumière chaude.
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -2881,7 +2977,7 @@ Transformez la photo en un style de carnet de voyage dessiné à la main aux cra
 
 <a name="prompt-2100241141967081911"></a>
 
-### Prompt photographique en très gros plan pour du nail art de style traditionnel chinois centré sur l'esthétique de la dynastie Song, mettant l'accent sur le verrouillage de la mise au point sur la beauté exquise des ongles.
+### Traduction en cours
 
 Auteur：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publication originale](https://x.com/DeepBlueX0/status/2100241141967081911)
 
@@ -2889,7 +2985,7 @@ Photographie · Encre / Style Chinois · Publié
 
 Publication originale：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publication originale](https://x.com/DeepBlueX0/status/2100101510634037441)
 
-**Résumé:** Prompt photographique en très gros plan pour du nail art de style traditionnel chinois centré sur l'esthétique de la dynastie Song, mettant l'accent sur le verrouillage de la mise au point sur la beauté exquise des ongles.
+**Résumé:** Traduction en cours
 
 <img src="images/2100241141967081911-1.jpg" alt="Image 1" width="480" />
 
@@ -2904,7 +3000,7 @@ Publication originale：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publication 
 **Consigne**
 
 ```text
-Esthétique de la dynastie Song × Gros plan extrême sur le nail art de style Song × Mise au point verrouillée sur le visuel principal du nail art
+Traduction en cours
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -2998,6 +3094,30 @@ Publication originale：[@huku\_ken\_ai](https://x.com/huku_ken_ai) · [Publicat
 
 ```text
 Extrayez de l'image les sujets, contours, poses et relations narratives les plus caractéristiques, et reconstruisez-les sous la forme d'une illustration éditoriale dessinée à la main, légère, rustique et rétro. En évitant la reproduction mécanique des détails, l'illustration est réinterprétée à travers des formes généralisées, des proportions modérément exagérées, des traits symboliques et des métaphores visuelles pleines d'humour, tout en préservant l'expression caractéristique de l'original. Ces illustrations fusionnent l'illustration éditoriale moderniste, le design graphique du Bauhaus, les albums illustrés pour enfants, l'art naïf et les techniques de croquis tendance. Les formes sont épurées, les lignes de contour donnent une impression légèrement floue reflétant les imperfections propres au dessin à la main, et certains éléments sont agrandis de manière appropriée pour créer une image narrative, stylée et pleine d'espièglerie.
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2098762789489873062"></a>
+
+### Traduction en cours
+
+Auteur：[@lovimg\_com](https://x.com/lovimg_com) · [Publication originale](https://x.com/lovimg_com/status/2098762789489873062)
+
+Affiche / Flyer · Illustration · Rétro / Vintage · Article de mode · Texte / Typographie · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2098762789489873062-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2098762789489873062-2.jpg" alt="Image 2" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -3555,13 +3675,13 @@ Traduction en cours
 
 <a name="prompt-2100255511228932598"></a>
 
-### Instantanés manqués verticaux en grille de quatre, scène de cueillette de racines de lotus dans un étang de lotus et personnages
+### Traduction en cours
 
 Auteur：[@ahamme35638](https://x.com/ahamme35638) · [Publication originale](https://x.com/ahamme35638/status/2100255511228932598)
 
 Personnage · Publié
 
-**Résumé:** Instantanés manqués verticaux en grille de quatre, scène de cueillette de racines de lotus dans un étang de lotus et personnages
+**Résumé:** Traduction en cours
 
 <img src="images/2100255511228932598-1.jpg" alt="Image 1" width="480" />
 
@@ -3572,7 +3692,7 @@ Personnage · Publié
 **Consigne**
 
 ```text
-Photos ratées verticales 2×2, scène de cueillette de racines de lotus dans un étang de lotus + personnage
+Traduction en cours
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -4214,6 +4334,28 @@ Cristiano Ronaldo mangeant un shawarma
 
 ---
 
+<a name="prompt-2097582500273115191"></a>
+
+### Traduction en cours
+
+Auteur：[@ky6001481673691](https://x.com/ky6001481673691) · [Publication originale](https://x.com/ky6001481673691/status/2097582500273115191)
+
+Portrait / Selfie · Personnage · Article de mode · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2097582500273115191-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
 <a name="prompt-2097558679956664521"></a>
 
 ### Portrait d'horreur cybernétique mettant en scène un humanoïde émacié avec un masque en porcelaine fissuré, des câbles crâniens et un éclairage monochrome à fort contraste.
@@ -4354,6 +4496,30 @@ Scène 5 (7–9s) : Le flacon est tenu élégamment d'une main et pivote lenteme
 Scène 6 (9–10s) : Plan héroïque final du flacon Cheng Guang Cocoa Soft Glow entouré de fèves de cacao et de feuilles. La caméra avance lentement, effets scintillants subtils, arrière-plan chaleureux et luxueux, composition épurée centrée sur le produit.
 
 Style : photoréaliste, publicité de beauté haut de gamme, éclairage cinématographique, mouvements de mains réalistes, transitions de caméra fluides, faible profondeur de champ, bokeh doux, tons dorés chauds, 4K, très détaillé, mouvement naturel, sans distorsion, aucun produit supplémentaire, aucune modification de l'étiquette du flacon ou de la marque.
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2098762663941832907"></a>
+
+### Traduction en cours
+
+Auteur：[@lovimg\_com](https://x.com/lovimg_com) · [Publication originale](https://x.com/lovimg_com/status/2098762663941832907)
+
+Affiche / Flyer · Texte / Typographie · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2098762663941832907-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2098762663941832907-2.jpg" alt="Image 2" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
 ```
 
 [↑ Retour aux catégories](#catalog)
