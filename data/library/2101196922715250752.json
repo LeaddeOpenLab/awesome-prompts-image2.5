@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-19T08:50:14.722Z",
+  "model": "image2",
+  "prompt": "Subject: Japanese girl\nStyle: Contemporary editorial illustration, conceptual and simplified forms, expressive proportions, sophisticated limited color palette, bold negative space, subtle textures, slightly distorted geometric shapes, intellectual visual simplicity, modern magazine-style illustration, analog color scheme, 3:4 aspect ratio.",
+  "promptTranslations": {
+    "en": "Subject: Japanese girl\\nStyle: Contemporary editorial illustration, conceptual and simplified forms, expressive proportions, sophisticated limited color palette, bold negative space, subtle textures, slightly distorted geometric shapes, intellectual visual simplicity, modern magazine-style illustration, analog color scheme, 3:4 aspect ratio."
+  },
+  "summaryTranslations": {
+    "en": "Contemporary editorial illustration of a Japanese girl featuring simplified forms and negative space."
+  },
+  "translationVersion": 2,
+  "summary": "Contemporary editorial illustration of a Japanese girl featuring simplified forms and negative space.",
+  "summaryEn": "Contemporary editorial illustration of a Japanese girl featuring simplified forms and negative space.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2101196922715250752",
+    "canonicalUrl": "https://x.com/miyajin333/status/2101196922715250752",
+    "author": {
+      "username": "miyajin333",
+      "displayName": "宮原たかし",
+      "profileUrl": "https://x.com/miyajin333"
+    },
+    "publishedAt": "2026-09-19T06:29:19.000Z",
+    "collectedAt": "2026-09-19T08:16:04.286Z",
+    "language": "ja",
+    "originalText": "エディトリアルイラスト風\n（ChatGPT Image2で作成）\n\nPrompt\nSubject: Japanese girl\nStyle: Contemporary editorial illustration, conceptual and simplified forms, expressive proportions, sophisticated limited color palette, bold negative space, subtle textures, slightly distorted geometric shapes, intellectual visual simplicity, modern magazine-style illustration, analog color scheme, 3:4 aspect ratio.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSjzPVoaAAAZdfx.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSjzPVoaAAAZdfx.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 89
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/miyajin333/status/2101196922715250752",
+  "coverUrl": "https://pbs.twimg.com/media/HSjzPVoaAAAZdfx.jpg",
+  "coverPath": "images/2101196922715250752-1.jpg",
+  "imagePaths": [
+    "images/2101196922715250752-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSjzPVoaAAAZdfx",
+    "x-post:2101196922715250752"
+  ],
+  "analysis": {
+    "summary": "Contemporary editorial illustration of a Japanese girl featuring simplified forms and negative space.",
+    "summaryEn": "Contemporary editorial illustration of a Japanese girl featuring simplified forms and negative space.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Matches image subject (girl), minimalist editorial style, textured paper look, and composition."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Subject: Japanese girl\nStyle: Contemporary editorial illustration, conceptual and simplified forms, expressive proportions, sophisticated limited color palette, bold negative space, subtle textures, slightly distorted geometric shapes, intellectual visual simplicity, modern magazine-style illustration, analog color scheme, 3:4 aspect ratio.",
+    "sourceRange": {
+      "start": 41,
+      "end": 383
+    },
+    "translations": {
+      "zh": "主体：日本女孩\n风格：当代社论插画，概念与简约形态，富有表现力的比例，考究的受限配色，大胆的留白空间，微妙质感，微畸变的几何形态，知性视觉简约风，现代杂志插画风格，模拟色调体系，3:4比例。",
+      "en": "Subject: Japanese girl\nStyle: Contemporary editorial illustration, conceptual and simplified forms, expressive proportions, sophisticated limited color palette, bold negative space, subtle textures, slightly distorted geometric shapes, intellectual visual simplicity, modern magazine-style illustration, analog color scheme, 3:4 aspect ratio."
+    },
+    "targetModels": [
+      "image2"
+    ],
+    "category": "text-to-image",
+    "useCase": "general_art",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-19T08:50:26.403Z",
+  "model": "image2",
+  "prompt": "主題：\n冷蔵庫灯の夜更け\n\n主体：\n画面中央から右、暗い台所の開いた冷蔵庫前で若い女性が木床へ座り、右手に桃色の缶飲料を持つ。白い部屋着、冷蔵庫の暖色灯、扉の旅行マグネットが主役。\n\n人物・表情：\n細い卵形の横顔、小さな顎、画面左を見る明るい茶色の瞳、細い眉、すっきりした鼻筋、自然な桃色の唇。顔を左の冷蔵庫内へ向け、静かに中を見つめる思案する表情。ライトブラウンの髪は高い無造作な団子にまとめ、薄い前髪と頬や首へ落ちる長い後れ毛がある。\n\n服装・ポーズ：\n生成り白の細肩紐リブキャミソールトップは胸元に幅広いレースと小さなリボン、同色のショートパンツはウエストの紐結びと裾のレースがある。生成りの粗いニットカーディガンを両肩から落として腕だけに通し、白い厚手ルームソックスを履く。床へ座って両脚を前へ開き、左手を床につき、右手で缶を右腿へ立てて持つ。\n\n背景・光：\n画面左に写真や旅行マグネットを多数貼った白い冷蔵庫扉、中央に開いた庫内の瓶類、画面右奥に暗い台所棚と小さな暖色ランプ、下部に木床がある。画面左の冷蔵庫内から柔らかな暖色光が顔、胸、脚を横から照らし、背景を深い影へ落とす。\n\n構図・カメラ：\n2:3の縦構図、床に座る人物と同じ高さの正面寄りカメラで頭頂から手前の脚までを収める全身寄りポートレート。人物を右半分へ大きく、光る冷蔵庫を左中央、桃色の缶を中央下へ置く。両脚は下端で裁切し、横顔と缶にピント、台所奥は浅い被写界深度でぼかす。\n\n質感・スタイル：\nフォトリアルな実写写真。自然な肌、細い後れ毛、レース、リブ布、粗いニット、金属缶、冷蔵庫の白い面を高精細にし、暖かな琥珀色と深い茶黒の夜景。\n\nネガティブ：\n開いた冷蔵庫と桃色缶省略；明るい昼景",
+  "promptTranslations": {
+    "en": "Subject:\nLate Night by the Refrigerator Light\n\nMain Focus:\nFrom center to right of the frame, a young woman sits on the wooden floor in front of an open refrigerator in a dark kitchen, holding a pink canned drink in her right hand. White loungewear, the warm-toned light of the refrigerator, and travel magnets on the door are the main focal points.\n\nPerson & Expression:\nA slender, oval side profile, small chin, light brown eyes looking toward the left of the frame, thin eyebrows, a neat nasal bridge, and natural pink lips. Her face is turned toward the inside of the refrigerator on the left, with a quiet, contemplative expression as she gazes inside. Light brown hair is styled in a high, messy bun, with wispy bangs and long stray strands falling over her cheeks and neck.\n\nClothing & Pose:\nAn off-white, thin-strapped ribbed camisole top featuring wide lace and a small bow at the bustline, paired with matching shorts that have a drawstring waist and lace trim at the hem. An off-white chunky knit cardigan slips off both shoulders, worn only over her arms, and she wears thick white lounge socks. She sits on the floor with both legs spread forward, her left hand resting on the floor, and her right hand holding the can upright against her right thigh.\n\nBackground & Lighting:\nOn the left of the frame is a white refrigerator door covered with numerous photos and travel magnets; in the center are bottles inside the open refrigerator; in the deep right of the frame are dark kitchen shelves and a small warm-toned lamp; and at the bottom is a wooden floor. Soft, warm-toned light from inside the refrigerator on the left side illuminates her face, chest, and legs from the side, casting the background into deep shadows.\n\nComposition & Camera:\nA 2:3 vertical composition, shot with a near-frontal camera positioned at eye level with the person sitting on the floor, capturing a near full-body portrait from the top of the head to the foreground legs. The person is prominently placed on the right half, the glowing refrigerator in the center-left, and the pink can at the bottom center. Both legs are cropped at the bottom edge, with sharp focus on the side profile and the can, while the deep kitchen background is blurred with a shallow depth of field.\n\nTexture & Style:\nPhotorealistic live-action photograph. Natural skin texture, fine stray hairs, lace, ribbed fabric, chunky knit, metallic can, and the white surface of the refrigerator rendered in high detail, with a warm amber and deep brownish-black night aesthetic.\n\nNegative:\nOmission of open refrigerator and pink can; bright daytime scene"
+  },
+  "summaryTranslations": {
+    "en": "Photo prompt of a young woman in light-colored loungewear sitting on a wooden floor holding a pink canned drink in a kitchen with the refrigerator light on late at night."
+  },
+  "translationVersion": 2,
+  "summary": "深夜开着冰箱灯的厨房里，年轻女性穿着浅色居家服坐在木地板上拿着粉色罐装饮料的写真提示词。",
+  "summaryEn": "Prompt for a nighttime photo of a young woman in loungewear sitting by an open glowing fridge holding a pink beverage can.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2101205651024494639",
+    "canonicalUrl": "https://x.com/CyberTotal2026/status/2101205651024494639",
+    "author": {
+      "username": "CyberTotal2026",
+      "displayName": "Prompt アトリエ｜AI画像プロンプト",
+      "profileUrl": "https://x.com/CyberTotal2026"
+    },
+    "publishedAt": "2026-09-19T07:04:00.000Z",
+    "collectedAt": "2026-09-19T08:16:04.286Z",
+    "language": "ja",
+    "originalText": "冷蔵庫の灯りだけが起きている夜。桃の缶を片手に、もう少しだけひと休み🍑🌙✨\n\n#AIart #AI写真 #夜更かし時間\n\n【GPT Image2プロンプト】\n\n主題：\n冷蔵庫灯の夜更け\n\n主体：\n画面中央から右、暗い台所の開いた冷蔵庫前で若い女性が木床へ座り、右手に桃色の缶飲料を持つ。白い部屋着、冷蔵庫の暖色灯、扉の旅行マグネットが主役。\n\n人物・表情：\n細い卵形の横顔、小さな顎、画面左を見る明るい茶色の瞳、細い眉、すっきりした鼻筋、自然な桃色の唇。顔を左の冷蔵庫内へ向け、静かに中を見つめる思案する表情。ライトブラウンの髪は高い無造作な団子にまとめ、薄い前髪と頬や首へ落ちる長い後れ毛がある。\n\n服装・ポーズ：\n生成り白の細肩紐リブキャミソールトップは胸元に幅広いレースと小さなリボン、同色のショートパンツはウエストの紐結びと裾のレースがある。生成りの粗いニットカーディガンを両肩から落として腕だけに通し、白い厚手ルームソックスを履く。床へ座って両脚を前へ開き、左手を床につき、右手で缶を右腿へ立てて持つ。\n\n背景・光：\n画面左に写真や旅行マグネットを多数貼った白い冷蔵庫扉、中央に開いた庫内の瓶類、画面右奥に暗い台所棚と小さな暖色ランプ、下部に木床がある。画面左の冷蔵庫内から柔らかな暖色光が顔、胸、脚を横から照らし、背景を深い影へ落とす。\n\n構図・カメラ：\n2:3の縦構図、床に座る人物と同じ高さの正面寄りカメラで頭頂から手前の脚までを収める全身寄りポートレート。人物を右半分へ大きく、光る冷蔵庫を左中央、桃色の缶を中央下へ置く。両脚は下端で裁切し、横顔と缶にピント、台所奥は浅い被写界深度でぼかす。\n\n質感・スタイル：\nフォトリアルな実写写真。自然な肌、細い後れ毛、レース、リブ布、粗いニット、金属缶、冷蔵庫の白い面を高精細にし、暖かな琥珀色と深い茶黒の夜景。\n\nネガティブ：\n開いた冷蔵庫と桃色缶省略；明るい昼景",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSbG2gObsAAmViT.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSbG2gObsAAmViT.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 19,
+      "repostCount": 1,
+      "replyCount": 0,
+      "quoteCount": 1,
+      "viewCount": 698
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/CyberTotal2026/status/2101205651024494639",
+  "coverUrl": "https://pbs.twimg.com/media/HSbG2gObsAAmViT.jpg",
+  "coverPath": "images/2101205651024494639-1.jpg",
+  "imagePaths": [
+    "images/2101205651024494639-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSbG2gObsAAmViT",
+    "x-post:2101205651024494639"
+  ],
+  "analysis": {
+    "summary": "深夜开着冰箱灯的厨房里，年轻女性穿着浅色居家服坐在木地板上拿着粉色罐装饮料的写真提示词。",
+    "summaryEn": "Prompt for a nighttime photo of a young woman in loungewear sitting by an open glowing fridge holding a pink beverage can.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "提示词完整描述了女性身着米白蕾丝吊带坐在发光的冰箱旁、手拿粉色易拉罐的场景与构图，与实际图像完全吻合。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "主題：\n冷蔵庫灯の夜更け\n\n主体：\n画面中央から右、暗い台所の開いた冷蔵庫前で若い女性が木床へ座り、右手に桃色の缶飲料を持つ。白い部屋着、冷蔵庫の暖色灯、扉の旅行マグネットが主役。\n\n人物・表情：\n細い卵形の横顔、小さな顎、画面左を見る明るい茶色の瞳、細い眉、すっきりした鼻筋、自然な桃色の唇。顔を左の冷蔵庫内へ向け、静かに中を見つめる思案する表情。ライトブラウンの髪は高い無造作な団子にまとめ、薄い前髪と頬や首へ落ちる長い後れ毛がある。\n\n服装・ポーズ：\n生成り白の細肩紐リブキャミソールトップは胸元に幅広いレースと小さなリボン、同色のショートパンツはウエストの紐結びと裾のレースがある。生成りの粗いニットカーディガンを両肩から落として腕だけに通し、白い厚手ルームソックスを履く。床へ座って両脚を前へ開き、左手を床につき、右手で缶を右腿へ立てて持つ。\n\n背景・光：\n画面左に写真や旅行マグネットを多数貼った白い冷蔵庫扉、中央に開いた庫内の瓶類、画面右奥に暗い台所棚と小さな暖色ランプ、下部に木床がある。画面左の冷蔵庫内から柔らかな暖色光が顔、胸、脚を横から照らし、背景を深い影へ落とす。\n\n構図・カメラ：\n2:3の縦構図、床に座る人物と同じ高さの正面寄りカメラで頭頂から手前の脚までを収める全身寄りポートレート。人物を右半分へ大きく、光る冷蔵庫を左中央、桃色の缶を中央下へ置く。両脚は下端で裁切し、横顔と缶にピント、台所奥は浅い被写界深度でぼかす。\n\n質感・スタイル：\nフォトリアルな実写写真。自然な肌、細い後れ毛、レース、リブ布、粗いニット、金属缶、冷蔵庫の白い面を高精細にし、暖かな琥珀色と深い茶黒の夜景。\n\nネガティブ：\n開いた冷蔵庫と桃色缶省略；明るい昼景",
+    "sourceRange": {
+      "start": 80,
+      "end": 813
+    },
+    "translations": {
+      "zh": "主题：深夜冰箱灯光下\n主体：年轻女性坐在暗色厨房木地板上，面对敞开的冰箱，右手拿粉色罐装饮料。\n人物与表情：鹅蛋脸侧颜，浅褐色眼眸，静静注视冰箱内部的思索神情。棕色头发扎成高丸子头。\n服饰与姿势：米白色吊带上衣配短裤，披着粗针织开衫，穿厚线袜。双手一撑地一握罐。\n背景与光线：左侧贴满磁贴的冰箱门散发暖光，照亮身侧，背景隐入暗处。\n构图与镜头：2:3竖构图，平视拍摄近全景，浅景深虚化背景。\n质感与风格：写实摄影，琥珀色与暗棕色调夜景。",
+      "en": "Theme: Late night by refrigerator light\nSubject: Young woman sitting on a wooden floor by an open fridge, holding a pink can.\nFeatures & Expression: Oval face, light brown eyes gazing inside, contemplative look, messy high bun.\nOutfit & Pose: Off-white lace camisole, shorts, draped knit cardigan, thick socks; seated pose.\nBackground & Light: Soft warm fridge glow illuminating subject against dark kitchen background.\nComposition: 2:3 vertical shot, eye-level portrait with shallow depth of field.\nStyle: Photorealistic night photography, amber and dark brown tones."
+    },
+    "targetModels": [
+      "image2"
+    ],
+    "category": "text-to-image",
+    "useCase": "AI 摄影写真创作",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
