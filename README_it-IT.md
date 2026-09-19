@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**150** Prompt · Ultima aggiunta: **2026-09-19**
+**153** Prompt · Ultima aggiunta: **2026-09-19**
 
 <a name="catalog"></a>
 
@@ -555,6 +555,28 @@ Fotografia · Paesaggio / Natura · Pubblicato
 
 ```text
 Foto di una radura nel bosco con abbondante fogliame verde, altamente dettagliata
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2101297254481223763"></a>
+
+### Traduzione in corso
+
+Autore：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Post originale](https://x.com/CyberTotal2026/status/2101297254481223763)
+
+Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2101297254481223763-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -2037,6 +2059,28 @@ Ritratto ad alta risoluzione di un uomo sudasiatico di 23 anni con gli occhi chi
 
 ## Fermo immagine cinematografico / Still fotografico
 
+<a name="prompt-2101248200787320961"></a>
+
+### Traduzione in corso
+
+Autore：[@oggii\_0](https://x.com/oggii_0) · [Post originale](https://x.com/oggii_0/status/2101248200787320961)
+
+Fermo immagine cinematografico / Still fotografico · Personaggio · Architettura / Interni · Paesaggio urbano / Strada · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2101248200787320961.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
 <a name="prompt-2100038053498917288"></a>
 
 ### Traduzione in corso
@@ -2388,6 +2432,30 @@ Stile: Illustrazione editoriale contemporanea, forme concettuali e semplificate,
 <a name="category-sketch-line-art"></a>
 
 ## Schizzo / Line Art
+
+<a name="prompt-2101315631237021853"></a>
+
+### Traduzione in corso
+
+Autore：[@Naiknelofar788](https://x.com/Naiknelofar788) · [Post originale](https://x.com/Naiknelofar788/status/2101315631237021853)
+
+Poster / Volantino · Schizzo / Line Art · Retro / Vintage · Minimalismo · Architettura / Interni · Testo / Tipografia · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2101315631237021853-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2101315631237021853-2.jpg" alt="Immagine 2" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2097284686448046135"></a>
 

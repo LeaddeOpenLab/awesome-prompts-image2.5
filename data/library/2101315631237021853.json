@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-19T16:45:40.201Z",
+  "model": "image2.5",
+  "prompt": "A sophisticated minimalist architectural art poster featuring [LANDMARK / STRUCTURE] as the central subject, illustrated in a refined hand-drawn architectural sketch style. Preserve the landmark’s recognizable silhouette, proportions, and defining architectural details, while transforming it into an elegant artistic composition.\n\nUse a limited monochromatic color palette inspired by the location, with soft vintage tones on a warm ivory/off-white paper background. Combine delicate ink lines, fine architectural hatching, subtle halftone texture, and lightly distressed print details.\n\nSurround the structure with a few abstract geometric shapes, soft translucent circles, subtle atmospheric elements, birds, or tiny contextual details that complement the landmark without overpowering it. Add a subtle sense of depth through overlapping layers and faded linework.\n\nInclude small minimalist typography on one side: [CITY / COUNTRY], [LANDMARK NAME], and optional coordinates or a short location descriptor, arranged like a premium travel-art print.\n\nClean negative space, editorial graphic design, museum-quality travel poster aesthetic, elegant composition, understated luxury, vintage screen-print texture, artistic architectural illustration, no people, no photorealistic background, no unnecessary objects, 4:5 vertical composition.\n\n[LANDMARK] reimagined as a collectible minimalist travel-art poster, combining architectural sketching, vintage printmaking, geometric abstract shapes, delicate linework, halftone texture, muted location-inspired colors, and elegant negative space. The landmark remains instantly recognizable but feels like a hand-crafted piece of modern graphic art. Add tiny birds, subtle environmental elements, coordinates, and minimal location typography. Premium editorial aesthetic, artistic, sophisticated, highly shareable, 4:5 vertical.",
+  "promptTranslations": {
+    "en": "A sophisticated minimalist architectural art poster featuring [LANDMARK / STRUCTURE] as the central subject, illustrated in a refined hand-drawn architectural sketch style. Preserve the landmark’s recognizable silhouette, proportions, and defining architectural details, while transforming it into an elegant artistic composition.\\n\\nUse a limited monochromatic color palette inspired by the location, with soft vintage tones on a warm ivory/off-white paper background. Combine delicate ink lines, fine architectural hatching, subtle halftone texture, and lightly distressed print details.\\n\\nSurround the structure with a few abstract geometric shapes, soft translucent circles, subtle atmospheric elements, birds, or tiny contextual details that complement the landmark without overpowering it. Add a subtle sense of depth through overlapping layers and faded linework.\\n\\nInclude small minimalist typography on one side: [CITY / COUNTRY], [LANDMARK NAME], and optional coordinates or a short location descriptor, arranged like a premium travel-art print.\\n\\nClean negative space, editorial graphic design, museum-quality travel poster aesthetic, elegant composition, understated luxury, vintage screen-print texture, artistic architectural illustration, no people, no photorealistic background, no unnecessary objects, 4:5 vertical composition.\\n\\n[LANDMARK] reimagined as a collectible minimalist travel-art poster, combining architectural sketching, vintage printmaking, geometric abstract shapes, delicate linework, halftone texture, muted location-inspired colors, and elegant negative space. The landmark remains instantly recognizable but feels like a hand-crafted piece of modern graphic art. Add tiny birds, subtle environmental elements, coordinates, and minimal location typography. Premium editorial aesthetic, artistic, sophisticated, highly shareable, 4:5 vertical."
+  },
+  "summaryTranslations": {
+    "en": "A prompt template for creating vintage minimalist architectural sketch posters featuring landmarks with geometric accents and typography."
+  },
+  "translationVersion": 2,
+  "summary": "A prompt template for creating vintage minimalist architectural sketch posters featuring landmarks with geometric accents and typography.",
+  "summaryEn": "A prompt template for creating vintage minimalist architectural sketch posters featuring landmarks with geometric accents and typography.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2101315631237021853",
+    "canonicalUrl": "https://x.com/Naiknelofar788/status/2101315631237021853",
+    "author": {
+      "username": "Naiknelofar788",
+      "displayName": "simeon-sanai",
+      "profileUrl": "https://x.com/Naiknelofar788"
+    },
+    "publishedAt": "2026-09-19T14:21:01.000Z",
+    "collectedAt": "2026-09-19T16:15:37.146Z",
+    "language": "en",
+    "originalText": "GPT image 2.5 \n\nPrompt:\n\nA sophisticated minimalist architectural art poster featuring [LANDMARK / STRUCTURE] as the central subject, illustrated in a refined hand-drawn architectural sketch style. Preserve the landmark’s recognizable silhouette, proportions, and defining architectural details, while transforming it into an elegant artistic composition.\n\nUse a limited monochromatic color palette inspired by the location, with soft vintage tones on a warm ivory/off-white paper background. Combine delicate ink lines, fine architectural hatching, subtle halftone texture, and lightly distressed print details.\n\nSurround the structure with a few abstract geometric shapes, soft translucent circles, subtle atmospheric elements, birds, or tiny contextual details that complement the landmark without overpowering it. Add a subtle sense of depth through overlapping layers and faded linework.\n\nInclude small minimalist typography on one side: [CITY / COUNTRY], [LANDMARK NAME], and optional coordinates or a short location descriptor, arranged like a premium travel-art print.\n\nClean negative space, editorial graphic design, museum-quality travel poster aesthetic, elegant composition, understated luxury, vintage screen-print texture, artistic architectural illustration, no people, no photorealistic background, no unnecessary objects, 4:5 vertical composition.\n\n[LANDMARK] reimagined as a collectible minimalist travel-art poster, combining architectural sketching, vintage printmaking, geometric abstract shapes, delicate linework, halftone texture, muted location-inspired colors, and elegant negative space. The landmark remains instantly recognizable but feels like a hand-crafted piece of modern graphic art. Add tiny birds, subtle environmental elements, coordinates, and minimal location typography. Premium editorial aesthetic, artistic, sophisticated, highly shareable, 4:5 vertical.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSlfaV3awAAgJRm.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSlfaV3awAAgJRm.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSlfaVybUAEyozg.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSlfaVybUAEyozg.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 32,
+      "repostCount": 4,
+      "replyCount": 11,
+      "quoteCount": 0,
+      "viewCount": 855
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/Naiknelofar788/status/2101315631237021853",
+  "coverUrl": "https://pbs.twimg.com/media/HSlfaV3awAAgJRm.jpg",
+  "coverPath": "images/2101315631237021853-1.jpg",
+  "imagePaths": [
+    "images/2101315631237021853-1.jpg",
+    "images/2101315631237021853-2.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSlfaV3awAAgJRm",
+    "x-image:/media/HSlfaVybUAEyozg",
+    "x-post:2101315631237021853"
+  ],
+  "analysis": {
+    "summary": "A prompt template for creating vintage minimalist architectural sketch posters featuring landmarks with geometric accents and typography.",
+    "summaryEn": "A prompt template for creating vintage minimalist architectural sketch posters featuring landmarks with geometric accents and typography.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The attached posters of Istanbul and Tokyo Tower display hand-drawn architectural sketches, muted tones on off-white paper, geometric abstract circles, birds, and minimalist typographic coordinates exactly as instructed."
+    },
+    "videoQuality": null,
+    "originalPrompt": "A sophisticated minimalist architectural art poster featuring [LANDMARK / STRUCTURE] as the central subject, illustrated in a refined hand-drawn architectural sketch style. Preserve the landmark’s recognizable silhouette, proportions, and defining architectural details, while transforming it into an elegant artistic composition.\n\nUse a limited monochromatic color palette inspired by the location, with soft vintage tones on a warm ivory/off-white paper background. Combine delicate ink lines, fine architectural hatching, subtle halftone texture, and lightly distressed print details.\n\nSurround the structure with a few abstract geometric shapes, soft translucent circles, subtle atmospheric elements, birds, or tiny contextual details that complement the landmark without overpowering it. Add a subtle sense of depth through overlapping layers and faded linework.\n\nInclude small minimalist typography on one side: [CITY / COUNTRY], [LANDMARK NAME], and optional coordinates or a short location descriptor, arranged like a premium travel-art print.\n\nClean negative space, editorial graphic design, museum-quality travel poster aesthetic, elegant composition, understated luxury, vintage screen-print texture, artistic architectural illustration, no people, no photorealistic background, no unnecessary objects, 4:5 vertical composition.\n\n[LANDMARK] reimagined as a collectible minimalist travel-art poster, combining architectural sketching, vintage printmaking, geometric abstract shapes, delicate linework, halftone texture, muted location-inspired colors, and elegant negative space. The landmark remains instantly recognizable but feels like a hand-crafted piece of modern graphic art. Add tiny birds, subtle environmental elements, coordinates, and minimal location typography. Premium editorial aesthetic, artistic, sophisticated, highly shareable, 4:5 vertical.",
+    "sourceRange": {
+      "start": 25,
+      "end": 1896
+    },
+    "translations": {
+      "zh": "一张精致的极简主义建筑艺术海报，以[地标/建筑]为中心主体，采用精致的手绘建筑素描风格呈现。保留地标辨识度高的轮廓、比例和标志性建筑细节，同时将其转化为优雅的艺术构图。\n\n采用灵感源自所在地的有限单色调色板，在温暖的象牙白/米白纸张背景上呈现柔和的复古色调。结合精致的墨线、细腻的建筑排线、微妙的半色调纹理以及微损的印刷质感。\n\n在建筑物周围环绕少量抽象几何形状、柔和的半透明圆形、微妙的大气元素、飞鸟或微小的背景细节，烘托地标而不过分抢眼。通过重叠图层和淡化线条增添细腻的纵深感。\n\n一侧加入小巧的极简排版文字：[城市/国家]、[地标名称]，以及可选的坐标或简短地点描述，排版如高级旅行艺术画作。\n\n干净的留白、编辑平面设计风格、博物馆级旅行海报美学、优雅构图、低调奢华、复古丝网印刷质感、艺术建筑插画，无人物，无逼真照片背景，无多余物体，4:5垂直构图。\n\n将[地标]重构为极具收藏价值的极简旅行艺术海报，结合建筑素描、复古版画、几何抽象形状、细腻线条、半色调纹理、取自当地的柔和色彩与优雅留白。地标依旧辨识度极高，同时具有手作现代平面艺术感。添加小鸟、微妙环境元素、坐标与极简地点文字。高级编辑美学，艺术、优雅，4:5纵向画面。",
+      "en": "A sophisticated minimalist architectural art poster featuring [LANDMARK / STRUCTURE] as the central subject, illustrated in a refined hand-drawn architectural sketch style. Preserve the landmark’s recognizable silhouette, proportions, and defining architectural details, while transforming it into an elegant artistic composition.\n\nUse a limited monochromatic color palette inspired by the location, with soft vintage tones on a warm ivory/off-white paper background. Combine delicate ink lines, fine architectural hatching, subtle halftone texture, and lightly distressed print details.\n\nSurround the structure with a few abstract geometric shapes, soft translucent circles, subtle atmospheric elements, birds, or tiny contextual details that complement the landmark without overpowering it. Add a subtle sense of depth through overlapping layers and faded linework.\n\nInclude small minimalist typography on one side: [CITY / COUNTRY], [LANDMARK NAME], and optional coordinates or a short location descriptor, arranged like a premium travel-art print.\n\nClean negative space, editorial graphic design, museum-quality travel poster aesthetic, elegant composition, understated luxury, vintage screen-print texture, artistic architectural illustration, no people, no photorealistic background, no unnecessary objects, 4:5 vertical composition.\n\n[LANDMARK] reimagined as a collectible minimalist travel-art poster, combining architectural sketching, vintage printmaking, geometric abstract shapes, delicate linework, halftone texture, muted location-inspired colors, and elegant negative space. The landmark remains instantly recognizable but feels like a hand-crafted piece of modern graphic art. Add tiny birds, subtle environmental elements, coordinates, and minimal location typography. Premium editorial aesthetic, artistic, sophisticated, highly shareable, 4:5 vertical."
+    },
+    "targetModels": [
+      "image2.5"
+    ],
+    "category": "text-to-image",
+    "useCase": "architectural travel poster",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}

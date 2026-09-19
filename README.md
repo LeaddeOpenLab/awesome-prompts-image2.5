@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**150** Prompts · Latest addition: **2026-09-19**
+**153** Prompts · Latest addition: **2026-09-19**
 
 <a name="catalog"></a>
 
@@ -617,6 +617,50 @@ Photography · Landscape / Nature · Published
 
 ```text
 Photo of a clearing in the woods with lots of green foliage, highly detailed
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2101297254481223763"></a>
+
+### Portrait prompt of a young woman in a peony-patterned kimono seated on tatami in a Japanese-style room, with realistic specifications including a folding fan and line-art thigh tattoo.
+
+Author：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Source](https://x.com/CyberTotal2026/status/2101297254481223763)
+
+Photography · Portrait / Selfie · Character · Published
+
+**Summary:** Portrait prompt of a young woman in a peony-patterned kimono seated on tatami in a Japanese-style room, with realistic specifications including a folding fan and line-art thigh tattoo.
+
+<img src="images/2101297254481223763-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Theme:
+Traditional Japanese room with folding fan and peonies
+
+Subject:
+In the center of the frame, a young woman in a peony-patterned kimono sits on the tatami mats of a bright Japanese-style room, holding open a floral-patterned folding fan to the left of the frame. A large line-art tattoo of a koi fish and waves is visible on her right thigh in the foreground.
+
+Person / Expression:
+A slender oval face, small chin, large bright hazel-brown eyes, thin eyebrows, a neat nose bridge, and slightly parted glossy pink lips. Her face is tilted slightly to the right, calmly gazing directly into the camera. Her dark brown hair is styled in a high, messy updo with wispy bangs and loose strands falling along both cheeks, accented with a golden floral branch hairpin inserted at the back right of her head.
+
+Clothing / Pose:
+Wearing a one-piece-style long-sleeved kimono in unbleached ecru with large peony patterns in red, orange, and green, wrapped deeply across the chest, tied with a wide black obi featuring red-and-gold floral patterns and a thin red obijime cord. Sitting on the tatami with her legs folded under/beside her, holding the fan with her right hand and resting her left hand on the tatami to the right of the frame. Across her exposed right thigh in the foreground spreads a detailed line-art tattoo of a koi fish, waves, and flowers.
+
+Background / Lighting:
+White shoji screens on the left of the frame, a gray vase with flowering branches in the background to the right, golden fusuma sliding doors, and a low andon paper lantern. Soft daylight enters from the shoji on the left, brightly illuminating her face, kimono, and the foreground thigh, casting warm shadows toward the back right.
+
+Composition / Camera:
+2:3 vertical composition, shot from slightly above the subject seated on the tatami, capturing from the crown of the head down to her folded legs in a near-full-body close-up portrait. The face and folding fan are placed in the upper half, with the tattooed thigh positioned prominently in the lower-left foreground. The hem of the kimono is cropped at the bottom edge; sharp focus on the eyes and fan, with a soft depth of field blurring the background.
+
+Texture / Style:
+Photorealistic live-action photograph. Natural skin texture, silk luster, fine peony patterns, woven obi, Japanese washi paper of the fan, tatami weave, and fine lines of the tattoo rendered in high definition; a warm Japanese palette of ecru, vermilion, and sumi ink tones.
+
+Negative:
+Omission of the fan or the koi thigh tattoo; alteration of kimono and obi color scheme
 ```
 
 [↑ Back to categories](#catalog)
@@ -2705,6 +2749,54 @@ High-resolution portrait of a 23-year-old South Asian man with eyes closed and h
 
 ## Cinematic / Film Still
 
+<a name="prompt-2101248200787320961"></a>
+
+### A 30-second segmented video prompt of a young woman running through an Inception-style folding, inverted city to deliver a yellow envelope in 1940s Venice at sunset.
+
+Author：[@oggii\_0](https://x.com/oggii_0) · [Source](https://x.com/oggii_0/status/2101248200787320961)
+
+Cinematic / Film Still · Character · Architecture / Interior · Cityscape / Street · Published
+
+**Summary:** A 30-second segmented video prompt of a young woman running through an Inception-style folding, inverted city to deliver a yellow envelope in 1940s Venice at sunset.
+
+<img src="covers/2101248200787320961.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+[CHARACTER + STYLE]
+
+<<<image_1>>>  is the face and identity reference. A young Korean woman in her early twenties with EXACTLY the face of <<<image_1>>> — same facial structure, same features, natural Korean skin, no glasses. Long black hair, wearing a 1940s teal-blue wool coat-dress with white collar, a brown leather satchel worn cross-body, grey knee socks, black leather shoes, holding a folded yellow envelope. Every shot of her matches <<<image_1>>> .
+
+1940s Venice at golden hour. Amber and teal cinematic grade, anamorphic 35mm film look, shallow depth of field, volumetric god rays, fine film grain. Inception-style folding architecture — the Venetian city curls upward and hangs inverted overhead like a mirrored ceiling. The woman always stays under normal gravity while the world folds around her. Continuous camera motion, no hard cuts.
+
+[TIMELINE PROMPT]
+
+0–3s: Lateral tracking shot along a stone quay by the Grand Canal at sunset. The young woman in a teal coat sprints past camera, clutching a yellow envelope. Above her the entire city hangs upside down, mirrored — a man in a bowler hat walks a dachshund across the inverted street. A red umbrella drifts weightlessly between the two worlds. Pigeons scatter through the amber light.
+
+3–6s: Camera follows behind her into a narrow Venetian alley, dry leaves swirling in her wake. At the far end the street peels upward into the sky, buildings stacking vertically like a wall of windows. Her footsteps echo between the stone walls.
+
+6–9s: The camera slowly rolls 90 degrees. The alley wall becomes the ground beneath her feet; she keeps running, unfazed. The roll continues into a wide orbit as she races up a floating spiral stone staircase suspended in mid-air, fragments of terracotta Venetian rooftops rotating around her like a kaleidoscope.
+
+9–12s: Extreme wide silhouette. She runs across the top of an arched stone bridge over a wide canal against the blazing setting sun. The mirrored city hangs both above and below the arch. On the inverted plane, a lone pedestrian walks the opposite direction. Birds burst across the frame in slow motion.
+
+12–15s: Low angle looking straight up between two towering building walls, the sky a thin bright strip. She leaps across the vertical chasm, arms spread wide, coat and hair flying, satchel swinging. Camera holds on her against the sky. Wind roars.
+
+15–18s: Handheld push-in through a crowded 1940s Rialto market street — vendors stacking crates of apples, laundry strung overhead between the buildings. She weaves between blurred foreground shoppers, running away from camera. An apple rolls loose across the cobblestones.
+
+18–21s: Camera tilts up a grand brick bell tower — a Venetian campanile — as the surrounding city folds and curls around it. The woman appears tiny on the tower ledge, pauses against the sun, then steps off toward the rooftops. Bells begin to ring.
+
+21–24s: Rooftop terrace garden framed by a rose-covered arbor. An elderly woman in a grey cardigan waters a bed of vivid flowers with a tin can. Behind her, Venice and the domes of St Mark's Basilica glow at sunset over the lagoon while the inverted city hangs overhead. The young woman balances along the stone balustrade, arms out, then jumps down onto the terrace.
+
+24–27s: She holds out the yellow envelope. The old woman turns, sets down the watering can, and takes it. Both smile warmly at each other. Rose petals drift upward past them, falling toward the inverted sky.
+
+27–30s: Camera pulls back and rises fast. The whole city folds and rotates until it becomes a top-down aerial of Venice's canals and streets curling into a sphere. The two tiny figures remain on the terrace. Slow fade to warm light.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
 <a name="prompt-2100038053498917288"></a>
 
 ### Morning in a luxury suite, a first-person POV shot of two East Asian women in silk nightwear lounging in bed, presenting a cinematic texture and soft morning light.
@@ -3049,6 +3141,30 @@ Subject: Japanese girl\nStyle: Contemporary editorial illustration, conceptual a
 <a name="category-sketch-line-art"></a>
 
 ## Sketch / Line Art
+
+<a name="prompt-2101315631237021853"></a>
+
+### A prompt template for creating vintage minimalist architectural sketch posters featuring landmarks with geometric accents and typography.
+
+Author：[@Naiknelofar788](https://x.com/Naiknelofar788) · [Source](https://x.com/Naiknelofar788/status/2101315631237021853)
+
+Poster / Flyer · Sketch / Line Art · Retro / Vintage · Minimalism · Architecture / Interior · Text / Typography · Published
+
+**Summary:** A prompt template for creating vintage minimalist architectural sketch posters featuring landmarks with geometric accents and typography.
+
+<img src="images/2101315631237021853-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2101315631237021853-2.jpg" alt="Image 2" width="480" />
+
+**Prompt**
+
+```text
+A sophisticated minimalist architectural art poster featuring [LANDMARK / STRUCTURE] as the central subject, illustrated in a refined hand-drawn architectural sketch style. Preserve the landmark’s recognizable silhouette, proportions, and defining architectural details, while transforming it into an elegant artistic composition.\n\nUse a limited monochromatic color palette inspired by the location, with soft vintage tones on a warm ivory/off-white paper background. Combine delicate ink lines, fine architectural hatching, subtle halftone texture, and lightly distressed print details.\n\nSurround the structure with a few abstract geometric shapes, soft translucent circles, subtle atmospheric elements, birds, or tiny contextual details that complement the landmark without overpowering it. Add a subtle sense of depth through overlapping layers and faded linework.\n\nInclude small minimalist typography on one side: [CITY / COUNTRY], [LANDMARK NAME], and optional coordinates or a short location descriptor, arranged like a premium travel-art print.\n\nClean negative space, editorial graphic design, museum-quality travel poster aesthetic, elegant composition, understated luxury, vintage screen-print texture, artistic architectural illustration, no people, no photorealistic background, no unnecessary objects, 4:5 vertical composition.\n\n[LANDMARK] reimagined as a collectible minimalist travel-art poster, combining architectural sketching, vintage printmaking, geometric abstract shapes, delicate linework, halftone texture, muted location-inspired colors, and elegant negative space. The landmark remains instantly recognizable but feels like a hand-crafted piece of modern graphic art. Add tiny birds, subtle environmental elements, coordinates, and minimal location typography. Premium editorial aesthetic, artistic, sophisticated, highly shareable, 4:5 vertical.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097284686448046135"></a>
 

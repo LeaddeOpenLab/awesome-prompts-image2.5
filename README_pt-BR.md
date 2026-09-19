@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**150** Prompts · Última adição: **2026-09-19**
+**153** Prompts · Última adição: **2026-09-19**
 
 <a name="catalog"></a>
 
@@ -555,6 +555,28 @@ Fotografia · Paisagem / Natureza · Publicado
 
 ```text
 Foto de uma clareira na floresta com muita folhagem verde, altamente detalhada
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2101297254481223763"></a>
+
+### Tradução em andamento
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicação original](https://x.com/CyberTotal2026/status/2101297254481223763)
+
+Fotografia · Retrato / Selfie · Personagem · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2101297254481223763-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -2055,6 +2077,28 @@ Retrato em alta resolução de um homem do sul da Ásia de 23 anos com os olhos 
 
 ## Cinematográfico / Imagem de Filme
 
+<a name="prompt-2101248200787320961"></a>
+
+### Tradução em andamento
+
+Autor：[@oggii\_0](https://x.com/oggii_0) · [Publicação original](https://x.com/oggii_0/status/2101248200787320961)
+
+Cinematográfico / Imagem de Filme · Personagem · Arquitetura / Interiores · Paisagem Urbana / Rua · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2101248200787320961.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
 <a name="prompt-2100038053498917288"></a>
 
 ### Tradução em andamento
@@ -2381,6 +2425,30 @@ Estilo: Ilustração editorial contemporânea, formas conceituais e simplificada
 <a name="category-sketch-line-art"></a>
 
 ## Esboço / Arte Linear
+
+<a name="prompt-2101315631237021853"></a>
+
+### Tradução em andamento
+
+Autor：[@Naiknelofar788](https://x.com/Naiknelofar788) · [Publicação original](https://x.com/Naiknelofar788/status/2101315631237021853)
+
+Pôster / Flyer · Esboço / Arte Linear · Retrô / Vintage · Minimalismo · Arquitetura / Interiores · Texto / Tipografia · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2101315631237021853-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2101315631237021853-2.jpg" alt="Imagem 2" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2097284686448046135"></a>
 

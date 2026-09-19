@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**150** Prompts · Zuletzt hinzugefügt: **2026-09-19**
+**153** Prompts · Zuletzt hinzugefügt: **2026-09-19**
 
 <a name="catalog"></a>
 
@@ -555,6 +555,28 @@ Fotografie · Landschaft / Natur · Veröffentlicht
 
 ```text
 Foto einer Waldlichtung mit viel grünem Blattwerk, sehr detailliert
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2101297254481223763"></a>
+
+### Übersetzung läuft
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Originalbeitrag](https://x.com/CyberTotal2026/status/2101297254481223763)
+
+Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2101297254481223763-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -2037,6 +2059,28 @@ Hochauflösendes Porträt eines 23-jährigen südasiatischen Mannes mit geschlos
 
 ## Kinematisch / Filmstill
 
+<a name="prompt-2101248200787320961"></a>
+
+### Übersetzung läuft
+
+Autor：[@oggii\_0](https://x.com/oggii_0) · [Originalbeitrag](https://x.com/oggii_0/status/2101248200787320961)
+
+Kinematisch / Filmstill · Charakter · Architektur / Interieur · Stadtbild / Straße · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2101248200787320961.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
 <a name="prompt-2100038053498917288"></a>
 
 ### Übersetzung läuft
@@ -2388,6 +2432,30 @@ Stil: Zeitgenössische redaktionelle Illustration, konzeptionelle und vereinfach
 <a name="category-sketch-line-art"></a>
 
 ## Skizze / Strichzeichnung
+
+<a name="prompt-2101315631237021853"></a>
+
+### Übersetzung läuft
+
+Autor：[@Naiknelofar788](https://x.com/Naiknelofar788) · [Originalbeitrag](https://x.com/Naiknelofar788/status/2101315631237021853)
+
+Plakat / Flyer · Skizze / Strichzeichnung · Retro / Vintage · Minimalismus · Architektur / Interieur · Text / Typografie · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2101315631237021853-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2101315631237021853-2.jpg" alt="Bild 2" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2097284686448046135"></a>
 

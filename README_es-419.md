@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**150** Prompts · Última incorporación: **2026-09-19**
+**153** Prompts · Última incorporación: **2026-09-19**
 
 <a name="catalog"></a>
 
@@ -555,6 +555,28 @@ Fotografía · Paisaje / Naturaleza · Publicado
 
 ```text
 Foto de un claro en el bosque con mucho follaje verde, muy detallada
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2101297254481223763"></a>
+
+### Traducción en curso
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicación original](https://x.com/CyberTotal2026/status/2101297254481223763)
+
+Fotografía · Retrato / Selfie · Personaje · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2101297254481223763-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -2037,6 +2059,28 @@ Retrato de alta resolución de un hombre del sur de Asia de 23 años con los ojo
 
 ## Cine / Fotograma
 
+<a name="prompt-2101248200787320961"></a>
+
+### Traducción en curso
+
+Autor：[@oggii\_0](https://x.com/oggii_0) · [Publicación original](https://x.com/oggii_0/status/2101248200787320961)
+
+Cine / Fotograma · Personaje · Arquitectura / Interiores · Paisaje urbano / Calle · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2101248200787320961.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
 <a name="prompt-2100038053498917288"></a>
 
 ### Traducción en curso
@@ -2388,6 +2432,30 @@ Estilo: Ilustración editorial contemporánea, formas conceptuales y simplificad
 <a name="category-sketch-line-art"></a>
 
 ## Boceto / Arte lineal
+
+<a name="prompt-2101315631237021853"></a>
+
+### Traducción en curso
+
+Autor：[@Naiknelofar788](https://x.com/Naiknelofar788) · [Publicación original](https://x.com/Naiknelofar788/status/2101315631237021853)
+
+Póster / Volante · Boceto / Arte lineal · Retro / Vintage · Minimalismo · Arquitectura / Interiores · Texto / Tipografía · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2101315631237021853-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2101315631237021853-2.jpg" alt="Imagen 2" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2097284686448046135"></a>
 

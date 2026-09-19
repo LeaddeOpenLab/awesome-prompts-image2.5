@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**150** Prompt · Son eklenen: **2026-09-19**
+**153** Prompt · Son eklenen: **2026-09-19**
 
 <a name="catalog"></a>
 
@@ -555,6 +555,28 @@ Fotoğrafçılık · Manzara / Doğa · Yayımlandı
 
 ```text
 Ormanda bol yeşil yaprakları olan bir açıklığın fotoğrafı, son derece detaylı
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2101297254481223763"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Orijinal gönderi](https://x.com/CyberTotal2026/status/2101297254481223763)
+
+Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2101297254481223763-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -2055,6 +2077,28 @@ Gözleri kapalı ve başı dingin bir ifadeyle geriye eğilmiş, dağınık siya
 
 ## Sinematik / Film Karesi
 
+<a name="prompt-2101248200787320961"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@oggii\_0](https://x.com/oggii_0) · [Orijinal gönderi](https://x.com/oggii_0/status/2101248200787320961)
+
+Sinematik / Film Karesi · Karakter · Mimari / İç Mekan · Şehir Manzarası / Sokak · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2101248200787320961.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
 <a name="prompt-2100038053498917288"></a>
 
 ### Çeviri sürüyor
@@ -2381,6 +2425,30 @@ Tarz: Çağdaş editoryal illüstrasyon, kavramsal ve basitleştirilmiş formlar
 <a name="category-sketch-line-art"></a>
 
 ## Çizim / Çizgi Sanatı
+
+<a name="prompt-2101315631237021853"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@Naiknelofar788](https://x.com/Naiknelofar788) · [Orijinal gönderi](https://x.com/Naiknelofar788/status/2101315631237021853)
+
+Poster / El İlanı · Çizim / Çizgi Sanatı · Retro / Vintage · Minimalizm · Mimari / İç Mekan · Metin / Tipografi · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2101315631237021853-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2101315631237021853-2.jpg" alt="Görsel 2" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2097284686448046135"></a>
 

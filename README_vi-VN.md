@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**150** Prompt · Bổ sung mới nhất: **2026-09-19**
+**153** Prompt · Bổ sung mới nhất: **2026-09-19**
 
 <a name="catalog"></a>
 
@@ -560,6 +560,28 @@ Nhiếp ảnh · Phong cảnh / Thiên nhiên · Đã xuất bản
 
 ```text
 Ảnh chụp một bãi đất trống trong rừng với nhiều tán lá xanh tươi, rất chi tiết
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2101297254481223763"></a>
+
+### Đang dịch
+
+Tác giả：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Bài gốc](https://x.com/CyberTotal2026/status/2101297254481223763)
+
+Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2101297254481223763-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
 ```
 
 [↑ Về danh mục](#catalog)
@@ -2082,6 +2104,28 @@ Bức chân dung độ phân giải cao của một người đàn ông Nam Á 2
 
 ## Điện ảnh / Ảnh tĩnh từ phim
 
+<a name="prompt-2101248200787320961"></a>
+
+### Đang dịch
+
+Tác giả：[@oggii\_0](https://x.com/oggii_0) · [Bài gốc](https://x.com/oggii_0/status/2101248200787320961)
+
+Điện ảnh / Ảnh tĩnh từ phim · Nhân vật · Kiến trúc / Nội thất · Quang cảnh thành phố / Đường phố · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2101248200787320961.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
 <a name="prompt-2100038053498917288"></a>
 
 ### Đang dịch
@@ -2423,6 +2467,30 @@ Phong cách: Minh họa biên tập đương đại, hình khối mang tính kh�
 <a name="category-sketch-line-art"></a>
 
 ## Phác Thảo / Nét Vẽ
+
+<a name="prompt-2101315631237021853"></a>
+
+### Đang dịch
+
+Tác giả：[@Naiknelofar788](https://x.com/Naiknelofar788) · [Bài gốc](https://x.com/Naiknelofar788/status/2101315631237021853)
+
+Áp phích / Tờ rơi · Phác Thảo / Nét Vẽ · Cổ điển / Cổ điển · Chủ nghĩa tối giản · Kiến trúc / Nội thất · Văn bản / Kiểu chữ · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2101315631237021853-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2101315631237021853-2.jpg" alt="Hình ảnh 2" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2097284686448046135"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**150** Prompts · Dernier ajout: **2026-09-19**
+**153** Prompts · Dernier ajout: **2026-09-19**
 
 <a name="catalog"></a>
 
@@ -555,6 +555,28 @@ Photographie · Paysage / Nature · Publié
 
 ```text
 Photo d'une clairière dans les bois avec un feuillage vert abondant, très détaillée
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2101297254481223763"></a>
+
+### Traduction en cours
+
+Auteur：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publication originale](https://x.com/CyberTotal2026/status/2101297254481223763)
+
+Photographie · Portrait / Selfie · Personnage · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2101297254481223763-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -2037,6 +2059,28 @@ Portrait haute résolution d'un homme sud-asiatique de 23 ans aux yeux fermés e
 
 ## Image cinématographique / Photogramme de film
 
+<a name="prompt-2101248200787320961"></a>
+
+### Traduction en cours
+
+Auteur：[@oggii\_0](https://x.com/oggii_0) · [Publication originale](https://x.com/oggii_0/status/2101248200787320961)
+
+Image cinématographique / Photogramme de film · Personnage · Architecture / Intérieur · Paysage urbain / Rue · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2101248200787320961.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
 <a name="prompt-2100038053498917288"></a>
 
 ### Traduction en cours
@@ -2388,6 +2432,30 @@ Style : Illustration éditoriale contemporaine, formes conceptuelles et simplifi
 <a name="category-sketch-line-art"></a>
 
 ## Croquis / Dessin au trait
+
+<a name="prompt-2101315631237021853"></a>
+
+### Traduction en cours
+
+Auteur：[@Naiknelofar788](https://x.com/Naiknelofar788) · [Publication originale](https://x.com/Naiknelofar788/status/2101315631237021853)
+
+Affiche / Flyer · Croquis / Dessin au trait · Rétro / Vintage · Minimalisme · Architecture / Intérieur · Texte / Typographie · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2101315631237021853-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2101315631237021853-2.jpg" alt="Image 2" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2097284686448046135"></a>
 
