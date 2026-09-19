@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**140** Prompts · Latest addition: **2026-09-18**
+**143** Prompts · Latest addition: **2026-09-19**
 
 <a name="catalog"></a>
 
@@ -617,6 +617,96 @@ Photography · Landscape / Nature · Published
 
 ```text
 Photo of a clearing in the woods with lots of green foliage, highly detailed
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2101145547067506779"></a>
+
+### A photorealistic nighttime street portrait of a smiling young East Asian woman holding a compact camera in denim-on-denim fashion.
+
+Author：[@Aqsahere\_](https://x.com/Aqsahere_) · [Source](https://x.com/Aqsahere_/status/2101145547067506779)
+
+Photography · Portrait / Selfie · Character · Fashion Item · Cityscape / Street · Published
+
+**Summary:** A photorealistic nighttime street portrait of a smiling young East Asian woman holding a compact camera in denim-on-denim fashion.
+
+<img src="images/2101145547067506779-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2101145547067506779-2.jpg" alt="Image 2" width="480" />
+
+**Prompt**
+
+```text
+A photorealistic nighttime street-fashion portrait of a young woman standing on a city sidewalk, holding a compact digital camera in both hands as if taking a photo. She has long dark black-brown hair styled into a neat low bun, with soft face-framing strands falling naturally on both sides of her face. A small elegant silver decorative hair clip is attached to the bun.\nShe has delicate youthful facial features, natural smooth skin, subtle rosy cheeks, soft pink lips, and a bright genuine smile. She is looking slightly downward toward the camera in her hands with a cheerful, candid expression.\nShe is wearing an oversized light-blue denim jacket with a slightly faded wash and subtle sparkling/speckled detailing, layered over a simple light-gray fitted T-shirt. She pairs it with high-waisted light-wash denim jeans for a coordinated denim-on-denim streetwear look. A thin delicate silver necklace with a tiny pendant rests around her neck. A black wrist strap is attached to the compact camera.\nShe holds a small black compact digital camera horizontally at chest level, with her left hand gripping the camera body and her right index finger pointing toward or touching the camera controls. The camera is clearly visible and detailed, with a prominent circular lens.\nThe background is a lively urban street at night, filled with softly glowing storefronts, illuminated signs, streetlights, passing cars, trees, and distant pedestrians. The background lights create beautiful circular bokeh and colorful points of light while keeping the woman sharply in focus. A tall streetlamp glows behind her, illuminating the surrounding tree canopy.\nComposition: vertical 4:5 portrait, medium-to-full body framing, subject centered slightly to the right, camera positioned around chest height, natural candid perspective, compact camera clearly visible in the foreground.\nLighting: nighttime ambient city lighting mixed with warm streetlamp illumination, soft highlights on her face and hair, gentle rim light around her silhouette, realistic shadows, colorful bokeh in the background, cinematic low-light atmosphere.\nPhotography style: ultra-realistic smartphone photography, candid Korean/Asian street-fashion aesthetic, natural skin texture, realistic hair strands, detailed denim fibers, authentic camera details, shallow depth of field, strong subject separation, subtle film grain, realistic nighttime exposure, soft cinematic color grading, high detail, 4K.\nNegative prompt: anime, cartoon, illustration, CGI, 3D render, plastic skin, excessive beauty filter, unrealistic face, distorted anatomy, malformed hands, extra fingers, missing fingers, fused fingers, distorted camera, warped clothing, artificial hair, oversaturated colors, unnatural bokeh, harsh studio lighting, blurry subject, low resolution, text, watermark, logo.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2101121597423984903"></a>
+
+### An ultra-close-up selfie photo prompt of a woman bathed in morning light, winking and slightly sticking out her tongue.
+
+Author：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Source](https://x.com/CyberTotal2026/status/2101121597423984903)
+
+Photography · Portrait / Selfie · Character · Published
+
+**Summary:** An ultra-close-up selfie photo prompt of a woman bathed in morning light, winking and slightly sticking out her tongue.
+
+<img src="images/2101121597423984903-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Subject:
+Morning Light Remaining in One Eye
+
+Subject Matter:
+In the center of the frame, inside a bright room with white curtains, a playful close-up of a young woman bringing her face extremely close to the lens, opening her right eye while closing her left eye, and slightly sticking out the tip of her tongue. A bent bare knee occupies a prominent area from the bottom left toward the center, and a thin, pale shoulder strap is visible in the bottom right.
+
+Character & Expression:
+Near-black dark brown hair casually gathered at the back, with fine, wet-look stray strands falling across her forehead and cheeks. A round, dark brown right eye, long eyelashes, natural eyebrows, faint blush on her cheeks, and glossy pink lips. Facing directly forward, with only her left eye closed and her mouth open, sticking out the tip of her tongue slightly toward the left in a mischievous expression.
+
+Clothing & Pose:
+A pale gray thin-strap camisole top visible only in the bottom right of the frame. One knee is bent high as if hugged up toward the chest, brought close to the bottom left of her face, while her upper body and face lean extremely close to the camera. Arms and hands are outside the frame.
+
+Background & Lighting:
+The background is a simple room where only sheer white curtains on the left and pale woodwork on the right are softly blurred. Gentle natural morning light enters from a window behind to the left, casting a warm rim light along the contours of her hair and shoulder, and creating smooth, subtle highlights across her entire face and knee.
+
+Composition & Camera:
+3:4 vertical composition, captured from an ultra-short distance just tens of centimeters in front of her face using a standard-leaning lens for a close-up that fills the frame with her forehead, both eyes, nose, mouth, chin, and knee. Hair and parts of the face are cropped boldly at the top, left, and right edges, placing the knee largely in the left foreground. Sharp focus on the open right eye and lips, with an extremely shallow depth of field across the knee and background.
+
+Texture & Style:
+Photorealistic live-action photograph. High definition in the reflections of the pupil, individual eyelashes and flyaway hairs, natural skin pores, glossy lips and tongue, and soft knee skin, maintaining an intimate selfie feel under morning window light.
+
+Negative:
+Changes to expressions with both eyes open or without sticking out the tongue; changes to a composition placed further away from the face
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2101149782836150767"></a>
+
+### A photorealistic portrait prompt of a woman in a black crop top and shorts leaning against a pillar, crouching deeply and stretching in a room bathed in morning light.
+
+Author：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Source](https://x.com/CyberTotal2026/status/2101149782836150767)
+
+Photography · Portrait / Selfie · Character · Architecture / Interior · Published
+
+**Summary:** A photorealistic portrait prompt of a woman in a black crop top and shorts leaning against a pillar, crouching deeply and stretching in a room bathed in morning light.
+
+<img src="images/2101149782836150767-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Subject: Black stretch beside a pillar. Main Subject: In the center of the frame, beside a thick off-white pillar in an indoor room illuminated by morning sunlight, a young woman crouches deeply and stretches both arms overhead. A black cropped top, shorts, and white high-top sneakers are the focal elements. Person / Facial Expression: Slender oval face, small chin, light brown almond-shaped eyes, thin eyebrows, clean nasal bridge, slightly parted glossy pink lips. Face tilted slightly to the left, casting a calm gaze directly at the camera. Long, dark brown wavy hair with wispy bangs cascades over both shoulders and her chest. Clothing / Pose: A black ribbed crop top with thin shoulder straps featuring a deep scoop neckline and ending above the waist; black low-rise shorts with thin double straps at both hips. Wearing off-white platform high-top sneakers. Resting her back against the pillar, she crouches deeply with both knees spread wide apart to the sides, stretching both arms overhead, supporting her right wrist with her left hand, and resting the fingers of her right hand against the pillar. Background / Lighting: A thick off-white pillar in the center of the frame; a large black-framed window and a potted plant on the left side of the frame; a wooden stool, a picture frame, and plants on the right side; a glossy parquet floor below. Harsh, direct morning sunlight from the window on the left illuminates her hair, face, abdomen, and legs, casting long shadows across the floor and pillar. Composition / Camera: Vertical 3:4 composition, frontal camera angled slightly lower than the crouching figure's chest, capturing the entire body from the overhead fingertips down to both shoes. The figure is placed prominently in the center, overlapping the vertical line of the pillar with her raised arms, while her spread knees expand across the lower half. Fingertips and shoes are kept within the frame, with sharp focus on the face and upper body, and the deeper interior softly blurred. Texture / Style: Photorealistic live-action photograph. High-definition rendering of natural skin, soft long hair, black ribbed fabric, white leather shoes, textured pillar, and glossy wooden floor, under bright morning light in tones of black, off-white, and honey. Negative: Altering the deep wide-legged crouch and overhead arms; altering the black-and-white color scheme
 ```
 
 [↑ Back to categories](#catalog)

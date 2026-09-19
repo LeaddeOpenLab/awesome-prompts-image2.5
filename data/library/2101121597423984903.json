@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-19T04:26:58.812Z",
+  "model": "image2",
+  "prompt": "主題：\n片目に残る朝の光\n\n主体：\n画面中央、白いカーテンのある明るい室内で若い女性がレンズへ顔を極端に近づけ、右目を開いて左目をつぶり、舌先を少し出す遊び心のあるクローズアップ。左下から中央には曲げた裸の膝が大きく入り、右下に細い淡色の肩紐が見える。\n\n人物・表情：\n黒に近いダークブラウンの髪を後ろで無造作にまとめ、額と頬に濡れたような細い後れ毛を落とす。丸い濃い茶色の右目、長い睫毛、自然な眉、淡い頬、艶のあるピンクの唇。顔を正面へ向け、左目だけを閉じ、口を開いて舌先を左寄りに出す茶目っ気のある表情。\n\n服装・ポーズ：\n画面右下にだけ見える淡いグレーの細肩紐キャミソールトップ。片膝を胸元まで高く抱えるように曲げて顔の左下へ寄せ、上体と顔をカメラへ極端に近づける。腕と手は画面外に置く。\n\n背景・光：\n背景は画面左の白い薄手カーテンと画面右の淡い木部だけがぼんやり見える簡素な室内。左後方の窓から柔らかな朝の自然光が入り、髪の輪郭と肩に暖かな縁光、顔全体と膝に均一で淡いハイライトを作る。\n\n構図・カメラ：\n3:4の縦構図、顔の数十センチ前に置いた超近距離カメラの標準寄りレンズでクローズアップにし、額、両目、鼻、口、顎、膝を画面いっぱいに収める。髪と顔の一部を上左右で大胆に裁切し、膝を左前景へ大きく置く。開いた右目と唇に鋭いピント、膝と背景はごく浅い被写界深度。\n\n質感・スタイル：\nフォトリアルな実写写真。瞳の反射、一本ずつの睫毛と後れ毛、自然な毛穴、艶のある唇と舌、柔らかな膝の肌を高精細にし、朝の窓光による親密なセルフィー感を保つ。\n\nネガティブ：\n両目を開く・舌を出さない表情への変更；顔から離れた構図への変更",
+  "promptTranslations": {
+    "en": "Subject:\nMorning Light Remaining in One Eye\n\nSubject Matter:\nIn the center of the frame, inside a bright room with white curtains, a playful close-up of a young woman bringing her face extremely close to the lens, opening her right eye while closing her left eye, and slightly sticking out the tip of her tongue. A bent bare knee occupies a prominent area from the bottom left toward the center, and a thin, pale shoulder strap is visible in the bottom right.\n\nCharacter & Expression:\nNear-black dark brown hair casually gathered at the back, with fine, wet-look stray strands falling across her forehead and cheeks. A round, dark brown right eye, long eyelashes, natural eyebrows, faint blush on her cheeks, and glossy pink lips. Facing directly forward, with only her left eye closed and her mouth open, sticking out the tip of her tongue slightly toward the left in a mischievous expression.\n\nClothing & Pose:\nA pale gray thin-strap camisole top visible only in the bottom right of the frame. One knee is bent high as if hugged up toward the chest, brought close to the bottom left of her face, while her upper body and face lean extremely close to the camera. Arms and hands are outside the frame.\n\nBackground & Lighting:\nThe background is a simple room where only sheer white curtains on the left and pale woodwork on the right are softly blurred. Gentle natural morning light enters from a window behind to the left, casting a warm rim light along the contours of her hair and shoulder, and creating smooth, subtle highlights across her entire face and knee.\n\nComposition & Camera:\n3:4 vertical composition, captured from an ultra-short distance just tens of centimeters in front of her face using a standard-leaning lens for a close-up that fills the frame with her forehead, both eyes, nose, mouth, chin, and knee. Hair and parts of the face are cropped boldly at the top, left, and right edges, placing the knee largely in the left foreground. Sharp focus on the open right eye and lips, with an extremely shallow depth of field across the knee and background.\n\nTexture & Style:\nPhotorealistic live-action photograph. High definition in the reflections of the pupil, individual eyelashes and flyaway hairs, natural skin pores, glossy lips and tongue, and soft knee skin, maintaining an intimate selfie feel under morning window light.\n\nNegative:\nChanges to expressions with both eyes open or without sticking out the tongue; changes to a composition placed further away from the face"
+  },
+  "summaryTranslations": {
+    "en": "An ultra-close-up selfie photo prompt of a woman bathed in morning light, winking and slightly sticking out her tongue."
+  },
+  "translationVersion": 2,
+  "summary": "朝の光を浴びてウインクし舌を少し出す女性の超近接セルフィー写真プロンプト。",
+  "summaryEn": "A photorealistic portrait prompt of a young woman winking and playfully sticking her tongue out in a morning selfie close-up.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2101121597423984903",
+    "canonicalUrl": "https://x.com/CyberTotal2026/status/2101121597423984903",
+    "author": {
+      "username": "CyberTotal2026",
+      "displayName": "Prompt アトリエ｜AI画像プロンプト",
+      "profileUrl": "https://x.com/CyberTotal2026"
+    },
+    "publishedAt": "2026-09-19T01:30:00.000Z",
+    "collectedAt": "2026-09-19T04:17:21.560Z",
+    "language": "ja",
+    "originalText": "近すぎるくらいが、今日はちょうどいい。片目つぶって、おはようの合図😉☀️🫧\n\n#AIart #AI写真 #朝のセルフィー\n\n【GPT Image2プロンプト】\n\n主題：\n片目に残る朝の光\n\n主体：\n画面中央、白いカーテンのある明るい室内で若い女性がレンズへ顔を極端に近づけ、右目を開いて左目をつぶり、舌先を少し出す遊び心のあるクローズアップ。左下から中央には曲げた裸の膝が大きく入り、右下に細い淡色の肩紐が見える。\n\n人物・表情：\n黒に近いダークブラウンの髪を後ろで無造作にまとめ、額と頬に濡れたような細い後れ毛を落とす。丸い濃い茶色の右目、長い睫毛、自然な眉、淡い頬、艶のあるピンクの唇。顔を正面へ向け、左目だけを閉じ、口を開いて舌先を左寄りに出す茶目っ気のある表情。\n\n服装・ポーズ：\n画面右下にだけ見える淡いグレーの細肩紐キャミソールトップ。片膝を胸元まで高く抱えるように曲げて顔の左下へ寄せ、上体と顔をカメラへ極端に近づける。腕と手は画面外に置く。\n\n背景・光：\n背景は画面左の白い薄手カーテンと画面右の淡い木部だけがぼんやり見える簡素な室内。左後方の窓から柔らかな朝の自然光が入り、髪の輪郭と肩に暖かな縁光、顔全体と膝に均一で淡いハイライトを作る。\n\n構図・カメラ：\n3:4の縦構図、顔の数十センチ前に置いた超近距離カメラの標準寄りレンズでクローズアップにし、額、両目、鼻、口、顎、膝を画面いっぱいに収める。髪と顔の一部を上左右で大胆に裁切し、膝を左前景へ大きく置く。開いた右目と唇に鋭いピント、膝と背景はごく浅い被写界深度。\n\n質感・スタイル：\nフォトリアルな実写写真。瞳の反射、一本ずつの睫毛と後れ毛、自然な毛穴、艶のある唇と舌、柔らかな膝の肌を高精細にし、朝の窓光による親密なセルフィー感を保つ。\n\nネガティブ：\n両目を開く・舌を出さない表情への変更；顔から離れた構図への変更",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSCw4BHa8AA4-73.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSCw4BHa8AA4-73.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 40,
+      "repostCount": 3,
+      "replyCount": 5,
+      "quoteCount": 4,
+      "viewCount": 1855
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]",
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/CyberTotal2026/status/2101121597423984903",
+  "coverUrl": "https://pbs.twimg.com/media/HSCw4BHa8AA4-73.jpg",
+  "coverPath": "images/2101121597423984903-1.jpg",
+  "imagePaths": [
+    "images/2101121597423984903-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSCw4BHa8AA4-73",
+    "x-post:2101121597423984903"
+  ],
+  "analysis": {
+    "summary": "朝の光を浴びてウインクし舌を少し出す女性の超近接セルフィー写真プロンプト。",
+    "summaryEn": "A photorealistic portrait prompt of a young woman winking and playfully sticking her tongue out in a morning selfie close-up.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The generated image exactly matches the prompt: an extreme close-up of a young woman winking with her left eye, sticking out her tongue, wearing a light-colored camisole with a raised knee in the foreground and morning natural light."
+    },
+    "videoQuality": null,
+    "originalPrompt": "主題：\n片目に残る朝の光\n\n主体：\n画面中央、白いカーテンのある明るい室内で若い女性がレンズへ顔を極端に近づけ、右目を開いて左目をつぶり、舌先を少し出す遊び心のあるクローズアップ。左下から中央には曲げた裸の膝が大きく入り、右下に細い淡色の肩紐が見える。\n\n人物・表情：\n黒に近いダークブラウンの髪を後ろで無造作にまとめ、額と頬に濡れたような細い後れ毛を落とす。丸い濃い茶色の右目、長い睫毛、自然な眉、淡い頬、艶のあるピンクの唇。顔を正面へ向け、左目だけを閉じ、口を開いて舌先を左寄りに出す茶目っ気のある表情。\n\n服装・ポーズ：\n画面右下にだけ見える淡いグレーの細肩紐キャミソールトップ。片膝を胸元まで高く抱えるように曲げて顔の左下へ寄せ、上体と顔をカメラへ極端に近づける。腕と手は画面外に置く。\n\n背景・光：\n背景は画面左の白い薄手カーテンと画面右の淡い木部だけがぼんやり見える簡素な室内。左後方の窓から柔らかな朝の自然光が入り、髪の輪郭と肩に暖かな縁光、顔全体と膝に均一で淡いハイライトを作る。\n\n構図・カメラ：\n3:4の縦構図、顔の数十センチ前に置いた超近距離カメラの標準寄りレンズでクローズアップにし、額、両目、鼻、口、顎、膝を画面いっぱいに収める。髪と顔の一部を上左右で大胆に裁切し、膝を左前景へ大きく置く。開いた右目と唇に鋭いピント、膝と背景はごく浅い被写界深度。\n\n質感・スタイル：\nフォトリアルな実写写真。瞳の反射、一本ずつの睫毛と後れ毛、自然な毛穴、艶のある唇と舌、柔らかな膝の肌を高精細にし、朝の窓光による親密なセルフィー感を保つ。\n\nネガティブ：\n両目を開く・舌を出さない表情への変更；顔から離れた構図への変更",
+    "sourceRange": {
+      "start": 81,
+      "end": 796
+    },
+    "translations": {
+      "zh": "主题：\n留在单眼的晨光\n\n主体：\n画面中央，在有白色窗帘的明亮室内，年轻女性脸部极度贴近镜头，睁开右眼闭上左眼，俏皮微吐舌尖的特写。左下到中央大幅露出弯曲的光滑膝盖，右下方露出浅色细肩带。\n\n人物与表情：\n近乎黑色的深棕发在脑后随意挽起，额头和脸颊散落细微微湿碎发。圆润深棕右眼、长睫毛、自然眉形、淡红面颊与水润粉唇。正脸面向镜头，仅闭左眼，张嘴偏左微吐舌尖的俏皮神态。\n\n服装与姿势：\n仅右下角可见的浅灰色细肩带背心上衣。单膝抬高抱至胸前贴近脸部左下方，上半身与脸部极度靠近镜头。手臂与手在画面外。\n\n背景与光线：\n背景为画面左侧白色薄纱窗帘与右侧浅色木质隐约可见的简约室内。左后方窗户射入柔和晨光，在发丝轮廓和肩膀形成暖调轮廓光，整张脸与膝盖呈现均匀淡雅高光。\n\n构图与镜头：\n3:4竖画幅，置于脸部数十厘米前的超近距镜头特写，额头、双眼、鼻、嘴、下巴和膝盖占满画面。头发与面部在上下左右大幅裁切，膝盖置于左前方前景。睁开的右眼和唇部锐利对焦，膝盖和背景为极浅景深。\n\n质感与风格：\n超写实真实照片。高精细呈现瞳孔反光、根根分明的睫毛与碎发、自然毛孔、水润唇舌以及柔嫩膝盖肌肤，保持晨间窗光下的亲昵自拍感。\n\n负面提示：\n变为双眼睁开或不吐舌的表情；变为远离面部的构图",
+      "en": "Theme:\nMorning light in one eye\n\nSubject:\nIn the center, in a bright room with white curtains, an extreme close-up of a young woman leaning very close to the lens, right eye open, left eye closed, playfully sticking out the tip of her tongue. A bare bent knee prominently occupies the bottom left to center, and a thin light strap is visible at the bottom right.\n\nPerson & Expression:\nNear-black dark brown hair loosely tied back, fine damp wisps on forehead and cheeks. Round dark brown right eye, long lashes, natural brows, soft cheeks, glossy pink lips. Face forward, left eye closed, mouth open with tongue tip slightly to the left in a cheeky expression.\n\nClothing & Pose:\nLight grey thin-strap camisole top visible only at the bottom right. One knee raised high near the left-lower face, upper body and face extremely close to camera. Hands and arms outside frame.\n\nBackground & Light:\nSimple interior with sheer white curtains on the left and soft wooden tones on the right. Soft morning light from the left window creates warm rim lighting on hair and shoulder, with soft highlights on face and knee.\n\nComposition & Camera:\n3:4 vertical close-up, camera tens of centimeters from face. Head, eyes, nose, mouth, chin, and knee fill the frame with cropping. Sharp focus on right eye and lips; shallow depth of field on knee and background.\n\nTexture & Style:\nPhotorealistic photo. High-detail eye reflections, eyelashes, skin pores, glossy lips/tongue, and soft skin tones under morning window light.\n\nNegative:\nChanges to opening both eyes, not sticking tongue out, or pulling away from the face"
+    },
+    "targetModels": [
+      "image2"
+    ],
+    "category": "text-to-image",
+    "useCase": "portrait photo",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
