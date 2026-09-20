@@ -35,7 +35,7 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 
 <a name="prompt-2101395682712285664"></a>
 
-### Đang dịch
+### Lời nhắc chụp ảnh trên không bằng drone tạo hình đường bờ biển của một hòn đảo nhiệt đới sang trọng thành logo thương hiệu, nổi bật với các bãi cát trắng, đầm phá màu ngọc lam và hàng cọ tươi tốt.
 
 Tác giả：[@SaasJunctionHQ](https://x.com/SaasJunctionHQ) · [Bài gốc](https://x.com/SaasJunctionHQ/status/2101395682712285664)
 
@@ -43,7 +43,7 @@ Nhiếp ảnh · Phong cảnh / Thiên nhiên · Đã xuất bản
 
 Bài gốc：[@SaasJunctionHQ](https://x.com/SaasJunctionHQ) · [Bài gốc](https://x.com/SaasJunctionHQ/status/2090485613640446116)
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc chụp ảnh trên không bằng drone tạo hình đường bờ biển của một hòn đảo nhiệt đới sang trọng thành logo thương hiệu, nổi bật với các bãi cát trắng, đầm phá màu ngọc lam và hàng cọ tươi tốt.
 
 <img src="images/2101395682712285664-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -64,7 +64,42 @@ Bài gốc：[@SaasJunctionHQ](https://x.com/SaasJunctionHQ) · [Bài gốc](htt
 **Câu lệnh**
 
 ```text
-Đang dịch
+{
+  "prompt_name": "Công cụ tạo hình hòn đảo từ trên không theo logo",
+  "user_input_required": {
+    "input_type": ["company_name (text)", "logo_image (upload)"],
+    "instruction": "Chỉ cung cấp tên công ty HOẶC tải lên hình ảnh logo. Hệ thống sẽ tự động tạo phần còn lại của cảnh."
+  },
+  "scene": {
+    "subject": "Một hòn đảo nhiệt đới xa xôi được chụp từ góc nhìn máy bay không người lái trực diện từ trên cao xuống, với đường bờ biển và vùng đất uốn lượn tự nhiên để tái hiện hình bóng logo của công ty được cung cấp",
+    "shape_source": "{{company_logo_or_name_silhouette}}",
+    "shape_fidelity": "Đường nét của hòn đảo phải nhận diện được ngay là hình dạng logo khi nhìn từ trên cao, đồng thời vẫn mang vẻ ngoài của một vùng đất hình thành tự nhiên — không có hình học nhân tạo do con người tạo ra"
+  },
+  "environment": {
+    "vegetation": "Cây cọ nhiệt đới rậm rạp, tươi tốt và cây xanh bao phủ phần bên trong hòn đảo",
+    "shoreline": "Bãi cát trắng mịn men theo toàn bộ chu vi của vùng đất hình logo",
+    "water": {
+      "inner_ring": "Đầm phá màu ngọc lam nông trong vắt như pha lê bao quanh hòn đảo",
+      "outer_ring": "Đại dương rộng mở màu xanh sapphire sâu thẳm với hoa văn sóng chân thực và kết cấu bọt sóng tự nhiên"
+    }
+  },
+  "lighting": {
+    "type": "Ánh sáng mặt trời giờ vàng ấm áp",
+    "effects": ["bóng tự nhiên mềm mại", "vệt sáng điện ảnh trên mặt nước", "ánh sáng ống kính dịu nhẹ ở viền khung hình"]
+  },
+  "photography_style": {
+    "genre": "Nhiếp ảnh trên không du lịch và bất động sản cao cấp, sang trọng",
+    "camera_angle": "Trực diện từ trên đỉnh đầu (góc nhìn từ mắt chim / góc nhìn nadir)",
+    "realism": "Cực kỳ chân thực như ảnh chụp, tự nhiên, hữu cơ — không được trông giống CGI hoặc kết xuất nhân tạo",
+    "resolution": "8K, kết cấu siêu chi tiết trên mặt nước, cát và tán lá"
+  },
+  "exclusions": [
+    "không có văn bản hoặc hình mờ nhìn thấy được",
+    "không có người",
+    "không có tòa nhà hoặc công trình nhân tạo",
+    "không có thuyền bè"
+  ]
+}
 ```
 
 [↑ Về danh mục](#catalog)

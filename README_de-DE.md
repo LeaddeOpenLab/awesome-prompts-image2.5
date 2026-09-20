@@ -35,7 +35,7 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 
 <a name="prompt-2101395682712285664"></a>
 
-### Übersetzung läuft
+### Drohnen-Luftbildfotografie-Prompt, der die Küstenlinie einer luxuriösen tropischen Insel in ein Markenlogo formt, mit weißen Sandstränden, türkisfarbenen Lagunen und üppigen Palmen.
 
 Autor：[@SaasJunctionHQ](https://x.com/SaasJunctionHQ) · [Originalbeitrag](https://x.com/SaasJunctionHQ/status/2101395682712285664)
 
@@ -43,7 +43,7 @@ Fotografie · Landschaft / Natur · Veröffentlicht
 
 Originalbeitrag：[@SaasJunctionHQ](https://x.com/SaasJunctionHQ) · [Originalbeitrag](https://x.com/SaasJunctionHQ/status/2090485613640446116)
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Drohnen-Luftbildfotografie-Prompt, der die Küstenlinie einer luxuriösen tropischen Insel in ein Markenlogo formt, mit weißen Sandstränden, türkisfarbenen Lagunen und üppigen Palmen.
 
 <img src="images/2101395682712285664-1.jpg" alt="Bild 1" width="480" />
 
@@ -64,7 +64,42 @@ Originalbeitrag：[@SaasJunctionHQ](https://x.com/SaasJunctionHQ) · [Originalbe
 **Prompt**
 
 ```text
-Übersetzung läuft
+{
+  "prompt_name": "Generator für Insel-Logosilhouetten aus der Vogelperspektive",
+  "user_input_required": {
+    "input_type": ["company_name (Text)", "logo_image (Upload)"],
+    "instruction": "Geben Sie nur einen Firmennamen an ODER laden Sie ein Logobild hoch. Das System generiert den Rest der Szene automatisch."
+  },
+  "scene": {
+    "subject": "Eine abgelegene tropische Insel, fotografiert aus einer direkten Nadir-Drohnenperspektive von oben nach unten, deren Küstenlinie und Landmasse natürlich geformt sind, um die Silhouette des bereitgestellten Firmenlogos nachzubilden",
+    "shape_source": "{{company_logo_or_name_silhouette}}",
+    "shape_fidelity": "Der Umriss der Insel muss von oben betrachtet sofort als Logoform erkennbar sein und dennoch wie eine natürlich geformte Landmasse wirken – keine künstliche oder von Menschen geschaffene Geometrie"
+  },
+  "environment": {
+    "vegetation": "Dichte, üppige tropische Palmen und Grünflächen, die das Innere der Insel bedecken",
+    "shoreline": "Feine weiße Sandstrände, die den gesamten Umfang der logo-förmigen Landmasse nachzeichnen",
+    "water": {
+      "inner_ring": "Flache, kristallklare türkisfarbene Lagune, die die Insel umgibt",
+      "outer_ring": "Tiefer saphirblauer offener Ozean mit realistischen Wellenmustern und natürlicher Schaumtextur"
+    }
+  },
+  "lighting": {
+    "type": "Warmes Sonnenlicht der goldenen Stunde",
+    "effects": ["weiche natürliche Schatten", "kinoreife Glanzlichter auf dem Wasser", "sanfter Linsenglanz am Bildrand"]
+  },
+  "photography_style": {
+    "genre": "Hochwertige Luxusreise- und Immobilien-Luftbildfotografie",
+    "camera_angle": "Direkt von oben (Vogelperspektive / Nadir-Ansicht)",
+    "realism": "Ultrafotorealistisch, natürlich, organisch – darf nicht wie CGI oder künstlich gerendert wirken",
+    "resolution": "8K, hyperdetaillierte Texturen auf Wasser, Sand und Blattwerk"
+  },
+  "exclusions": [
+    "kein sichtbarer Text oder Wasserzeichen",
+    "keine Personen",
+    "keine Gebäude oder von Menschenhand geschaffenen Strukturen",
+    "keine Boote"
+  ]
+}
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

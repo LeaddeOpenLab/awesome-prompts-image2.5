@@ -35,7 +35,7 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 
 <a name="prompt-2101395682712285664"></a>
 
-### Çeviri sürüyor
+### Beyaz kumlu plajlar, turkuaz lagünler ve gür palmiyeler içeren, lüks bir tropik adanın kıyı şeridini bir marka logosu şeklinde biçimlendiren drone hava fotoğrafçılığı istemi.
 
 Yazar：[@SaasJunctionHQ](https://x.com/SaasJunctionHQ) · [Orijinal gönderi](https://x.com/SaasJunctionHQ/status/2101395682712285664)
 
@@ -43,7 +43,7 @@ Fotoğrafçılık · Manzara / Doğa · Yayımlandı
 
 Orijinal gönderi：[@SaasJunctionHQ](https://x.com/SaasJunctionHQ) · [Orijinal gönderi](https://x.com/SaasJunctionHQ/status/2090485613640446116)
 
-**Özet:** Çeviri sürüyor
+**Özet:** Beyaz kumlu plajlar, turkuaz lagünler ve gür palmiyeler içeren, lüks bir tropik adanın kıyı şeridini bir marka logosu şeklinde biçimlendiren drone hava fotoğrafçılığı istemi.
 
 <img src="images/2101395682712285664-1.jpg" alt="Görsel 1" width="480" />
 
@@ -64,7 +64,42 @@ Orijinal gönderi：[@SaasJunctionHQ](https://x.com/SaasJunctionHQ) · [Orijinal
 **İstem**
 
 ```text
-Çeviri sürüyor
+{
+  "prompt_name": "Havadan Ada Logo Şekli Oluşturucu",
+  "user_input_required": {
+    "input_type": ["company_name (metin)", "logo_image (yükleme)"],
+    "instruction": "Yalnızca bir şirket adı girin VEYA bir logo görseli yükleyin. Sistem sahnenin geri kalanını otomatik olarak oluşturacaktır."
+  },
+  "scene": {
+    "subject": "Doğrudan yukarıdan aşağıya havadan çekilen bir drone perspektifinden fotoğraflanan, kıyı şeridi ve kara kütlesi sağlanan şirket logosunun siluetini yansıtacak şekilde doğal olarak şekillendirilmiş uzak bir tropik ada",
+    "shape_source": "{{company_logo_or_name_silhouette}}",
+    "shape_fidelity": "Adanın dış hatları, yukarıdan bakıldığında logo şekli olarak anında tanınabilir olmalı, ancak yine de doğal olarak oluşmuş bir kara parçası gibi görünmelidir — yapay veya insan yapımı geometri içermemelidir"
+  },
+  "environment": {
+    "vegetation": "Adanın iç kısmını kaplayan sık, gür tropik palmiye ağaçları ve yeşillik",
+    "shoreline": "Logo şeklindeki kara parçasının tüm çevresini saran ince beyaz kumlu plajlar",
+    "water": {
+      "inner_ring": "Adayı çevreleyen sığ, kristal berraklığında turkuaz lagün",
+      "outer_ring": "Gerçekçi dalga desenleri ve doğal köpük dokusuna sahip derin safir mavisi açık okyanus"
+    }
+  },
+  "lighting": {
+    "type": "Ilık altın saat güneş ışığı",
+    "effects": ["yumuşak doğal gölgeler", "su üzerinde sinematik parıltılar", "kare kenarında hafif lens ışıltısı"]
+  },
+  "photography_style": {
+    "genre": "Üst düzey lüks seyahat ve gayrimenkul hava fotoğrafçılığı",
+    "camera_angle": "Doğrudan tepe açısı (kuş bakışı / nadir görünüm)",
+    "realism": "Ultra fotogerçekçi, doğal, organik — CGI veya yapay olarak işlenmiş görünmemelidir",
+    "resolution": "8K, su, kum ve bitki örtüsünde hiper detaylı dokular"
+  },
+  "exclusions": [
+    "görünür metin veya filigran yok",
+    "insan yok",
+    "bina veya insan yapımı yapı yok",
+    "tekne yok"
+  ]
+}
 ```
 
 [↑ Kategorilere dön](#catalog)

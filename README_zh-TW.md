@@ -35,7 +35,7 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 <a name="prompt-2101395682712285664"></a>
 
-### 翻譯中
+### 無人機空拍攝影提示詞，將奢華熱帶島嶼的海岸線塑造成品牌標誌，具有白沙灘、綠松石色潟湖與茂密棕櫚樹。
 
 作者：[@SaasJunctionHQ](https://x.com/SaasJunctionHQ) · [查看 X 原帖](https://x.com/SaasJunctionHQ/status/2101395682712285664)
 
@@ -43,7 +43,7 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 查看 X 原帖：[@SaasJunctionHQ](https://x.com/SaasJunctionHQ) · [查看 X 原帖](https://x.com/SaasJunctionHQ/status/2090485613640446116)
 
-**概括:** 翻譯中
+**概括:** 無人機空拍攝影提示詞，將奢華熱帶島嶼的海岸線塑造成品牌標誌，具有白沙灘、綠松石色潟湖與茂密棕櫚樹。
 
 <img src="images/2101395682712285664-1.jpg" alt="圖片 1" width="480" />
 
@@ -64,7 +64,42 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 **提示詞**
 
 ```text
-翻譯中
+{
+  "prompt_name": "空拍島嶼標誌形狀生成器",
+  "user_input_required": {
+    "input_type": ["company_name (text)", "logo_image (upload)"],
+    "instruction": "僅提供公司名稱或上傳標誌圖像。系統將自動生成場景的其餘部分。"
+  },
+  "scene": {
+    "subject": "從正上方垂直俯視的無人機空拍視角拍攝的一座偏遠熱帶島嶼，其海岸線與陸地輪廓自然勾勒出所提供公司標誌的剪影",
+    "shape_source": "{{company_logo_or_name_silhouette}}",
+    "shape_fidelity": "從上方俯瞰時，島嶼的輪廓必須能立即被辨識為標誌形狀，同時仍呈現出自然形成的陸地樣貌——絕無人工或人造幾何感"
+  },
+  "environment": {
+    "vegetation": "島嶼內部覆蓋著茂密、繁茂的熱帶棕櫚樹與綠植",
+    "shoreline": "細緻白沙灘描繪出標誌形狀陸地的整個邊界",
+    "water": {
+      "inner_ring": "環繞島嶼的淺層清澈綠松石色潟湖",
+      "outer_ring": "深藍寶石色的開闊海洋，帶有逼真的波浪形態與自然浪花泡沫質感"
+    }
+  },
+  "lighting": {
+    "type": "溫暖的黃金時刻陽光",
+    "effects": ["柔和的自然陰影", "水面上的電影感高光", "畫面邊緣輕柔的鏡頭光暈"]
+  },
+  "photography_style": {
+    "genre": "高端奢華旅行與房地產空拍攝影",
+    "camera_angle": "正上方俯視（鳥瞰 / 天底視角）",
+    "realism": "超逼真、自然、有機——絕不能看起來像 CGI 或人工渲染效果",
+    "resolution": "8K，水面、沙灘與植被細節極致豐富的紋理"
+  },
+  "exclusions": [
+    "無可見文字或浮水印",
+    "無人物",
+    "無建築物或人造結構",
+    "無船隻"
+  ]
+}
 ```
 
 [↑ 返回分類目錄](#catalog)

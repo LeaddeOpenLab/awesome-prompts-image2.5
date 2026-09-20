@@ -35,7 +35,7 @@ Adicione uma estrela a este repositório para acompanhar a nossa seleção diár
 
 <a name="prompt-2101395682712285664"></a>
 
-### Tradução em curso
+### Prompt de fotografia aérea com drone moldando a linha costeira de uma luxuosa ilha tropical no formato do logótipo de uma marca, apresentando praias de areia branca, lagoas azul-turquesa e palmeiras verdejantes.
 
 Autor：[@SaasJunctionHQ](https://x.com/SaasJunctionHQ) · [Publicação original](https://x.com/SaasJunctionHQ/status/2101395682712285664)
 
@@ -43,7 +43,7 @@ Fotografia · Paisagem / Natureza · Publicado
 
 Publicação original：[@SaasJunctionHQ](https://x.com/SaasJunctionHQ) · [Publicação original](https://x.com/SaasJunctionHQ/status/2090485613640446116)
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt de fotografia aérea com drone moldando a linha costeira de uma luxuosa ilha tropical no formato do logótipo de uma marca, apresentando praias de areia branca, lagoas azul-turquesa e palmeiras verdejantes.
 
 <img src="images/2101395682712285664-1.jpg" alt="Imagem 1" width="480" />
 
@@ -64,7 +64,42 @@ Publicação original：[@SaasJunctionHQ](https://x.com/SaasJunctionHQ) · [Publ
 **Prompt**
 
 ```text
-Tradução em curso
+{
+  "prompt_name": "Gerador de Formato de Logótipo em Ilha Aérea",
+  "user_input_required": {
+    "input_type": ["company_name (texto)", "logo_image (carregamento)"],
+    "instruction": "Forneça apenas o nome de uma empresa OU carregue a imagem de um logótipo. O sistema gerará automaticamente o restante da cena."
+  },
+  "scene": {
+    "subject": "Uma ilha tropical remota fotografada a partir de uma perspetiva aérea direta de cima para baixo por drone, com a sua costa e massa terrestre naturalmente delineadas para reproduzir a silhueta do logótipo da empresa fornecido",
+    "shape_source": "{{company_logo_or_name_silhouette}}",
+    "shape_fidelity": "O contorno da ilha deve ser instantaneamente reconhecível como a forma do logótipo quando visto de cima, mantendo o aspeto de uma massa terrestre de formação natural — sem geometria artificial ou feita pelo homem"
+  },
+  "environment": {
+    "vegetation": "Palmeiras tropicais densas e exuberantes e vegetação verdejante cobrindo o interior da ilha",
+    "shoreline": "Praias de areia branca fina contornando todo o perímetro da massa terrestre em forma de logótipo",
+    "water": {
+      "inner_ring": "Lagoa pouco profunda de água azul-turquesa cristalina circundando a ilha",
+      "outer_ring": "Oceano aberto azul-safira profundo com padrões realistas de ondas e textura natural de espuma"
+    }
+  },
+  "lighting": {
+    "type": "Luz solar quente da hora dourada",
+    "effects": ["sombras naturais suaves", "realces cinematográficos na água", "brilho suave de lente na extremidade da imagem"]
+  },
+  "photography_style": {
+    "genre": "Fotografia aérea de viagens de luxo e imóveis de alto padrão",
+    "camera_angle": "Diretamente de cima (visão aérea / nadir)",
+    "realism": "Ultra-fotorrealista, natural, orgânico — não deve parecer CGI ou artificialmente renderizado",
+    "resolution": "8K, texturas hiperdetalhadas na água, areia e folhagem"
+  },
+  "exclusions": [
+    "sem texto visível ou marcas de água",
+    "sem pessoas",
+    "sem edifícios ou estruturas construídas pelo homem",
+    "sem barcos"
+  ]
+}
 ```
 
 [↑ Voltar às categorias](#catalog)

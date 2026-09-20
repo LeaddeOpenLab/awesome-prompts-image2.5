@@ -35,7 +35,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 <a name="prompt-2101395682712285664"></a>
 
-### 翻译中
+### 无人机航拍摄影提示词，将豪华热带岛屿的海岸线塑造成品牌标志，具有白沙滩、绿松石色泻湖和茂密棕榈树。
 
 作者：[@SaasJunctionHQ](https://x.com/SaasJunctionHQ) · [查看 X 原帖](https://x.com/SaasJunctionHQ/status/2101395682712285664)
 
@@ -43,7 +43,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 查看 X 原帖：[@SaasJunctionHQ](https://x.com/SaasJunctionHQ) · [查看 X 原帖](https://x.com/SaasJunctionHQ/status/2090485613640446116)
 
-**概括:** 翻译中
+**概括:** 无人机航拍摄影提示词，将豪华热带岛屿的海岸线塑造成品牌标志，具有白沙滩、绿松石色泻湖和茂密棕榈树。
 
 <img src="images/2101395682712285664-1.jpg" alt="图片 1" width="480" />
 
@@ -64,7 +64,42 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 **提示词**
 
 ```text
-翻译中
+{
+  "prompt_name": "航拍岛屿标志形状生成器",
+  "user_input_required": {
+    "input_type": ["company_name (text)", "logo_image (upload)"],
+    "instruction": "仅提供公司名称或上传标志图像。系统将自动生成场景的其余部分。"
+  },
+  "scene": {
+    "subject": "从正上方俯视的无人机航拍视角拍摄的一座偏远热带岛屿，其海岸线和陆地轮廓自然勾勒出所提供公司标志的剪影",
+    "shape_source": "{{company_logo_or_name_silhouette}}",
+    "shape_fidelity": "从上方俯视时，岛屿的轮廓必须能被立即识别为标志形状，同时仍然呈现出自然形成的陆地地貌——绝无人工或人造几何感"
+  },
+  "environment": {
+    "vegetation": "岛屿内部覆盖着茂密、繁茂的热带棕榈树和绿植",
+    "shoreline": "细腻的白沙滩环绕着标志形状陆地的整个边缘",
+    "water": {
+      "inner_ring": "环绕岛屿的浅层清澈绿松石色泻湖",
+      "outer_ring": "深蓝宝石色的开阔海洋，带有逼真的波浪形态和自然的海浪泡沫质感"
+    }
+  },
+  "lighting": {
+    "type": "温暖的黄金时刻阳光",
+    "effects": ["柔和的自然阴影", "水面上的电影感高光", "画面边缘微弱的镜头光晕"]
+  },
+  "photography_style": {
+    "genre": "高端奢华旅行与房地产航拍摄影",
+    "camera_angle": "正上方俯视（鸟瞰 / 天底视角）",
+    "realism": "超逼真、自然、有机——绝不能看起来像 CGI 或人工渲染效果",
+    "resolution": "8K，水面、沙滩和植物细节超细腻的纹理"
+  },
+  "exclusions": [
+    "无可见文字或水印",
+    "无人物",
+    "无建筑物或人造结构",
+    "无船只"
+  ]
+}
 ```
 
 [↑ 返回分类目录](#catalog)

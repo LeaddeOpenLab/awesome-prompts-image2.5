@@ -35,7 +35,7 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 
 <a name="prompt-2101395682712285664"></a>
 
-### Traduzione in corso
+### Prompt per fotografia aerea con drone che modella la costa di un'isola tropicale di lusso nel logo di un marchio, con spiagge di sabbia bianca, lagune turchesi e palme lussureggianti.
 
 Autore：[@SaasJunctionHQ](https://x.com/SaasJunctionHQ) · [Post originale](https://x.com/SaasJunctionHQ/status/2101395682712285664)
 
@@ -43,7 +43,7 @@ Fotografia · Paesaggio / Natura · Pubblicato
 
 Post originale：[@SaasJunctionHQ](https://x.com/SaasJunctionHQ) · [Post originale](https://x.com/SaasJunctionHQ/status/2090485613640446116)
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per fotografia aerea con drone che modella la costa di un'isola tropicale di lusso nel logo di un marchio, con spiagge di sabbia bianca, lagune turchesi e palme lussureggianti.
 
 <img src="images/2101395682712285664-1.jpg" alt="Immagine 1" width="480" />
 
@@ -64,7 +64,42 @@ Post originale：[@SaasJunctionHQ](https://x.com/SaasJunctionHQ) · [Post origin
 **Prompt**
 
 ```text
-Traduzione in corso
+{
+  "prompt_name": "Generatore di forme di logo per isola aerea",
+  "user_input_required": {
+    "input_type": ["company_name (testo)", "logo_image (caricamento)"],
+    "instruction": "Fornisci solo il nome di un'azienda OPPURE carica l'immagine di un logo. Il sistema genererà automaticamente il resto della scena."
+  },
+  "scene": {
+    "subject": "Un'isola tropicale remota fotografata da una prospettiva aerea zenitale diretta con drone, con la costa e la terraferma modellate naturalmente per replicare la silhouette del logo aziendale fornito",
+    "shape_source": "{{company_logo_or_name_silhouette}}",
+    "shape_fidelity": "Il profilo dell'isola deve essere immediatamente riconoscibile come la forma del logo se visto dall'alto, pur apparendo come una massa terrestre formatasi naturalmente — nessuna geometria artificiale o creata dall'uomo"
+  },
+  "environment": {
+    "vegetation": "Palme e vegetazione tropicali dense e lussureggianti che coprono l'interno dell'isola",
+    "shoreline": "Spiagge di sabbia bianca finissima che delineano l'intero perimetro della terraferma a forma di logo",
+    "water": {
+      "inner_ring": "Laguna turchese poco profonda e cristallina che circonda l'isola",
+      "outer_ring": "Oceano aperto blu zaffiro profondo con motivi ondosi realistici e consistenza naturale della schiuma"
+    }
+  },
+  "lighting": {
+    "type": "Calda luce solare della golden hour",
+    "effects": ["ombre naturali morbide", "riflessi cinematografici sull'acqua", "leggero bagliore dell'obiettivo al bordo dell'inquadratura"]
+  },
+  "photography_style": {
+    "genre": "Fotografia aerea di lusso per viaggi e settore immobiliare di fascia alta",
+    "camera_angle": "Direttamente perpendicolare (vista a volo d'uccello / nadir)",
+    "realism": "Ultra-fotorealistico, naturale, organico — non deve sembrare CGI o renderizzato artificialmente",
+    "resolution": "8K, texture ultra dettagliate su acqua, sabbia e fogliame"
+  },
+  "exclusions": [
+    "nessun testo visibile o filigrana",
+    "nessuna persona",
+    "nessun edificio o struttura creata dall'uomo",
+    "nessuna barca"
+  ]
+}
 ```
 
 [↑ Torna alle categorie](#catalog)

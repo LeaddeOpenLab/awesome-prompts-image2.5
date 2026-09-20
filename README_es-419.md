@@ -35,7 +35,7 @@ Dale una estrella a este repositorio para seguir nuestra selección diaria y des
 
 <a name="prompt-2101395682712285664"></a>
 
-### Traducción en curso
+### Prompt de fotografía aérea con dron que moldea la costa de una isla tropical de lujo con la forma del logotipo de una marca, con playas de arena blanca, lagunas turquesas y palmeras exuberantes.
 
 Autor：[@SaasJunctionHQ](https://x.com/SaasJunctionHQ) · [Publicación original](https://x.com/SaasJunctionHQ/status/2101395682712285664)
 
@@ -43,7 +43,7 @@ Fotografía · Paisaje / Naturaleza · Publicado
 
 Publicación original：[@SaasJunctionHQ](https://x.com/SaasJunctionHQ) · [Publicación original](https://x.com/SaasJunctionHQ/status/2090485613640446116)
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de fotografía aérea con dron que moldea la costa de una isla tropical de lujo con la forma del logotipo de una marca, con playas de arena blanca, lagunas turquesas y palmeras exuberantes.
 
 <img src="images/2101395682712285664-1.jpg" alt="Imagen 1" width="480" />
 
@@ -64,7 +64,42 @@ Publicación original：[@SaasJunctionHQ](https://x.com/SaasJunctionHQ) · [Publ
 **Prompt**
 
 ```text
-Traducción en curso
+{
+  "prompt_name": "Generador de silueta de isla aérea con forma de logotipo",
+  "user_input_required": {
+    "input_type": ["company_name (texto)", "logo_image (subida)"],
+    "instruction": "Proporciona únicamente el nombre de una empresa O sube una imagen de logotipo. El sistema autogenerará el resto de la escena."
+  },
+  "scene": {
+    "subject": "Una isla tropical remota fotografiada desde una perspectiva de dron aéreo cenital directa, con su costa y masa terrestre contorneadas de forma natural para replicar la silueta del logotipo de la empresa proporcionado",
+    "shape_source": "{{company_logo_or_name_silhouette}}",
+    "shape_fidelity": "El contorno de la isla debe ser reconocible al instante como la forma del logotipo al verse desde arriba, mientras sigue pareciendo una masa de tierra formada de forma natural; sin geometría artificial o hecha por el hombre"
+  },
+  "environment": {
+    "vegetation": "Palmeras y vegetación tropicales densas y exuberantes que cubren el interior de la isla",
+    "shoreline": "Playas de arena blanca y fina que bordean todo el perímetro de la masa terrestre con forma de logotipo",
+    "water": {
+      "inner_ring": "Laguna turquesa poco profunda y cristalina que rodea la isla",
+      "outer_ring": "Océano abierto azul zafiro profundo con patrones de olas realistas y textura de espuma natural"
+    }
+  },
+  "lighting": {
+    "type": "Cálida luz solar de la hora dorada",
+    "effects": ["sombras naturales suaves", "reflejos cinematográficos en el agua", "suave resplandor de lente en el borde del encuadre"]
+  },
+  "photography_style": {
+    "genre": "Fotografía aérea de viajes de lujo y bienes raíces de alta gama",
+    "camera_angle": "Directamente cenital (vista de pájaro / nadir)",
+    "realism": "Ultrafotorrealista, natural, orgánico; no debe parecer CGI ni renderizado artificialmente",
+    "resolution": "8K, texturas hiperdetalladas en el agua, la arena y el follaje"
+  },
+  "exclusions": [
+    "sin texto visible ni marcas de agua",
+    "sin personas",
+    "sin edificios ni estructuras hechas por el hombre",
+    "sin barcos"
+  ]
+}
 ```
 
 [↑ Volver a categorías](#catalog)

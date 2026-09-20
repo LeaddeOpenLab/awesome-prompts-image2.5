@@ -35,7 +35,7 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 
 <a name="prompt-2101395682712285664"></a>
 
-### Traduction en cours
+### Prompt de photographie aérienne par drone façonnant le littoral d'une île tropicale de luxe en logo de marque, mettant en scène des plages de sable blanc, des lagons turquoise et des palmiers luxuriants.
 
 Auteur：[@SaasJunctionHQ](https://x.com/SaasJunctionHQ) · [Publication originale](https://x.com/SaasJunctionHQ/status/2101395682712285664)
 
@@ -43,7 +43,7 @@ Photographie · Paysage / Nature · Publié
 
 Publication originale：[@SaasJunctionHQ](https://x.com/SaasJunctionHQ) · [Publication originale](https://x.com/SaasJunctionHQ/status/2090485613640446116)
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de photographie aérienne par drone façonnant le littoral d'une île tropicale de luxe en logo de marque, mettant en scène des plages de sable blanc, des lagons turquoise et des palmiers luxuriants.
 
 <img src="images/2101395682712285664-1.jpg" alt="Image 1" width="480" />
 
@@ -64,7 +64,42 @@ Publication originale：[@SaasJunctionHQ](https://x.com/SaasJunctionHQ) · [Publ
 **Consigne**
 
 ```text
-Traduction en cours
+{
+  "prompt_name": "Générateur de forme de logo d'île vue du ciel",
+  "user_input_required": {
+    "input_type": ["company_name (texte)", "logo_image (téléversement)"],
+    "instruction": "Fournissez uniquement un nom d'entreprise OU téléversez une image de logo. Le système générera automatiquement le reste de la scène."
+  },
+  "scene": {
+    "subject": "Une île tropicale isolée photographiée depuis une perspective aérienne par drone directement zénithale, avec son littoral et sa masse terrestre naturellement profilés pour reproduire la silhouette du logo d'entreprise fourni",
+    "shape_source": "{{company_logo_or_name_silhouette}}",
+    "shape_fidelity": "Le contour de l'île doit être immédiatement reconnaissable comme la forme du logo lorsqu'il est vu d'en haut, tout en conservant l'apparence d'une masse terrestre formée naturellement — aucune géométrie artificielle ou créée par l'homme"
+  },
+  "environment": {
+    "vegetation": "Palmiers tropicaux et végétation denses et luxuriants recouvrant l'intérieur de l'île",
+    "shoreline": "Plages de sable blanc fin traçant tout le périmètre de la masse terrestre en forme de logo",
+    "water": {
+      "inner_ring": "Lagon turquoise cristallin et peu profond encerclant l'île",
+      "outer_ring": "Océan ouvert bleu saphir profond avec des motifs de vagues réalistes et une texture d'écume naturelle"
+    }
+  },
+  "lighting": {
+    "type": "Chaude lumière du soleil à l'heure dorée",
+    "effects": ["ombres naturelles douces", "reflets cinématographiques sur l'eau", "lueur d'objectif délicate au bord du cadre"]
+  },
+  "photography_style": {
+    "genre": "Photographie aérienne de luxe pour le voyage et l'immobilier haut de gamme",
+    "camera_angle": "Directement au-dessus (vue à vol d'oiseau / vue au nadir)",
+    "realism": "Ultra-photoréaliste, naturel, organique — ne doit pas avoir l'air d'une image de synthèse ou d'un rendu artificiel",
+    "resolution": "8K, textures hyperdétaillées sur l'eau, le sable et le feuillage"
+  },
+  "exclusions": [
+    "aucun texte visible ou filigrane",
+    "aucune personne",
+    "aucun bâtiment ou structure créée par l'homme",
+    "aucun bateau"
+  ]
+}
 ```
 
 [↑ Retour aux catégories](#catalog)
