@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**161** Prompts · Adição mais recente: **2026-09-20**
+**162** Prompts · Adição mais recente: **2026-09-20**
 
 <a name="catalog"></a>
 
@@ -628,6 +628,28 @@ Fotografia · Paisagem / Natureza · Publicado
 
 ```text
 Fotografia de uma clareira na floresta com muita folhagem verde, altamente detalhada
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2101659894357139704"></a>
+
+### Tradução em curso
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicação original](https://x.com/CyberTotal2026/status/2101659894357139704)
+
+Fotografia · Retrato / Selfie · Personagem · Item de Moda · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2101659894357139704-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -3623,13 +3645,13 @@ Tranquilo, poético, refinado, minimalista, inocente, artístico, ponderado, sof
 
 <a name="prompt-2101538802946715870"></a>
 
-### Tradução em curso
+### Cartaz editorial de desporto motorizado em vista superior de um carro de corrida GT branco contra um fundo gráfico dividido a preto/branco com tipografia gigante.
 
 Autor：[@harboriis](https://x.com/harboriis) · [Publicação original](https://x.com/harboriis/status/2101538802946715870)
 
 Pôster / Folheto · Veículo · Texto / Tipografia · Resumo / Contexto · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Cartaz editorial de desporto motorizado em vista superior de um carro de corrida GT branco contra um fundo gráfico dividido a preto/branco com tipografia gigante.
 
 <img src="images/2101538802946715870-1.jpg" alt="Imagem 1" width="480" />
 
@@ -3638,7 +3660,123 @@ Pôster / Folheto · Veículo · Texto / Tipografia · Resumo / Contexto · Publ
 **Prompt**
 
 ```text
-Tradução em curso
+Crie um cartaz editorial de desporto motorizado premium e hiper-realista apresentando um carro de corrida GT branco fotografado a partir de uma perspetiva aérea superior (top-down) dramática.
+
+FORMATO:
+Composição vertical 9:16, resolução ultra-alta, fotografia automóvel comercial limpa, pormenores nítidos, reflexos e materiais realistas.
+
+ELEMENTO PRINCIPAL:
+Um carro de corrida GT profissional branco visto quase perfeitamente de cima para baixo, posicionado verticalmente ao longo da esquerda e do centro da composição.
+
+Todo o carro deve estar visível da dianteira à traseira. O carro está orientado verticalmente, com a frente virada para o topo da imagem e a traseira virada para a parte inferior.
+
+O veículo tem um design de competição agressivo de carroçaria alargada com:
+
+- Carroçaria aerodinâmica branca
+- Entradas e saídas de ar aerodinâmicas pretas
+- Rodas de competição expostas
+- Pneus de corrida slick grandes
+- Jantes metálicas raiadas detalhadas
+- Linhas de realce a vermelho à volta da carroçaria
+- Grande asa aerodinâmica traseira
+- Splitter e difusor de competição
+- Painéis aerodinâmicos complexos
+- Para-brisas e habitáculo visíveis
+- Uniões de painéis, parafusos, entradas de ar e componentes em fibra de carbono realistas
+
+O carro deve parecer um veículo de competição profissional de resistência ou GT, com proporções autênticas de desporto motorizado e uma carroçaria aerodinâmica extremamente detalhada.
+
+PORMENORES DO CARRO:
+Os pneus são slicks de competição pretos com inscrições brancas realistas nas paredes laterais.
+
+As jantes devem ser jantes de liga leve metálicas de cor cinzento-escuro grafite altamente detalhadas, com componentes de travagem visíveis por trás dos raios.
+
+Adicione elementos de marca e grafismos de desporto motorizado subtis a vermelho sobre a carroçaria branca. Inclua um grande logótipo ou grafismo de corrida circular abstrato vermelho no painel lateral central.
+
+Utilize pequenos autocolantes realistas em estilo de patrocinador e marcações técnicas por todo o carro.
+
+PERSPETIVA:
+Fotografia automóvel de vista superior extrema (top-down).
+
+A câmara está posicionada quase diretamente acima do veículo, criando uma composição gráfica plana mas preservando uma profundidade tridimensional realista.
+
+O carro ocupa aproximadamente 65 a 70 por cento da largura da imagem e estende-se por quase toda a altura da composição.
+
+FUNDO:
+Fundo gráfico a preto e branco puramente minimalista.
+
+Todo o fundo está dividido verticalmente:
+
+- Lado esquerdo: fundo branco puro e brilhante
+- Lado direito: fundo preto sólido e profundo
+
+Crie uma transição vertical nítida entre as áreas branca e preta.
+
+Atrás do carro, coloque uma enorme tipografia geométrica branca a negrito estendendo-se verticalmente pelo fundo preto.
+
+A tipografia deve ser extremamente grande, espessa, moderna e condensada, funcionando primordialmente como um elemento de design gráfico em vez de um texto de leitura normal.
+
+As letras devem ficar parcialmente ocultadas atrás do carro de corrida.
+
+Utilize letras de forma brancas sobredimensionadas com cantos arredondados e forte estrutura geométrica. Algumas letras devem estender-se para além dos limites da composição.
+
+A tipografia deve criar um contraste dramático a preto e branco à volta do veículo.
+
+DISPOSIÇÃO:
+O carro de corrida branco assenta diretamente sobre a fronteira entre o fundo branco e preto.
+
+O lado esquerdo do carro funde-se visualmente com a área branca, enquanto o lado direito sobrepõe a tipografia branca gigante no fundo preto.
+
+As letras sobredimensionadas devem permanecer atrás do carro e nunca cobrir o veículo.
+
+Crie um forte espaço negativo à volta do carro, mantendo a aparência gráfica impactante.
+
+ILUMINAÇÃO:
+Iluminação de estúdio brilhante vinda de cima, produzindo sombras suaves e realistas por baixo do carro.
+
+Utilize iluminação high-key limpa sobre a carroçaria branca.
+
+O fundo preto deve manter-se profundo e puro, sem gradientes desnecessários.
+
+Adicione reflexos subtis e realistas ao longo da pintura branca brilhante, do para-brisas, das jantes metálicas e dos componentes em fibra de carbono.
+
+O veículo deve ter uma aparência premium renderizada em estúdio sem deixar de ser fotorrealista.
+
+MATERIAIS:
+Pintura automóvel branca brilhante extremamente realista.
+Textura realista de fibra de carbono.
+Jantes em metal escovado e polido.
+Vidro transparente de para-brisas.
+Pneus de borracha de competição com textura detalhada.
+Pequenos apontamentos pintados a vermelho.
+Arestas aerodinâmicas nítidas.
+
+ESTILO GRÁFICO:
+Campanha publicitária minimalista de desporto motorizado de luxo.
+
+Combine:
+
+- Fotografia automóvel premium
+- Design gráfico brutalista
+- Design editorial de desporto motorizado
+- Composição a preto e branco de alto contraste
+- Tipografia geométrica sobredimensionada
+- Estética publicitária moderna e limpa
+
+PALETA DE CORES:
+Branco puro
+Preto profundo
+Carvão escuro
+Cinza grafite metálico
+Pequenas quantidades de vermelho vivo de competição
+
+Sem cores desnecessárias.
+
+IMAGEM FINAL:
+Cartaz fotorrealista de campanha automóvel profissional, carro de corrida extremamente detalhado, proporções realistas, perspetiva superior dramática, arestas nítidas, alto contraste, iluminação de estúdio limpa, publicidade de desporto motorizado premium, composição minimalista, tipografia arrojada sobredimensionada, direção de arte editorial sofisticada, qualidade 8K ultradetalhada.
+
+IMPORTANTE:
+Mantenha a composição global exata da referência: carro de corrida branco orientado verticalmente sobre o limite de divisão entre o fundo branco e preto, letras geométricas brancas gigantes atrás do carro no lado preto, paleta de cores mínima, forte perspetiva aérea superior, apontamentos vermelhos de competição e uma estética de cartaz de desporto motorizado limpa e premium.
 ```
 
 [↑ Voltar às categorias](#catalog)

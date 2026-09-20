@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**161** Prompt · Bổ sung mới nhất: **2026-09-20**
+**162** Prompt · Bổ sung mới nhất: **2026-09-20**
 
 <a name="catalog"></a>
 
@@ -633,6 +633,28 @@ Nhiếp ảnh · Phong cảnh / Thiên nhiên · Đã xuất bản
 
 ```text
 Ảnh chụp một bãi đất trống trong rừng với nhiều tán lá xanh tươi, rất chi tiết
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2101659894357139704"></a>
+
+### Đang dịch
+
+Tác giả：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Bài gốc](https://x.com/CyberTotal2026/status/2101659894357139704)
+
+Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng thời trang · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2101659894357139704-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
 ```
 
 [↑ Về danh mục](#catalog)
@@ -3645,13 +3667,13 @@ Tạo MỘT áp phích biên tập cao cấp độc lập cho MỖI bức ảnh 
 
 <a name="prompt-2101538802946715870"></a>
 
-### Đang dịch
+### Áp phích biên tập thể thao tốc độ góc nhìn từ trên xuống của một chiếc xe đua GT màu trắng trên nền đồ họa chia đôi đen/trắng với kiểu chữ khổng lồ.
 
 Tác giả：[@harboriis](https://x.com/harboriis) · [Bài gốc](https://x.com/harboriis/status/2101538802946715870)
 
 Áp phích / Tờ rơi · Phương tiện · Văn bản / Kiểu chữ · Tóm tắt / Bối cảnh · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Áp phích biên tập thể thao tốc độ góc nhìn từ trên xuống của một chiếc xe đua GT màu trắng trên nền đồ họa chia đôi đen/trắng với kiểu chữ khổng lồ.
 
 <img src="images/2101538802946715870-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -3660,7 +3682,122 @@ Tác giả：[@harboriis](https://x.com/harboriis) · [Bài gốc](https://x.com
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một áp phích biên tập thể thao đua xe cao cấp, siêu thực tế có hình chiếc xe đua GT màu trắng được chụp từ góc nhìn từ trên xuống cực kỳ ấn tượng.
+
+ĐỊNH DẠNG:
+Bố cục dọc 9:16, độ phân giải cực cao, nhiếp ảnh ô tô thương mại sắc nét, chi tiết rõ ràng, phản chiếu và chất liệu chân thực.
+
+CHỦ THỂ CHÍNH:
+Một chiếc xe đua GT chuyên nghiệp màu trắng nhìn gần như hoàn hảo từ ngay phía trên, được đặt theo chiều dọc dọc theo bên trái và trung tâm của khung hình.
+
+Toàn bộ chiếc xe phải nhìn thấy được từ trước ra sau. Xe được định hướng theo chiều dọc, với phần đầu xe hướng về phía trên cùng của hình ảnh và phần đuôi xe hướng về phía dưới.
+
+Chiếc xe có thiết kế thân rộng (wide-body) đậm chất thể thao với:
+
+- Thân vỏ khí động học màu trắng
+- Các khe hút gió và lỗ mở khí động học màu đen
+- Bánh xe đua lộ rõ
+- Lốp xe đua không rãnh (slick) lớn
+- Mâm xe hợp kim nhiều chấu bằng kim loại chi tiết cao
+- Đường viền điểm nhấn màu đỏ quanh thân xe
+- Cánh gió khí động học lớn phía sau
+- Bộ chia gió (splitter) và bộ khuếch tán (diffuser) phong cách xe đua
+- Các tấm ốp khí động học phức tạp
+- Kính chắn gió và khoang lái có thể nhìn thấy
+- Các đường nối mối ghép thân xe, ốc vít, khe gió và các chi tiết sợi carbon chân thực
+
+Chiếc xe phải trông giống như một chiếc xe đua GT hoặc xe đua đường trường (endurance) chuyên nghiệp, với tỷ lệ xe đua thể thao đích thực và thân xe khí động học cực kỳ chi tiết.
+
+CHI TIẾT XE:
+Lốp xe là loại lốp trơn đua màu đen với chữ thành lốp màu trắng chân thực.
+
+Bánh xe phải là mâm hợp kim kim loại màu xám nòng súng (gunmetal) đậm cực kỳ chi tiết với các bộ phận phanh có thể nhìn thấy phía sau các chấu.
+
+Thêm các yếu tố thương hiệu và đồ họa thể thao màu đỏ tinh tế trên thân xe màu trắng. Bao gồm một logo hoặc hình họa đồ họa đua xe trừu tượng hình tròn lớn màu đỏ trên tấm ốp hông trung tâm.
+
+Sử dụng các decal kiểu nhà tài trợ nhỏ thực tế và các ký hiệu kỹ thuật trên khắp xe.
+
+GÓC NHÌN:
+Nhiếp ảnh ô tô góc nhìn thẳng từ trên xuống (extreme top-down).
+
+Máy ảnh được đặt gần như ngay phía trên chiếc xe, tạo ra một bố cục đồ họa phẳng trong khi vẫn duy trì chiều sâu ba chiều chân thực.
+
+Chiếc xe chiếm khoảng 65 đến 70 phần trăm chiều rộng của hình ảnh và kéo dài gần như toàn bộ chiều cao của bố cục.
+
+HÌNH NỀN:
+Nền đồ họa đen trắng tối giản thuần khiết.
+
+Toàn bộ nền được chia theo chiều dọc:
+
+- Bên trái: nền màu trắng sáng sạch sẽ
+- Bên phải: nền màu đen tuyền nguyên khối
+- Tạo một ranh giới chuyển tiếp sắc nét theo chiều dọc giữa các vùng trắng và đen.
+
+Phía sau chiếc xe, đặt kiểu chữ hình học màu trắng đậm khổng lồ kéo dài theo chiều dọc qua nền đen.
+
+Kiểu chữ phải cực kỳ lớn, dày, hiện đại và dạng cô đọng (condensed), chủ yếu đóng vai trò là một yếu tố thiết kế đồ họa hơn là văn bản có thể đọc thông thường.
+
+Các chữ cái nên bị ẩn một phần phía sau xe đua.
+
+Sử dụng các chữ cái dạng khối lớn màu trắng với các góc bo tròn và cấu trúc hình học mạnh mẽ. Một số chữ cái nên kéo dài ra ngoài các cạnh của bố cục.
+
+Kiểu chữ nên tạo ra một độ tương phản đen trắng ấn tượng xung quanh chiếc xe.
+
+BỐ CỤC:
+Chiếc xe đua màu trắng nằm ngay trên ranh giới giữa nền trắng và đen.
+
+Phía bên trái của chiếc xe hòa quyện một cách trực quan vào vùng màu trắng trong khi bên phải chồng lên kiểu chữ màu trắng khổng lồ trên nền đen.
+
+Các chữ cái cỡ lớn phải nằm phía sau chiếc xe và không bao giờ được che phủ lên xe.
+
+Tạo không gian âm mạnh mẽ xung quanh chiếc xe trong khi vẫn duy trì vẻ ngoài đồ họa táo bạo.
+
+ÁNH SÁNG:
+Ánh sáng studio sáng từ phía trên, tạo ra bóng đổ mềm mại, chân thực bên dưới gầm xe.
+
+Sử dụng độ chiếu sáng phong cách high-key trong trẻo trên thân xe màu trắng.
+
+Nền đen phải giữ được độ sâu và nguyên bản mà không có các dải chuyển màu (gradients) không cần thiết.
+
+Thêm các phản chiếu chân thực tinh tế trên lớp sơn bóng màu trắng, kính chắn gió, bánh xe kim loại và các chi tiết bằng sợi carbon.
+
+Chiếc xe phải có diện mạo như được render trong studio cao cấp trong khi vẫn giữ được tính chân thực như ảnh chụp.
+
+CHẤT LIỆU:
+Sơn xe màu trắng bóng cực kỳ chân thực.
+Kết cấu sợi carbon chân thực.
+Bánh xe kim loại được chải xước và đánh bóng.
+Kính chắn gió trong suốt.
+Lốp xe đua cao su với kết cấu chi tiết.
+Điểm nhấn sơn màu đỏ nhỏ.
+Các cạnh khí động học sắc nét.
+
+PHONG CÁCH ĐỒ HỌA:
+Chiến dịch quảng cáo đua xe thể thao sang trọng tối giản.
+
+Kết hợp:
+
+- Nhiếp ảnh ô tô cao cấp
+- Thiết kế đồ họa phong cách thô mộc (Brutalist)
+- Thiết kế biên tập thể thao tốc độ
+- Bố cục đen trắng có độ tương phản cao
+- Kiểu chữ hình học cỡ lớn (oversized)
+- Thẩm mỹ quảng cáo hiện đại, gọn gàng
+
+BẢNG MÀU:
+Trắng tinh khiết
+Đen sâu thẳm
+Than đậm
+Kim loại gunmetal
+Một lượng nhỏ màu đỏ đua rực rỡ
+
+Không có màu sắc không cần thiết.
+
+HÌNH ẢNH CUỐI CÙNG:
+Áp phích chiến dịch ô tô chuyên nghiệp chân thực như ảnh chụp, xe đua cực kỳ chi tiết, tỷ lệ chân thực, góc nhìn từ trên cao ấn tượng, các cạnh sắc nét, độ tương phản cao, ánh sáng studio sạch sẽ, quảng cáo đua xe cao cấp, bố cục tối giản, kiểu chữ in đậm cỡ lớn, định hướng nghệ thuật biên tập tinh tế, chất lượng 8K siêu chi tiết.
+
+QUAN TRỌNG:
+Giữ chính xác bố cục tổng thể của tài liệu tham khảo: xe đua màu trắng được định hướng theo chiều dọc đặt trên ranh giới nền trắng và đen, các chữ cái hình học màu trắng khổng lồ phía sau xe ở phần nền đen, bảng màu tối giản, góc nhìn từ trên xuống rõ nét, các điểm nhấn đua xe màu đỏ và tính thẩm mỹ của một áp phích thể thao tốc độ cao cấp sạch sẽ.
 ```
 
 [↑ Về danh mục](#catalog)

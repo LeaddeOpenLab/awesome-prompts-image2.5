@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**161** Prompts · Latest addition: **2026-09-20**
+**162** Prompts · Latest addition: **2026-09-20**
 
 <a name="catalog"></a>
 
@@ -690,6 +690,28 @@ Photography · Landscape / Nature · Published
 
 ```text
 Photo of a clearing in the woods with lots of green foliage, highly detailed
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2101659894357139704"></a>
+
+### Photorealistic portrait of a woman wearing a wine-red satin dress and holding a champagne flute in a luxury bar.
+
+Author：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Source](https://x.com/CyberTotal2026/status/2101659894357139704)
+
+Photography · Portrait / Selfie · Character · Fashion Item · Published
+
+**Summary:** Photorealistic portrait of a woman wearing a wine-red satin dress and holding a champagne flute in a luxury bar.
+
+<img src="images/2101659894357139704-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Subject: Toast in a Crimson Dress. Main Subject: In the center of the frame, a young woman sits on a crimson velvet chair in a dimly lit luxury bar. The stars are her form-fitting wine-red satin dress, the slender champagne flute in her right hand, and the amber lighting. Person and Expression: Small oval face, soft jawline, large dark brown eyes, thin eyebrows, a well-defined nose bridge, and glossy pink lips slightly parted. Her face is tilted slightly to the right, gaze drifting to the left of the frame with a calm smile. Long dark brown wavy hair parted near the center, leaving wispy bangs and strands along the sides of her face, flowing over her shoulders. Attire and Pose: A short wine-red satin dress with thin shoulder straps, crisscrossed draping wrapping the bust, and diagonal wrinkles from waist to thigh. Small stud earrings, a delicate necklace with a black stone, and dainty bracelets on both wrists. Sitting deep in the chair with legs crossed, resting her left elbow on the armrest with fingertips at her chin, holding the stem of the flute with her right hand. Background and Lighting: In the background are amber shelf lights, liquor bottles, glassware, and to the far right, a fabric-shaded lamp and red flowers, with crimson chairs to the left and right. In the left foreground sits a black marble table with a candle and small plate. Warm shelf lights and lamps from the left and right cast a soft glow on her face and satin, with round bokeh in the background. Composition and Camera: 3:4 vertical composition, an above-the-knee portrait taken with a front-facing camera roughly level with the seated subject, framing from the crown of the head to below the crossed knees. The subject is prominent in the center, the glass toward the upper right, and the candle toward the lower left. The right leg is cropped at the bottom edge; focus is sharp on her eyes and the glass, with the bar shelves deeply blurred. Texture and Style: Photorealistic live-action photography. Deep satin sheen, velvet, marble, glass, and natural skin luster rendered in high definition, forming a cinematic night scene unified in wine red and amber. Negative: alter dress color or crossed legs; omit glass or bar lighting.
 ```
 
 [↑ Back to categories](#catalog)

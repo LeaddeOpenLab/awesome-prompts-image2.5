@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**161** Prompts · Última adição: **2026-09-20**
+**162** Prompts · Última adição: **2026-09-20**
 
 <a name="catalog"></a>
 
@@ -628,6 +628,28 @@ Fotografia · Paisagem / Natureza · Publicado
 
 ```text
 Foto de uma clareira na floresta com muita folhagem verde, altamente detalhada
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2101659894357139704"></a>
+
+### Tradução em andamento
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicação original](https://x.com/CyberTotal2026/status/2101659894357139704)
+
+Fotografia · Retrato / Selfie · Personagem · Item de Moda · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2101659894357139704-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -3623,13 +3645,13 @@ Tranquilo, poético, refinado, minimalista, inocente, artístico, ponderado, sof
 
 <a name="prompt-2101538802946715870"></a>
 
-### Tradução em andamento
+### Pôster editorial de automobilismo em vista superior de um carro de corrida GT branco contra um fundo gráfico dividido em preto/branco com tipografia gigante.
 
 Autor：[@harboriis](https://x.com/harboriis) · [Publicação original](https://x.com/harboriis/status/2101538802946715870)
 
 Pôster / Flyer · Veículo · Texto / Tipografia · Resumo / Contexto · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Pôster editorial de automobilismo em vista superior de um carro de corrida GT branco contra um fundo gráfico dividido em preto/branco com tipografia gigante.
 
 <img src="images/2101538802946715870-1.jpg" alt="Imagem 1" width="480" />
 
@@ -3638,7 +3660,123 @@ Pôster / Flyer · Veículo · Texto / Tipografia · Resumo / Contexto · Public
 **Prompt**
 
 ```text
-Tradução em andamento
+Crie um pôster editorial de automobilismo premium e hiper-realista apresentando um carro de corrida GT branco fotografado a partir de uma dramática perspectiva aérea superior (top-down).
+
+FORMATO:
+Composição vertical 9:16, resolução ultra-alta, fotografia automotiva comercial limpa, detalhes nítidos, reflexos e materiais realistas.
+
+ELEMENTO PRINCIPAL:
+Um carro de corrida GT profissional branco visto quase perfeitamente de cima para baixo, posicionado verticalmente ao longo da esquerda e do centro do enquadramento.
+
+Todo o carro deve ser visível da frente até a traseira. O carro é orientado verticalmente, com a frente voltada para o topo da imagem e a traseira voltada para a base.
+
+O veículo possui um design de corrida agressivo de carroceria alargada (wide-body) com:
+
+- Carroceria aerodinâmica branca
+- Aberturas e saídas de ar aerodinâmicas pretas
+- Rodas de corrida expostas
+- Pneus de corrida slick grandes
+- Rodas metálicas raiadas detalhadas
+- Linhas de detalhes em vermelho ao redor da carroceria
+- Grande asa aerodinâmica traseira
+- Splitter e difusor de corrida
+- Painéis aerodinâmicos complexos
+- Para-brisa e cockpit visíveis
+- Junções de painéis, parafusos, entradas de ar e componentes de fibra de carbono realistas
+
+O carro deve parecer um veículo de corrida profissional de GT ou endurance, com proporções autênticas de automobilismo e carroceria aerodinâmica extremamente detalhada.
+
+DETALHES DO CARRO:
+Os pneus são slicks pretos de corrida com letreiros brancos realistas nas laterais.
+
+As rodas devem ser rodas de liga leve metálicas de cor cinza-chumbo escuro altamente detalhadas, com componentes de freio visíveis atrás dos raios.
+
+Adicione discretos elementos de marca e gráficos vermelhos de automobilismo na carroceria branca. Inclua um grande logotipo ou elemento gráfico circular abstrato de corrida em vermelho no painel lateral central.
+
+Use pequenos decalques realistas em estilo de patrocinador e marcações técnicas por todo o carro.
+
+PERSPECTIVA:
+Fotografia automotiva em vista superior extrema (top-down).
+
+A câmera é posicionada quase diretamente acima do veículo, criando uma composição gráfica plana, mantendo a profundidade tridimensional realista.
+
+O carro ocupa aproximadamente 65 a 70 por cento da largura da imagem e se estende por quase toda a altura da composição.
+
+FUNDO:
+Fundo gráfico preto e branco puramente minimalista.
+
+Todo o fundo é dividido verticalmente:
+
+- Lado esquerdo: fundo branco puro e brilhante
+- Lado direito: fundo preto sólido e profundo
+
+Crie uma transição vertical nítida entre as áreas branca e preta.
+
+Atrás do carro, insira uma enorme tipografia geométrica branca em negrito estendendo-se verticalmente pelo fundo preto.
+
+A tipografia deve ser extremamente grande, espessa, moderna e condensada, funcionando principalmente como um elemento de design gráfico em vez de um texto comum legível.
+
+As letras devem ficar parcialmente ocultas atrás do carro de corrida.
+
+Use letras de bloco brancas superdimensionadas com cantos arredondados e forte construção geométrica. Algumas letras devem se estender além das bordas da composição.
+
+A tipografia deve criar um contraste dramático em preto e branco ao redor do veículo.
+
+LAYOUT:
+O carro de corrida branco fica posicionado diretamente sobre a divisa entre o fundo branco e preto.
+
+O lado esquerdo do carro se mescla visualmente à área branca, enquanto o lado direito se sobrepõe à tipografia branca gigante sobre o fundo preto.
+
+As letras superdimensionadas devem permanecer atrás do carro e nunca cobrir o veículo.
+
+Crie um espaço negativo forte ao redor do carro, mantendo a aparência gráfica arrojada.
+
+ILUMINAÇÃO:
+Iluminação de estúdio brilhante vinda de cima, produzindo sombras suaves e realistas sob o carro.
+
+Use iluminação high-key limpa sobre a carroceria branca.
+
+O fundo preto deve permanecer profundo e puro, sem gradientes desnecessários.
+
+Adicione reflexos sutis e realistas ao longo da pintura branca brilhante, para-brisa, rodas metálicas e componentes de fibra de carbono.
+
+O veículo deve ter uma aparência premium renderizada em estúdio, mantendo-se fotorrealista.
+
+MATERIAIS:
+Pintura automotiva branca brilhante extremamente realista.
+Textura realista de fibra de carbono.
+Rodas de metal escovado e polido.
+Vidro transparente do para-brisa.
+Pneus de borracha de corrida com textura detalhada.
+Pequenos detalhes pintados em vermelho.
+Bordas aerodinâmicas nítidas.
+
+ESTILO GRÁFICO:
+Campanha publicitária minimalista de automobilismo de luxo.
+
+Combine:
+
+- Fotografia automotiva premium
+- Design gráfico brutalista
+- Design editorial de automobilismo
+- Composição em preto e branco de alto contraste
+- Tipografia geométrica superdimensionada
+- Estética publicitária moderna e limpa
+
+PALETA DE CORES:
+Branco puro
+Preto profundo
+Carvão escuro
+Cinza-chumbo metálico
+Pequenas quantidades de vermelho de corrida vívido
+
+Sem cores desnecessárias.
+
+IMAGEM FINAL:
+Pôster fotorrealista de campanha automotiva profissional, carro de corrida extremamente detalhado, proporções realistas, perspectiva aérea dramática, bordas nítidas, alto contraste, iluminação de estúdio limpa, publicidade de automobilismo premium, composição minimalista, tipografia arrojada superdimensionada, direção de arte editorial sofisticada, qualidade 8K ultra-detalhada.
+
+IMPORTANTE:
+Mantenha a exata composição geral da referência: carro de corrida branco orientado verticalmente posicionado sobre a divisa do fundo preto e branco, letras geométricas brancas gigantes atrás do carro no lado preto, paleta de cores mínima, forte perspectiva aérea (top-down), detalhes de corrida em vermelho e uma estética de pôster de automobilismo comercial limpa e premium.
 ```
 
 [↑ Voltar às categorias](#catalog)

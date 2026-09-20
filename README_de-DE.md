@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**161** Prompts · Zuletzt hinzugefügt: **2026-09-20**
+**162** Prompts · Zuletzt hinzugefügt: **2026-09-20**
 
 <a name="catalog"></a>
 
@@ -628,6 +628,28 @@ Fotografie · Landschaft / Natur · Veröffentlicht
 
 ```text
 Foto einer Waldlichtung mit viel grünem Blattwerk, sehr detailliert
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2101659894357139704"></a>
+
+### Übersetzung läuft
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Originalbeitrag](https://x.com/CyberTotal2026/status/2101659894357139704)
+
+Fotografie · Porträt / Selfie · Charakter · Modeartikel · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2101659894357139704-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -3630,13 +3652,13 @@ Ruhig, poetisch, raffiniert, minimalistisch, unschuldig, künstlerisch, nachdenk
 
 <a name="prompt-2101538802946715870"></a>
 
-### Übersetzung läuft
+### Motorsport-Editorial-Poster eines weißen GT-Rennwagens aus der Vogelperspektive vor einem geteilten schwarz-weißen Grafikhintergrund mit riesiger Typografie.
 
 Autor：[@harboriis](https://x.com/harboriis) · [Originalbeitrag](https://x.com/harboriis/status/2101538802946715870)
 
 Plakat / Flyer · Fahrzeug · Text / Typografie · Zusammenfassung / Hintergrund · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Motorsport-Editorial-Poster eines weißen GT-Rennwagens aus der Vogelperspektive vor einem geteilten schwarz-weißen Grafikhintergrund mit riesiger Typografie.
 
 <img src="images/2101538802946715870-1.jpg" alt="Bild 1" width="480" />
 
@@ -3645,7 +3667,123 @@ Plakat / Flyer · Fahrzeug · Text / Typografie · Zusammenfassung / Hintergrund
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle ein hyperrealistisches Premium-Motorsport-Editorial-Poster mit einem weißen GT-Rennwagen, der aus einer dramatischen High-Angle-Vogelperspektive (Top-Down) fotografiert wurde.
+
+FORMAT:
+Vertikale 9:16-Komposition, ultrahohe Auflösung, saubere kommerzielle Automobilfotografie, scharfe Details, realistische Reflexionen und Materialien.
+
+HAUPT豚UBJEKT:
+Ein weißer professioneller GT-Rennwagen, fast perfekt direkt von oben betrachtet, vertikal entlang der linken Seite und der Mitte des Rahmens positioniert.
+
+Das gesamte Auto sollte von vorne bis hinten sichtbar sein. Das Auto ist vertikal ausgerichtet, mit der Front zum oberen Rand des Bildes und dem Heck zum unteren Rand.
+
+Das Fahrzeug hat ein aggressives Widebody-Renndesign mit:
+
+- Weißer aerodynamischer Karosserie
+- Schwarzen aerodynamischen Lüftungsschlitzen und Öffnungen
+- Freiliegenden Rennrädern
+- Großen Renn-Slick-Reifen
+- Detaillierten metallischen Mehrspeichenfelgen
+- Roten Akzentlinien um die Karosserie herum
+- Großem aerodynamischem Heckflügel
+- Renn-Splitter und Diffusor
+- Komplexen aerodynamischen Verkleidungsteilen
+- Sichtbarer Windschutzscheibe und Cockpit
+- Realistischen Karosseriefugen, Schrauben, Lüftungsschlitzen und Kohlefaserkomponenten
+
+Das Auto sollte wie ein professioneller Langstrecken- oder GT-Rennwagen aussehen, mit authentischen Motorsport-Proportionen und extrem detaillierter aerodynamischer Karosserie.
+
+AUTO-DETAILS:
+Die Reifen sind schwarze Renn-Slicks mit realistischer weißer Beschriftung auf den Seitenwänden.
+
+Die Räder sollten hochdetaillierte metallische Felgen aus dunkler Gunmetal-Legierung mit sichtbaren Bremskomponenten hinter den Speichen sein.
+
+Füge dezentes rotes Motorsport-Branding und Grafiken auf der weißen Karosserie hinzu. Integriere ein großes rotes kreisförmiges abstraktes Rennsport-Logo oder eine Grafik auf der mittleren Seitenwand.
+
+Verwende kleine realistische Sponsor-Decals und technische Markierungen am gesamten Fahrzeug.
+
+PERSPEKTIVE:
+Extreme Top-Down-Automobilfotografie.
+
+Die Kamera ist fast direkt über dem Fahrzeug positioniert, was eine flache grafische Komposition erzeugt und gleichzeitig realistische dreidimensionale Tiefe bewahrt.
+
+Das Auto nimmt etwa 65 bis 70 Prozent der Bildbreite ein und erstreckt sich über fast die gesamte Höhe der Komposition.
+
+HINTERGRUND:
+Reiner minimalistischer grafischer Schwarz-Weiß-Hintergrund.
+
+Der gesamte Hintergrund ist vertikal geteilt:
+
+- Linke Seite: sauberer, strahlend weißer Hintergrund
+- Rechte Seite: tiefes, solides schwarzes Hintergrund
+
+Erzeuge einen scharfen vertikalen Übergang zwischen den weißen und schwarzen Bereichen.
+
+Hinter dem Auto platziere eine riesige, fette, weiße geometrische Typografie, die sich vertikal durch den schwarzen Hintergrund erstreckt.
+
+Die Typografie sollte extrem groß, dick, modern und kondensiert sein und primär als grafisches Gestaltungselement statt als normal lesbarer Text fungieren.
+
+Die Buchstaben sollten teilweise hinter dem Rennwagen verborgen sein.
+
+Verwende übergroße weiße Blockbuchstaben mit abgerundeten Ecken und starker geometrischer Konstruktion. Einige Buchstaben sollten über die Ränder der Komposition hinausragen.
+
+Die Typografie sollte einen dramatischen Schwarz-Weiß-Kontrast um das Fahrzeug herum erzeugen.
+
+LAYOUT:
+Der weiße Rennwagen sitzt direkt auf der Grenze zwischen dem weißen und dem schwarzen Hintergrund.
+
+Die linke Seite des Autos verschmilzt optisch mit dem weißen Bereich, während die rechte Seite die riesige weiße Typografie auf dem schwarzen Hintergrund überlappt.
+
+Die übergroßen Buchstaben müssen hinter dem Auto bleiben und dürfen das Fahrzeug niemals verdecken.
+
+Schaffe einen starken negativen Raum um das Auto, während das markante grafische Erscheinungsbild beibehalten wird.
+
+BELEUCHTUNG:
+Helle Studiobeleuchtung von oben, die weiche realistische Schatten unter dem Auto erzeugt.
+
+Verwende eine saubere High-Key-Beleuchtung auf der weißen Karosserie.
+
+Der schwarze Hintergrund sollte tief und rein bleiben, ohne unnötige Farbverläufe.
+
+Füge subtile realistische Reflexionen auf dem glänzenden weißen Lack, der Windschutzscheibe, den Metallfelgen und den Kohlefaserkomponenten hinzu.
+
+Das Fahrzeug sollte wie ein erstklassiges Studio-Rendering wirken und dabei fotorealistisch bleiben.
+
+MATERIALIEN:
+Extrem realistischer glänzender weißer Autolack.
+Realistische Kohlefaser-Textur.
+Gebürstete und polierte Metallfelgen.
+Transparentes Windschutzscheibenglas.
+Gummi-Rennreifen mit detaillierter Textur.
+Kleine rot lackierte Akzente.
+Scharfe aerodynamische Kanten.
+
+GRAFIKSTIL:
+Minimalistische Luxus-Motorsport-Werbekampagne.
+
+Kombiniere:
+
+- Erstklassige Automobilfotografie
+- Brutalistisches Grafikdesign
+- Motorsport-Editorial-Design
+- Kontrastreiche Schwarz-Weiß-Komposition
+- Übergroße geometrische Typografie
+- Saubere, moderne Werbeästhetik
+
+FARBPALETTE:
+Reines Weiß
+Tiefes Schwarz
+Dunkle Holzkohle
+Metallisches Gunmetal
+Kleine Mengen an lebhaftem Rennrot
+
+Keine unnötigen Farben.
+
+FINALES BILD:
+Fotorealistisches professionelles Automobil-Kampagnenposter, extrem detaillierter Rennwagen, realistische Proportionen, dramatische Überkopf-Perspektive, gestochen scharfe Kanten, hoher Kontrast, saubere Studiobeleuchtung, Premium-Motorsportwerbung, minimalistische Komposition, fette übergroße Typografie, anspruchsvolle redaktionelle Art-Direction, ultradetaillierte 8K-Qualität.
+
+WICHTIG:
+Behalte die exakte Gesamtkomposition der Referenz bei: vertikal ausgerichteter weißer Rennwagen, der über der Grenze des weißen und schwarzen Hintergrunds positioniert ist, riesige weiße geometrische Buchstaben hinter dem Auto auf der schwarzen Seite, minimale Farbpalette, starke Top-Down-Perspektive, rote Rennakzente und eine saubere Premium-Motorsport-Poster-Ästhetik.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

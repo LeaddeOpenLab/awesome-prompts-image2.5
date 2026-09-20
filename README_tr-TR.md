@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**161** Prompt · Son eklenen: **2026-09-20**
+**162** Prompt · Son eklenen: **2026-09-20**
 
 <a name="catalog"></a>
 
@@ -628,6 +628,28 @@ Fotoğrafçılık · Manzara / Doğa · Yayımlandı
 
 ```text
 Ormanda bol yeşil yaprakları olan bir açıklığın fotoğrafı, son derece detaylı
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2101659894357139704"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Orijinal gönderi](https://x.com/CyberTotal2026/status/2101659894357139704)
+
+Fotoğrafçılık · Portre / Selfie · Karakter · Moda Ürünü · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2101659894357139704-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -3623,13 +3645,13 @@ Sakin, şiirsel, zarif, minimal, masum, sanatsal, düşünceli, birinci sınıf 
 
 <a name="prompt-2101538802946715870"></a>
 
-### Çeviri sürüyor
+### Dev tipografi içeren bölünmüş siyah/beyaz grafik arka plan önünde, beyaz bir GT yarış arabasının kuşbakışı motor sporları editoryal posteri.
 
 Yazar：[@harboriis](https://x.com/harboriis) · [Orijinal gönderi](https://x.com/harboriis/status/2101538802946715870)
 
 Poster / El İlanı · Araç · Metin / Tipografi · Özet / Arka Plan · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Dev tipografi içeren bölünmüş siyah/beyaz grafik arka plan önünde, beyaz bir GT yarış arabasının kuşbakışı motor sporları editoryal posteri.
 
 <img src="images/2101538802946715870-1.jpg" alt="Görsel 1" width="480" />
 
@@ -3638,7 +3660,123 @@ Poster / El İlanı · Araç · Metin / Tipografi · Özet / Arka Plan · Yayım
 **İstem**
 
 ```text
-Çeviri sürüyor
+Dramatik, yüksek açılı ve tepeden kuşbakışı bir perspektifle fotoğraflanmış beyaz bir GT yarış arabasını içeren, hiper-gerçekçi birinci sınıf bir motor sporları editoryal posteri oluşturun.
+
+FORMAT:
+Dikey 9:16 kompozisyon, ultra yüksek çözünürlük, temiz ticari otomotiv fotoğrafçılığı, keskin detaylar, gerçekçi yansımalar ve malzemeler.
+
+ANA ÖĞE:
+Kareden sola ve merkeze doğru dikey olarak konumlandırılmış, neredeyse kusursuz bir şekilde doğrudan tepeden görünen beyaz profesyonel bir GT yarış arabası.
+
+Aracın tamamı önden arkaya kadar görünür olmalıdır. Araç dikey olarak yönlendirilmiştir; ön kısmı görüntünün üst tarafına, arka kısmı ise alt tarafına doğrudur.
+
+Araç şu özelliklere sahip agresif, geniş gövdeli (wide-body) bir yarış tasarımına sahiptir:
+
+- Beyaz aerodinamik gövde
+- Siyah aerodinamik havalandırma kanalları ve delikleri
+- Açıkta duran yarış jantları
+- Büyük slick yarış lastikleri
+- Ayrıntılı metalik çok kollu jantlar
+- Gövde çevresinde kırmızı vurgu çizgileri
+- Büyük arka aerodinamik kanat
+- Yarış splitteri ve difüzörü
+- Karmaşık aerodinamik paneller
+- Görünür ön cam ve kokpit
+- Gerçekçi panel birleşim yerleri, vidalar, menfezler ve karbon fiber bileşenler
+
+Araç, özgün motor sporları oranlarına ve son derece ayrıntılı aerodinamik gövdeye sahip, profesyonel bir dayanıklılık (endurance) veya GT yarış arabası gibi görünmelidir.
+
+ARAÇ DETAYLARI:
+Lastikler, yanaklarında gerçekçi beyaz yazılar bulunan siyah yarış slick'leridir.
+
+Jantlar, kolların arkasında fren bileşenleri açıkça görülebilen, son derece ayrıntılı metalik koyu füme alaşım jantlar olmalıdır.
+
+Beyaz gövdeye zarif kırmızı motor sporları marka unsurları ve grafikleri ekleyin. Merkezi yan panelde büyük, kırmızı dairesel soyut bir yarış logosu veya grafiği bulundurun.
+
+Aracın genelinde sponsor tarzı küçük gerçekçi çıkartmalar ve teknik işaretlemeler kullanın.
+
+PERSPEKTİF:
+Ekstrem tepeden aşağıya (top-down) otomotiv fotoğrafçılığı.
+
+Kamera, neredeyse doğrudan aracın üzerine konumlandırılarak, gerçekçi üç boyutlu derinliği korurken düz ve grafik bir kompozisyon oluşturur.
+
+Araç, görsel genişliğinin yaklaşık yüzde 65 ila 70'ini kaplar ve kompozisyonun neredeyse tüm yüksekliği boyunca uzanır.
+
+ARKA PLAN:
+Tamamen minimalist siyah-beyaz grafik arka plan.
+
+Tüm arka plan dikey olarak ikiye bölünmüştür:
+
+- Sol taraf: tertemiz, parlak beyaz arka plan
+- Sağ taraf: derin, masif siyah arka plan
+
+Beyaz ve siyah alanlar arasında keskin bir dikey geçiş oluşturun.
+
+Arabanın arkasında, siyah arka plan boyunca dikey olarak uzanan devasa, kalın ve beyaz geometrik bir tipografi yerleştirin.
+
+Tipografi son derece büyük, kalın, modern ve yoğunlaştırılmış (condensed) olmalı; normal okunabilir bir metinden ziyade öncelikle bir grafik tasarım ögesi olarak işlev görmelidir.
+
+Harfler yarış arabasının arkasında kısmen gizlenmiş olmalıdır.
+
+Yuvarlatılmış köşelere ve güçlü geometrik yapıya sahip büyük boyutlu beyaz blok harfler kullanın. Bazı harfler kompozisyonun kenarlarının dışına taşmalıdır.
+
+Tipografi, aracın etrafında dramatik bir siyah-beyaz kontrastı yaratmalıdır.
+
+YERLEŞİM:
+Beyaz yarış arabası, beyaz ve siyah arka plan sınırının tam üzerine oturur.
+
+Aracın sol tarafı görsel olarak beyaz alanla bütünleşirken, sağ tarafı siyah arka plandaki dev beyaz tipografinin üzerine biner.
+
+Büyük boyutlu harfler arabanın arkasında kalmalı ve kesinlikle aracı örtmemelidir.
+
+Cesur grafik görünümünü korurken aracın etrafında güçlü bir negatif alan oluşturun.
+
+AYDINLATMA:
+Yukarıdan gelen parlak stüdyo aydınlatması, arabanın altında yumuşak ve gerçekçi gölgeler oluşturur.
+
+Beyaz gövde üzerinde temiz, high-key bir aydınlatma kullanın.
+
+Siyah arka plan, gereksiz degradeler olmadan derin ve saf kalmalıdır.
+
+Parlak beyaz boya, ön cam, metalik jantlar ve karbon fiber parçalar üzerinde zarif ve gerçekçi yansımalar ekleyin.
+
+Araç, fotogerçekçi kalırken birinci sınıf bir stüdyo render görünümüne sahip olmalıdır.
+
+MALZEMELER:
+Son derece gerçekçi parlak beyaz otomotiv boyası.
+Gerçekçi karbon fiber dokusu.
+Fırçalanmış ve cilalanmış metal jantlar.
+Şeffaf ön cam camı.
+Ayrıntılı dokuya sahip kauçuk yarış lastikleri.
+Küçük kırmızı boyalı vurgular.
+Keskin aerodinamik kenarlar.
+
+GRAFİK STİLİ:
+Minimalist lüks motor sporları reklam kampanyası.
+
+Şunları birleştirin:
+
+- Birinci sınıf otomotiv fotoğrafçılığı
+- Brutalist grafik tasarım
+- Motor sporları editoryal tasarımı
+- Yüksek kontrastlı siyah-beyaz kompozisyon
+- Devasa geometrik tipografi
+- Temiz ve modern reklam estetiği
+
+RENK PALETİ:
+Saf beyaz
+Derin siyah
+Koyu antrasit
+Metalik füme
+Az miktarda canlı yarış kırmızısı
+
+Gereksiz renkler yok.
+
+NİHAİ GÖRSEL:
+Fotogerçekçi profesyonel otomotiv kampanya posteri, son derece detaylı yarış arabası, gerçekçi oranlar, dramatik tepeden kuşbakışı perspektif, net kenarlar, yüksek kontrast, temiz stüdyo aydınlatması, birinci sınıf motor sporları reklamı, minimalist kompozisyon, kalın ve devasa tipografi, sofistike editoryal sanat yönetimi, ultra detaylı 8K kalitesi.
+
+ÖNEMLİ:
+Referansın tam genel kompozisyonunu koruyun: beyaz ve siyah arka plan sınırına yerleştirilmiş dikey yönlü beyaz yarış arabası, siyah tarafta arabanın arkasında dev beyaz geometrik harfler, minimal renk paleti, güçlü kuşbakışı perspektif, kırmızı yarış vurguları ve temiz, birinci sınıf bir motor sporları posteri estetiği.
 ```
 
 [↑ Kategorilere dön](#catalog)

@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**161** Prompts · Dernier ajout: **2026-09-20**
+**162** Prompts · Dernier ajout: **2026-09-20**
 
 <a name="catalog"></a>
 
@@ -628,6 +628,28 @@ Photographie · Paysage / Nature · Publié
 
 ```text
 Photo d'une clairière dans les bois avec un feuillage vert abondant, très détaillée
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2101659894357139704"></a>
+
+### Traduction en cours
+
+Auteur：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publication originale](https://x.com/CyberTotal2026/status/2101659894357139704)
+
+Photographie · Portrait / Selfie · Personnage · Article de mode · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2101659894357139704-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -3630,13 +3652,13 @@ Calme, poétique, raffiné, minimaliste, innocent, artistique, réfléchi, haut 
 
 <a name="prompt-2101538802946715870"></a>
 
-### Traduction en cours
+### Affiche éditoriale de sport automobile en vue du dessus d'une GT de course blanche sur fond graphique bicolore noir et blanc avec typographie géante.
 
 Auteur：[@harboriis](https://x.com/harboriis) · [Publication originale](https://x.com/harboriis/status/2101538802946715870)
 
 Affiche / Flyer · Véhicule · Texte / Typographie · Résumé / Contexte · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Affiche éditoriale de sport automobile en vue du dessus d'une GT de course blanche sur fond graphique bicolore noir et blanc avec typographie géante.
 
 <img src="images/2101538802946715870-1.jpg" alt="Image 1" width="480" />
 
@@ -3645,7 +3667,123 @@ Affiche / Flyer · Véhicule · Texte / Typographie · Résumé / Contexte · Pu
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une affiche éditoriale de sport automobile haut de gamme et hyperréaliste mettant en scène une voiture de course GT blanche photographiée en vue plongeante zénithale spectaculaire.
+
+FORMAT :
+Composition verticale au format 9:16, ultra-haute résolution, photographie automobile commerciale épurée, détails nets, reflets et matériaux réalistes.
+
+SUJET PRINCIPAL :
+Une voiture de course GT professionnelle blanche vue presque parfaitement de dessus, positionnée verticalement sur la gauche et le centre du cadre.
+
+L'ensemble de la voiture doit être visible de l'avant à l'arrière. La voiture est orientée verticalement, l'avant pointant vers le haut de l'image et l'arrière vers le bas.
+
+Le véhicule présente une conception de course large et agressive avec :
+
+- Une carrosserie aérodynamique blanche
+- Des prises d'air et fentes d'aération aérodynamiques noires
+- Des roues de course apparentes
+- De larges pneus slicks de compétition
+- Des jantes métalliques multi-branches détaillées
+- Des lignes d'accentuation rouges autour de la carrosserie
+- Un grand aileron aérodynamique arrière
+- Un splitter et un diffuseur de course
+- Des panneaux aérodynamiques complexes
+- Un pare-brise et un cockpit visibles
+- Des joints de panneaux, vis, aérations et composants en fibre de carbone réalistes
+
+La voiture doit avoir l'allure d'un bolide d'endurance professionnel ou de course GT, avec des proportions de sport automobile authentiques et une carrosserie aérodynamique extrêmement détaillée.
+
+DÉTAILS DU VÉHICULE :
+Les pneus sont des slicks de compétition noirs avec des inscriptions réalistes blanches sur les flancs.
+
+Les roues doivent être des jantes en alliage métallique bronze canon foncé ultra-détaillées avec des éléments de freinage visibles derrière les rayons.
+
+Ajoutez un lettrage et des graphismes discrets de sport automobile en rouge sur la carrosserie blanche. Incluez un grand logo ou graphisme de course abstrait circulaire rouge sur le panneau latéral central.
+
+Utilisez de petits autocollants de style sponsors et des marquages techniques réalistes sur l'ensemble de la voiture.
+
+PERSPECTIVE :
+Photographie automobile en vue zénithale extrême (du dessus).
+
+L'appareil photo est positionné presque directement au-dessus du véhicule, créant une composition graphique plate tout en conservant une profondeur tridimensionnelle réaliste.
+
+La voiture occupe environ 65 à 70 pour cent de la largeur de l'image et s'étend sur presque toute la hauteur de la composition.
+
+ARRIÈRE-PLAN :
+Arrière-plan graphique noir et blanc, purement minimaliste.
+
+Tout l'arrière-plan est divisé verticalement :
+
+- Côté gauche : arrière-plan blanc éclatant et épuré
+- Côté droit : arrière-plan noir profond et uni
+
+Créez une transition verticale nette entre les zones blanches et noires.
+
+Derrière la voiture, disposez une gigantesque typographie géométrique blanche en gras qui s'étend verticalement à travers l'arrière-plan noir.
+
+La typographie doit être extrêmement grande, épaisse, moderne et condensée, servant avant tout d'élément de design graphique plutôt que de texte lisible ordinaire.
+
+Les lettres doivent être partiellement masquées derrière la voiture de course.
+
+Utilisez des lettres capitales massives blanches aux coins arrondis et à la géométrie rigoureuse. Certaines lettres doivent dépasser des bords de la composition.
+
+La typographie doit créer un contraste noir et blanc spectaculaire autour du véhicule.
+
+MISE EN PAGE :
+La voiture de course blanche repose directement sur la frontière entre l'arrière-plan blanc et le fond noir.
+
+Le côté gauche de la voiture se fond visuellement dans la zone blanche tandis que le côté droit chevauche la typographie blanche géante sur le fond noir.
+
+Les lettres surdimensionnées doivent rester derrière la voiture et ne doivent en aucun cas la recouvrir.
+
+Créez un espace négatif prononcé autour de la voiture tout en préservant son rendu graphique percutant.
+
+ÉCLAIRAGE :
+Éclairage de studio lumineux venant du dessus, produisant des ombres douces et réalistes sous la voiture.
+
+Utilisez un éclairage high-key épuré sur la carrosserie blanche.
+
+Le fond noir doit rester profond et pur, sans dégradés inutiles.
+
+Ajoutez des reflets discrets et réalistes sur la peinture blanche brillante, le pare-brise, les roues métalliques et les éléments en fibre de carbone.
+
+Le véhicule doit présenter une qualité de rendu de studio haut de gamme tout en restant photoréaliste.
+
+MATÉRIAUX :
+Peinture automobile blanche brillante extrêmement réaliste.
+Texture de fibre de carbone réaliste.
+Jantes métalliques brossées et polies.
+Verre de pare-brise transparent.
+Pneus de course en caoutchouc à la texture détaillée.
+Petites touches de peinture rouge.
+Arêtes aérodynamiques acérées.
+
+STYLE GRAPHIQUE :
+Campagne publicitaire minimaliste pour le sport automobile de luxe.
+
+Combinez :
+
+- Photographie automobile haut de gamme
+- Design graphique brutaliste
+- Mise en page éditoriale de sport automobile
+- Composition noir et blanc à fort contraste
+- Typographie géométrique surdimensionnée
+- Esthétique publicitaire moderne et épurée
+
+PALETTE DE COULEURS :
+Blanc pur
+Noir profond
+Anthracite foncé
+Bronze canon métallique
+Touches subtiles de rouge course vif
+
+Aucune couleur superflue.
+
+IMAGE FINALE :
+Affiche professionnelle photoréaliste pour campagne automobile, voiture de course extrêmement détaillée, proportions réalistes, perspective zénithale saisissante, contours nets, contraste élevé, éclairage de studio soigné, publicité de sport automobile haut de gamme, composition minimaliste, typographie audacieuse surdimensionnée, direction artistique éditoriale sophistiquée, qualité 8K ultra-détaillée.
+
+IMPORTANT :
+Conservez fidèlement la composition globale de référence : une voiture de course blanche orientée verticalement à cheval sur la séparation entre le fond blanc et le fond noir, des lettres géométriques blanches géantes derrière la voiture du côté noir, une palette de couleurs minimale, une forte perspective zénithale, des accents de course rouges et une esthétique soignée d'affiche de sport automobile haut de gamme.
 ```
 
 [↑ Retour aux catégories](#catalog)

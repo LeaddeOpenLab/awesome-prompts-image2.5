@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**161** Prompt · Ultima aggiunta: **2026-09-20**
+**162** Prompt · Ultima aggiunta: **2026-09-20**
 
 <a name="catalog"></a>
 
@@ -628,6 +628,28 @@ Fotografia · Paesaggio / Natura · Pubblicato
 
 ```text
 Foto di una radura nel bosco con abbondante fogliame verde, altamente dettagliata
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2101659894357139704"></a>
+
+### Traduzione in corso
+
+Autore：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Post originale](https://x.com/CyberTotal2026/status/2101659894357139704)
+
+Fotografia · Ritratto / Selfie · Personaggio · Articolo di moda · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2101659894357139704-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -3630,13 +3652,13 @@ Silenzioso, poetico, raffinato, minimale, innocente, artistico, riflessivo, prem
 
 <a name="prompt-2101538802946715870"></a>
 
-### Traduzione in corso
+### Poster editoriale di motorsport con vista dall'alto di un'auto da corsa GT bianca su uno sfondo grafico diviso in bianco e nero con tipografia gigante.
 
 Autore：[@harboriis](https://x.com/harboriis) · [Post originale](https://x.com/harboriis/status/2101538802946715870)
 
 Poster / Volantino · Veicolo · Testo / Tipografia · Abstract / Contesto · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Poster editoriale di motorsport con vista dall'alto di un'auto da corsa GT bianca su uno sfondo grafico diviso in bianco e nero con tipografia gigante.
 
 <img src="images/2101538802946715870-1.jpg" alt="Immagine 1" width="480" />
 
@@ -3645,7 +3667,123 @@ Poster / Volantino · Veicolo · Testo / Tipografia · Abstract / Contesto · Pu
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea un poster editoriale di motorsport premium e iperrealistico con un'auto da corsa GT bianca fotografata da una spettacolare prospettiva zenitale dall'alto.
+
+FORMATO:
+Composizione verticale in 9:16, risoluzione ultra elevata, fotografia automobilistica commerciale pulita, dettagli nitidi, riflessi e materiali realistici.
+
+SOGGETTO PRINCIPALE:
+Un'auto da corsa GT professionale bianca vista quasi perfettamente dall'alto, posizionata verticalmente lungo la sinistra e il centro dell'inquadratura.
+
+L'intera vettura deve essere visibile dalla parte anteriore a quella posteriore. L'auto è orientata verticalmente, con il muso rivolto verso la parte superiore dell'immagine e la coda verso il basso.
+
+Il veicolo presenta un aggressivo design da corsa a carrozzeria allargata con:
+
+- Carrozzeria aerodinamica bianca
+- Prese d'aria e aperture aerodinamiche nere
+- Ruote da corsa esposte
+- Grandi pneumatici slick da gara
+- Cerchi metallici multirazza dettagliati
+- Linee d'accento rosse lungo la carrozzeria
+- Grande alettone aerodinamico posteriore
+- Splitter e diffusore da corsa
+- Pannelli aerodinamici complessi
+- Parabrezza e abitacolo visibili
+- Giunzioni dei pannelli, viti, prese d'aria e componenti in fibra di carbonio realistici
+
+L'auto deve apparire come una vettura da corsa professionale endurance o GT, con proporzioni motorsport autentiche e una carrozzeria aerodinamica estremamente dettagliata.
+
+DETTAGLI DELL'AUTO:
+Gli pneumatici sono slick neri da gara con scritte bianche realistiche sulla spalla.
+
+I cerchi devono essere in lega metallica canna di fucile scuro altamente dettagliati, con componenti dell'impianto frenante visibili dietro le razze.
+
+Aggiungi dettagli e grafiche motorsport rosse discrete sulla carrozzeria bianca. Includi un grande logo o elemento grafico astratto da corsa circolare rosso sul pannello laterale centrale.
+
+Utilizza piccole decalcomanie realistiche in stile sponsor e marcature tecniche su tutta la vettura.
+
+PROSPETTIVA:
+Fotografia automobilistica zenitale estrema (dall'alto verso il basso).
+
+La fotocamera è posizionata quasi direttamente sopra il veicolo, creando una composizione grafica piatta pur mantenendo una realistica profondità tridimensionale.
+
+L'auto occupa circa il 65-70% della larghezza dell'immagine e si estende per quasi l'intera altezza della composizione.
+
+SFONDO:
+Sfondo grafico bianco e nero puramente minimalista.
+
+L'intero sfondo è suddiviso verticalmente:
+
+- Lato sinistro: sfondo bianco brillante e pulito
+- Lato destro: sfondo nero solido e profondo
+
+Crea una netta transizione verticale tra le aree bianche e nere.
+
+Dietro l'auto, colloca un'enorme tipografia geometrica bianca in grassetto che si estende verticalmente attraverso lo sfondo nero.
+
+La tipografia deve essere estremamente grande, spessa, moderna e condensata, fungendo principalmente da elemento di graphic design piuttosto che da normale testo leggibile.
+
+Le lettere devono essere parzialmente nascoste dietro l'auto da corsa.
+
+Usa lettere a blocco bianche sovradimensionate con angoli arrotondati e una forte struttura geometrica. Alcune lettere devono estendersi oltre i bordi della composizione.
+
+La tipografia deve creare un drammatico contrasto in bianco e nero attorno al veicolo.
+
+LAYOUT:
+L'auto da corsa bianca poggia direttamente sopra il confine tra lo sfondo bianco e quello nero.
+
+Il lato sinistro dell'auto si fonde visivamente nell'area bianca, mentre il lato destro si sovrappone alla gigantesca tipografia bianca sullo sfondo nero.
+
+Le lettere sovradimensionate devono rimanere dietro l'auto e non devono mai coprire il veicolo.
+
+Crea un forte spazio negativo intorno all'auto mantenendo al contempo un aspetto grafico audace.
+
+ILLUMINAZIONE:
+Luminosa illuminazione da studio dall'alto, che genera ombre morbide e realistiche sotto l'auto.
+
+Utilizza un'illuminazione high-key pulita sulla carrozzeria bianca.
+
+Lo sfondo nero deve rimanere profondo e puro senza sfumature non necessarie.
+
+Aggiungi riflessi sottili e realistici sulla vernice bianca lucida, sul parabrezza, sui cerchi metallici e sui componenti in fibra di carbonio.
+
+Il veicolo deve avere l'aspetto di un rendering da studio premium, pur rimanendo fotorealistico.
+
+MATERIALI:
+Vernice automobilistica bianca lucida estremamente realistica.
+Texture realistica in fibra di carbonio.
+Cerchi in metallo spazzolato e lucidato.
+Vetro del parabrezza trasparente.
+Pneumatici da corsa in gomma con texture dettagliata.
+Piccoli accenti verniciati di rosso.
+Bordi aerodinamici taglienti.
+
+STILE GRAFICO:
+Campagna pubblicitaria minimalista per il motorsport di lusso.
+
+Combina:
+
+- Fotografia automobilistica premium
+- Graphic design brutalista
+- Design editoriale per il motorsport
+- Composizione in bianco e nero ad alto contrasto
+- Tipografia geometrica sovradimensionata
+- Estetica pubblicitaria moderna e pulita
+
+TAVOLOZZA COLORI:
+Bianco puro
+Nero profondo
+Antracite scuro
+Canna di fucile metallizzato
+Piccole quantità di vivido rosso corsa
+
+Nessun colore non necessario.
+
+IMMAGINE FINALE:
+Poster pubblicitario automobilistico professionale fotorealistico, auto da corsa estremamente dettagliata, proporzioni realistiche, drammatica prospettiva dall'alto, bordi nitidi, alto contrasto, illuminazione da studio pulita, pubblicità motorsport premium, composizione minimalista, tipografia audace e sovradimensionata, direzione artistica editoriale sofisticata, qualità 8K ultra dettagliata.
+
+IMPORTANTE:
+Conserva l'esatta composizione generale di riferimento: auto da corsa bianca orientata verticalmente posizionata a cavallo del confine dello sfondo bianco e nero, gigantesche lettere geometriche bianche dietro l'auto sul lato nero, tavolozza di colori minimale, forte prospettiva dall'alto, accenti racing rossi e una pulita estetica da poster di motorsport premium.
 ```
 
 [↑ Torna alle categorie](#catalog)

@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**161** Prompts · Última incorporación: **2026-09-20**
+**162** Prompts · Última incorporación: **2026-09-20**
 
 <a name="catalog"></a>
 
@@ -628,6 +628,28 @@ Fotografía · Paisaje / Naturaleza · Publicado
 
 ```text
 Foto de un claro en el bosque con mucho follaje verde, muy detallada
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2101659894357139704"></a>
+
+### Traducción en curso
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicación original](https://x.com/CyberTotal2026/status/2101659894357139704)
+
+Fotografía · Retrato / Selfie · Personaje · Artículo de moda · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2101659894357139704-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -3630,13 +3652,13 @@ Tranquilo, poético, refinado, minimalista, inocente, artístico, reflexivo, pr�
 
 <a name="prompt-2101538802946715870"></a>
 
-### Traducción en curso
+### Póster editorial de automovilismo cenital de un auto de carreras GT blanco sobre un fondo gráfico dividido en blanco y negro con tipografía gigante.
 
 Autor：[@harboriis](https://x.com/harboriis) · [Publicación original](https://x.com/harboriis/status/2101538802946715870)
 
 Póster / Volante · Vehículo · Texto / Tipografía · Resumen / Antecedentes · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Póster editorial de automovilismo cenital de un auto de carreras GT blanco sobre un fondo gráfico dividido en blanco y negro con tipografía gigante.
 
 <img src="images/2101538802946715870-1.jpg" alt="Imagen 1" width="480" />
 
@@ -3645,7 +3667,123 @@ Póster / Volante · Vehículo · Texto / Tipografía · Resumen / Antecedentes 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un póster editorial de automovilismo premium e hiperrealista con un auto de carreras GT blanco fotografiado desde una dramática perspectiva cenital de ángulo alto.
+
+FORMATO:
+Composición vertical 9:16, resolución ultraalta, fotografía automotriz comercial limpia, detalles nítidos, reflejos y materiales realistas.
+
+SUJETO PRINCIPAL:
+Un auto de carreras GT profesional blanco visto casi a la perfección desde arriba, posicionado verticalmente a lo largo de la izquierda y el centro del encuadre.
+
+Todo el automóvil debe ser visible desde el frente hasta la parte trasera. El vehículo está orientado verticalmente, con la parte delantera hacia la parte superior de la imagen y la parte trasera hacia la parte inferior.
+
+El vehículo cuenta con un diseño de carreras ancho y agresivo con:
+
+- Carrocería aerodinámica blanca
+- Ventilaciones y aberturas aerodinámicas negras
+- Ruedas de carreras expuestas
+- Neumáticos slick de carreras grandes
+- Ruedas metálicas multirradio detalladas
+- Líneas de acento rojas alrededor de la carrocería
+- Alerón aerodinámico trasero grande
+- Divisor (splitter) y difusor de carreras
+- Paneles aerodinámicos complejos
+- Parabrisas y cabina visibles
+- Uniones de paneles, tornillos, ventilaciones y componentes de fibra de carbono realistas
+
+El auto debe verse como un auto de carreras profesional de resistencia o GT, con proporciones de automovilismo auténticas y una carrocería aerodinámica extremadamente detallada.
+
+DETALLES DEL AUTOMÓVIL:
+Los neumáticos son slicks negros de carreras con letras blancas realistas en los flancos.
+
+Las ruedas deben ser rines de aleación metálica color gris plomo oscuro muy detallados con componentes de freno visibles detrás de los radios.
+
+Añade una sutil marca y gráficos rojos de automovilismo en la carrocería blanca. Incluye un logotipo o gráfico de carreras abstracto circular rojo grande en el panel lateral central.
+
+Utiliza pequeñas calcomanías realistas de estilo patrocinador y marcas técnicas por todo el automóvil.
+
+PERSPECTIVA:
+Fotografía automotriz cenital extrema.
+
+La cámara se posiciona casi directamente sobre el vehículo, creando una composición gráfica plana mientras mantiene una profundidad tridimensional realista.
+
+El auto ocupa aproximadamente del 65 al 70 por ciento del ancho de la imagen y se extiende casi por toda la altura de la composición.
+
+FONDO:
+Fondo gráfico blanco y negro puramente minimalista.
+
+Todo el fondo está dividido verticalmente:
+
+- Lado izquierdo: fondo blanco brillante y limpio
+- Lado derecho: fondo negro sólido y profundo
+
+Crea una transición vertical nítida entre las áreas blanca y negra.
+
+Detrás del automóvil, coloca una enorme tipografía geométrica blanca en negrita que se extienda verticalmente a través del fondo negro.
+
+La tipografía debe ser extremadamente grande, gruesa, moderna y condensada, funcionando principalmente como un elemento de diseño gráfico en lugar de un texto legible normal.
+
+Las letras deben estar parcialmente ocultas detrás del auto de carreras.
+
+Utiliza letras de bloque blancas de gran tamaño con esquinas redondeadas y una construcción geométrica sólida. Algunas letras deben extenderse más allá de los bordes de la composición.
+
+La tipografía debe crear un contraste dramático en blanco y negro alrededor del vehículo.
+
+DISPOSICIÓN:
+El auto de carreras blanco se asienta directamente sobre el límite entre el fondo blanco y el negro.
+
+El lado izquierdo del auto se fusiona visualmente con el área blanca, mientras que el lado derecho se superpone a la tipografía blanca gigante en el fondo negro.
+
+Las letras sobredimensionadas deben permanecer detrás del auto y nunca deben cubrir el vehículo.
+
+Crea un espacio negativo fuerte alrededor del automóvil mientras mantienes la apariencia gráfica audaz.
+
+ILUMINACIÓN:
+Iluminación de estudio brillante desde arriba, produciendo sombras suaves y realistas debajo del auto.
+
+Utiliza una iluminación limpia en clave alta en la carrocería blanca.
+
+El fondo negro debe permanecer profundo y puro sin degradados innecesarios.
+
+Añade reflejos sutiles y realistas a través de la pintura blanca brillante, el parabrisas, las ruedas metálicas y los componentes de fibra de carbono.
+
+El vehículo debe tener una apariencia de renderizado de estudio premium sin dejar de ser fotorrealista.
+
+MATERIALES:
+Pintura automotriz blanca brillante extremadamente realista.
+Textura de fibra de carbono realista.
+Ruedas de metal cepillado y pulido.
+Vidrio de parabrisas transparente.
+Neumáticos de carreras de caucho con textura detallada.
+Pequeños acentos pintados de rojo.
+Bordes aerodinámicos afilados.
+
+ESTILO GRÁFICO:
+Campaña publicitaria de automovilismo de lujo minimalista.
+
+Combina:
+
+- Fotografía automotriz premium
+- Diseño gráfico brutalista
+- Diseño editorial de automovilismo
+- Composición en blanco y negro de alto contraste
+- Tipografía geométrica de gran tamaño
+- Estética publicitaria moderna y limpia
+
+PALETA DE COLORES:
+Blanco puro
+Negro profundo
+Carbón oscuro
+Gris plomo metálico
+Pequeñas cantidades de rojo de carreras vivo
+
+Sin colores innecesarios.
+
+IMAGEN FINAL:
+Póster publicitario profesional fotorrealista para campaña automotriz, auto de carreras extremadamente detallado, proporciones realistas, perspectiva cenital dramática, bordes nítidos, alto contraste, iluminación de estudio limpia, publicidad de automovilismo premium, composición minimalista, tipografía sobredimensionada audaz, dirección de arte editorial sofisticada, calidad 8K ultradetallada.
+
+IMPORTANTE:
+Conserva la composición general exacta de la referencia: auto de carreras blanco orientado verticalmente posicionado a través del límite del fondo blanco y negro, letras geométricas blancas gigantes detrás del auto en el lado negro, paleta de colores mínima, fuerte perspectiva cenital, acentos de carreras rojos y una estética limpia de póster de automovilismo premium.
 ```
 
 [↑ Volver a categorías](#catalog)
