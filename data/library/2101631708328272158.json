@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-20T12:29:20.055Z",
+  "model": "image2",
+  "prompt": "主題：\n青花と白い海風\n\n主体：\n画面中央、青い海辺の木陰で若い女性が前へ身を寄せ、白地に青い花柄の水着と白い薄手の羽織をまとう。大きな笑顔、濡れた長い髪、左の木製ベンチと籐バッグが主役。\n\n人物・表情：\n細い卵形の顔、小さな顎、明るい茶色の細く笑う瞳、細い眉、すっきりした鼻筋、白い歯を大きく見せる艶のある赤桃色の唇。顔を左へ傾け、正面のカメラへ満面の笑顔を向ける。濡れたダークブラウンの非常に長い髪は薄い前髪と顔を横切る毛束があり、左肩から胸へ流れる。\n\n服装・ポーズ：\n白地に濃淡の青い花模様を配した三角ホルター水着トップは白いフリルと胸中央の細紐結び。白い半透明の半袖シャツを両肩から落として腕に通し、白いレースの短い巻きスカートを右腰で結ぶ。両膝を軽く曲げて上半身を前へ傾け、両腕を下へ伸ばし、両手を膝の間で重ねる。\n\n背景・光：\n画面左に太い木柱、木製ベンチ、籐バッグと青白布、中央から右に砂浜、白波、鮮やかな青緑の海、遠い緑の島、上部に青空と白い雲がある。上方から硬い直射日光が顔、髪、肩、胸元を照らし、水面へ白い光点を作る。\n\n構図・カメラ：\n3:4の縦構図、人物の腰より少し低い正面カメラで頭頂から太腿中央までを収める三分身ポートレート。人物を中央右へ大きく、籐バッグを左下、海と島を上半分へ配置。両腕と脚は下端で裁切し、笑顔と瞳にピント、遠景は軽くぼかす。\n\n質感・スタイル：\nフォトリアルな実写写真。濡れた自然な肌と髪、青花柄、白い透け布、レース、籐、砂、海面を高精細にし、白、青、砂色の快活な夏光。\n\nネガティブ：\n大きな歯見せ笑顔変更；青花柄と白い羽織省略",
+  "promptTranslations": {
+    "en": "Subject:\nBlue Flowers and White Sea Breeze\n\nMain Subject:\nIn the center of the frame, in the shade by a blue seaside, a young woman leans forward, wearing a blue floral print swimsuit on a white base and a sheer white cover-up. A big smile, long wet hair, and a wooden bench and rattan bag on the left serve as focal elements.\n\nPerson / Facial Expression:\nA slender oval face, small chin, light brown eyes smiling narrowly, thin eyebrows, a clean nasal bridge, and glossy reddish-pink lips widely showing white teeth. Tilting her face to the left, she beams a full smile directly at the camera. Extremely long, wet dark brown hair with thin bangs and strands crossing her face flows from her left shoulder over her chest.\n\nClothing / Pose:\nA triangle halter swimsuit top featuring light and dark blue floral patterns on a white base, trimmed with white ruffles and a thin tie knot at the center of the bust. A sheer white short-sleeved shirt is slipped off both shoulders and worn on the arms, paired with a short white lace wrap skirt tied at the right hip. Leaning her upper body forward with both knees slightly bent, she extends both arms downward, resting one hand over the other between her knees.\n\nBackground / Lighting:\nOn the left of the frame are a thick wooden post, a wooden bench, a rattan bag, and blue-and-white fabric; from the center to the right are a sandy beach, white waves, a vibrant turquoise sea, a distant green island, and blue sky with white clouds above. Hard direct sunlight from above illuminates her face, hair, shoulders, and chest, creating shimmering white highlights on the water's surface.\n\nComposition / Camera:\nVertical 3:4 composition, a three-quarter portrait capturing from the top of the head to mid-thigh taken with a front-facing camera positioned slightly lower than the subject's waist. The subject is placed prominently at center-right, the rattan bag at the lower left, and the sea and island in the upper half. Both arms and legs are cropped at the bottom edge; sharp focus on the smile and eyes, with the distant background softly blurred.\n\nTexture / Style:\nPhotorealistic live-action photograph. High-definition rendering of natural wet skin and hair, blue floral patterns, sheer white fabric, lace, rattan, sand, and ocean surface, enveloped in cheerful summer light dominated by white, blue, and sand tones.\n\nNegative:\nAltering the big toothy smile; omitting the blue floral pattern and white cover-up"
+  },
+  "summaryTranslations": {
+    "en": "A photorealistic three-quarter portrait prompt of a young woman smiling in the shade by a blue seaside, wearing a sheer white cover-up and a blue floral swimsuit."
+  },
+  "translationVersion": 2,
+  "summary": "青い海辺の木陰で白い薄手の羽織と青花柄水着を着て微笑む若い女性のフォトリアルな三分身ポートレートプロンプト。",
+  "summaryEn": "A photorealistic three-quarter portrait prompt of a young woman smiling in a sheer white cover-up and blue floral bikini under seaside tree shade.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2101631708328272158",
+    "canonicalUrl": "https://x.com/CyberTotal2026/status/2101631708328272158",
+    "author": {
+      "username": "CyberTotal2026",
+      "displayName": "Prompt アトリエ｜AI画像プロンプト",
+      "profileUrl": "https://x.com/CyberTotal2026"
+    },
+    "publishedAt": "2026-09-20T11:17:00.000Z",
+    "collectedAt": "2026-09-20T12:17:01.493Z",
+    "language": "ja",
+    "originalText": "波音に笑顔を預けて、白と青だけの休日。潮風まで写真に残したい🌊☀️🤍\n\n#AIart #AI写真 #海辺の休日\n\n【GPT Image2プロンプト】\n\n主題：\n青花と白い海風\n\n主体：\n画面中央、青い海辺の木陰で若い女性が前へ身を寄せ、白地に青い花柄の水着と白い薄手の羽織をまとう。大きな笑顔、濡れた長い髪、左の木製ベンチと籐バッグが主役。\n\n人物・表情：\n細い卵形の顔、小さな顎、明るい茶色の細く笑う瞳、細い眉、すっきりした鼻筋、白い歯を大きく見せる艶のある赤桃色の唇。顔を左へ傾け、正面のカメラへ満面の笑顔を向ける。濡れたダークブラウンの非常に長い髪は薄い前髪と顔を横切る毛束があり、左肩から胸へ流れる。\n\n服装・ポーズ：\n白地に濃淡の青い花模様を配した三角ホルター水着トップは白いフリルと胸中央の細紐結び。白い半透明の半袖シャツを両肩から落として腕に通し、白いレースの短い巻きスカートを右腰で結ぶ。両膝を軽く曲げて上半身を前へ傾け、両腕を下へ伸ばし、両手を膝の間で重ねる。\n\n背景・光：\n画面左に太い木柱、木製ベンチ、籐バッグと青白布、中央から右に砂浜、白波、鮮やかな青緑の海、遠い緑の島、上部に青空と白い雲がある。上方から硬い直射日光が顔、髪、肩、胸元を照らし、水面へ白い光点を作る。\n\n構図・カメラ：\n3:4の縦構図、人物の腰より少し低い正面カメラで頭頂から太腿中央までを収める三分身ポートレート。人物を中央右へ大きく、籐バッグを左下、海と島を上半分へ配置。両腕と脚は下端で裁切し、笑顔と瞳にピント、遠景は軽くぼかす。\n\n質感・スタイル：\nフォトリアルな実写写真。濡れた自然な肌と髪、青花柄、白い透け布、レース、籐、砂、海面を高精細にし、白、青、砂色の快活な夏光。\n\nネガティブ：\n大きな歯見せ笑顔変更；青花柄と白い羽織省略",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSbX7fDbAAAJLp2.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSbX7fDbAAAJLp2.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 14,
+      "repostCount": 2,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 722
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]",
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/CyberTotal2026/status/2101631708328272158",
+  "coverUrl": "https://pbs.twimg.com/media/HSbX7fDbAAAJLp2.jpg",
+  "coverPath": "images/2101631708328272158-1.jpg",
+  "imagePaths": [
+    "images/2101631708328272158-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSbX7fDbAAAJLp2",
+    "x-post:2101631708328272158"
+  ],
+  "analysis": {
+    "summary": "青い海辺の木陰で白い薄手の羽織と青花柄水着を着て微笑む若い女性のフォトリアルな三分身ポートレートプロンプト。",
+    "summaryEn": "A photorealistic three-quarter portrait prompt of a young woman smiling in a sheer white cover-up and blue floral bikini under seaside tree shade.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "添付画像の人物の外見（笑顔・濡れ髪・青花柄ビキニ・白い羽織・レースのスカート）、ポーズ（前傾姿勢・手を膝の間）、背景（木柱・木製ベンチ・籐バッグ・青い海と島）がプロンプトの指定内容と完全に一致しています。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "主題：\n青花と白い海風\n\n主体：\n画面中央、青い海辺の木陰で若い女性が前へ身を寄せ、白地に青い花柄の水着と白い薄手の羽織をまとう。大きな笑顔、濡れた長い髪、左の木製ベンチと籐バッグが主役。\n\n人物・表情：\n細い卵形の顔、小さな顎、明るい茶色の細く笑う瞳、細い眉、すっきりした鼻筋、白い歯を大きく見せる艶のある赤桃色の唇。顔を左へ傾け、正面のカメラへ満面の笑顔を向ける。濡れたダークブラウンの非常に長い髪は薄い前髪と顔を横切る毛束があり、左肩から胸へ流れる。\n\n服装・ポーズ：\n白地に濃淡の青い花模様を配した三角ホルター水着トップは白いフリルと胸中央の細紐結び。白い半透明の半袖シャツを両肩から落として腕に通し、白いレースの短い巻きスカートを右腰で結ぶ。両膝を軽く曲げて上半身を前へ傾け、両腕を下へ伸ばし、両手を膝の間で重ねる。\n\n背景・光：\n画面左に太い木柱、木製ベンチ、籐バッグと青白布、中央から右に砂浜、白波、鮮やかな青緑の海、遠い緑の島、上部に青空と白い雲がある。上方から硬い直射日光が顔、髪、肩、胸元を照らし、水面へ白い光点を作る。\n\n構図・カメラ：\n3:4の縦構図、人物の腰より少し低い正面カメラで頭頂から太腿中央までを収める三分身ポートレート。人物を中央右へ大きく、籐バッグを左下、海と島を上半分へ配置。両腕と脚は下端で裁切し、笑顔と瞳にピント、遠景は軽くぼかす。\n\n質感・スタイル：\nフォトリアルな実写写真。濡れた自然な肌と髪、青花柄、白い透け布、レース、籐、砂、海面を高精細にし、白、青、砂色の快活な夏光。\n\nネガティブ：\n大きな歯見せ笑顔変更；青花柄と白い羽織省略",
+    "sourceRange": {
+      "start": 76,
+      "end": 767
+    },
+    "translations": {
+      "zh": "主题：\n青花与白色海风\n\n主体：\n画面中央，在蔚蓝海边的树荫下，一位年轻女性身体前倾，身穿白底蓝花泳装并披着轻薄的白色外衣。灿烂的笑容、湿漉的长发、左侧的木质长椅与藤编包为主体。\n\n人物·表情：\n纤细的鹅蛋脸、小巧的下巴、浅褐色微笑的细长眼眸、细眉、秀气的鼻梁、露出大片洁白牙齿的光泽粉红唇。头部微向左倾，面向正前方的镜头露出满面笑容。湿润的深棕色极长发带有稀疏刘海和掠过脸颊的发丝，顺着左肩垂向胸前。\n\n服装·姿势：\n白底印有深浅蓝色花卉图案的三角挂脖泳衣上装，带有白色荷叶边和胸部中央的细系绳。白色半透明短袖衬衫搭在臂弯褪下双肩，右侧腰间系着白色蕾丝短围裙。双膝微屈身体前倾，双臂向下伸展，双手在双膝间交叠。\n\n背景·光影：\n画面左侧为粗木柱、木制长椅、藤编包与蓝白条纹布；中央至右侧为沙滩、白浪、鲜明的蓝绿色大海、远处的绿岛，上方为蓝天白云。直射阳光从上方照亮面部、头发、肩部和胸口，在水面形成白色光斑。\n\n构图·镜头：\n3:4纵向构图，镜头略低于腰部的正面视角，取景从头顶到大腿中部的三分身肖像。人物偏中右居中放大，藤编包置于左下，大海与岛屿位于上半部分。手臂与双腿在底部边缘切断，焦点对准笑容与双眼，远景轻微虚化。\n\n质感·风格：\n超写实逼真照片。湿润自然的皮肤与头发，青花图案、白色半透织物、蕾丝、藤编、沙粒与海面高精度呈现，展现白色、蓝色、沙色的明快夏日光彩。\n\n负面提示：\n改变露出大白牙的笑容；省略青花图案和白色外衣",
+      "en": "Theme:\nBlue flowers and white sea breeze\n\nSubject:\nIn the center of the frame, under the shade of trees by the blue seaside, a young woman leans forward, wearing a white bikini with a blue floral pattern and a sheer white cover-up. A wide smile, wet long hair, a wooden bench and a rattan bag on the left are prominent elements.\n\nCharacter & Expression:\nSlender oval face, small chin, smiling light brown eyes, thin eyebrows, neat nose bridge, glossy pinkish lips showing a wide smile with white teeth. Head tilted slightly to the left, beaming with a full smile toward the front camera. Wet, very long dark brown hair with thin bangs and strands crossing the face, flowing from the left shoulder over the chest.\n\nAttire & Pose:\nA triangle halter bikini top featuring light and dark blue floral patterns on a white base, trimmed with white frills and tied with thin strings at the center chest. A white translucent short-sleeved shirt slipped off the shoulders onto the arms, with a short white lace wrap skirt tied at the right hip. Knees slightly bent, upper body leaning forward, arms extending down, hands overlapped between knees.\n\nBackground & Light:\nA thick wooden pillar, wooden bench, rattan bag with blue-and-white cloth on the left; sand beach, white waves, vibrant blue-green ocean, distant green island in the middle-right, blue sky and white clouds at the top. Harsh direct overhead sunlight illuminating face, hair, shoulders, and chest, creating white sparkles on the water surface.\n\nComposition & Camera:\n3:4 vertical composition, frontal camera placed slightly lower than waist height, capturing a three-quarter portrait from crown to mid-thigh. Person positioned predominantly center-right, rattan bag at bottom-left, sea and island in upper half. Arms and legs cropped at bottom edge, sharp focus on smile and eyes, soft background blur.\n\nTexture & Style:\nPhotorealistic live-action photograph. High-definition natural wet skin and hair, blue floral print, sheer white fabric, lace, rattan, sand, and ocean surface, filled with cheerful white, blue, and sandy summer light.\n\nNegative:\nAltering wide toothy smile; omitting blue floral print and white cover-up"
+    },
+    "targetModels": [
+      "image2"
+    ],
+    "category": "text-to-image",
+    "useCase": "海辺の休日ポートレート写真生成",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}

@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**156** Prompts · Latest addition: **2026-09-20**
+**161** Prompts · Latest addition: **2026-09-20**
 
 <a name="catalog"></a>
 
@@ -690,6 +690,182 @@ Photography · Landscape / Nature · Published
 
 ```text
 Photo of a clearing in the woods with lots of green foliage, highly detailed
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2101617615538110920"></a>
+
+### A realistic portrait prompt of a young woman wearing a white string bikini with her hands resting on a railing, set against a blue sea and ship deck.
+
+Author：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Source](https://x.com/CyberTotal2026/status/2101617615538110920)
+
+Photography · Portrait / Selfie · Character · Vehicle · Landscape / Nature · Abstract / Background · Published
+
+**Summary:** A realistic portrait prompt of a young woman wearing a white string bikini with her hands resting on a railing, set against a blue sea and ship deck.
+
+<img src="images/2101617615538110920-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Subject:
+White Ribbons of the Blue Sea
+
+Main Subject:
+In the center of the frame, set against a bright blue sea, a young woman stands wearing a white string bikini, resting both hands on a silver ship railing. Large white ribbons on both hips and wet hair take center stage.
+
+Person & Expression:
+Slender oval face, small chin, large bright hazel eyes, thin eyebrows, a clean nasal bridge, and glossy pink lips showing a glimpse of teeth. Her head is tilted slightly to the right, smiling brightly directly at the camera. Her wet, light brown, below-the-shoulder layered hair features thin bangs and face-framing strands, flowing toward her right shoulder in the sea breeze.
+
+Attire & Pose:
+A pearl-white triangle halter-neck bikini top with thin shoulder straps and a thin underbust string, paired with matching high-leg bikini bottoms featuring long, double-tied bow ribbons on both hips. She stands with her legs slightly apart, upper body leaning forward slightly, arms extended downward, resting both hands on the silver railing behind her.
+
+Background & Lighting:
+A sparkling blue sea across the entire background, with blurred blue-gray mountain ranges and a pale sky at the top, and a silver ship railing and narrow wooden deck at the bottom of the frame. Hard direct sunlight from the upper left illuminates her hair, face, shoulders, chest, and abdomen, creating large white bokeh circles on the water's surface.
+
+Composition & Camera:
+9:16 vertical composition, straight-on camera at the subject's waist level capturing a near full-body portrait from the top of the head to mid-thigh. The subject is framed prominently in the center, the sea covers the entire background, and the white ribbons at her waist spread outward to the left and right. Arms and thighs are cropped at the bottom edge, with sharp focus on both eyes and face, while the mountain ranges are blurred with a shallow depth of field.
+
+Texture & Style:
+Photorealistic live-action photograph. High-definition rendering of natural wet skin, fine strands of hair, white swimsuit fabric, long ribbons, metallic railing, and water reflections, featuring a clean summer palette of white and vivid blue.
+
+Negative:
+Omission of white ribbons on both hips; dark sky or land-based background
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2101603522584387793"></a>
+
+### A realistic portrait photo of a woman in a black bikini lying prone on a sandy beach by a blue sea, holding out a plumeria flower.
+
+Author：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Source](https://x.com/CyberTotal2026/status/2101603522584387793)
+
+Photography · Portrait / Selfie · Character · Published
+
+**Summary:** A realistic portrait photo of a woman in a black bikini lying prone on a sandy beach by a blue sea, holding out a plumeria flower.
+
+<img src="images/2101603522584387793-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Subject:
+White Flower on a Sandy Beach
+
+Main Subject:
+From the center to the left of the frame, a young woman lies prone in a black string bikini on the sand of a vibrant blue cove, extending her left hand toward the camera holding a white flower. A smiling face, sand-dusted arms, and bare feet raised and crossed behind her take center stage.
+
+Person / Facial Expression:
+A slender face with gentle contours, a small chin, large light brown eyes, thin eyebrows, a neat nose bridge, and glossy pink lips smiling brightly. Her face is turned directly forward, gazing warmly into the low-angle camera. Her dark brown hair is gathered in a messy bun on the crown of her head, with wispy bangs and strands damp with sand falling over her cheeks and shoulders.
+
+Clothing / Pose:
+A black triangle bikini top with thin shoulder straps, paired with black low-rise bikini bottoms tied with thin strings on both hips. Lying face down on the sand, her right elbow is bent with her right cheek resting on her hands, while her left arm alone extends forward toward the foreground holding a white-and-yellow plumeria. Both knees are bent backward, with her bare ankles crossed high in the air.
+
+Background / Lighting:
+Coarse, pale sand in the lower portion of the frame; white-capped waves and a transparent turquoise sea in the center; rocky reefs, a verdant island, blue sky, and white clouds in the upper area, with a slender shadow cast by tree shade at the far left edge. Harsh, direct midday sunlight from above illuminates her face, shoulders, arms, and legs, making the sand grains and the sea surface glisten intensely.
+
+Composition / Camera:
+A 3:4 vertical composition, taken from a low front-facing camera skimming the sand's surface, capturing the entire body from the foreground flower to her face, torso, and the crossed tips of her feet in the background. The white flower is placed prominently in the lower-left foreground, her face at center-left, and her raised feet in the upper half. The flower is softly blurred, focus is sharp on her face and eyes, and the distant coastline is shallowly blurred.
+
+Texture / Style:
+A photorealistic live-action photograph. High-definition rendering of natural wet skin and hair, clinging grains of sand, black swimsuit fabric, the white flower, and transparent waves, presented in dazzling tropical colors of black, sand tones, and turquoise.
+
+Negative:
+Changes to the prone pose and crossed feet; omitting the white flower
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2101631708328272158"></a>
+
+### A photorealistic three-quarter portrait prompt of a young woman smiling in the shade by a blue seaside, wearing a sheer white cover-up and a blue floral swimsuit.
+
+Author：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Source](https://x.com/CyberTotal2026/status/2101631708328272158)
+
+Photography · Portrait / Selfie · Character · Published
+
+**Summary:** A photorealistic three-quarter portrait prompt of a young woman smiling in the shade by a blue seaside, wearing a sheer white cover-up and a blue floral swimsuit.
+
+<img src="images/2101631708328272158-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Subject:
+Blue Flowers and White Sea Breeze
+
+Main Subject:
+In the center of the frame, in the shade by a blue seaside, a young woman leans forward, wearing a blue floral print swimsuit on a white base and a sheer white cover-up. A big smile, long wet hair, and a wooden bench and rattan bag on the left serve as focal elements.
+
+Person / Facial Expression:
+A slender oval face, small chin, light brown eyes smiling narrowly, thin eyebrows, a clean nasal bridge, and glossy reddish-pink lips widely showing white teeth. Tilting her face to the left, she beams a full smile directly at the camera. Extremely long, wet dark brown hair with thin bangs and strands crossing her face flows from her left shoulder over her chest.
+
+Clothing / Pose:
+A triangle halter swimsuit top featuring light and dark blue floral patterns on a white base, trimmed with white ruffles and a thin tie knot at the center of the bust. A sheer white short-sleeved shirt is slipped off both shoulders and worn on the arms, paired with a short white lace wrap skirt tied at the right hip. Leaning her upper body forward with both knees slightly bent, she extends both arms downward, resting one hand over the other between her knees.
+
+Background / Lighting:
+On the left of the frame are a thick wooden post, a wooden bench, a rattan bag, and blue-and-white fabric; from the center to the right are a sandy beach, white waves, a vibrant turquoise sea, a distant green island, and blue sky with white clouds above. Hard direct sunlight from above illuminates her face, hair, shoulders, and chest, creating shimmering white highlights on the water's surface.
+
+Composition / Camera:
+Vertical 3:4 composition, a three-quarter portrait capturing from the top of the head to mid-thigh taken with a front-facing camera positioned slightly lower than the subject's waist. The subject is placed prominently at center-right, the rattan bag at the lower left, and the sea and island in the upper half. Both arms and legs are cropped at the bottom edge; sharp focus on the smile and eyes, with the distant background softly blurred.
+
+Texture / Style:
+Photorealistic live-action photograph. High-definition rendering of natural wet skin and hair, blue floral patterns, sheer white fabric, lace, rattan, sand, and ocean surface, enveloped in cheerful summer light dominated by white, blue, and sand tones.
+
+Negative:
+Altering the big toothy smile; omitting the blue floral pattern and white cover-up
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2101645801294360989"></a>
+
+### A photograph-style prompt of a woman in a white swimsuit looking back on a tropical beach.
+
+Author：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Source](https://x.com/CyberTotal2026/status/2101645801294360989)
+
+Photography · Character · Published
+
+**Summary:** A photograph-style prompt of a woman in a white swimsuit looking back on a tropical beach.
+
+<img src="images/2101645801294360989-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Subject:
+Looking Back at the Azure Beach
+
+Main Subject:
+Captured from behind, a young woman standing on a clear tropical beach in the lower half of the frame. The white swimwear, a white shirt wrapping her waist and arms, a red puppy-style tattoo on her left buttock, and the vivid blue sky and azure sea take center stage.
+
+Person & Expression:
+A smooth oval profile, small chin, slender eyebrows, dark brown eyes with long eyelashes, a clean nose bridge, and closed reddish-pink lips. Her face is turned to the left, quietly casting her gaze toward the distant sea. Her dark brown hair is styled in a casual round bun at the back of her head, with thin bangs and long tendrils flowing along her cheeks and neck.
+
+Attire & Pose:
+A white thin-string halter bikini tied in a bow at the center of the back, and white high-cut bottoms. A sheer white long-sleeved shirt dropped off the shoulders and wrapped around both forearms and waist, back turned toward the camera with her weight on her right leg. Arms lowered in front of her body, with a small red-line floppy-eared puppy and heart tattoo on her left buttock.
+
+Background & Lighting:
+From left to center are transparent shallow waters, with a deep blue sea and a low island offshore; on the right, white sand and rugged coral rocks; covering most of the upper part are a deep blue sky and cumulus clouds, with green leafy branches at the upper right. Harsh summer sunlight from above illuminates her shoulders and back, creating fine glints of light on the water's surface.
+
+Composition & Camera:
+A 9:16 vertical composition, shot from behind close to waist height, capturing a near full-body portrait from the expansive sky overhead down to below the thighs. The subject is positioned prominently in the lower center, with her profile and back facing left, and the coastline extending toward the back right. The legs are cropped at the bottom edge, sharp focus on the subject and tattoo, with the distant island lightly blurred.
+
+Texture & Style:
+Photorealistic live-action photograph. Natural sunlit skin, fine wrinkles in the white cloth, wet sand, transparent water, and coral rocks depicted in high definition, with intense midday colors of ultramarine, turquoise, and white.
+
+Negative:
+Frontal face or long hair; omitting white outfit and puppy tattoo
 ```
 
 [↑ Back to categories](#catalog)
@@ -4197,6 +4373,146 @@ Create ONE independent high-end editorial poster for EACH uploaded photo. Never 
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2101538802946715870"></a>
+
+### Top-down motorsport editorial poster of a white GT race car against a split black/white graphic background with giant typography.
+
+Author：[@harboriis](https://x.com/harboriis) · [Source](https://x.com/harboriis/status/2101538802946715870)
+
+Poster / Flyer · Vehicle · Text / Typography · Abstract / Background · Published
+
+**Summary:** Top-down motorsport editorial poster of a white GT race car against a split black/white graphic background with giant typography.
+
+<img src="images/2101538802946715870-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2101538802946715870-2.jpg" alt="Image 2" width="480" />
+
+**Prompt**
+
+```text
+Create a hyper-realistic premium motorsport editorial poster featuring a white GT race car photographed from a dramatic high-angle top-down perspective.
+
+FORMAT:
+Vertical 9:16 composition, ultra-high resolution, clean commercial automotive photography, sharp details, realistic reflections and materials.
+
+MAIN SUBJECT:
+A white professional GT racing car viewed almost perfectly from directly above, positioned vertically along the left and center of the frame.
+
+The entire car should be visible from front to rear. The car is oriented vertically, with the front toward the top of the image and the rear toward the bottom.
+
+The vehicle has an aggressive wide-body racing design with:
+
+- White aerodynamic bodywork
+- Black aerodynamic vents and openings
+- Exposed racing wheels
+- Large slick racing tires
+- Detailed metallic multi-spoke wheels
+- Red accent lines around the body
+- Large rear aerodynamic wing
+- Racing splitter and diffuser
+- Complex aerodynamic panels
+- Visible windshield and cockpit
+- Realistic panel seams, screws, vents and carbon-fiber components
+
+The car should look like a professional endurance or GT race car, with authentic motorsport proportions and extremely detailed aerodynamic bodywork.
+
+CAR DETAILS:
+The tires are black racing slicks with realistic white sidewall lettering.
+
+The wheels should be highly detailed metallic dark gunmetal alloy wheels with visible brake components behind the spokes.
+
+Add subtle red motorsport branding and graphics on the white bodywork. Include a large red circular abstract racing logo or graphic on the central side panel.
+
+Use small realistic sponsor-style decals and technical markings throughout the car.
+
+PERSPECTIVE:
+Extreme top-down automotive photography.
+
+The camera is positioned almost directly above the vehicle, creating a flat graphic composition while maintaining realistic three-dimensional depth.
+
+The car occupies approximately 65 to 70 percent of the image width and extends almost the full height of the composition.
+
+BACKGROUND:
+Pure minimalist black and white graphic background.
+
+The entire background is divided vertically:
+
+- Left side: clean bright white background
+- Right side: deep solid black background
+
+Create a sharp vertical transition between the white and black areas.
+
+Behind the car, place enormous bold white geometric typography extending vertically through the black background.
+
+The typography should be extremely large, thick, modern and condensed, functioning primarily as a graphic design element rather than normal readable text.
+
+The letters should be partially hidden behind the race car.
+
+Use oversized white block letters with rounded corners and strong geometric construction. Some letters should extend beyond the edges of the composition.
+
+The typography should create a dramatic black-and-white contrast around the vehicle.
+
+LAYOUT:
+The white race car sits directly over the boundary between the white and black background.
+
+The left side of the car blends visually into the white area while the right side overlaps the giant white typography on the black background.
+
+The oversized letters must remain behind the car and should never cover the vehicle.
+
+Create strong negative space around the car while maintaining the bold graphic appearance.
+
+LIGHTING:
+Bright studio lighting from above, producing soft realistic shadows beneath the car.
+
+Use clean high-key illumination on the white bodywork.
+
+The black background should remain deep and pure without unnecessary gradients.
+
+Add subtle realistic reflections across the glossy white paint, windshield, metallic wheels and carbon-fiber components.
+
+The vehicle should have a premium studio-rendered appearance while remaining photorealistic.
+
+MATERIALS:
+Extremely realistic glossy white automotive paint.
+Realistic carbon fiber texture.
+Brushed and polished metal wheels.
+Transparent windshield glass.
+Rubber racing tires with detailed texture.
+Small red painted accents.
+Sharp aerodynamic edges.
+
+GRAPHIC STYLE:
+Minimalist luxury motorsport advertising campaign.
+
+Combine:
+
+- Premium automotive photography
+- Brutalist graphic design
+- Motorsport editorial design
+- High-contrast black and white composition
+- Oversized geometric typography
+- Clean modern advertising aesthetic
+
+COLOR PALETTE:
+Pure white
+Deep black
+Dark charcoal
+Metallic gunmetal
+Small amounts of vivid racing red
+
+No unnecessary colors.
+
+FINAL IMAGE:
+Photorealistic professional automotive campaign poster, extremely detailed race car, realistic proportions, dramatic overhead perspective, crisp edges, high contrast, clean studio lighting, premium motorsport advertising, minimalist composition, bold oversized typography, sophisticated editorial art direction, ultra-detailed 8K quality.
+
+IMPORTANT:
+Keep the exact overall composition of the reference: vertically oriented white race car positioned across the white and black background boundary, giant white geometric letters behind the car on the black side, minimal color palette, strong top-down perspective, red racing accents, and a clean premium motorsport poster aesthetic.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2100545582972751933"></a>
 

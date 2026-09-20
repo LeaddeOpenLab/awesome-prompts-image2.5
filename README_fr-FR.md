@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**156** Prompts · Dernier ajout: **2026-09-20**
+**161** Prompts · Dernier ajout: **2026-09-20**
 
 <a name="catalog"></a>
 
@@ -628,6 +628,94 @@ Photographie · Paysage / Nature · Publié
 
 ```text
 Photo d'une clairière dans les bois avec un feuillage vert abondant, très détaillée
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2101617615538110920"></a>
+
+### Traduction en cours
+
+Auteur：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publication originale](https://x.com/CyberTotal2026/status/2101617615538110920)
+
+Photographie · Portrait / Selfie · Personnage · Véhicule · Paysage / Nature · Résumé / Contexte · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2101617615538110920-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2101603522584387793"></a>
+
+### Traduction en cours
+
+Auteur：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publication originale](https://x.com/CyberTotal2026/status/2101603522584387793)
+
+Photographie · Portrait / Selfie · Personnage · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2101603522584387793-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2101631708328272158"></a>
+
+### Traduction en cours
+
+Auteur：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publication originale](https://x.com/CyberTotal2026/status/2101631708328272158)
+
+Photographie · Portrait / Selfie · Personnage · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2101631708328272158-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2101645801294360989"></a>
+
+### Traduction en cours
+
+Auteur：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publication originale](https://x.com/CyberTotal2026/status/2101645801294360989)
+
+Photographie · Personnage · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2101645801294360989-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -3539,6 +3627,30 @@ Calme, poétique, raffiné, minimaliste, innocent, artistique, réfléchi, haut 
 <a name="category-other"></a>
 
 ## Autres
+
+<a name="prompt-2101538802946715870"></a>
+
+### Traduction en cours
+
+Auteur：[@harboriis](https://x.com/harboriis) · [Publication originale](https://x.com/harboriis/status/2101538802946715870)
+
+Affiche / Flyer · Véhicule · Texte / Typographie · Résumé / Contexte · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2101538802946715870-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2101538802946715870-2.jpg" alt="Image 2" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2100545582972751933"></a>
 

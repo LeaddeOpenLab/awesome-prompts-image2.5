@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-20T12:29:38.783Z",
+  "model": "image2",
+  "prompt": "主題：\n砂浜の白い花\n\n主体：\n画面中央から左、鮮やかな青い入り江の砂浜で若い女性が黒い紐ビキニ姿のままうつ伏せになり、左手をカメラへ伸ばして白い花を持つ。笑顔、砂の付いた腕、後方へ上げて交差した裸足が主役。\n\n人物・表情：\n丸みのある細い顔、小さな顎、明るい茶色の大きな瞳、細い眉、すっきりした鼻筋、明るく微笑む艶のある桃色の唇。顔を正面へ向け、低いカメラを親しげに見つめる。ダークブラウンの髪は頭頂で無造作な団子にまとめ、薄い前髪と砂で湿った毛束が頬と肩へ落ちる。\n\n服装・ポーズ：\n黒い細肩紐の三角水着トップと、左右腰を細紐で結ぶ黒いローライズ水着ボトム。砂へうつ伏せになり、右肘を曲げて両手の上へ右頬を預け、左腕だけを手前へ長く伸ばして白黄のプルメリアを持つ。両膝を後方へ曲げ、裸足の足首を高く交差する。\n\n背景・光：\n画面下に粒の粗い淡い砂、中央に白波と透明な青緑の海、画面上に岩礁、緑の島、青空と白い雲、左端に木陰の細い影がある。上方から硬い直射昼光が顔、肩、腕、脚を照らし、砂粒と海面を強く輝かせる。\n\n構図・カメラ：\n3:4の縦構図、砂面すれすれの低い正面カメラで手前の花から顔、胴、奥の交差した足先まで全身を収める。白い花を左下前景へ大きく、顔を中央左、上げた両足を上半分へ置く。花は軽くぼかし、顔と瞳にピント、遠景の海岸は浅くぼかす。\n\n質感・スタイル：\nフォトリアルな実写写真。濡れた自然な肌と髪、付着した砂粒、黒い水着布、白い花、透明な波を高精細にし、黒、砂色、ターコイズの眩しい南国色。\n\nネガティブ：\nうつ伏せと交差した足先変更；白い花省略",
+  "promptTranslations": {
+    "en": "Subject:\nWhite Flower on a Sandy Beach\n\nMain Subject:\nFrom the center to the left of the frame, a young woman lies prone in a black string bikini on the sand of a vibrant blue cove, extending her left hand toward the camera holding a white flower. A smiling face, sand-dusted arms, and bare feet raised and crossed behind her take center stage.\n\nPerson / Facial Expression:\nA slender face with gentle contours, a small chin, large light brown eyes, thin eyebrows, a neat nose bridge, and glossy pink lips smiling brightly. Her face is turned directly forward, gazing warmly into the low-angle camera. Her dark brown hair is gathered in a messy bun on the crown of her head, with wispy bangs and strands damp with sand falling over her cheeks and shoulders.\n\nClothing / Pose:\nA black triangle bikini top with thin shoulder straps, paired with black low-rise bikini bottoms tied with thin strings on both hips. Lying face down on the sand, her right elbow is bent with her right cheek resting on her hands, while her left arm alone extends forward toward the foreground holding a white-and-yellow plumeria. Both knees are bent backward, with her bare ankles crossed high in the air.\n\nBackground / Lighting:\nCoarse, pale sand in the lower portion of the frame; white-capped waves and a transparent turquoise sea in the center; rocky reefs, a verdant island, blue sky, and white clouds in the upper area, with a slender shadow cast by tree shade at the far left edge. Harsh, direct midday sunlight from above illuminates her face, shoulders, arms, and legs, making the sand grains and the sea surface glisten intensely.\n\nComposition / Camera:\nA 3:4 vertical composition, taken from a low front-facing camera skimming the sand's surface, capturing the entire body from the foreground flower to her face, torso, and the crossed tips of her feet in the background. The white flower is placed prominently in the lower-left foreground, her face at center-left, and her raised feet in the upper half. The flower is softly blurred, focus is sharp on her face and eyes, and the distant coastline is shallowly blurred.\n\nTexture / Style:\nA photorealistic live-action photograph. High-definition rendering of natural wet skin and hair, clinging grains of sand, black swimsuit fabric, the white flower, and transparent waves, presented in dazzling tropical colors of black, sand tones, and turquoise.\n\nNegative:\nChanges to the prone pose and crossed feet; omitting the white flower"
+  },
+  "summaryTranslations": {
+    "en": "A realistic portrait photo of a woman in a black bikini lying prone on a sandy beach by a blue sea, holding out a plumeria flower."
+  },
+  "translationVersion": 2,
+  "summary": "青い海と砂浜で黒ビキニ姿でうつ伏せになり、プルメリアの花を差し出す女性のリアルなポートレート写真。",
+  "summaryEn": "A photorealistic portrait of a woman in a black bikini lying prone on a sunny beach, holding out a plumeria flower toward the camera.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2101603522584387793",
+    "canonicalUrl": "https://x.com/CyberTotal2026/status/2101603522584387793",
+    "author": {
+      "username": "CyberTotal2026",
+      "displayName": "Prompt アトリエ｜AI画像プロンプト",
+      "profileUrl": "https://x.com/CyberTotal2026"
+    },
+    "publishedAt": "2026-09-20T09:25:00.000Z",
+    "collectedAt": "2026-09-20T12:17:01.493Z",
+    "language": "ja",
+    "originalText": "白い花をひとつ、波音をひとつ。砂の上で過ごす午後がこんなに近い🌺🌊☀️\n\n#AIart #AI写真 #南国ビーチ\n\n【GPT Image2プロンプト】\n\n主題：\n砂浜の白い花\n\n主体：\n画面中央から左、鮮やかな青い入り江の砂浜で若い女性が黒い紐ビキニ姿のままうつ伏せになり、左手をカメラへ伸ばして白い花を持つ。笑顔、砂の付いた腕、後方へ上げて交差した裸足が主役。\n\n人物・表情：\n丸みのある細い顔、小さな顎、明るい茶色の大きな瞳、細い眉、すっきりした鼻筋、明るく微笑む艶のある桃色の唇。顔を正面へ向け、低いカメラを親しげに見つめる。ダークブラウンの髪は頭頂で無造作な団子にまとめ、薄い前髪と砂で湿った毛束が頬と肩へ落ちる。\n\n服装・ポーズ：\n黒い細肩紐の三角水着トップと、左右腰を細紐で結ぶ黒いローライズ水着ボトム。砂へうつ伏せになり、右肘を曲げて両手の上へ右頬を預け、左腕だけを手前へ長く伸ばして白黄のプルメリアを持つ。両膝を後方へ曲げ、裸足の足首を高く交差する。\n\n背景・光：\n画面下に粒の粗い淡い砂、中央に白波と透明な青緑の海、画面上に岩礁、緑の島、青空と白い雲、左端に木陰の細い影がある。上方から硬い直射昼光が顔、肩、腕、脚を照らし、砂粒と海面を強く輝かせる。\n\n構図・カメラ：\n3:4の縦構図、砂面すれすれの低い正面カメラで手前の花から顔、胴、奥の交差した足先まで全身を収める。白い花を左下前景へ大きく、顔を中央左、上げた両足を上半分へ置く。花は軽くぼかし、顔と瞳にピント、遠景の海岸は浅くぼかす。\n\n質感・スタイル：\nフォトリアルな実写写真。濡れた自然な肌と髪、付着した砂粒、黒い水着布、白い花、透明な波を高精細にし、黒、砂色、ターコイズの眩しい南国色。\n\nネガティブ：\nうつ伏せと交差した足先変更；白い花省略",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSbUsu1bIAALv-J.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSbUsu1bIAALv-J.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 24,
+      "repostCount": 1,
+      "replyCount": 0,
+      "quoteCount": 1,
+      "viewCount": 1473
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/CyberTotal2026/status/2101603522584387793",
+  "coverUrl": "https://pbs.twimg.com/media/HSbUsu1bIAALv-J.jpg",
+  "coverPath": "images/2101603522584387793-1.jpg",
+  "imagePaths": [
+    "images/2101603522584387793-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSbUsu1bIAALv-J",
+    "x-post:2101603522584387793"
+  ],
+  "analysis": {
+    "summary": "青い海と砂浜で黒ビキニ姿でうつ伏せになり、プルメリアの花を差し出す女性のリアルなポートレート写真。",
+    "summaryEn": "A photorealistic portrait of a woman in a black bikini lying prone on a sunny beach, holding out a plumeria flower toward the camera.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "画像はプロンプト通り、砂浜にうつ伏せで黒ビキニを着た女性が手前に白い花を差し出し、足を交差させた構図と完全に合致しています。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "主題：\n砂浜の白い花\n\n主体：\n画面中央から左、鮮やかな青い入り江の砂浜で若い女性が黒い紐ビキニ姿のままうつ伏せになり、左手をカメラへ伸ばして白い花を持つ。笑顔、砂の付いた腕、後方へ上げて交差した裸足が主役。\n\n人物・表情：\n丸みのある細い顔、小さな顎、明るい茶色の大きな瞳、細い眉、すっきりした鼻筋、明るく微笑む艶のある桃色の唇。顔を正面へ向け、低いカメラを親しげに見つめる。ダークブラウンの髪は頭頂で無造作な団子にまとめ、薄い前髪と砂で湿った毛束が頬と肩へ落ちる。\n\n服装・ポーズ：\n黒い細肩紐の三角水着トップと、左右腰を細紐で結ぶ黒いローライズ水着ボトム。砂へうつ伏せになり、右肘を曲げて両手の上へ右頬を預け、左腕だけを手前へ長く伸ばして白黄のプルメリアを持つ。両膝を後方へ曲げ、裸足の足首を高く交差する。\n\n背景・光：\n画面下に粒の粗い淡い砂、中央に白波と透明な青緑の海、画面上に岩礁、緑の島、青空と白い雲、左端に木陰の細い影がある。上方から硬い直射昼光が顔、肩、腕、脚を照らし、砂粒と海面を強く輝かせる。\n\n構図・カメラ：\n3:4の縦構図、砂面すれすれの低い正面カメラで手前の花から顔、胴、奥の交差した足先まで全身を収める。白い花を左下前景へ大きく、顔を中央左、上げた両足を上半分へ置く。花は軽くぼかし、顔と瞳にピント、遠景の海岸は浅くぼかす。\n\n質感・スタイル：\nフォトリアルな実写写真。濡れた自然な肌と髪、付着した砂粒、黒い水着布、白い花、透明な波を高精細にし、黒、砂色、ターコイズの眩しい南国色。\n\nネガティブ：\nうつ伏せと交差した足先変更；白い花省略",
+    "sourceRange": {
+      "start": 77,
+      "end": 761
+    },
+    "translations": {
+      "zh": "主题：\n沙滩上的白花\n\n主体：\n画面中央偏左，在湛蓝海湾的沙滩上，一位身穿黑色细带比基尼的年轻女子俯卧着，伸出左手朝向镜头握着一朵白花。笑容、沾有细沙的手臂、向后抬起并交叉的赤脚为焦点。\n\n人物与表情：\n圆润瘦削的面庞、小下巴、明亮的大棕眼、细眉、清秀鼻梁、带笑有光泽的粉唇。面朝正面低角度镜头。深棕色头发在头顶扎成随性丸子头，轻薄刘海与湿发垂于脸颊和肩头。\n\n服装与姿势：\n黑色细肩带三角比基尼上衣与黑色低腰系带泳裤。俯卧在沙滩上，右肘弯曲将右脸枕在手上，左臂向前伸展握着白黄鸡蛋花。双膝向后弯曲，赤脚脚踝高高交叉。\n\n背景与光线：\n画面下方为粗粒浅色沙滩，中央为白色浪花与碧绿清澈海水，上方为礁石、绿岛、蓝天白云。直射昼光照耀全身，使沙砾和海面闪耀。\n\n构图与镜头：\n3:4竖向构图，贴近沙面的低角度正面全身视角。白花在左下前景微虚化，面部居中偏左对焦，后方抬起的双脚位于上方。\n\n质感与风格：\n写实摄影风格，湿润肌肤、发丝、沙粒与海浪细节细腻，呈现热带明艳色调。\n\n负向提示：\n改变俯卧姿势与交叉脚；省略白花",
+      "en": "Theme:\nWhite flower on a sandy beach\n\nSubject:\nA young woman in a black string bikini lies prone on a beach by a blue bay, extending her left hand holding a white flower toward the camera. Smiling, sandy arms, raised crossed bare feet in the background.\n\nPerson & Expression:\nSlender face, bright brown eyes, cheerful smile. Facing the low-angle camera. Dark brown hair in a messy top bun with thin bangs.\n\nOutfit & Pose:\nBlack string bikini. Lying prone on the sand, right cheek resting on folded hands, left arm stretched forward holding a plumeria. Knees bent up with ankles crossed.\n\nBackground & Light:\nCoarse sand in foreground, turquoise sea, rocks, and blue sky. Bright direct daylight illuminating the subject and sand.\n\nComposition & Camera:\n3:4 vertical framing, low ground-level angle. Blurry white flower in the left foreground, face in sharp focus, crossed feet in the upper half.\n\nStyle:\nPhotorealistic photo with natural skin texture, visible sand grains, and tropical colors.\n\nNegative:\nChange prone pose and crossed feet; omit white flower"
+    },
+    "targetModels": [
+      "image2"
+    ],
+    "category": "text-to-image",
+    "useCase": "photorealistic portrait",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}

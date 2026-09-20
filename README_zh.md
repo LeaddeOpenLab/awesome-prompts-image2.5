@@ -19,7 +19,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**156** 条内容 · 最新收录: **2026-09-20**
+**161** 条内容 · 最新收录: **2026-09-20**
 
 <a name="catalog"></a>
 
@@ -633,6 +633,94 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 ```text
 树林中一片空地的照片，周围有大量绿叶植物，细节极其丰富
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
+
+<a name="prompt-2101617615538110920"></a>
+
+### 翻译中
+
+作者：[@CyberTotal2026](https://x.com/CyberTotal2026) · [查看 X 原帖](https://x.com/CyberTotal2026/status/2101617615538110920)
+
+摄影 · 人像 / 自拍 · 角色 · 车辆 · 风景 / 自然 · 摘要 / 背景 · 已推流
+
+**概括:** 翻译中
+
+<img src="images/2101617615538110920-1.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
+
+<a name="prompt-2101603522584387793"></a>
+
+### 翻译中
+
+作者：[@CyberTotal2026](https://x.com/CyberTotal2026) · [查看 X 原帖](https://x.com/CyberTotal2026/status/2101603522584387793)
+
+摄影 · 人像 / 自拍 · 角色 · 已推流
+
+**概括:** 翻译中
+
+<img src="images/2101603522584387793-1.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
+
+<a name="prompt-2101631708328272158"></a>
+
+### 翻译中
+
+作者：[@CyberTotal2026](https://x.com/CyberTotal2026) · [查看 X 原帖](https://x.com/CyberTotal2026/status/2101631708328272158)
+
+摄影 · 人像 / 自拍 · 角色 · 已推流
+
+**概括:** 翻译中
+
+<img src="images/2101631708328272158-1.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
+
+<a name="prompt-2101645801294360989"></a>
+
+### 翻译中
+
+作者：[@CyberTotal2026](https://x.com/CyberTotal2026) · [查看 X 原帖](https://x.com/CyberTotal2026/status/2101645801294360989)
+
+摄影 · 角色 · 已推流
+
+**概括:** 翻译中
+
+<img src="images/2101645801294360989-1.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
 ```
 
 [↑ 返回分类目录](#catalog)
@@ -3554,6 +3642,30 @@ SHIBUYA • SHINJUKU • HARAJUKU • AKIHABARA
 <a name="category-other"></a>
 
 ## 其他
+
+<a name="prompt-2101538802946715870"></a>
+
+### 翻译中
+
+作者：[@harboriis](https://x.com/harboriis) · [查看 X 原帖](https://x.com/harboriis/status/2101538802946715870)
+
+海报 / 传单 · 车辆 · 文本 / 排版 · 摘要 / 背景 · 已推流
+
+**概括:** 翻译中
+
+<img src="images/2101538802946715870-1.jpg" alt="图片 1" width="480" />
+
+<img src="images/2101538802946715870-2.jpg" alt="图片 2" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
 
 <a name="prompt-2100545582972751933"></a>
 
