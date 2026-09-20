@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**154** Prompts · Latest addition: **2026-09-19**
+**156** Prompts · Latest addition: **2026-09-20**
 
 <a name="catalog"></a>
 
@@ -690,6 +690,94 @@ Photography · Landscape / Nature · Published
 
 ```text
 Photo of a clearing in the woods with lots of green foliage, highly detailed
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2101542872772219010"></a>
+
+### A portrait of a woman in a black ring-embellished bikini and sunglasses, looking down from a boat hatch against a blue sky.
+
+Author：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Source](https://x.com/CyberTotal2026/status/2101542872772219010)
+
+Photography · Portrait / Selfie · Character · Vehicle · Abstract / Background · Published
+
+**Summary:** A portrait of a woman in a black ring-embellished bikini and sunglasses, looking down from a boat hatch against a blue sky.
+
+<img src="images/2101542872772219010-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Subject:
+Black Rings of the Boat Window
+
+Main Subject:
+In the center of the frame, looking up from below through the open hatch of a boat, a young woman leans forward wearing a black ring-embellished bikini. Dark sunglasses, a vivid blue sky, and the black rim of the hatch take center stage.
+
+Person & Expression:
+A slender oval face, small chin, eyes faintly visible through large black rectangular sunglasses, thin eyebrows, a clean nasal bridge, and slightly parted pink lips. Her face is directed downward toward the camera below, casting a quiet gaze downward. Long, wet dark brown hair with thin bangs blows in the wind toward the left of the frame. Small gold hoop earrings in both ears.
+
+Attire & Pose:
+A black thin-strap bikini top features a large gold ring at the center of the chest with fine gathers, and black bikini bottoms feature gold rings on both hips, thin double straps, and a short gold chain dangling on the right side. Crouching with legs apart over the hatch, her right arm extends downward with her right hand resting on the foreground rim, while her left elbow is bent with her left hand placed on the hair at the crown of her head.
+
+Background & Lighting:
+A clear blue sky spans the entire background; metal pipes and rigging appear in the upper left, the boat's black hatch frame lines the top and bottom edges, and the underside of the hull is visible in the upper right. Harsh, direct sunlight from above illuminates her face, chest, abdomen, and arms, creating sharp reflections on the sunglasses and gold rings.
+
+Composition & Camera:
+A 3:4 vertical composition, an extreme low-angle shot looking straight up from inside the cabin, capturing a near-full-body portrait framed from the top of her head to both thighs. The subject is featured prominently in the center, with the hatch frame forming diagonal lines at the top and bottom, leaving the blue sky as broad negative space. The legs and right hand are cropped at the edges of the frame; focus is sharp on the face and upper body, while the sky remains smooth.
+
+Texture & Style:
+Photorealistic live-action photography. High-definition rendering of natural wet skin and hair, black swimwear fabric, metallic rings and chain, dark lenses, and the metal boat frame, with intense summer colors of black, gold, and vivid blue.
+
+Negative:
+Altering the low-angle perspective looking up through the boat window; omitting the gold rings
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2101569548671705452"></a>
+
+### Realistic vertical portrait photography prompt of a woman sitting on a bed in a warm-toned bedroom, pinching the ribbon of a peach satin and floral lace minidress.
+
+Author：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Source](https://x.com/CyberTotal2026/status/2101569548671705452)
+
+Photography · Portrait / Selfie · Character · Fashion Item · Published
+
+**Summary:** Realistic vertical portrait photography prompt of a woman sitting on a bed in a warm-toned bedroom, pinching the ribbon of a peach satin and floral lace minidress.
+
+<img src="images/2101569548671705452-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Theme:
+Peach Lace Knot
+
+Subject:
+In the center of the frame, in a warm-toned bedroom, a young woman sits on a bed with knees spread apart, holding the central ribbon of her peach-colored satin and floral lace minidress with both hands. The three-dimensional lace at the chest and her soft smile are the focal points.
+
+Person & Expression:
+Slender oval face, small chin, large light brown eyes, thin eyebrows, neat nose bridge, glossy peach lips revealing teeth slightly. Face slightly tilted to the right, smiling gently at the camera straight ahead. Light brown hair gathered low at the back of the head, with thin bangs and long tendrils falling along both cheeks. Small silver flower-shaped pendant necklace.
+
+Attire & Pose:
+A dusty-peach thin-strapped satin minidress with triangular cups, covered all over with matching-colored three-dimensional small floral embroidered lace, a long central satin ribbon, and a short lace hem. Sitting on the bed with knees spread outward to the left and right, both elbows bent, left and right hands each pinching an end of the chest's central ribbon.
+
+Background & Lighting:
+Wrinkled off-white bedding at the bottom of the frame, a wooden side table, a glass vase with white flowers, and a fabric-shade lamp on the left side of the frame, white pillows and a peach knitted cushion on the right side of the frame, and light-colored curtains in the background. The lamp on the left of the frame and soft warm frontal light evenly illuminate her face, chest, hands, satin, and lace.
+
+Composition & Camera:
+3:4 vertical composition, frontal camera slightly higher than the seated subject's chest, capturing a three-quarter portrait from the top of the head to the spread thighs. The subject is prominent in the center, with the face in the upper half, both hands and ribbon in the center, and thighs placed at the lower left and right. Legs are cropped at the left, right, and bottom edges; sharp focus on the eyes and the chest ribbon, with the bedroom background softly blurred.
+
+Texture & Style:
+Photorealistic live-action photograph. Natural skin, soft hair, lustrous satin, three-dimensional floral lace, slender ribbon, and bedding rendered in high detail, with a gentle evening palette of peach, off-white, and amber tones.
+
+Negative:
+Omitting the chest ribbon held by both hands; red or black outfits
 ```
 
 [↑ Back to categories](#catalog)
