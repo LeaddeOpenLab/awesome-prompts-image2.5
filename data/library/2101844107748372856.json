@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-21T12:29:49.600Z",
+  "model": "image2",
+  "prompt": "主題：\n水際の青花リボン\n\n主体：\n画面中央、屋外プールの石縁へ背中を向けて腰掛ける若い女性。広く見せた濡れた背中、両腕から外した水着の細紐、白地に淡青の小花柄ボトム、青い水面が主役。\n\n人物・表情：\n丸みのある小さな横顔、伏せた瞳、長い睫毛、細い眉、すっきりした鼻、淡い桃色の閉じた唇。顔を左下へ向け、視線も手元へ落とした穏やかな表情。ダークブラウンの髪は後頭部上で小さなお団子にまとめ、薄い前髪と濡れた後れ毛が頬と首へ沿う。\n\n服装・ポーズ：\n白地に淡い青の小花柄を散らし、水色の縁取りがあるハイレグ水着ボトム。トップの左右の細い花柄ストラップを肩から外し、両肘を横へ張って両手で脇の紐をつまむ。プール縁に背筋を伸ばして座り、背中と腰を正面へ見せる。右下に白い布、麦わら帽子、サングラス。\n\n背景・光：\n背景全体は青い屋外プールの水面、上端に灰色の石縁、下端に座面の淡い石。画面右上から硬い直射日光が肩、背骨、腰へ当たり、腕と体の影、水面の細かな揺れる反射光を作る。\n\n構図・カメラ：\n4:5の縦構図、腰より少し高い背後カメラで頭頂から臀部下までを収める背面ポートレート。背骨を画面中央へ大きく、左右の腕を対称に広げ、青い水面を背景いっぱいに配置。肘は左右端で裁切し、背中と水着の小花柄にピント、水面は軽くぼかす。\n\n質感・スタイル：\nフォトリアルな実写写真。水滴の残る自然な肌、小花柄の薄い布、水色の縁、石、水面の光模様を高精細にし、肌色とアクアブルーの澄んだ夏色。\n\nネガティブ：\n正面向きや長い髪；青花水着と外した紐省略",
+  "promptTranslations": {
+    "en": "Subject:\nBlue Floral Ribbon at the Water's Edge\n\nMain Subject:\nIn the center of the frame, a young woman sits with her back turned on the stone edge of an outdoor pool. The main elements are her broadly exposed wet back, the thin straps of her swimsuit slipped off her arms, the bottom with light blue floral patterns on a white background, and the blue water surface.\n\nPerson / Expression:\nA rounded, petite side profile, downcast eyes, long eyelashes, slender eyebrows, a neat nose, and pale pink closed lips. A serene expression with her face turned toward the lower left and her gaze cast down toward her hands. Her dark brown hair is gathered in a small bun high on the back of her head, with thin bangs and wet stray strands contouring along her cheeks and neck.\n\nClothing / Pose:\nHigh-leg swimsuit bottoms scattered with small light blue floral patterns on a white background and trimmed with light blue borders. The thin floral straps of the top are slipped off both shoulders; her elbows are flared out to the sides, pinching the side ties with both hands. She sits upright on the pool edge with her spine straight, showing her back and waist directly to the camera. In the lower right are a white cloth, a straw hat, and sunglasses.\n\nBackground / Lighting:\nThe entire background is the blue water surface of an outdoor pool, with a gray stone edge at the top edge and light-colored stone of the seating ledge at the bottom edge. Harsh, direct sunlight from the upper right of the frame hits her shoulders, spine, and waist, casting shadows of her arms and body, and creating fine, shimmering reflections on the water's surface.\n\nComposition / Camera:\nA 4:5 vertical composition, a back portrait shot from a rear camera slightly higher than waist level, capturing from the crown of the head to below the buttocks. Her spine is framed prominently in the center of the screen, with arms extended symmetrically to both sides, and the blue water surface fills the background. Her elbows are cropped at the left and right edges; sharp focus on her back and the small floral pattern of the swimsuit, while the water surface is softly blurred.\n\nTexture / Style:\nPhotorealistic live-action photograph. High-definition rendering of natural skin with remaining water droplets, thin fabric with small floral patterns, light blue trims, stone, and the light patterns on the water surface; clear summer colors of skin tones and aqua blue.\n\nNegative:\nFacing front, long hair; omitting the blue floral swimsuit and untied/slipped-off straps"
+  },
+  "summaryTranslations": {
+    "en": "A photorealistic back portrait prompt of a woman sitting on the edge of an outdoor pool with her back turned, having slipped off her swimsuit straps."
+  },
+  "translationVersion": 2,
+  "summary": "屋外プールの縁に背を向けて座る、水着の紐を外した女性の写実的な背面ポートレートプロンプト。",
+  "summaryEn": "Photorealistic prompt for a rear portrait of a woman seated poolside with swimsuit straps slipped down.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2101844107748372856",
+    "canonicalUrl": "https://x.com/CyberTotal2026/status/2101844107748372856",
+    "author": {
+      "username": "CyberTotal2026",
+      "displayName": "Prompt アトリエ｜AI画像プロンプト",
+      "profileUrl": "https://x.com/CyberTotal2026"
+    },
+    "publishedAt": "2026-09-21T01:21:00.000Z",
+    "collectedAt": "2026-09-21T12:15:57.670Z",
+    "language": "ja",
+    "originalText": "水のきらめきに背中を預けて。ほどけたリボンまで夏の景色になる💧☀️🩵\n\n#AIart #AI写真 #プールサイド\n\n【GPT Image2プロンプト】\n\n主題：\n水際の青花リボン\n\n主体：\n画面中央、屋外プールの石縁へ背中を向けて腰掛ける若い女性。広く見せた濡れた背中、両腕から外した水着の細紐、白地に淡青の小花柄ボトム、青い水面が主役。\n\n人物・表情：\n丸みのある小さな横顔、伏せた瞳、長い睫毛、細い眉、すっきりした鼻、淡い桃色の閉じた唇。顔を左下へ向け、視線も手元へ落とした穏やかな表情。ダークブラウンの髪は後頭部上で小さなお団子にまとめ、薄い前髪と濡れた後れ毛が頬と首へ沿う。\n\n服装・ポーズ：\n白地に淡い青の小花柄を散らし、水色の縁取りがあるハイレグ水着ボトム。トップの左右の細い花柄ストラップを肩から外し、両肘を横へ張って両手で脇の紐をつまむ。プール縁に背筋を伸ばして座り、背中と腰を正面へ見せる。右下に白い布、麦わら帽子、サングラス。\n\n背景・光：\n背景全体は青い屋外プールの水面、上端に灰色の石縁、下端に座面の淡い石。画面右上から硬い直射日光が肩、背骨、腰へ当たり、腕と体の影、水面の細かな揺れる反射光を作る。\n\n構図・カメラ：\n4:5の縦構図、腰より少し高い背後カメラで頭頂から臀部下までを収める背面ポートレート。背骨を画面中央へ大きく、左右の腕を対称に広げ、青い水面を背景いっぱいに配置。肘は左右端で裁切し、背中と水着の小花柄にピント、水面は軽くぼかす。\n\n質感・スタイル：\nフォトリアルな実写写真。水滴の残る自然な肌、小花柄の薄い布、水色の縁、石、水面の光模様を高精細にし、肌色とアクアブルーの澄んだ夏色。\n\nネガティブ：\n正面向きや長い髪；青花水着と外した紐省略",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSbdV3gacAAnB0V.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSbdV3gacAAnB0V.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 147,
+      "repostCount": 6,
+      "replyCount": 5,
+      "quoteCount": 2,
+      "viewCount": 5978
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/CyberTotal2026/status/2101844107748372856",
+  "coverUrl": "https://pbs.twimg.com/media/HSbdV3gacAAnB0V.jpg",
+  "coverPath": "images/2101844107748372856-1.jpg",
+  "imagePaths": [
+    "images/2101844107748372856-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSbdV3gacAAnB0V",
+    "x-post:2101844107748372856"
+  ],
+  "analysis": {
+    "summary": "屋外プールの縁に背を向けて座る、水着の紐を外した女性の写実的な背面ポートレートプロンプト。",
+    "summaryEn": "Photorealistic prompt for a rear portrait of a woman seated poolside with swimsuit straps slipped down.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "生成图像与提示词中的姿势（背对镜头脱下吊带）、发型（高丸子头）、碎花泳裤、右上强光、右下角草帽和墨镜完全一致。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "主題：\n水際の青花リボン\n\n主体：\n画面中央、屋外プールの石縁へ背中を向けて腰掛ける若い女性。広く見せた濡れた背中、両腕から外した水着の細紐、白地に淡青の小花柄ボトム、青い水面が主役。\n\n人物・表情：\n丸みのある小さな横顔、伏せた瞳、長い睫毛、細い眉、すっきりした鼻、淡い桃色の閉じた唇。顔を左下へ向け、視線も手元へ落とした穏やかな表情。ダークブラウンの髪は後頭部上で小さなお団子にまとめ、薄い前髪と濡れた後れ毛が頬と首へ沿う。\n\n服装・ポーズ：\n白地に淡い青の小花柄を散らし、水色の縁取りがあるハイレグ水着ボトム。トップの左右の細い花柄ストラップを肩から外し、両肘を横へ張って両手で脇の紐をつまむ。プール縁に背筋を伸ばして座り、背中と腰を正面へ見せる。右下に白い布、麦わら帽子、サングラス。\n\n背景・光：\n背景全体は青い屋外プールの水面、上端に灰色の石縁、下端に座面の淡い石。画面右上から硬い直射日光が肩、背骨、腰へ当たり、腕と体の影、水面の細かな揺れる反射光を作る。\n\n構図・カメラ：\n4:5の縦構図、腰より少し高い背後カメラで頭頂から臀部下までを収める背面ポートレート。背骨を画面中央へ大きく、左右の腕を対称に広げ、青い水面を背景いっぱいに配置。肘は左右端で裁切し、背中と水着の小花柄にピント、水面は軽くぼかす。\n\n質感・スタイル：\nフォトリアルな実写写真。水滴の残る自然な肌、小花柄の薄い布、水色の縁、石、水面の光模様を高精細にし、肌色とアクアブルーの澄んだ夏色。\n\nネガティブ：\n正面向きや長い髪；青花水着と外した紐省略",
+    "sourceRange": {
+      "start": 77,
+      "end": 742
+    },
+    "translations": {
+      "zh": "主题：\n水边的青花丝带\n\n主体：\n画面中央，坐在室外泳池石阶上背对镜头的年轻女性。大面积露出的湿润后背、滑落至双臂的泳装细吊带、白底浅蓝碎花泳裤、蓝色水面为画面核心。\n\n人物与表情：\n圆润的小巧侧颜、垂下的眼眸、长睫毛、细眉、清秀的鼻梁、淡粉色闭合的双唇。脸偏向左下方，目光落在手边的平静神情。深褐色头发在后脑勺高处扎成小丸子头，轻薄的刘海与湿漉的碎发贴着面颊和脖颈。\n\n服装与动作：\n白底散落浅蓝碎花、饰有浅蓝包边的高叉泳裤。从肩上褪下上衣左右细碎花吊带，双肘向两侧张开，双手捏住身侧细带。挺直背部坐在泳池边，背部与腰部正对镜头。右下角有白布、草帽与墨镜。\n\n背景与光影：\n整个背景为蓝色室外泳池水面，顶部为灰色石边，底部为浅色石座。画面右上射下强烈的直射阳光，照亮肩部、脊柱和腰部，勾勒出手臂和身体阴影以及水面摇曳的反光。\n\n构图与镜头：\n4:5竖向构图，略高于腰部的后置机位，容纳从头顶到臀部下方的背面肖像。脊柱位于画面正中，双臂对称展开，背景填满蓝色水面。双肘在左右裁切，焦点对准背部和泳衣碎花，水面轻微虚化。\n\n质感与风格：\n逼真的真实摄影质感。带有水珠的自然肌肤、印有碎花的薄布料、浅蓝包边、石材与水面光纹高精细呈现，肤色与清透的夏日水蓝。\n\n负面提示：\n正脸或长发；省略青花泳装和脱下的吊带",
+      "en": "Theme:\nBlue floral ribbon by the water\n\nSubject:\nCentered young woman seated back-facing on the stone edge of an outdoor pool. Broad exposed wet back, thin straps slipped off both arms, white bottom with pale blue floral print, blue water surface.\n\nPerson & Expression:\nSmall profile, downcast eyes, long eyelashes, slender eyebrows, refined nose, closed soft pink lips. Soft expression looking downward to the left. Dark brown hair tied in a small bun, thin bangs and wet wisps along cheeks and neck.\n\nOutfit & Pose:\nHigh-cut bottoms in white with pale blue floral print and light blue trim. Shoulder straps removed, elbows out, holding the side strings. Seated upright facing back. White cloth, straw hat, sunglasses at bottom right.\n\nBackground & Light:\nOutdoor blue pool water background, stone edge at top, pale stone seating below. Harsh direct sunlight from upper right casting shadows and pool reflections.\n\nComposition & Camera:\n4:5 vertical rear portrait from head to below hips. Spine centered, arms symmetrical, pool backdrop. Elbows cropped, sharp focus on back and floral print, soft blur on water.\n\nStyle & Texture:\nPhotorealistic photo. Dewy skin with water droplets, fine floral fabric, stone, high-detail water light patterns in clear aqua-blue summer tones.\n\nNegative:\nFront-facing, long open hair; missing floral swimsuit or detached straps"
+    },
+    "targetModels": [
+      "image2"
+    ],
+    "category": "text-to-image",
+    "useCase": "AI写真 / 泳池侧写生成",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.98,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}

@@ -19,7 +19,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**165** 条内容 · 最新收录: **2026-09-21**
+**171** 条内容 · 最新收录: **2026-09-21**
 
 <a name="catalog"></a>
 
@@ -633,6 +633,94 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 ```text
 树林中一片空地的照片，周围有大量绿叶植物，细节极其丰富
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
+
+<a name="prompt-2101844107748372856"></a>
+
+### 翻译中
+
+作者：[@CyberTotal2026](https://x.com/CyberTotal2026) · [查看 X 原帖](https://x.com/CyberTotal2026/status/2101844107748372856)
+
+摄影 · 人像 / 自拍 · 角色 · 已推流
+
+**概括:** 翻译中
+
+<img src="images/2101844107748372856-1.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
+
+<a name="prompt-2101978744940638252"></a>
+
+### 翻译中
+
+作者：[@CyberTotal2026](https://x.com/CyberTotal2026) · [查看 X 原帖](https://x.com/CyberTotal2026/status/2101978744940638252)
+
+摄影 · 人像 / 自拍 · 角色 · 风景 / 自然 · 已推流
+
+**概括:** 翻译中
+
+<img src="images/2101978744940638252-1.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
+
+<a name="prompt-2101963645496562103"></a>
+
+### 翻译中
+
+作者：[@CyberTotal2026](https://x.com/CyberTotal2026) · [查看 X 原帖](https://x.com/CyberTotal2026/status/2101963645496562103)
+
+摄影 · 人像 / 自拍 · 角色 · 已推流
+
+**概括:** 翻译中
+
+<img src="images/2101963645496562103-1.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
+
+<a name="prompt-2101993592969404809"></a>
+
+### 翻译中
+
+作者：[@CyberTotal2026](https://x.com/CyberTotal2026) · [查看 X 原帖](https://x.com/CyberTotal2026/status/2101993592969404809)
+
+摄影 · 人像 / 自拍 · 角色 · 已推流
+
+**概括:** 翻译中
+
+<img src="images/2101993592969404809-1.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
 ```
 
 [↑ 返回分类目录](#catalog)
@@ -2542,6 +2630,28 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 ---
 
+<a name="prompt-2101961501955571892"></a>
+
+### 翻译中
+
+作者：[@IqrasaifiAI](https://x.com/IqrasaifiAI) · [查看 X 原帖](https://x.com/IqrasaifiAI/status/2101961501955571892)
+
+电影 / 电影剧照 · 人像 / 自拍 · 团体 / 情侣 · 风景 / 自然 · 已推流
+
+**概括:** 翻译中
+
+<img src="images/2101961501955571892-1.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
+
 <a name="prompt-2100839251294446037"></a>
 
 ### 在被橙色烟雾笼罩的废墟中系鞋带的紫色波波头女性角色的电影质感肖像。
@@ -2653,6 +2763,30 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 <a name="category-anime-manga"></a>
 
 ## 动漫 / 漫画
+
+<a name="prompt-2101988472164884652"></a>
+
+### 翻译中
+
+作者：[@oodate](https://x.com/oodate) · [查看 X 原帖](https://x.com/oodate/status/2101988472164884652)
+
+动漫 / 漫画 · 插画 · 角色 · 已推流
+
+查看 X 原帖：[@MUucwYWSWUsvy3J](https://x.com/MUucwYWSWUsvy3J) · [查看 X 原帖](https://x.com/MUucwYWSWUsvy3J/status/2101922715569639612)
+
+**概括:** 翻译中
+
+<img src="images/2101988472164884652-1.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
 
 <a name="prompt-2097834253748949105"></a>
 

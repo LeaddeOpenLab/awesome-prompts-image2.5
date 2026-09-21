@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**165** Prompts · Última incorporación: **2026-09-21**
+**171** Prompts · Última incorporación: **2026-09-21**
 
 <a name="catalog"></a>
 
@@ -628,6 +628,94 @@ Fotografía · Paisaje / Naturaleza · Publicado
 
 ```text
 Foto de un claro en el bosque con mucho follaje verde, muy detallada
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2101844107748372856"></a>
+
+### Traducción en curso
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicación original](https://x.com/CyberTotal2026/status/2101844107748372856)
+
+Fotografía · Retrato / Selfie · Personaje · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2101844107748372856-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2101978744940638252"></a>
+
+### Traducción en curso
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicación original](https://x.com/CyberTotal2026/status/2101978744940638252)
+
+Fotografía · Retrato / Selfie · Personaje · Paisaje / Naturaleza · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2101978744940638252-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2101963645496562103"></a>
+
+### Traducción en curso
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicación original](https://x.com/CyberTotal2026/status/2101963645496562103)
+
+Fotografía · Retrato / Selfie · Personaje · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2101963645496562103-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2101993592969404809"></a>
+
+### Traducción en curso
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicación original](https://x.com/CyberTotal2026/status/2101993592969404809)
+
+Fotografía · Retrato / Selfie · Personaje · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2101993592969404809-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -2497,6 +2585,28 @@ caricatura, anime, pintura, CGI, render 3D, baja calidad, edificios distorsionad
 
 ---
 
+<a name="prompt-2101961501955571892"></a>
+
+### Traducción en curso
+
+Autor：[@IqrasaifiAI](https://x.com/IqrasaifiAI) · [Publicación original](https://x.com/IqrasaifiAI/status/2101961501955571892)
+
+Cine / Fotograma · Retrato / Selfie · Grupo / Pareja · Paisaje / Naturaleza · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2101961501955571892-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
 <a name="prompt-2100839251294446037"></a>
 
 ### Retrato cinematográfico de un personaje femenino con corte bob púrpura atándose los zapatos en unas ruinas rodeada de humo naranja.
@@ -2618,6 +2728,30 @@ Retrato cinematográfico fotorrealista de un hombre adulto atractivo con cabello
 <a name="category-anime-manga"></a>
 
 ## Anime / Manga
+
+<a name="prompt-2101988472164884652"></a>
+
+### Traducción en curso
+
+Autor：[@oodate](https://x.com/oodate) · [Publicación original](https://x.com/oodate/status/2101988472164884652)
+
+Anime / Manga · Ilustración · Personaje · Publicado
+
+Publicación original：[@MUucwYWSWUsvy3J](https://x.com/MUucwYWSWUsvy3J) · [Publicación original](https://x.com/MUucwYWSWUsvy3J/status/2101922715569639612)
+
+**Resumen:** Traducción en curso
+
+<img src="images/2101988472164884652-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2097834253748949105"></a>
 

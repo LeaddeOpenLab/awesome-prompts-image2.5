@@ -1,0 +1,110 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-21T12:28:24.107Z",
+  "model": "image2.5",
+  "prompt": "顔の判別がつくまで２次元キャラクターを詰め込んで、卒業アルバム風、学園都市なのでマンモス校です、カウントしやすいように番号を振って、image2.5の限界性能チェックです",
+  "promptTranslations": {
+    "en": "Pack in as many 2D characters as possible while keeping their faces distinguishable, in the style of a graduation album; since it's an academy city, it is a mammoth school; assign numbers to make them easy to count, this is a performance limit test for image2.5"
+  },
+  "summaryTranslations": {
+    "en": "An image generation prompt assembling around 200 numbered 2D characters in the style of a graduation album from a mammoth school in an academy city."
+  },
+  "translationVersion": 2,
+  "summary": "学園都市のマンモス校の卒業アルバム風に、200人規模の番号付き2次元キャラを集合させた画像生成プロンプト。",
+  "summaryEn": "Prompt generating an academy city mammoth school graduation photo crammed with 200 numbered 2D anime characters.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2101922715569639612",
+      "canonicalUrl": "https://x.com/MUucwYWSWUsvy3J/status/2101922715569639612",
+      "author": {
+        "username": "MUucwYWSWUsvy3J",
+        "displayName": "エルフなんよ",
+        "profileUrl": "https://x.com/MUucwYWSWUsvy3J"
+      },
+      "originalText": "image2.5って何人いけるんだろ。"
+    },
+    "id": "2101988472164884652",
+    "canonicalUrl": "https://x.com/oodate/status/2101988472164884652",
+    "author": {
+      "username": "oodate",
+      "displayName": "🐡BalloonFish🌊エルタリウム所属",
+      "profileUrl": "https://x.com/oodate"
+    },
+    "publishedAt": "2026-09-21T10:54:39.000Z",
+    "collectedAt": "2026-09-21T12:15:57.670Z",
+    "language": "ja",
+    "originalText": "200人はイケるってチャッピーが作ってくれました。(結構破綻してる🤣)\nプロンプト:\n顔の判別がつくまで２次元キャラクターを詰め込んで、卒業アルバム風、学園都市なのでマンモス校です、カウントしやすいように番号を振って、image2.5の限界性能チェックです https://t.co/birmlDwnG2",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSvDX2PbkAABUU7.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSvDX2PbkAABUU7.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 5,
+      "repostCount": 1,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 98
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/oodate/status/2101988472164884652",
+  "coverUrl": "https://pbs.twimg.com/media/HSvDX2PbkAABUU7.jpg",
+  "coverPath": "images/2101988472164884652-1.jpg",
+  "imagePaths": [
+    "images/2101988472164884652-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSvDX2PbkAABUU7",
+    "x-post:2101988472164884652",
+    "x-post:2101922715569639612"
+  ],
+  "analysis": {
+    "summary": "学園都市のマンモス校の卒業アルバム風に、200人規模の番号付き2次元キャラを集合させた画像生成プロンプト。",
+    "summaryEn": "Prompt generating an academy city mammoth school graduation photo crammed with 200 numbered 2D anime characters.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "生成图像与提示词完全吻合：呈现带编号（001-200）的二次元学园都市毕业照合影。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "顔の判別がつくまで２次元キャラクターを詰め込んで、卒業アルバム風、学園都市なのでマンモス校です、カウントしやすいように番号を振って、image2.5の限界性能チェックです",
+    "sourceRange": {
+      "start": 43,
+      "end": 128
+    },
+    "translations": {
+      "zh": "尽可能多塞入面部可辨认的二次元角色，毕业纪念册风格，学园都市的大规模学校，标注编号以便计数，用于image2.5极限性能测试",
+      "en": "Pack discernible 2D anime characters yearbook style for an academy city mammoth school, numbered for easy counting to test image2.5 limits"
+    },
+    "targetModels": [
+      "image2.5"
+    ],
+    "category": "text-to-image",
+    "useCase": "illustration",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}

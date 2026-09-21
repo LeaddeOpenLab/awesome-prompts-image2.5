@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**165** Prompts · Latest addition: **2026-09-21**
+**171** Prompts · Latest addition: **2026-09-21**
 
 <a name="catalog"></a>
 
@@ -690,6 +690,182 @@ Photography · Landscape / Nature · Published
 
 ```text
 Photo of a clearing in the woods with lots of green foliage, highly detailed
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2101844107748372856"></a>
+
+### A photorealistic back portrait prompt of a woman sitting on the edge of an outdoor pool with her back turned, having slipped off her swimsuit straps.
+
+Author：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Source](https://x.com/CyberTotal2026/status/2101844107748372856)
+
+Photography · Portrait / Selfie · Character · Published
+
+**Summary:** A photorealistic back portrait prompt of a woman sitting on the edge of an outdoor pool with her back turned, having slipped off her swimsuit straps.
+
+<img src="images/2101844107748372856-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Subject:
+Blue Floral Ribbon at the Water's Edge
+
+Main Subject:
+In the center of the frame, a young woman sits with her back turned on the stone edge of an outdoor pool. The main elements are her broadly exposed wet back, the thin straps of her swimsuit slipped off her arms, the bottom with light blue floral patterns on a white background, and the blue water surface.
+
+Person / Expression:
+A rounded, petite side profile, downcast eyes, long eyelashes, slender eyebrows, a neat nose, and pale pink closed lips. A serene expression with her face turned toward the lower left and her gaze cast down toward her hands. Her dark brown hair is gathered in a small bun high on the back of her head, with thin bangs and wet stray strands contouring along her cheeks and neck.
+
+Clothing / Pose:
+High-leg swimsuit bottoms scattered with small light blue floral patterns on a white background and trimmed with light blue borders. The thin floral straps of the top are slipped off both shoulders; her elbows are flared out to the sides, pinching the side ties with both hands. She sits upright on the pool edge with her spine straight, showing her back and waist directly to the camera. In the lower right are a white cloth, a straw hat, and sunglasses.
+
+Background / Lighting:
+The entire background is the blue water surface of an outdoor pool, with a gray stone edge at the top edge and light-colored stone of the seating ledge at the bottom edge. Harsh, direct sunlight from the upper right of the frame hits her shoulders, spine, and waist, casting shadows of her arms and body, and creating fine, shimmering reflections on the water's surface.
+
+Composition / Camera:
+A 4:5 vertical composition, a back portrait shot from a rear camera slightly higher than waist level, capturing from the crown of the head to below the buttocks. Her spine is framed prominently in the center of the screen, with arms extended symmetrically to both sides, and the blue water surface fills the background. Her elbows are cropped at the left and right edges; sharp focus on her back and the small floral pattern of the swimsuit, while the water surface is softly blurred.
+
+Texture / Style:
+Photorealistic live-action photograph. High-definition rendering of natural skin with remaining water droplets, thin fabric with small floral patterns, light blue trims, stone, and the light patterns on the water surface; clear summer colors of skin tones and aqua blue.
+
+Negative:
+Facing front, long hair; omitting the blue floral swimsuit and untied/slipped-off straps
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2101978744940638252"></a>
+
+### A realistic portrait of a woman in a black bodysuit sitting sideways on a sofa in a room bathed in oblique evening light.
+
+Author：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Source](https://x.com/CyberTotal2026/status/2101978744940638252)
+
+Photography · Portrait / Selfie · Character · Landscape / Nature · Published
+
+**Summary:** A realistic portrait of a woman in a black bodysuit sitting sideways on a sofa in a room bathed in oblique evening light.
+
+<img src="images/2101978744940638252-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Subject:
+Black Sideways Sitting in Evening Light
+
+Main Subject:
+In the center of the frame, a young woman sitting sideways with knees folded on a brown single-seat armchair. A black sleeveless bodysuit, left hand resting against her cheek, right arm stretched long, and the oblique sunset light are the main focus.
+
+Person / Expression:
+Small oval face, slender jawline, large dark brown eyes, thin eyebrows, well-defined bridge of the nose, glossy reddish-pink lips. Face nearly frontal, with a melancholic expression directing her gaze only toward the left of the frame. Long dark brown wavy hair flows down her back, leaving thin bangs and strands framing her face.
+
+Attire / Pose:
+A black ribbed fabric sleeveless swimsuit-style bodysuit with deep armholes. Sitting sideways on the sofa with both knees folded to the left, her right arm stretched long along the armrest with the wrist hanging down. Her left elbow rests on the armrest, her left palm supporting her cheek.
+
+Background / Light:
+On the left of the frame, a brown cushion and a knitted blanket; in the background, a blue-gray wall and a framed picture; on the right of the frame, a black shelf, plants, and a metal candle. Hard evening sunlight streams obliquely from the lower right of the frame onto the legs, arms, and sofa, casting crisp window shadows.
+
+Composition / Camera:
+A 3:4 vertical composition, a full-body portrait captured with a frontal camera at the same height as the sofa, framing from the top of the head to the folded tips of the feet. The subject is placed prominently in the center, the right arm to the right edge, and the knees to the lower left. Fingertips and toes near the edges of the frame, sharp focus on the face and eyes, with the background softly blurred.
+
+Texture / Style:
+Photorealistic live-action photograph. High-definition natural skin, black ribbed fabric, the nap of the sofa, and fine waves of the hair, overlaying orange evening light onto blue-gray, brown, and black.
+
+Negative:
+Altering the sideways sitting and resting cheek on hand; omitting the black outfit and evening sunlight.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2101963645496562103"></a>
+
+### A realistic portrait prompt of a woman wearing an off-the-shoulder pale purple floral kimono in a room bathed in morning light.
+
+Author：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Source](https://x.com/CyberTotal2026/status/2101963645496562103)
+
+Photography · Portrait / Selfie · Character · Published
+
+**Summary:** A realistic portrait prompt of a woman wearing an off-the-shoulder pale purple floral kimono in a room bathed in morning light.
+
+<img src="images/2101963645496562103-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Subject:
+Pale Purple Japanese Attire with Morning Flowers
+
+Main Subject:
+In the center of the frame, a young woman sitting on a sofa in a Japanese-Western fusion room with flowers and morning sunlight. A white kimono with a pale purple floral pattern worn off the shoulders, a purple obi belt, one leg extending toward the lower left, with her profile and décolletage as the focal points.
+
+Person / Facial Expression:
+A slender oval face, small chin, slightly downcast light brown eyes, thin eyebrows, a neat nose bridge, and glossy reddish-pink lips parted slightly. Her face is turned toward the lower left of the frame with a quiet expression, looking at the fingertips on her left shoulder. Long light brown hair loosely gathered at the back of the head, with wispy bangs and strands of hair framing the face, and a white small flower hair ornament at the back right.
+
+Attire / Pose:
+A kimono dress with chrysanthemums and small flowers in purple, blue, and pale pink scattered across a white to pale wisteria base, slipped significantly off both shoulders and revealing a deep neckline. At her waist is a woven patterned obi in shades of purple with a pearl-like flower ornament at the center. Sitting diagonally on the sofa, extending her left leg toward the foreground, supporting her body with her right arm, and touching the collar on her left shoulder with the fingertips of her left hand.
+
+Background / Lighting:
+In the back left of the frame, a large wooden-frame window, a transparent vase with white and purple flowers, and a water cup; in the back right of the frame, a wooden vanity dresser, a round mirror, glass bottles, and a lamp with a washi paper shade. A white high-pile sofa and a floral cushion. Soft morning sunlight from the left window brightly illuminates her face, shoulders, kimono, and foreground leg.
+
+Composition / Camera:
+3:4 vertical composition, front-left camera positioned slightly higher than the seated subject's chest, capturing from the crown of the head to the middle of the foreground thigh. The subject is positioned prominently toward the center-right, the left leg toward the lower left, and the window and flowers toward the upper left. The leg and right arm are cropped at the frame edges, with sharp focus on the profile and the floral pattern of the kimono, and a softly blurred background.
+
+Texture / Style:
+Photorealistic live-action photograph. High-definition rendering of natural skin, glossy hair, kimono weave and pale floral patterns, obi, pearl ornament, and white high pile, with bright and delicate morning light in white, pale purple, and wood tones.
+
+Negative:
+kimono styling that covers the shoulders; altering the pale purple floral pattern and sitting pose
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2101993592969404809"></a>
+
+### Photorealistic portrait of a young woman wearing a white deep-neck cardigan and a miniskirt with silver chains in front of a vanity table.
+
+Author：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Source](https://x.com/CyberTotal2026/status/2101993592969404809)
+
+Photography · Portrait / Selfie · Character · Published
+
+**Summary:** Photorealistic portrait of a young woman wearing a white deep-neck cardigan and a miniskirt with silver chains in front of a vanity table.
+
+<img src="images/2101993592969404809-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Subject:
+White and Silver Chains Before the Mirror
+
+Main Subject:
+In the center of the frame, a young woman stands leaning with both hands on a vanity table with a warm-toned lamp. The focal points are her white, deeply unbuttoned cardigan top, greige pleated miniskirt, silver waist chain, and black bag on her right shoulder.
+
+Person and Facial Expression:
+Slender oval face, small chin, light brown almond-shaped eyes, thin eyebrows, short bridge of the nose, and glossy pale pink lips. With her face tilted slightly to the left, she directs a calm gaze and an understated expression toward the front-facing camera. Light brown wavy hair reaching past the shoulders, with wispy bangs centered and strands flowing along her cheeks.
+
+Attire and Pose:
+A white, fine-textured knit long-sleeved cardigan top with a deeply open neckline, fastened by only a few small pearl-like buttons, featuring wide flared cuffs. A greige pleated miniskirt with a low-waist belt, silver chain embellishment, and a black shoulder bag. Her hips are tilted to the left, both arms extended downward with hands resting on the vanity table.
+
+Background and Lighting:
+On the left side of the frame are a white wall and a table lamp with a fabric shade, shadows in the center background, and on the right side of the frame are a black-framed oval mirror, a dark brown vanity surface, and perfume bottles. The warm lamp light from the lower left and soft frontal fill light illuminate her face and the white fabric, casting the subject's shadow onto the wall.
+
+Composition and Camera:
+4:5 vertical composition, three-quarter portrait capturing from the top of the head to the mid-thigh via a frontal camera positioned slightly above waist level. The subject is framed prominently in the center, with the mirror positioned at the upper right and the lamp at the lower left. The thighs are cropped at the bottom edge; sharp focus on the eyes and fabric texture, with the background inside the mirror softly blurred.
+
+Texture and Style:
+Photorealistic live-action photograph. High-definition rendering of the white knit texture, pleats, metal chains, black leather, natural skin, and hair, harmonizing white, taupe-gray, and black under warm indoor lighting.
+
+Negative:
+Omission of white top and silver chain; alteration of the hip-tilted pose
 ```
 
 [↑ Back to categories](#catalog)
@@ -3409,6 +3585,56 @@ cartoon, anime, painting, CGI, 3D render, low quality, distorted buildings, warp
 
 ---
 
+<a name="prompt-2101961501955571892"></a>
+
+### Creation of a cinematic group portrait of celebrities from different eras on a luxurious rooftop terrace at sunset.
+
+Author：[@IqrasaifiAI](https://x.com/IqrasaifiAI) · [Source](https://x.com/IqrasaifiAI/status/2101961501955571892)
+
+Cinematic / Film Still · Portrait / Selfie · Group / Couple · Landscape / Nature · Published
+
+**Summary:** Creation of a cinematic group portrait of celebrities from different eras on a luxurious rooftop terrace at sunset.
+
+<img src="images/2101961501955571892-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create a hyperrealistic, ultra-sharp, full-color large-format image showing a huge group of celebrities from different eras standing together in a single wide, cinematically staged scene.
+
+The image should feel like a perfectly photographed editorial cover – with flawless lighting, lifelike skin textures, and the finest details of hair, pores, reflections, and fabric fibers.
+
+GENERAL STYLE & MOOD:
+
+Photorealistic, 8K, shallow depth of field, soft natural fill light combined with strong golden rim light.
+
+High dynamic range and precisely balanced color grading.
+
+Natural-looking and precise skin tones.
+
+Razor-sharp fabric details where even individual fibers are visible.
+
+Balanced, centrally aligned image composition using a slightly wide-angle 35mm lens.
+
+All celebrities interact naturally with one another, smiling, posing, or conversing.
+
+The background remains visually calm and free of unnecessary distractions, yet offers enough detail to make the setting feel authentic and realistic.
+
+THE ENVIRONMENT:
+
+A luxurious open-air rooftop terrace at sunset overlooking the skyline of a modern metropolis.
+
+Elements:
+
+Warm, golden light framing the silhouettes of the people.
+
+Polished marble surfaces.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
 <a name="prompt-2100839251294446037"></a>
 
 ### Cinematic portrait of a purple-bob female character tying her shoes in ruins surrounded by orange smoke.
@@ -3508,6 +3734,30 @@ Photorealistic cinematic portrait of a handsome adult man with tousled medium-le
 <a name="category-anime-manga"></a>
 
 ## Anime / Manga
+
+<a name="prompt-2101988472164884652"></a>
+
+### An image generation prompt assembling around 200 numbered 2D characters in the style of a graduation album from a mammoth school in an academy city.
+
+Author：[@oodate](https://x.com/oodate) · [Source](https://x.com/oodate/status/2101988472164884652)
+
+Anime / Manga · Illustration · Character · Published
+
+Source：[@MUucwYWSWUsvy3J](https://x.com/MUucwYWSWUsvy3J) · [Source](https://x.com/MUucwYWSWUsvy3J/status/2101922715569639612)
+
+**Summary:** An image generation prompt assembling around 200 numbered 2D characters in the style of a graduation album from a mammoth school in an academy city.
+
+<img src="images/2101988472164884652-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Pack in as many 2D characters as possible while keeping their faces distinguishable, in the style of a graduation album; since it's an academy city, it is a mammoth school; assign numbers to make them easy to count, this is a performance limit test for image2.5
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097834253748949105"></a>
 

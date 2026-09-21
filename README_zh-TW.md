@@ -19,7 +19,7 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 為儲存庫加上 Star，追蹤每日精選提示詞，持續獲得創作靈感。
 
-**165** 筆內容 · 最新收錄: **2026-09-21**
+**171** 筆內容 · 最新收錄: **2026-09-21**
 
 <a name="catalog"></a>
 
@@ -633,6 +633,94 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 ```text
 樹林中一片空地的照片，周圍有大量綠葉植物，細節極其豐富
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
+
+<a name="prompt-2101844107748372856"></a>
+
+### 翻譯中
+
+作者：[@CyberTotal2026](https://x.com/CyberTotal2026) · [查看 X 原帖](https://x.com/CyberTotal2026/status/2101844107748372856)
+
+攝影 · 人像 / 自拍 · 角色 · 已推流
+
+**概括:** 翻譯中
+
+<img src="images/2101844107748372856-1.jpg" alt="圖片 1" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
+
+<a name="prompt-2101978744940638252"></a>
+
+### 翻譯中
+
+作者：[@CyberTotal2026](https://x.com/CyberTotal2026) · [查看 X 原帖](https://x.com/CyberTotal2026/status/2101978744940638252)
+
+攝影 · 人像 / 自拍 · 角色 · 風景 / 大自然 · 已推流
+
+**概括:** 翻譯中
+
+<img src="images/2101978744940638252-1.jpg" alt="圖片 1" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
+
+<a name="prompt-2101963645496562103"></a>
+
+### 翻譯中
+
+作者：[@CyberTotal2026](https://x.com/CyberTotal2026) · [查看 X 原帖](https://x.com/CyberTotal2026/status/2101963645496562103)
+
+攝影 · 人像 / 自拍 · 角色 · 已推流
+
+**概括:** 翻譯中
+
+<img src="images/2101963645496562103-1.jpg" alt="圖片 1" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
+
+<a name="prompt-2101993592969404809"></a>
+
+### 翻譯中
+
+作者：[@CyberTotal2026](https://x.com/CyberTotal2026) · [查看 X 原帖](https://x.com/CyberTotal2026/status/2101993592969404809)
+
+攝影 · 人像 / 自拍 · 角色 · 已推流
+
+**概括:** 翻譯中
+
+<img src="images/2101993592969404809-1.jpg" alt="圖片 1" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
 ```
 
 [↑ 返回分類目錄](#catalog)
@@ -2542,6 +2630,28 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 ---
 
+<a name="prompt-2101961501955571892"></a>
+
+### 翻譯中
+
+作者：[@IqrasaifiAI](https://x.com/IqrasaifiAI) · [查看 X 原帖](https://x.com/IqrasaifiAI/status/2101961501955571892)
+
+電影感 / 電影劇照 · 人像 / 自拍 · 團體 / 情侶 · 風景 / 大自然 · 已推流
+
+**概括:** 翻譯中
+
+<img src="images/2101961501955571892-1.jpg" alt="圖片 1" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
+
 <a name="prompt-2100839251294446037"></a>
 
 ### 在被橙色煙霧籠罩的廢墟中繫鞋帶的紫色鮑伯頭女性角色的電影質感肖像。
@@ -2653,6 +2763,30 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 <a name="category-anime-manga"></a>
 
 ## 動畫 / 漫畫
+
+<a name="prompt-2101988472164884652"></a>
+
+### 翻譯中
+
+作者：[@oodate](https://x.com/oodate) · [查看 X 原帖](https://x.com/oodate/status/2101988472164884652)
+
+動畫 / 漫畫 · 插圖 · 角色 · 已推流
+
+查看 X 原帖：[@MUucwYWSWUsvy3J](https://x.com/MUucwYWSWUsvy3J) · [查看 X 原帖](https://x.com/MUucwYWSWUsvy3J/status/2101922715569639612)
+
+**概括:** 翻譯中
+
+<img src="images/2101988472164884652-1.jpg" alt="圖片 1" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
 
 <a name="prompt-2097834253748949105"></a>
 

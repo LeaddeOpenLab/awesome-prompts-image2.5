@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**165** Prompt · Bổ sung mới nhất: **2026-09-21**
+**171** Prompt · Bổ sung mới nhất: **2026-09-21**
 
 <a name="catalog"></a>
 
@@ -633,6 +633,94 @@ Nhiếp ảnh · Phong cảnh / Thiên nhiên · Đã xuất bản
 
 ```text
 Ảnh chụp một bãi đất trống trong rừng với nhiều tán lá xanh tươi, rất chi tiết
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2101844107748372856"></a>
+
+### Đang dịch
+
+Tác giả：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Bài gốc](https://x.com/CyberTotal2026/status/2101844107748372856)
+
+Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2101844107748372856-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2101978744940638252"></a>
+
+### Đang dịch
+
+Tác giả：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Bài gốc](https://x.com/CyberTotal2026/status/2101978744940638252)
+
+Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Phong cảnh / Thiên nhiên · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2101978744940638252-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2101963645496562103"></a>
+
+### Đang dịch
+
+Tác giả：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Bài gốc](https://x.com/CyberTotal2026/status/2101963645496562103)
+
+Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2101963645496562103-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2101993592969404809"></a>
+
+### Đang dịch
+
+Tác giả：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Bài gốc](https://x.com/CyberTotal2026/status/2101993592969404809)
+
+Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2101993592969404809-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
 ```
 
 [↑ Về danh mục](#catalog)
@@ -2542,6 +2630,28 @@ hoạt hình, anime, tranh vẽ, CGI, kết xuất 3D, chất lượng thấp, t
 
 ---
 
+<a name="prompt-2101961501955571892"></a>
+
+### Đang dịch
+
+Tác giả：[@IqrasaifiAI](https://x.com/IqrasaifiAI) · [Bài gốc](https://x.com/IqrasaifiAI/status/2101961501955571892)
+
+Điện ảnh / Ảnh tĩnh từ phim · Chân dung / Ảnh tự chụp · Nhóm / Cặp đôi · Phong cảnh / Thiên nhiên · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2101961501955571892-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
 <a name="prompt-2100839251294446037"></a>
 
 ### Bức chân dung điện ảnh về nhân vật nữ tóc bob tím đang buộc dây giày trong đống đổ nát ngập tràn khói cam.
@@ -2653,6 +2763,30 @@ Chân dung điện ảnh chân thực của một người đàn ông trưởng 
 <a name="category-anime-manga"></a>
 
 ## Anime / Manga
+
+<a name="prompt-2101988472164884652"></a>
+
+### Đang dịch
+
+Tác giả：[@oodate](https://x.com/oodate) · [Bài gốc](https://x.com/oodate/status/2101988472164884652)
+
+Anime / Manga · Minh họa · Nhân vật · Đã xuất bản
+
+Bài gốc：[@MUucwYWSWUsvy3J](https://x.com/MUucwYWSWUsvy3J) · [Bài gốc](https://x.com/MUucwYWSWUsvy3J/status/2101922715569639612)
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2101988472164884652-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2097834253748949105"></a>
 

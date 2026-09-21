@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**165** Prompt · Son eklenen: **2026-09-21**
+**171** Prompt · Son eklenen: **2026-09-21**
 
 <a name="catalog"></a>
 
@@ -628,6 +628,94 @@ Fotoğrafçılık · Manzara / Doğa · Yayımlandı
 
 ```text
 Ormanda bol yeşil yaprakları olan bir açıklığın fotoğrafı, son derece detaylı
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2101844107748372856"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Orijinal gönderi](https://x.com/CyberTotal2026/status/2101844107748372856)
+
+Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2101844107748372856-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2101978744940638252"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Orijinal gönderi](https://x.com/CyberTotal2026/status/2101978744940638252)
+
+Fotoğrafçılık · Portre / Selfie · Karakter · Manzara / Doğa · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2101978744940638252-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2101963645496562103"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Orijinal gönderi](https://x.com/CyberTotal2026/status/2101963645496562103)
+
+Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2101963645496562103-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2101993592969404809"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Orijinal gönderi](https://x.com/CyberTotal2026/status/2101993592969404809)
+
+Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2101993592969404809-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -2490,6 +2578,28 @@ Sinematik / Film Karesi · Manzara / Doğa · Yayımlandı
 
 ---
 
+<a name="prompt-2101961501955571892"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@IqrasaifiAI](https://x.com/IqrasaifiAI) · [Orijinal gönderi](https://x.com/IqrasaifiAI/status/2101961501955571892)
+
+Sinematik / Film Karesi · Portre / Selfie · Grup / Çift · Manzara / Doğa · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2101961501955571892-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
 <a name="prompt-2100839251294446037"></a>
 
 ### Turuncu dumanlarla çevrili harabelerde ayakkabılarını bağlayan mor bob saçlı kadın karakterin sinematik portresi.
@@ -2611,6 +2721,30 @@ Dağınık orta uzunlukta kahverengi saçlı ve düzgünce kesilmiş sakallı, y
 <a name="category-anime-manga"></a>
 
 ## Anime / Manga
+
+<a name="prompt-2101988472164884652"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@oodate](https://x.com/oodate) · [Orijinal gönderi](https://x.com/oodate/status/2101988472164884652)
+
+Anime / Manga · İllüstrasyon · Karakter · Yayımlandı
+
+Orijinal gönderi：[@MUucwYWSWUsvy3J](https://x.com/MUucwYWSWUsvy3J) · [Orijinal gönderi](https://x.com/MUucwYWSWUsvy3J/status/2101922715569639612)
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2101988472164884652-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2097834253748949105"></a>
 

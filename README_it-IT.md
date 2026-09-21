@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**165** Prompt · Ultima aggiunta: **2026-09-21**
+**171** Prompt · Ultima aggiunta: **2026-09-21**
 
 <a name="catalog"></a>
 
@@ -628,6 +628,94 @@ Fotografia · Paesaggio / Natura · Pubblicato
 
 ```text
 Foto di una radura nel bosco con abbondante fogliame verde, altamente dettagliata
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2101844107748372856"></a>
+
+### Traduzione in corso
+
+Autore：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Post originale](https://x.com/CyberTotal2026/status/2101844107748372856)
+
+Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2101844107748372856-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2101978744940638252"></a>
+
+### Traduzione in corso
+
+Autore：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Post originale](https://x.com/CyberTotal2026/status/2101978744940638252)
+
+Fotografia · Ritratto / Selfie · Personaggio · Paesaggio / Natura · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2101978744940638252-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2101963645496562103"></a>
+
+### Traduzione in corso
+
+Autore：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Post originale](https://x.com/CyberTotal2026/status/2101963645496562103)
+
+Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2101963645496562103-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2101993592969404809"></a>
+
+### Traduzione in corso
+
+Autore：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Post originale](https://x.com/CyberTotal2026/status/2101993592969404809)
+
+Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2101993592969404809-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -2497,6 +2585,28 @@ cartone animato, anime, dipinto, CGI, rendering 3D, bassa qualità, edifici dist
 
 ---
 
+<a name="prompt-2101961501955571892"></a>
+
+### Traduzione in corso
+
+Autore：[@IqrasaifiAI](https://x.com/IqrasaifiAI) · [Post originale](https://x.com/IqrasaifiAI/status/2101961501955571892)
+
+Fermo immagine cinematografico / Still fotografico · Ritratto / Selfie · Gruppo / Coppia · Paesaggio / Natura · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2101961501955571892-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
 <a name="prompt-2100839251294446037"></a>
 
 ### Ritratto cinematografico di un personaggio femminile con caschetto viola che si allaccia le scarpe tra le rovine circondata da fumo arancione.
@@ -2618,6 +2728,30 @@ Ritratto cinematografico fotorealistico di un bell'uomo adulto con capelli casta
 <a name="category-anime-manga"></a>
 
 ## Anime / Manga
+
+<a name="prompt-2101988472164884652"></a>
+
+### Traduzione in corso
+
+Autore：[@oodate](https://x.com/oodate) · [Post originale](https://x.com/oodate/status/2101988472164884652)
+
+Anime / Manga · Illustrazione · Personaggio · Pubblicato
+
+Post originale：[@MUucwYWSWUsvy3J](https://x.com/MUucwYWSWUsvy3J) · [Post originale](https://x.com/MUucwYWSWUsvy3J/status/2101922715569639612)
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2101988472164884652-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2097834253748949105"></a>
 

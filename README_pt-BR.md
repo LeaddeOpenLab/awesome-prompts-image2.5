@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**165** Prompts · Última adição: **2026-09-21**
+**171** Prompts · Última adição: **2026-09-21**
 
 <a name="catalog"></a>
 
@@ -628,6 +628,94 @@ Fotografia · Paisagem / Natureza · Publicado
 
 ```text
 Foto de uma clareira na floresta com muita folhagem verde, altamente detalhada
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2101844107748372856"></a>
+
+### Tradução em andamento
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicação original](https://x.com/CyberTotal2026/status/2101844107748372856)
+
+Fotografia · Retrato / Selfie · Personagem · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2101844107748372856-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2101978744940638252"></a>
+
+### Tradução em andamento
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicação original](https://x.com/CyberTotal2026/status/2101978744940638252)
+
+Fotografia · Retrato / Selfie · Personagem · Paisagem / Natureza · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2101978744940638252-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2101963645496562103"></a>
+
+### Tradução em andamento
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicação original](https://x.com/CyberTotal2026/status/2101963645496562103)
+
+Fotografia · Retrato / Selfie · Personagem · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2101963645496562103-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2101993592969404809"></a>
+
+### Tradução em andamento
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicação original](https://x.com/CyberTotal2026/status/2101993592969404809)
+
+Fotografia · Retrato / Selfie · Personagem · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2101993592969404809-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -2490,6 +2578,28 @@ Transforme as duas imagens de referência em uma paisagem cinematográfica de vi
 
 ---
 
+<a name="prompt-2101961501955571892"></a>
+
+### Tradução em andamento
+
+Autor：[@IqrasaifiAI](https://x.com/IqrasaifiAI) · [Publicação original](https://x.com/IqrasaifiAI/status/2101961501955571892)
+
+Cinematográfico / Imagem de Filme · Retrato / Selfie · Grupo / Casal · Paisagem / Natureza · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2101961501955571892-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
 <a name="prompt-2100839251294446037"></a>
 
 ### Retrato cinematográfico de uma personagem feminina com corte bob roxo amarrando os sapatos em ruínas cercada por fumaça laranja.
@@ -2611,6 +2721,30 @@ Retrato cinematográfico fotorrealista de um belo homem adulto com cabelo castan
 <a name="category-anime-manga"></a>
 
 ## Anime / Mangá
+
+<a name="prompt-2101988472164884652"></a>
+
+### Tradução em andamento
+
+Autor：[@oodate](https://x.com/oodate) · [Publicação original](https://x.com/oodate/status/2101988472164884652)
+
+Anime / Mangá · Ilustração · Personagem · Publicado
+
+Publicação original：[@MUucwYWSWUsvy3J](https://x.com/MUucwYWSWUsvy3J) · [Publicação original](https://x.com/MUucwYWSWUsvy3J/status/2101922715569639612)
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2101988472164884652-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2097834253748949105"></a>
 

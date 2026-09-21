@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**165** Prompts · Dernier ajout: **2026-09-21**
+**171** Prompts · Dernier ajout: **2026-09-21**
 
 <a name="catalog"></a>
 
@@ -628,6 +628,94 @@ Photographie · Paysage / Nature · Publié
 
 ```text
 Photo d'une clairière dans les bois avec un feuillage vert abondant, très détaillée
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2101844107748372856"></a>
+
+### Traduction en cours
+
+Auteur：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publication originale](https://x.com/CyberTotal2026/status/2101844107748372856)
+
+Photographie · Portrait / Selfie · Personnage · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2101844107748372856-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2101978744940638252"></a>
+
+### Traduction en cours
+
+Auteur：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publication originale](https://x.com/CyberTotal2026/status/2101978744940638252)
+
+Photographie · Portrait / Selfie · Personnage · Paysage / Nature · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2101978744940638252-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2101963645496562103"></a>
+
+### Traduction en cours
+
+Auteur：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publication originale](https://x.com/CyberTotal2026/status/2101963645496562103)
+
+Photographie · Portrait / Selfie · Personnage · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2101963645496562103-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2101993592969404809"></a>
+
+### Traduction en cours
+
+Auteur：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publication originale](https://x.com/CyberTotal2026/status/2101993592969404809)
+
+Photographie · Portrait / Selfie · Personnage · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2101993592969404809-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -2497,6 +2585,28 @@ dessin animé, anime, peinture, CGI, rendu 3D, basse qualité, bâtiments défor
 
 ---
 
+<a name="prompt-2101961501955571892"></a>
+
+### Traduction en cours
+
+Auteur：[@IqrasaifiAI](https://x.com/IqrasaifiAI) · [Publication originale](https://x.com/IqrasaifiAI/status/2101961501955571892)
+
+Image cinématographique / Photogramme de film · Portrait / Selfie · Groupe / Couple · Paysage / Nature · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2101961501955571892-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
 <a name="prompt-2100839251294446037"></a>
 
 ### Portrait cinématographique d'un personnage féminin au carré violet nouant ses chaussures dans des ruines entourée de fumée orange.
@@ -2618,6 +2728,30 @@ Portrait cinématographique photoréaliste d'un bel homme adulte aux cheveux bru
 <a name="category-anime-manga"></a>
 
 ## Anime / Manga
+
+<a name="prompt-2101988472164884652"></a>
+
+### Traduction en cours
+
+Auteur：[@oodate](https://x.com/oodate) · [Publication originale](https://x.com/oodate/status/2101988472164884652)
+
+Anime / Manga · Illustration · Personnage · Publié
+
+Publication originale：[@MUucwYWSWUsvy3J](https://x.com/MUucwYWSWUsvy3J) · [Publication originale](https://x.com/MUucwYWSWUsvy3J/status/2101922715569639612)
+
+**Résumé:** Traduction en cours
+
+<img src="images/2101988472164884652-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2097834253748949105"></a>
 
