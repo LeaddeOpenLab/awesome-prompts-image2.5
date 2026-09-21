@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**163** Prompts · Latest addition: **2026-09-21**
+**165** Prompts · Latest addition: **2026-09-21**
 
 <a name="catalog"></a>
 
@@ -690,6 +690,94 @@ Photography · Landscape / Nature · Published
 
 ```text
 Photo of a clearing in the woods with lots of green foliage, highly detailed
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2101934956456845338"></a>
+
+### Photorealistic photo of a woman taking a mirror selfie in a bright bedroom wearing a blue and white gingham check outfit.
+
+Author：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Source](https://x.com/CyberTotal2026/status/2101934956456845338)
+
+Photography · Portrait / Selfie · Character · Published
+
+**Summary:** Photorealistic photo of a woman taking a mirror selfie in a bright bedroom wearing a blue and white gingham check outfit.
+
+<img src="images/2101934956456845338-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Subject:
+In front of the mirror in blue plaid
+
+Main Subject:
+In the center of the frame, a young woman taking a photo reflecting her upper body in the mirror of a bright bedroom. A light blue and white gingham check off-the-shoulder top, white shorts, and a silver smartphone on the upper right are the main focus.
+
+Person / Expression:
+A slender oval face, small chin, round dark brown eyes, thin arched eyebrows, a small neat nose, and glossy pale pink lips. Tilting her face slightly to the right, she smiles softly while looking near the smartphone through the mirror. Long, dark brown wavy hair with thin bangs and strands left beside her face, tied at the back of her head with a large white ribbon flowing down her back.
+
+Clothing / Pose:
+A light blue and white gingham check short top with ruffled short puff sleeves dropped off the shoulders, a tied ribbon at the center of the chest, and elastic shirring. White high-waisted denim shorts and a white flower pendant. Leaning her left shoulder forward, bending her right arm above her head, and holding a silver smartphone with small jewel decorations vertically with her right hand.
+
+Background / Lighting:
+A thin wooden frame mirror at the left edge of the frame, a wall pinned with photos and a small shelf in the back left with perfume bottles and greenery; in the back right, white bedding, an ecru blanket, and a gray door. Hard, direct morning light enters from the window on the left side of the frame onto her face, chest, and arms, creating bright patches on the wall and bedding.
+
+Composition / Camera:
+3:4 vertical composition, capturing the chest-height mirror with a frontal camera, framing from the top of the head down to the upper thighs of the shorts in a mirror-reflection three-quarter bust shot. The person is placed prominently in the center, the smartphone on the upper right, and the mirror frame at the far left edge. The right hand is near the top edge, the thighs are cropped at the bottom edge, with sharp focus on the eyes and outfit inside the mirror, lightly blurring the bedroom.
+
+Texture / Style:
+Photorealistic live-action photograph. Natural skin texture, wrinkles and shirring of the gingham fabric, denim, hair, and the fine decorations of the smartphone rendered in high definition, with refreshing morning colors of white and pale light blue.
+
+Negative:
+Altering mirror selfie and smartphone position; omitting the blue plaid outfit
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2101900982602932582"></a>
+
+### Portrait prompt of a woman on a bed wearing a white cropped knit and lace panties, looking back in the morning light.
+
+Author：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Source](https://x.com/CyberTotal2026/status/2101900982602932582)
+
+Photography · Portrait / Selfie · Character · Published
+
+**Summary:** Portrait prompt of a woman on a bed wearing a white cropped knit and lace panties, looking back in the morning light.
+
+<img src="images/2101900982602932582-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Theme:
+Turning around in a white knit
+
+Subject:
+Centered in the frame, a young woman kneeling sideways on a bed with white bedding, looking back over her shoulder. The focal points are her short white openwork knit, white lace panties, her right hand placed on her hip, and a white bedroom bathed in morning light.
+
+Person and Expression:
+A slender oval face, small chin, large dark brown eyes, thin eyebrows, a clean nasal bridge, and glossy pink lips. Her face is turned over her right shoulder toward the camera, meeting its gaze with an understated, subtle smile. Her long dark brown hair is styled in a small braided half-updo at the back of the head, with wispy bangs and stray tendrils, while the rest flows straight down her back.
+
+Attire and Pose:
+An off-white openwork cropped knit top with a wide body, dropped shoulders, puffy long sleeves, and a short hem that reaches just below the bust. White floral lace high-cut panties featuring a small ribbon on the right hip. Kneeling on the bed facing right, slightly arching her back, with her right hand resting flat over her right upper hip/glute, and her left arm concealed behind her body.
+
+Background and Light:
+The lower half shows white sheets and pillows, a coarse off-white blanket at the bottom right, a wooden sideboard and small bottles in the right background, a pale frame in the left background, a houseplant on the right, and window frame shadows on the white wall. Warm morning sunlight streams in diagonally from the right side of the frame across her face, chest, abdomen, and hips, casting soft shadows.
+
+Composition and Camera:
+A 3:4 vertical composition, captured from a camera position on the left slightly higher than the bed surface, framing a three-quarter portrait from the top of the head to below the left knee. The sideways S-curve posture is prominently placed in the center, with the face positioned in the upper right and the hand in the lower center. The legs are cropped at the bottom edge; sharp focus on the eyes and face, with soft blurring applied to the bedding and interior.
+
+Texture and Style:
+Photorealistic live-action photograph. High-definition rendering of natural skin luster, openwork knit stitches, floral lace, and soft bedding and blanket, harmonizing whites and off-whites under warm morning light.
+
+Negative:
+Altering the kneeling turn-around pose; omitting the white knit and lace
 ```
 
 [↑ Back to categories](#catalog)
