@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**174** Prompts · Última incorporación: **2026-09-21**
+**177** Prompts · Última incorporación: **2026-09-21**
 
 <a name="catalog"></a>
 
@@ -628,6 +628,28 @@ Fotografía · Paisaje / Naturaleza · Publicado
 
 ```text
 Foto de un claro en el bosque con mucho follaje verde, muy detallada
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2101873803492216846"></a>
+
+### Traducción en curso
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicación original](https://x.com/CyberTotal2026/status/2101873803492216846)
+
+Fotografía · Retrato / Selfie · Personaje · Artículo de moda · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2101873803492216846-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -3050,6 +3072,28 @@ Crea un póster de arte editorial prémium para cada fotografía subida, tratand
 
 ## Renderizado 3D
 
+<a name="prompt-2102084659458822632"></a>
+
+### Traducción en curso
+
+Autor：[@churvikv](https://x.com/churvikv) · [Publicación original](https://x.com/churvikv/status/2102084659458822632)
+
+Renderizado 3D · Producto · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2102084659458822632.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
 <a name="prompt-2100051568154538130"></a>
 
 ### Traducción en curso
@@ -3354,13 +3398,13 @@ Luego corta esta imagen y conviértela en un gif en bucle infinito
 
 <a name="prompt-2102043626557878312"></a>
 
-### Traducción en curso
+### Plantilla de ilustración al estilo de pintura al óleo con empaste, que muestra una escena reconfortante del sujeto asomándose junto a la ventana y bañándose en la luz del sol.
 
 Autor：[@Adam38363368936](https://x.com/Adam38363368936) · [Publicación original](https://x.com/Adam38363368936/status/2102043626557878312)
 
 Ilustración · Pintura al óleo · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Plantilla de ilustración al estilo de pintura al óleo con empaste, que muestra una escena reconfortante del sujeto asomándose junto a la ventana y bañándose en la luz del sol.
 
 <img src="images/2102043626557878312-1.jpg" alt="Imagen 1" width="480" />
 
@@ -3369,7 +3413,7 @@ Ilustración · Pintura al óleo · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+Ilustración al estilo de pintura al óleo con empaste grueso, 【sujeto】 asomando el cuerpo desde 【marco de puerta/junto a la ventana/detrás de la pared】, con una expresión natural y reconfortante. Fondo de 【color de alta saturación】, con una textura de pintura gruesa y evidente. La luz del sol ilumina al sujeto, creando luces y sombras doradas y cálidas, con un contraste marcado entre tonos fríos y cálidos. Pinceladas sueltas y naturales, textura de óleo realista, composición sencilla, ilustración artística de estilo reconfortante. Proporción 【1:1】.
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -3921,6 +3965,30 @@ Tranquilo, poético, refinado, minimalista, inocente, artístico, reflexivo, pr�
 <a name="category-other"></a>
 
 ## Otros
+
+<a name="prompt-2101902908178776196"></a>
+
+### Traducción en curso
+
+Autor：[@sereinworld](https://x.com/sereinworld) · [Publicación original](https://x.com/sereinworld/status/2101902908178776196)
+
+Personaje · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2101902908178776196-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2101902908178776196-2.jpg" alt="Imagen 2" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2101538802946715870"></a>
 

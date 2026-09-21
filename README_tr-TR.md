@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**174** Prompt · Son eklenen: **2026-09-21**
+**177** Prompt · Son eklenen: **2026-09-21**
 
 <a name="catalog"></a>
 
@@ -628,6 +628,28 @@ Fotoğrafçılık · Manzara / Doğa · Yayımlandı
 
 ```text
 Ormanda bol yeşil yaprakları olan bir açıklığın fotoğrafı, son derece detaylı
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2101873803492216846"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Orijinal gönderi](https://x.com/CyberTotal2026/status/2101873803492216846)
+
+Fotoğrafçılık · Portre / Selfie · Karakter · Moda Ürünü · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2101873803492216846-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -3043,6 +3065,28 @@ Yüklenen her fotoğraf için birinci sınıf bir editoryal sanat afişi oluştu
 
 ## 3D Modelleme
 
+<a name="prompt-2102084659458822632"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@churvikv](https://x.com/churvikv) · [Orijinal gönderi](https://x.com/churvikv/status/2102084659458822632)
+
+3D Modelleme · Ürün · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2102084659458822632.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
 <a name="prompt-2100051568154538130"></a>
 
 ### Çeviri sürüyor
@@ -3347,13 +3391,13 @@ Ardından bu görseli dilimle ve sonsuz döngülü bir gif haline getir
 
 <a name="prompt-2102043626557878312"></a>
 
-### Çeviri sürüyor
+### Pencere kenarından başını uzatarak güneşlenen ana öznenin huzur dolu anını yansıtan, kalın boya yağlı boya tarzında illüstrasyon şablonu.
 
 Yazar：[@Adam38363368936](https://x.com/Adam38363368936) · [Orijinal gönderi](https://x.com/Adam38363368936/status/2102043626557878312)
 
 İllüstrasyon · Yağlı Boya Tablo · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Pencere kenarından başını uzatarak güneşlenen ana öznenin huzur dolu anını yansıtan, kalın boya yağlı boya tarzında illüstrasyon şablonu.
 
 <img src="images/2102043626557878312-1.jpg" alt="Görsel 1" width="480" />
 
@@ -3362,7 +3406,7 @@ Yazar：[@Adam38363368936](https://x.com/Adam38363368936) · [Orijinal gönderi]
 **İstem**
 
 ```text
-Çeviri sürüyor
+Kalın boya (impasto) yağlı boya tarzında illüstrasyon, 【ana özne】 【kapı çerçevesi/pencere kenarı/duvar arkasından】 gövdesini uzatıyor, ifadesi doğal ve huzur verici. Arka plan 【yüksek doygunlukta renk】 ile boyanmış, belirgin kalın boya dokusu içeriyor. Güneş ışığı ana özneye vurarak sıcak, altın rengi ışık ve gölgeler oluşturuyor, sıcak-soğuk kontrastı oldukça belirgin. Rahat ve doğal fırça darbeleri, gerçekçi yağlı boya dokusu, sade kompozisyon, iyileştirici ve huzurlu sanat illüstrasyonu. Oran 【1:1】.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -3914,6 +3958,30 @@ Sakin, şiirsel, zarif, minimal, masum, sanatsal, düşünceli, birinci sınıf 
 <a name="category-other"></a>
 
 ## Diğer
+
+<a name="prompt-2101902908178776196"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@sereinworld](https://x.com/sereinworld) · [Orijinal gönderi](https://x.com/sereinworld/status/2101902908178776196)
+
+Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2101902908178776196-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2101902908178776196-2.jpg" alt="Görsel 2" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2101538802946715870"></a>
 

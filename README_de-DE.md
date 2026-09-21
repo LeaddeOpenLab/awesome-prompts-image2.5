@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**174** Prompts · Zuletzt hinzugefügt: **2026-09-21**
+**177** Prompts · Zuletzt hinzugefügt: **2026-09-21**
 
 <a name="catalog"></a>
 
@@ -628,6 +628,28 @@ Fotografie · Landschaft / Natur · Veröffentlicht
 
 ```text
 Foto einer Waldlichtung mit viel grünem Blattwerk, sehr detailliert
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2101873803492216846"></a>
+
+### Übersetzung läuft
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Originalbeitrag](https://x.com/CyberTotal2026/status/2101873803492216846)
+
+Fotografie · Porträt / Selfie · Charakter · Modeartikel · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2101873803492216846-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -3050,6 +3072,28 @@ Erstelle für jedes hochgeladene Foto ein erstklassiges redaktionelles Kunstplak
 
 ## 3D-Rendering
 
+<a name="prompt-2102084659458822632"></a>
+
+### Übersetzung läuft
+
+Autor：[@churvikv](https://x.com/churvikv) · [Originalbeitrag](https://x.com/churvikv/status/2102084659458822632)
+
+3D-Rendering · Produkt · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2102084659458822632.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
 <a name="prompt-2100051568154538130"></a>
 
 ### Übersetzung läuft
@@ -3354,13 +3398,13 @@ Schneide dieses Bild anschließend aus und erstelle daraus ein Endlos-GIF
 
 <a name="prompt-2102043626557878312"></a>
 
-### Übersetzung läuft
+### Illustrationsvorlage im Impasto-Ölgemälde-Stil, die eine heilsame Szene darstellt, in der das Motiv am Fenster hervorschaut und im Sonnenlicht badet.
 
 Autor：[@Adam38363368936](https://x.com/Adam38363368936) · [Originalbeitrag](https://x.com/Adam38363368936/status/2102043626557878312)
 
 Illustration · Ölgemälde · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Illustrationsvorlage im Impasto-Ölgemälde-Stil, die eine heilsame Szene darstellt, in der das Motiv am Fenster hervorschaut und im Sonnenlicht badet.
 
 <img src="images/2102043626557878312-1.jpg" alt="Bild 1" width="480" />
 
@@ -3369,7 +3413,7 @@ Illustration · Ölgemälde · Veröffentlicht
 **Prompt**
 
 ```text
-Übersetzung läuft
+Illustration im Impasto-Ölgemälde-Stil, 【Hauptmotiv】 beugt sich aus 【Türrahmen/am Fenster/hinter der Wand】 hervor, mit einem natürlichen und heilsamen Gesichtsausdruck. Hintergrund in 【stark gesättigter Farbe】, mit deutlicher Textur dicker Farbaufstriche. Sonnenlicht fällt auf das Hauptmotiv und erzeugt warme, goldene Licht- und Schattenspiele mit deutlichem Kalt-Warm-Kontrast. Entspannte und natürliche Pinselstriche, echte Ölgemäldetextur, schlichte Komposition, heilsame Kunst-Illustration. Seitenverhältnis 【1:1】.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -3921,6 +3965,30 @@ Ruhig, poetisch, raffiniert, minimalistisch, unschuldig, künstlerisch, nachdenk
 <a name="category-other"></a>
 
 ## Sonstige
+
+<a name="prompt-2101902908178776196"></a>
+
+### Übersetzung läuft
+
+Autor：[@sereinworld](https://x.com/sereinworld) · [Originalbeitrag](https://x.com/sereinworld/status/2101902908178776196)
+
+Charakter · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2101902908178776196-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2101902908178776196-2.jpg" alt="Bild 2" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2101538802946715870"></a>
 

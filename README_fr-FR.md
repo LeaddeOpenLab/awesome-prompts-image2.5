@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**174** Prompts · Dernier ajout: **2026-09-21**
+**177** Prompts · Dernier ajout: **2026-09-21**
 
 <a name="catalog"></a>
 
@@ -628,6 +628,28 @@ Photographie · Paysage / Nature · Publié
 
 ```text
 Photo d'une clairière dans les bois avec un feuillage vert abondant, très détaillée
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2101873803492216846"></a>
+
+### Traduction en cours
+
+Auteur：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publication originale](https://x.com/CyberTotal2026/status/2101873803492216846)
+
+Photographie · Portrait / Selfie · Personnage · Article de mode · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2101873803492216846-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -3050,6 +3072,28 @@ Créez une affiche d'art éditoriale haut de gamme pour chaque photographie impo
 
 ## Rendu 3D
 
+<a name="prompt-2102084659458822632"></a>
+
+### Traduction en cours
+
+Auteur：[@churvikv](https://x.com/churvikv) · [Publication originale](https://x.com/churvikv/status/2102084659458822632)
+
+Rendu 3D · Produit · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2102084659458822632.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
 <a name="prompt-2100051568154538130"></a>
 
 ### Traduction en cours
@@ -3354,13 +3398,13 @@ Puis découpe cette image et fais-en un gif en boucle infinie
 
 <a name="prompt-2102043626557878312"></a>
 
-### Traduction en cours
+### Modèle d'illustration dans le style peinture à l'huile en empâtement, représentant une scène apaisante où le sujet passe la tête par la fenêtre pour se baigner de soleil.
 
 Auteur：[@Adam38363368936](https://x.com/Adam38363368936) · [Publication originale](https://x.com/Adam38363368936/status/2102043626557878312)
 
 Illustration · Peinture à l'huile · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Modèle d'illustration dans le style peinture à l'huile en empâtement, représentant une scène apaisante où le sujet passe la tête par la fenêtre pour se baigner de soleil.
 
 <img src="images/2102043626557878312-1.jpg" alt="Image 1" width="480" />
 
@@ -3369,7 +3413,7 @@ Illustration · Peinture à l'huile · Publié
 **Consigne**
 
 ```text
-Traduction en cours
+Illustration dans le style d'une peinture à l'huile en empâtement, 【sujet】 se penchant depuis 【cadre de porte/bord de fenêtre/derrière un mur】, avec une expression naturelle et apaisante. Arrière-plan en 【couleur hautement saturée】, avec une texture de peinture épaisse bien visible. La lumière du soleil éclaire le sujet, créant des ombres et lumières dorées et chaleureuses, avec un net contraste chaud-froid. Coups de pinceau souples et naturels, texture de peinture à l'huile réaliste, composition épurée, illustration artistique réconfortante. Format 【1:1】.
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -3921,6 +3965,30 @@ Calme, poétique, raffiné, minimaliste, innocent, artistique, réfléchi, haut 
 <a name="category-other"></a>
 
 ## Autres
+
+<a name="prompt-2101902908178776196"></a>
+
+### Traduction en cours
+
+Auteur：[@sereinworld](https://x.com/sereinworld) · [Publication originale](https://x.com/sereinworld/status/2101902908178776196)
+
+Personnage · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2101902908178776196-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2101902908178776196-2.jpg" alt="Image 2" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2101538802946715870"></a>
 

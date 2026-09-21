@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**174** Prompt · Ultima aggiunta: **2026-09-21**
+**177** Prompt · Ultima aggiunta: **2026-09-21**
 
 <a name="catalog"></a>
 
@@ -628,6 +628,28 @@ Fotografia · Paesaggio / Natura · Pubblicato
 
 ```text
 Foto di una radura nel bosco con abbondante fogliame verde, altamente dettagliata
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2101873803492216846"></a>
+
+### Traduzione in corso
+
+Autore：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Post originale](https://x.com/CyberTotal2026/status/2101873803492216846)
+
+Fotografia · Ritratto / Selfie · Personaggio · Articolo di moda · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2101873803492216846-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -3050,6 +3072,28 @@ Crea un poster artistico editoriale di alto livello per ogni fotografia caricata
 
 ## Rendering 3D
 
+<a name="prompt-2102084659458822632"></a>
+
+### Traduzione in corso
+
+Autore：[@churvikv](https://x.com/churvikv) · [Post originale](https://x.com/churvikv/status/2102084659458822632)
+
+Rendering 3D · Prodotto · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2102084659458822632.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
 <a name="prompt-2100051568154538130"></a>
 
 ### Traduzione in corso
@@ -3354,13 +3398,13 @@ Poi ritaglia l'immagine e crea una gif a ciclo continuo
 
 <a name="prompt-2102043626557878312"></a>
 
-### Traduzione in corso
+### Modello di illustrazione in stile pittura a olio a impasto, che mostra la scena rassicurante del soggetto che si affaccia alla finestra crogiolandosi al sole.
 
 Autore：[@Adam38363368936](https://x.com/Adam38363368936) · [Post originale](https://x.com/Adam38363368936/status/2102043626557878312)
 
 Illustrazione · Pittura a Olio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Modello di illustrazione in stile pittura a olio a impasto, che mostra la scena rassicurante del soggetto che si affaccia alla finestra crogiolandosi al sole.
 
 <img src="images/2102043626557878312-1.jpg" alt="Immagine 1" width="480" />
 
@@ -3369,7 +3413,7 @@ Illustrazione · Pittura a Olio · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+Illustrazione in stile pittura a olio a materico (impasto), 【soggetto】 si sporge da 【stipite della porta/davanzale della finestra/dietro il muro】, con un'espressione naturale e rassicurante. Sfondo di 【colore ad alta saturazione】, con un'evidente texture di pittura a spessore. La luce del sole illumina il soggetto, creando luci e ombre dorate e calde, con un netto contrasto tra toni caldi e freddi. Pennellate sciolte e naturali, consistenza realistica da pittura a olio, composizione essenziale, illustrazione artistica dal tono curativo e rilassante. Proporzioni 【1:1】.
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -3921,6 +3965,30 @@ Silenzioso, poetico, raffinato, minimale, innocente, artistico, riflessivo, prem
 <a name="category-other"></a>
 
 ## Altro
+
+<a name="prompt-2101902908178776196"></a>
+
+### Traduzione in corso
+
+Autore：[@sereinworld](https://x.com/sereinworld) · [Post originale](https://x.com/sereinworld/status/2101902908178776196)
+
+Personaggio · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2101902908178776196-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2101902908178776196-2.jpg" alt="Immagine 2" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2101538802946715870"></a>
 

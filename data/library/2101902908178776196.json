@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-21T20:26:00.430Z",
+  "model": "image2.5",
+  "prompt": "超现实主义偷拍智能手机照片，3:4纵向。原版不可识别的年轻女子在夜间雅加达人行道上，靠着白色瓷砖墙。中途行走，半侧脸，转身带着害羞微笑，手朝相机举起。闪光灯在运动中触发，强烈手持抖动，严重的运动模糊，重影，条纹状瓷砖，深邃阴影，过曝高光，不完美构图，原始意外快照，真实的噪点手机摄影美学。",
+  "promptTranslations": {
+    "en": "Surrealist candid smartphone photo, 3:4 portrait orientation. Original unrecognizable young woman on a Jakarta sidewalk at night, leaning against a white tiled wall. Mid-walk, half-profile, turning around with a shy smile, hand raised toward the camera. Flash triggered in motion, intense handheld camera shake, severe motion blur, ghosting, streaked tiles, deep shadows, blown-out highlights, imperfect composition, raw accidental snapshot, authentic noisy mobile photography aesthetic."
+  },
+  "summaryTranslations": {
+    "en": "Candid flash-blurred smartphone photo of a young woman by a white tiled wall at night."
+  },
+  "translationVersion": 2,
+  "summary": "夜间白色瓷砖墙边年轻女子的闪光灯模糊偷拍手机照片。",
+  "summaryEn": "Candid smartphone flash photo of a young woman at night with intense motion blur.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2101902908178776196",
+    "canonicalUrl": "https://x.com/sereinworld/status/2101902908178776196",
+    "author": {
+      "username": "sereinworld",
+      "displayName": "serein",
+      "profileUrl": "https://x.com/sereinworld"
+    },
+    "publishedAt": "2026-09-21T05:14:39.000Z",
+    "collectedAt": "2026-09-21T20:15:28.694Z",
+    "language": "zh",
+    "originalText": "分享一组chatgpt-image2.5\n\n偷拍模糊感提示词：\n\n超现实主义偷拍智能手机照片，3:4纵向。原版不可识别的年轻女子在夜间雅加达人行道上，靠着白色瓷砖墙。中途行走，半侧脸，转身带着害羞微笑，手朝相机举起。闪光灯在运动中触发，强烈手持抖动，严重的运动模糊，重影，条纹状瓷砖，深邃阴影，过曝高光，不完美构图，原始意外快照，真实的噪点手机摄影美学。\n\n负面提示：身份匹配，面部复制，真实人物复制，动漫，插图，绘画，CGl，风格化，工作室灯光，美颜灯光，锐利焦点，光滑皮肤，摆拍肖像，时尚编辑，电影感，单反相机，三脚架，专业摄影",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSt1gUqaMAE-rs4.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSt1gUqaMAE-rs4.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSt1gU0a8AAoh7O.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSt1gU0a8AAoh7O.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 17,
+      "repostCount": 1,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 965
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/sereinworld/status/2101902908178776196",
+  "coverUrl": "https://pbs.twimg.com/media/HSt1gUqaMAE-rs4.jpg",
+  "coverPath": "images/2101902908178776196-1.jpg",
+  "imagePaths": [
+    "images/2101902908178776196-1.jpg",
+    "images/2101902908178776196-2.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSt1gUqaMAE-rs4",
+    "x-image:/media/HSt1gU0a8AAoh7O",
+    "x-post:2101902908178776196"
+  ],
+  "analysis": {
+    "summary": "夜间白色瓷砖墙边年轻女子的闪光灯模糊偷拍手机照片。",
+    "summaryEn": "Candid smartphone flash photo of a young woman at night with intense motion blur.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "图片展现了夜间白色瓷砖墙边行走并向镜头招手的年轻女子，伴随闪光灯及强烈的运动模糊与噪点，与提示词高度一致。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "超现实主义偷拍智能手机照片，3:4纵向。原版不可识别的年轻女子在夜间雅加达人行道上，靠着白色瓷砖墙。中途行走，半侧脸，转身带着害羞微笑，手朝相机举起。闪光灯在运动中触发，强烈手持抖动，严重的运动模糊，重影，条纹状瓷砖，深邃阴影，过曝高光，不完美构图，原始意外快照，真实的噪点手机摄影美学。",
+    "sourceRange": {
+      "start": 33,
+      "end": 177
+    },
+    "translations": {
+      "zh": "超现实主义偷拍智能手机照片，3:4纵向。原版不可识别的年轻女子在夜间雅加达人行道上，靠着白色瓷砖墙。中途行走，半侧脸，转身带着害羞微笑，手朝相机举起。闪光灯在运动中触发，强烈手持抖动，严重的运动模糊，重影，条纹状瓷砖，深邃阴影，过曝高光，不完美构图，原始意外快照，真实的噪点手机摄影美学。",
+      "en": "Surrealistic candid smartphone photo, 3:4 portrait. An unidentifiable young woman on a Jakarta sidewalk at night, against a white tiled wall. Mid-walk, half profile, turning with a shy smile, hand raised toward camera. Flash triggered in motion, severe handheld shake, heavy motion blur, ghosting, deep shadows, blown highlights, imperfect composition, raw noisy mobile snapshot aesthetic."
+    },
+    "targetModels": [
+      "image2.5"
+    ],
+    "category": "text-to-image",
+    "useCase": "文生图",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}

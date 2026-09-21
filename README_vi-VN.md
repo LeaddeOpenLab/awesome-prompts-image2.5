@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**174** Prompt · Bổ sung mới nhất: **2026-09-21**
+**177** Prompt · Bổ sung mới nhất: **2026-09-21**
 
 <a name="catalog"></a>
 
@@ -633,6 +633,28 @@ Nhiếp ảnh · Phong cảnh / Thiên nhiên · Đã xuất bản
 
 ```text
 Ảnh chụp một bãi đất trống trong rừng với nhiều tán lá xanh tươi, rất chi tiết
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2101873803492216846"></a>
+
+### Đang dịch
+
+Tác giả：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Bài gốc](https://x.com/CyberTotal2026/status/2101873803492216846)
+
+Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng thời trang · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2101873803492216846-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
 ```
 
 [↑ Về danh mục](#catalog)
@@ -3113,6 +3135,28 @@ Tạo một áp phích nghệ thuật biên tập cao cấp cho mỗi bức ản
 
 ## Kết xuất 3D
 
+<a name="prompt-2102084659458822632"></a>
+
+### Đang dịch
+
+Tác giả：[@churvikv](https://x.com/churvikv) · [Bài gốc](https://x.com/churvikv/status/2102084659458822632)
+
+Kết xuất 3D · Sản phẩm · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2102084659458822632.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
 <a name="prompt-2100051568154538130"></a>
 
 ### Đang dịch
@@ -3419,13 +3463,13 @@ Không sử dụng kỹ năng, hãy tạo một bảng sprite sheet\nHình ảnh
 
 <a name="prompt-2102043626557878312"></a>
 
-### Đang dịch
+### Mẫu minh họa phong cách tranh sơn dầu đắp nổi, thể hiện khung cảnh chữa lành khi chủ thể ló đầu ra bên cửa sổ tắm mình dưới ánh nắng mặt trời.
 
 Tác giả：[@Adam38363368936](https://x.com/Adam38363368936) · [Bài gốc](https://x.com/Adam38363368936/status/2102043626557878312)
 
 Minh họa · Tranh Sơn Dầu · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Mẫu minh họa phong cách tranh sơn dầu đắp nổi, thể hiện khung cảnh chữa lành khi chủ thể ló đầu ra bên cửa sổ tắm mình dưới ánh nắng mặt trời.
 
 <img src="images/2102043626557878312-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -3434,7 +3478,7 @@ Minh họa · Tranh Sơn Dầu · Đã xuất bản
 **Câu lệnh**
 
 ```text
-Đang dịch
+Minh họa phong cách sơn dầu đắp nổi (impasto), 【chủ thể】 nghiêng mình nhô ra từ 【khung cửa/bên cửa sổ/sau bức tường】, biểu cảm tự nhiên và mang tính chữa lành. Nền mang 【màu sắc độ bão hòa cao】, có vân kết cấu lớp sơn dày rõ nét. Ánh nắng chiếu lên chủ thể, tạo nên vệt sáng tối vàng ấm áp, tương phản nóng lạnh rõ rệt. Nét cọ thoải mái tự nhiên, chất cảm sơn dầu chân thực, bố cục tinh giản, tranh minh họa nghệ thuật chữa lành. Tỉ lệ 【1:1】.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -3964,6 +4008,30 @@ Tạo MỘT áp phích biên tập cao cấp độc lập cho MỖI bức ảnh 
 <a name="category-other"></a>
 
 ## Khác
+
+<a name="prompt-2101902908178776196"></a>
+
+### Đang dịch
+
+Tác giả：[@sereinworld](https://x.com/sereinworld) · [Bài gốc](https://x.com/sereinworld/status/2101902908178776196)
+
+Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2101902908178776196-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2101902908178776196-2.jpg" alt="Hình ảnh 2" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2101538802946715870"></a>
 

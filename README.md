@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**174** Prompts · Latest addition: **2026-09-21**
+**177** Prompts · Latest addition: **2026-09-21**
 
 <a name="catalog"></a>
 
@@ -690,6 +690,50 @@ Photography · Landscape / Nature · Published
 
 ```text
 Photo of a clearing in the woods with lots of green foliage, highly detailed
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2101873803492216846"></a>
+
+### A detailed photorealistic image prompt depicting a woman in a white camisole dress sitting at the edge of a pond in a sun-dappled garden.
+
+Author：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Source](https://x.com/CyberTotal2026/status/2101873803492216846)
+
+Photography · Portrait / Selfie · Character · Fashion Item · Published
+
+**Summary:** A detailed photorealistic image prompt depicting a woman in a white camisole dress sitting at the edge of a pond in a sun-dappled garden.
+
+<img src="images/2101873803492216846-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Subject:
+Sunlight filtering through trees in a white garden
+
+Main Subject:
+In the center of the frame, a young woman sitting on the stone edge of a water lily pond. She wears an ivory spaghetti-strap mini dress and white sandals laced up to her ankles, with a hand resting against her cheek, starring in a sun-dappled garden.
+
+Person & Facial Expression:
+Slender oval face, small chin, large light brown eyes, thin eyebrows, neat bridge of the nose, glossy pale pink lips. Her face is slightly tilted to the right, directing a gentle smile toward the camera straight ahead. Her long, light ash-brown hair forms thin bangs and soft waves beside her face, flowing over her shoulders and down her back.
+
+Attire & Pose:
+A short flared ivory mini dress with thin shoulder straps, side tie cords, and fine wrinkles. The white strappy sandals are crisscrossed from the toes up above the ankles, with low, slim heels. Sitting on the stone edge with both knees together and bent to the left, legs overlapping, her left arm extends across her knees, her right elbow rests on her left arm, and her right fingertips touch her cheek.
+
+Background & Lighting:
+In the lower left is a pond with water lilies and white flowers, with vegetation and a large tree canopy behind, and in the right background is a house with white walls, dark brown timber framing, large lattice windows, and a green bench. Soft, dappled sunlight streaming from the upper left of the frame brightens her hair, shoulders, knees, and the stone edge, creating round foliage bokeh in the background.
+
+Composition & Camera:
+Vertical 2:3 composition, front-facing camera at eye level with the seating surface capturing the entire body from the top of the head to the toes of the sandals. The figure is prominently placed in the center-left, with her elongated legs angling toward the lower right, the pond placed in the lower left, and the house in the upper right. The toes are near the bottom edge, with focus on the face and outfit, while softly blurring the garden and house.
+
+Texture & Style:
+Photorealistic live-action photograph. High-definition rendering of soft hair, natural skin, subtle wrinkles of the dress, slender leather straps, stones, leaves, and water surface, with clean daytime light of ivory and green.
+
+Negative:
+alteration of sitting posture and lace-up shoes; omission of garden and water lily pond
 ```
 
 [↑ Back to categories](#catalog)
@@ -4081,6 +4125,64 @@ Create a premium editorial art poster for every uploaded photograph, treating ea
 
 ## 3D Render
 
+<a name="prompt-2102084659458822632"></a>
+
+### Contains two sets of luxury product-grade 3D maple leaf rendering prompts: the first set features a sapphire-blue enamel maple leaf with a liquid glass texture accompanied by platinum accessories and a silk pearl base; the second set features a geometric faceted crystal / prismatic glass maple leaf with an emerald holographic gradient and gold edging.
+
+Author：[@churvikv](https://x.com/churvikv) · [Source](https://x.com/churvikv/status/2102084659458822632)
+
+3D Render · Product · Published
+
+**Summary:** Contains two sets of luxury product-grade 3D maple leaf rendering prompts: the first set features a sapphire-blue enamel maple leaf with a liquid glass texture accompanied by platinum accessories and a silk pearl base; the second set features a geometric faceted crystal / prismatic glass maple leaf with an emerald holographic gradient and gold edging.
+
+<img src="covers/2102084659458822632.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+A single large glossy sapphire-blue maple leaf, centered and oriented vertically,
+
+its surface like liquid glass / colored enamel: swirling flame-shaped veins glowing
+from deep sapphire at the outer edges through royal blue and bright azure to
+ice-white at the centre, wet ultra-glossy reflective highlights, 3D embossed look,
+a thin slender stem tapering down and ending in a small polished platinum base.
+Around it, near the corners, five smaller metallic platinum maple leaves with
+mirror-polished glossy silver-white surfaces and sharp specular highlights.
+Background: luxurious white satin silk fabric with soft flowing drapery folds
+and a subtle silky sheen; a few small glossy pearl beads scattered on the fabric.
+Soft diffused studio lighting from above, elegant premium product-shot aesthetic,
+ultra detailed, hyper-realistic 3D render, 
+text, letters, watermark, logo, signature, frame, border, ornate edging,
+extra red leaves, matte or dull colours, plastic toy look, blurry, low detail,
+cartoon, flat 2D, harsh shadows, clutter, busy background
+
+Prompt 2:
+A single large maple leaf made of faceted cut crystal / prismatic glass, centered
+
+and oriented vertically, its surface divided into sharp geometric triangular facets
+like a shattered gem or a low-poly mosaic, overlaid with a holographic iridescent
+film that shifts through emerald green, teal, aquamarine, deep jade and soft mint
+depending on the angle. Thin polished gold veins run through the leaf following the
+natural maple venation, and several inner panels are filled with fine dotted /
+stippled gold texture. A slender polished gold stem tapers down, ending in a small
+flared golden base.
+Around it, near the four corners, four smaller maple leaves in polished
+white-gold / champagne metal with the same emerald-teal holographic gradient
+and gold dotted texture on their surface.
+Background: white satin silk fabric with soft flowing drapery folds and a silky sheen;
+bright iridescent green, teal and mint caustics and coloured light reflections spilled
+across the fabric beneath the central leaf.
+Soft bright diffused studio lighting from above, strong sharp specular highlights,
+luxury premium product-shot aesthetic, ultra detailed, hyper-realistic 3D render,
+text, letters, watermark, logo, signature, frame, border, ornate edging,
+matte or dull surfaces, opaque plastic toy look, blurry facets, muddy colours,
+flat 2D, cartoon, harsh black shadows, cluttered background, dust, scratches
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
 <a name="prompt-2100051568154538130"></a>
 
 ### A nanoscale East Asian woman navigating DRAM and 3D NAND memory cell skyscraper chip cities from a microscopic electron microscope perspective.
@@ -4893,6 +4995,30 @@ Create ONE independent high-end editorial poster for EACH uploaded photo. Never 
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2101902908178776196"></a>
+
+### Candid flash-blurred smartphone photo of a young woman by a white tiled wall at night.
+
+Author：[@sereinworld](https://x.com/sereinworld) · [Source](https://x.com/sereinworld/status/2101902908178776196)
+
+Character · Published
+
+**Summary:** Candid flash-blurred smartphone photo of a young woman by a white tiled wall at night.
+
+<img src="images/2101902908178776196-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2101902908178776196-2.jpg" alt="Image 2" width="480" />
+
+**Prompt**
+
+```text
+Surrealist candid smartphone photo, 3:4 portrait orientation. Original unrecognizable young woman on a Jakarta sidewalk at night, leaning against a white tiled wall. Mid-walk, half-profile, turning around with a shy smile, hand raised toward the camera. Flash triggered in motion, intense handheld camera shake, severe motion blur, ghosting, streaked tiles, deep shadows, blown-out highlights, imperfect composition, raw accidental snapshot, authentic noisy mobile photography aesthetic.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2101538802946715870"></a>
 

@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**174** Prompts · Última adição: **2026-09-21**
+**177** Prompts · Última adição: **2026-09-21**
 
 <a name="catalog"></a>
 
@@ -628,6 +628,28 @@ Fotografia · Paisagem / Natureza · Publicado
 
 ```text
 Foto de uma clareira na floresta com muita folhagem verde, altamente detalhada
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2101873803492216846"></a>
+
+### Tradução em andamento
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicação original](https://x.com/CyberTotal2026/status/2101873803492216846)
+
+Fotografia · Retrato / Selfie · Personagem · Item de Moda · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2101873803492216846-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -3043,6 +3065,28 @@ Crie um pôster de arte editorial de alto padrão para cada fotografia enviada, 
 
 ## Renderização 3D
 
+<a name="prompt-2102084659458822632"></a>
+
+### Tradução em andamento
+
+Autor：[@churvikv](https://x.com/churvikv) · [Publicação original](https://x.com/churvikv/status/2102084659458822632)
+
+Renderização 3D · Produto · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2102084659458822632.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
 <a name="prompt-2100051568154538130"></a>
 
 ### Tradução em andamento
@@ -3347,13 +3391,13 @@ Em seguida, fatie a imagem e crie um gif em loop contínuo
 
 <a name="prompt-2102043626557878312"></a>
 
-### Tradução em andamento
+### Modelo de ilustração em estilo de pintura a óleo com impasto, retratando uma cena reconfortante do tema espiando pela janela e se banhando na luz do sol.
 
 Autor：[@Adam38363368936](https://x.com/Adam38363368936) · [Publicação original](https://x.com/Adam38363368936/status/2102043626557878312)
 
 Ilustração · Pintura a Óleo · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Modelo de ilustração em estilo de pintura a óleo com impasto, retratando uma cena reconfortante do tema espiando pela janela e se banhando na luz do sol.
 
 <img src="images/2102043626557878312-1.jpg" alt="Imagem 1" width="480" />
 
@@ -3362,7 +3406,7 @@ Ilustração · Pintura a Óleo · Publicado
 **Prompt**
 
 ```text
-Tradução em andamento
+Ilustração no estilo de pintura a óleo com impasto espesso, 【tema】 debruçando o corpo a partir de 【batente de porta/beira da janela/atrás da parede】, com uma expressão natural e acolhedora. Fundo em 【cor de alta saturação】, com textura evidente de tinta espessa. A luz solar incide sobre o tema, formando luzes e sombras douradas e quentes, com contraste marcante entre tons frios e quentes. Pinceladas soltas e naturais, textura realista de pintura a óleo, composição simples, ilustração artística acolhedora e reconfortante. Proporção 【1:1】.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -3914,6 +3958,30 @@ Tranquilo, poético, refinado, minimalista, inocente, artístico, ponderado, sof
 <a name="category-other"></a>
 
 ## Outros
+
+<a name="prompt-2101902908178776196"></a>
+
+### Tradução em andamento
+
+Autor：[@sereinworld](https://x.com/sereinworld) · [Publicação original](https://x.com/sereinworld/status/2101902908178776196)
+
+Personagem · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2101902908178776196-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2101902908178776196-2.jpg" alt="Imagem 2" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2101538802946715870"></a>
 
