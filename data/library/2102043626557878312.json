@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-21T16:27:39.546Z",
+  "model": "image2.5",
+  "prompt": "厚涂油画风格插画，【主体】从【门框/窗边/墙后】探出身体，表情自然治愈。背景为【高饱和颜色】，带明显厚涂颜料肌理。阳光照在主体上，形成温暖金色光影，冷暖对比明显。笔触松弛自然，真实油画质感，简洁构图，治愈系艺术插画。比例【1:1】。",
+  "promptTranslations": {
+    "en": "Thick impasto oil painting style illustration, [Subject] leaning out from [door frame / window edge / behind a wall], with a natural and healing expression. The background is in [highly saturated color], with distinct impasto paint texture. Sunlight shines on the subject, creating warm golden light and shadow, with a pronounced warm-cool contrast. Loose and natural brushstrokes, authentic oil painting texture, clean and simple composition, healing art illustration. Aspect ratio [1:1]."
+  },
+  "summaryTranslations": {
+    "en": "Impasto oil painting style illustration template depicting a healing scene of a subject peeking out by the window, bathed in sunlight."
+  },
+  "translationVersion": 2,
+  "summary": "厚涂油画风格插画模板，表现主体从窗边探头沐浴阳光的治愈画面。",
+  "summaryEn": "Impasto oil painting template depicting a subject leaning from a window in warm sunlight.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2102043626557878312",
+    "canonicalUrl": "https://x.com/Adam38363368936/status/2102043626557878312",
+    "author": {
+      "username": "Adam38363368936",
+      "displayName": "Adam也叫吉米",
+      "profileUrl": "https://x.com/Adam38363368936"
+    },
+    "publishedAt": "2026-09-21T14:33:49.000Z",
+    "collectedAt": "2026-09-21T16:15:58.179Z",
+    "language": "zh",
+    "originalText": "这个风格太治愈了，输入主体、位置、颜色还可以自由定制，来试试看，欢迎返图！\n\nGPT image2.5 提示词：\n厚涂油画风格插画，【主体】从【门框/窗边/墙后】探出身体，表情自然治愈。背景为【高饱和颜色】，带明显厚涂颜料肌理。阳光照在主体上，形成温暖金色光影，冷暖对比明显。笔触松弛自然，真实油画质感，简洁构图，治愈系艺术插画。比例【1:1】。",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSv1KyGbYAA0IHG.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSv1KyGbYAA0IHG.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSv1chua4AAzFlf.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSv1chua4AAzFlf.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 1,
+      "viewCount": 494
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]",
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/Adam38363368936/status/2102043626557878312",
+  "coverUrl": "https://pbs.twimg.com/media/HSv1KyGbYAA0IHG.jpg",
+  "coverPath": "images/2102043626557878312-1.jpg",
+  "imagePaths": [
+    "images/2102043626557878312-1.jpg",
+    "images/2102043626557878312-2.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSv1KyGbYAA0IHG",
+    "x-image:/media/HSv1chua4AAzFlf",
+    "x-post:2102043626557878312"
+  ],
+  "analysis": {
+    "summary": "厚涂油画风格插画模板，表现主体从窗边探头沐浴阳光的治愈画面。",
+    "summaryEn": "Impasto oil painting template depicting a subject leaning from a window in warm sunlight.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "配图中的金毛和橘猫从窗台探头、厚涂肌理与明暗光影均与提示词描述完全一致。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "厚涂油画风格插画，【主体】从【门框/窗边/墙后】探出身体，表情自然治愈。背景为【高饱和颜色】，带明显厚涂颜料肌理。阳光照在主体上，形成温暖金色光影，冷暖对比明显。笔触松弛自然，真实油画质感，简洁构图，治愈系艺术插画。比例【1:1】。",
+    "sourceRange": {
+      "start": 57,
+      "end": 173
+    },
+    "translations": {
+      "zh": "厚涂油画风格插画，【主体】从【门框/窗边/墙后】探出身体，表情自然治愈。背景为【高饱和颜色】，带明显厚涂颜料肌理。阳光照在主体上，形成温暖金色光影，冷暖对比明显。笔触松弛自然，真实油画质感，简洁构图，治愈系艺术插画。比例【1:1】。",
+      "en": "Impasto oil painting illustration, [subject] leaning out from [door frame/window/wall], natural and healing expression. Background is [highly saturated color] with visible thick impasto texture. Sunlight shines on the subject creating warm golden highlights and strong warm-cool contrast. Loose natural brushwork, authentic oil painting texture, clean composition, healing art illustration. Aspect ratio [1:1]."
+    },
+    "targetModels": [
+      "image2.5"
+    ],
+    "category": "text-to-image",
+    "useCase": "illustration",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
