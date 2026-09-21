@@ -2650,20 +2650,20 @@ Transforme as duas imagens de referência numa paisagem cinematográfica de viag
 
 <a name="prompt-2101961501955571892"></a>
 
-### Tradução em curso
+### Criação de um retrato de grupo cinematográfico de celebridades de diferentes épocas num luxuoso terraço ao pôr do sol.
 
 Autor：[@IqrasaifiAI](https://x.com/IqrasaifiAI) · [Publicação original](https://x.com/IqrasaifiAI/status/2101961501955571892)
 
 Cena de Cinema / Fotograma · Retrato / Selfie · Grupo / Casal · Paisagem / Natureza · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Criação de um retrato de grupo cinematográfico de celebridades de diferentes épocas num luxuoso terraço ao pôr do sol.
 
 <img src="images/2101961501955571892-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Crie uma imagem hiper-realista, ultranítida e a cores em grande formato, que mostre um enorme grupo de celebridades de diferentes épocas reunidas numa única cena ampla e cinematográfica. A imagem deve parecer uma capa editorial perfeitamente fotografada – com iluminação impecável, texturas de pele realistas e os mais finos detalhes de cabelos, poros, reflexos e fibras de tecido. ESTILO GERAL E AMBIENTE: Fotorrealista, 8K, reduzida profundidade de campo, luz de preenchimento suave e natural combinada com uma forte luz de contorno dourada. Elevada gama dinâmica e gradação de cor afinada com precisão. Tons de pele com aspeto natural e precisos. Detalhes de tecido extremamente nítidos, onde até as fibras individuais são visíveis. Composição equilibrada e centrada com uma objetiva de 35 mm ligeiramente grande-angular. Todas as celebridades interagem naturalmente entre si, a sorrir, a posar ou a conversar. O fundo permanece visualmente calmo e livre de distrações desnecessárias, oferecendo detalhes suficientes para tornar o ambiente autêntico e realista. O AMBIENTE: Um luxuoso terraço ao ar livre ao pôr do sol com vista para a linha do horizonte de uma metrópole moderna. Elementos: Luz quente e dourada a emoldurar as silhuetas das pessoas. Superfícies de mármore polido.
 ```
 
 [↑ Voltar às categorias](#catalog)

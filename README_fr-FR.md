@@ -2657,20 +2657,20 @@ dessin animé, anime, peinture, CGI, rendu 3D, basse qualité, bâtiments défor
 
 <a name="prompt-2101961501955571892"></a>
 
-### Traduction en cours
+### Création d'un portrait de groupe cinématographique de célébrités de différentes époques sur un luxueux toit-terrasse au coucher du soleil.
 
 Auteur：[@IqrasaifiAI](https://x.com/IqrasaifiAI) · [Publication originale](https://x.com/IqrasaifiAI/status/2101961501955571892)
 
 Image cinématographique / Photogramme de film · Portrait / Selfie · Groupe / Couple · Paysage / Nature · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Création d'un portrait de groupe cinématographique de célébrités de différentes époques sur un luxueux toit-terrasse au coucher du soleil.
 
 <img src="images/2101961501955571892-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une image hyperréaliste, ultra-nette et en couleurs en grand format, montrant un immense groupe de célébrités de différentes époques réunies dans une seule scène large et cinématographique. L'image doit ressembler à une couverture éditoriale parfaitement photographiée – avec un éclairage impeccable, des textures de peau réalistes et les détails les plus fins des cheveux, des pores, des reflets et des fibres de tissu. STYLE GÉNÉRAL ET AMBIANCE : Photoréaliste, 8K, faible profondeur de champ, lumière d'appoint douce et naturelle combinée à un puissant rétroéclairage doré. Plage dynamique élevée et étalonnage des couleurs réglé avec précision. Teints de peau naturels et précis. Détails des tissus d'une netteté exceptionnelle, où même les fibres individuelles sont visibles. Composition équilibrée et centrée avec un objectif de 35 mm légèrement grand-angle. Toutes les célébrités interagissent naturellement entre elles, souriant, posant ou discutant. L'arrière-plan reste visuellement calme et libre de distractions inutiles, tout en offrant suffisamment de détails pour rendre l'environnement authentique et réaliste. L'ENVIRONNEMENT : Un luxueux toit-terrasse à ciel ouvert au coucher du soleil avec vue sur la ligne d'horizon d'une métropole moderne. Éléments : Lumière chaude et dorée encadrant les silhouettes des personnes. Surfaces en marbre poli.
 ```
 
 [↑ Retour aux catégories](#catalog)

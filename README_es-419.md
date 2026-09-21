@@ -2657,20 +2657,20 @@ caricatura, anime, pintura, CGI, render 3D, baja calidad, edificios distorsionad
 
 <a name="prompt-2101961501955571892"></a>
 
-### Traducción en curso
+### Creación de un retrato grupal cinematográfico de celebridades de diversas épocas en una lujosa terraza al atardecer.
 
 Autor：[@IqrasaifiAI](https://x.com/IqrasaifiAI) · [Publicación original](https://x.com/IqrasaifiAI/status/2101961501955571892)
 
 Cine / Fotograma · Retrato / Selfie · Grupo / Pareja · Paisaje / Naturaleza · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Creación de un retrato grupal cinematográfico de celebridades de diversas épocas en una lujosa terraza al atardecer.
 
 <img src="images/2101961501955571892-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea una imagen hiperrealista, ultranítida y a todo color en gran formato, que muestre a un enorme grupo de celebridades de diferentes épocas reunidas en una única escena amplia y cinematográfica. La imagen debe verse como una portada editorial perfectamente fotografiada: con iluminación impecable, texturas de piel realistas y los detalles más finos de cabello, poros, reflejos y fibras de tela. ESTILO GENERAL Y AMBIENTE: Fotorrealista, 8K, poca profundidad de campo, luz de relleno natural y suave combinada con una fuerte luz de contorno dorada. Alto rango dinámico y gradación de color afinada con precisión. Tonos de piel de aspecto natural y precisos. Detalles de tela nítidos donde incluso las fibras individuales son visibles. Composición equilibrada y centrada con un lente de 35 mm ligeramente gran angular. Todas las celebridades interactúan de manera natural entre sí, sonriendo, posando o conversando. El fondo se mantiene visualmente tranquilo y libre de distracciones innecesarias, pero ofrece suficientes detalles para que el entorno parezca auténtico y realista. EL ENTORNO: Una lujosa terraza al aire libre al atardecer con vista al horizonte de una metrópolis moderna. Elementos: Luz cálida y dorada que enmarca las siluetas de las personas. Superficies de mármol pulido.
 ```
 
 [↑ Volver a categorías](#catalog)

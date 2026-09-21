@@ -2702,20 +2702,48 @@ cartoon, anime, painting, CGI, 3D render, low quality, distorted buildings, warp
 
 <a name="prompt-2101961501955571892"></a>
 
-### Traducción en curso
+### Creación de un retrato grupal cinematográfico de celebridades de diferentes épocas en una lujosa terraza al atardecer.
 
 Autor：[@IqrasaifiAI](https://x.com/IqrasaifiAI) · [Publicación original](https://x.com/IqrasaifiAI/status/2101961501955571892)
 
 Cine / Fotograma de película · Retrato / Selfie · Grupo / Pareja · Paisaje / Naturaleza · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Creación de un retrato grupal cinematográfico de celebridades de diferentes épocas en una lujosa terraza al atardecer.
 
 <img src="images/2101961501955571892-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea una imagen hiperrealista, ultranítida, a todo color y en gran formato, que muestre a un enorme grupo de celebridades de diferentes épocas reunidas en una única escena amplia y de puesta en escena cinematográfica.
+
+La imagen debe parecer una portada editorial perfectamente fotografiada: con una iluminación impecable, texturas de piel realistas y los detalles más sutiles de cabello, poros, reflejos y fibras de tela.
+
+ESTILO GENERAL Y AMBIENTE:
+
+Fotorrealista, 8K, poca profundidad de campo, luz de relleno suave y natural combinada con una fuerte luz de contorno dorada.
+
+Alto rango dinámico y etalonaje de color calibrado con precisión.
+
+Tonos de piel naturales y precisos.
+
+Detalles de tela nítidos, donde incluso las fibras individuales son visibles.
+
+Composición equilibrada y centrada con un objetivo de 35 mm ligeramente gran angular.
+
+Todas las celebridades interactúan de manera natural entre sí, sonriendo, posando o conversando.
+
+El fondo se mantiene visualmente tranquilo y libre de distracciones innecesarias, pero proporciona suficientes detalles para que el entorno parezca auténtico y realista.
+
+EL ENTORNO:
+
+Una lujosa terraza al aire libre al atardecer con vistas al horizonte de una metrópoli moderna.
+
+Elementos:
+
+Luz cálida y dorada que perfila las siluetas de las personas.
+
+Superficies de mármol pulido.
 ```
 
 [↑ Volver a categorías](#catalog)

@@ -2702,20 +2702,48 @@ hoạt hình, anime, tranh vẽ, CGI, kết xuất 3D, chất lượng thấp, t
 
 <a name="prompt-2101961501955571892"></a>
 
-### Đang dịch
+### Tạo bức chân dung nhóm đậm chất điện ảnh gồm những người nổi tiếng qua các thời kỳ trên sân thượng sang trọng lúc hoàng hôn.
 
 Tác giả：[@IqrasaifiAI](https://x.com/IqrasaifiAI) · [Bài gốc](https://x.com/IqrasaifiAI/status/2101961501955571892)
 
 Điện ảnh / Ảnh tĩnh từ phim · Chân dung / Ảnh tự chụp · Nhóm / Cặp đôi · Phong cảnh / Thiên nhiên · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Tạo bức chân dung nhóm đậm chất điện ảnh gồm những người nổi tiếng qua các thời kỳ trên sân thượng sang trọng lúc hoàng hôn.
 
 <img src="images/2101961501955571892-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một hình ảnh toàn màu sắc, khổ lớn, siêu thực và cực kỳ sắc nét, thể hiện một nhóm lớn người nổi tiếng từ các thời kỳ khác nhau cùng đứng trong một khung cảnh rộng lớn được dàn dựng đậm chất điện ảnh.
+
+Bức ảnh phải trông giống như một trang bìa tạp chí được chụp hoàn hảo – với ánh sáng hoàn mỹ, kết cấu da sống động như thật và các chi tiết tinh tế nhất của tóc, lỗ chân lông, phản chiếu và sợi vải.
+
+PHONG CÁCH & TÂM TRẠNG TỔNG THỂ:
+
+Chân thực như ảnh chụp, 8K, độ sâu trường ảnh nông, ánh sáng lấp đầy tự nhiên dịu nhẹ kết hợp với ánh sáng viền vàng rực rỡ.
+
+Dải tương phản động cao và căn chỉnh màu sắc chuẩn xác.
+
+Tông màu da tự nhiên và chính xác.
+
+Chi tiết vải sắc nét đến mức có thể nhìn thấy từng sợi vải riêng biệt.
+
+Bố cục cân bằng, căn giữa với ống kính 35mm góc hơi rộng.
+
+Tất cả người nổi tiếng tương tác với nhau một cách tự nhiên, mỉm cười, tạo dáng hoặc trò chuyện.
+
+Phần hậu cảnh giữ được sự yên tĩnh về mặt thị giác và không có những chi tiết gây xao nhãng không cần thiết, nhưng vẫn cung cấp đủ chi tiết để làm cho môi trường trông chân thực và sống động.
+
+KHÔNG GIAN XUNG QUANH:
+
+Một sân thượng ngoài trời sang trọng vào lúc hoàng hôn nhìn ra đường chân trời của một đô thị hiện đại.
+
+Các yếu tố:
+
+Ánh sáng vàng ấm áp bao quanh đường viền bóng của các nhân vật.
+
+Các bề mặt đá cẩm thạch được đánh bóng.
 ```
 
 [↑ Về danh mục](#catalog)

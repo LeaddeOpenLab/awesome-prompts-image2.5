@@ -2650,20 +2650,20 @@ Transforme as duas imagens de referência em uma paisagem cinematográfica de vi
 
 <a name="prompt-2101961501955571892"></a>
 
-### Tradução em andamento
+### Criação de um retrato de grupo cinematográfico de celebridades de diferentes épocas em um luxuoso terraço ao pôr do sol.
 
 Autor：[@IqrasaifiAI](https://x.com/IqrasaifiAI) · [Publicação original](https://x.com/IqrasaifiAI/status/2101961501955571892)
 
 Cinematográfico / Imagem de Filme · Retrato / Selfie · Grupo / Casal · Paisagem / Natureza · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Criação de um retrato de grupo cinematográfico de celebridades de diferentes épocas em um luxuoso terraço ao pôr do sol.
 
 <img src="images/2101961501955571892-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Crie uma imagem hiper-realista, ultranítida e totalmente colorida em grande formato, mostrando um enorme grupo de celebridades de diferentes épocas reunidas em uma única cena ampla e cinematográfica. A imagem deve parecer uma capa editorial perfeitamente fotografada – com iluminação impecável, texturas de pele realistas e os mínimos detalhes de cabelos, poros, reflexos e fibras de tecido. ESTILO GERAL E CLIMA: Fotorrealista, 8K, baixa profundidade de campo, luz de preenchimento suave e natural combinada com uma forte luz de contorno dourada. Amplo alcance dinâmico e gradação de cores ajustada com precisão. Tons de pele naturais e precisos. Detalhes de tecido extremamente nítidos, onde até fibras individuais são visíveis. Composição equilibrada e centralizada com uma lente de 35 mm ligeiramente grande-angular. Todas as celebridades interagem naturalmente entre si, sorrindo, posando ou conversando. O fundo permanece visualmente calmo e livre de distrações desnecessárias, oferecendo detalhes suficientes para fazer o ambiente parecer autêntico e realista. O AMBIENTE: Um luxuoso terraço ao ar livre no topo de um edifício ao pôr do sol, com vista para o horizonte de uma metrópole moderna. Elementos: Luz quente e dourada emoldurando as silhuetas das pessoas. Superfícies de mármore polido.
 ```
 
 [↑ Voltar às categorias](#catalog)

@@ -2657,20 +2657,20 @@ Cartoon, Anime, Gemälde, CGI, 3D-Render, geringe Qualität, verzerrte Gebäude,
 
 <a name="prompt-2101961501955571892"></a>
 
-### Übersetzung läuft
+### Erstellung eines filmischen Gruppenporträts von Prominenten verschiedener Epochen auf einer luxuriösen Dachterrasse bei Sonnenuntergang.
 
 Autor：[@IqrasaifiAI](https://x.com/IqrasaifiAI) · [Originalbeitrag](https://x.com/IqrasaifiAI/status/2101961501955571892)
 
 Kinematisch / Filmstill · Porträt / Selfie · Gruppe / Paar · Landschaft / Natur · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Erstellung eines filmischen Gruppenporträts von Prominenten verschiedener Epochen auf einer luxuriösen Dachterrasse bei Sonnenuntergang.
 
 <img src="images/2101961501955571892-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle ein hyperrealistisches, ultrascharfes, vollfarbiges Bild im Großformat, das eine riesige Gruppe von Prominenten aus verschiedenen Epochen zeigt, die gemeinsam in einer einzigen breiten, filmisch inszenierten Szene stehen. Das Bild soll wie ein perfekt fotografiertes Editorial-Cover wirken – mit makelloser Beleuchtung, lebensechten Hauttexturen und feinsten Details von Haaren, Poren, Reflexionen und Stofffasern. ALLGEMEINER STIL & STIMMUNG: Fotorealistisch, 8K, geringe Schärfentiefe, weiches natürliches Fülllicht kombiniert mit starkem goldenem Konturlicht. Hoher Dynamikumfang und präzise abgestimmtes Color Grading. Natürlich wirkende und präzise Hauttöne. Gestochen scharfe Stoffdetails, bei denen sogar einzelne Fasern sichtbar sind. Ausgewogene, zentral ausgerichtete Bildkomposition mit einem leicht weitwinkligen 35-mm-Objektiv. Alle Prominenten interagieren auf natürliche Weise miteinander, lächeln, posieren oder unterhalten sich. Der Hintergrund bleibt visuell ruhig und frei von unnötigen Ablenkungen, bietet jedoch genügend Details, um die Umgebung authentisch und realistisch wirken zu lassen. DIE UMGEBUNG: Eine luxuriöse Open-Air-Dachterrasse bei Sonnenuntergang mit Blick auf die Skyline einer modernen Großstadt. Elemente: Warmes, goldenes Licht, das die Silhouetten der Personen umrahmt. Polierte Marmoroberflächen.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

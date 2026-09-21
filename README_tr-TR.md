@@ -2650,20 +2650,20 @@ Sinematik / Film Karesi · Manzara / Doğa · Yayımlandı
 
 <a name="prompt-2101961501955571892"></a>
 
-### Çeviri sürüyor
+### Farklı dönemlerden ünlülerin gün batımında lüks bir çatı terasındaki sinematik grup portresinin oluşturulması.
 
 Yazar：[@IqrasaifiAI](https://x.com/IqrasaifiAI) · [Orijinal gönderi](https://x.com/IqrasaifiAI/status/2101961501955571892)
 
 Sinematik / Film Karesi · Portre / Selfie · Grup / Çift · Manzara / Doğa · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Farklı dönemlerden ünlülerin gün batımında lüks bir çatı terasındaki sinematik grup portresinin oluşturulması.
 
 <img src="images/2101961501955571892-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Farklı dönemlerden devasa bir ünlü grubunun tek, geniş ve sinematik bir sahnede bir arada durduğu, büyük formatta, hiper gerçekçi, ultra keskin ve tam renkli bir görsel oluşturun. Görsel; kusursuz aydınlatması, gerçekçi cilt dokuları ve saç, gözenek, yansıma ve kumaş liflerinin en ince ayrıntılarıyla mükemmel şekilde fotoğraflanmış bir editoryal dergi kapağı gibi hissettirmelidir. GENEL TARZ VE HAVA: Fotogerçekçi, 8K, sığ alan derinliği, güçlü altın sarısı kontur ışığı ile birleştirilmiş yumuşak doğal dolgu ışığı. Yüksek dinamik aralık ve hassas şekilde ayarlanmış renk derecelendirmesi. Doğal görünümlü ve isabetli cilt tonları. Tek tek liflerin bile görülebildiği jilet gibi keskin kumaş detayları. Hafif geniş açılı 35 mm lens ile dengeli, merkezi odaklı görsel kompozisyon. Tüm ünlüler birbirleriyle doğal bir şekilde etkileşime giriyor; gülümsüyor, poz veriyor veya sohbet ediyor. Arka plan görsel olarak sakin ve gereksiz dikkat dağıtıcı unsurlardan uzak kalırken, ortamın otantik ve gerçekçi görünmesini sağlayacak kadar ayrıntı sunar. ORTAM: Gün batımında modern bir metropolün silüetine bakan lüks, açık hava bir çatı terası. Unsurlar: İnsanların silüetlerini çerçeveleyen sıcak, altın rengi ışık. Cilalı mermer yüzeyler.
 ```
 
 [↑ Kategorilere dön](#catalog)

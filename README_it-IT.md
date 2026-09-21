@@ -2657,20 +2657,20 @@ cartone animato, anime, dipinto, CGI, rendering 3D, bassa qualità, edifici dist
 
 <a name="prompt-2101961501955571892"></a>
 
-### Traduzione in corso
+### Creazione di un ritratto di gruppo cinematografico di celebrità di diverse epoche su una lussuosa terrazza panoramica al tramonto.
 
 Autore：[@IqrasaifiAI](https://x.com/IqrasaifiAI) · [Post originale](https://x.com/IqrasaifiAI/status/2101961501955571892)
 
 Fermo immagine cinematografico / Still fotografico · Ritratto / Selfie · Gruppo / Coppia · Paesaggio / Natura · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Creazione di un ritratto di gruppo cinematografico di celebrità di diverse epoche su una lussuosa terrazza panoramica al tramonto.
 
 <img src="images/2101961501955571892-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea un'immagine iperrealistica, ultra nitida e a colori in grande formato, che mostri un enorme gruppo di celebrità di epoche diverse riunite in un'unica ampia scena cinematografica. L'immagine deve sembrare una copertina editoriale perfettamente fotografata, con un'illuminazione impeccabile, texture della pelle realistiche e i dettagli più minuti di capelli, pori, riflessi e fibre dei tessuti. STILE GENERALE E ATMOSFERA: Fotorealistico, 8K, ridotta profondità di campo, luce di riempimento morbida e naturale combinata con una forte luce di contorno dorata. Ampia gamma dinamica e color grading calibrato con precisione. Toni della pelle naturali e precisi. Dettagli del tessuto nitidissimi, in cui sono visibili persino le singole fibre. Composizione equilibrata e centrata con un obiettivo da 35 mm leggermente grandangolare. Tutte le celebrità interagiscono naturalmente tra loro, sorridendo, mettendosi in posa o conversando. Lo sfondo rimane visivamente calmo e privo di distrazioni inutili, offrendo comunque dettagli sufficienti a rendere l'ambiente autentico e realistico. L'AMBIENTE: Una lussuosa terrazza panoramica all'aperto al tramonto con vista sullo skyline di una moderna metropoli. Elementi: Luce calda e dorata che incornicia le silhouette delle persone. Superfici in marmo levigato.
 ```
 
 [↑ Torna alle categorie](#catalog)
