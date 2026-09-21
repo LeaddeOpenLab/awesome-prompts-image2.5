@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-21T00:25:17.087Z",
+  "model": "image2",
+  "prompt": "主題：\n丸眼鏡の朝時間\n\n主体：\n画面中央、朝日の入る室内で頬杖をつく若い女性の胸上クローズアップ。大きな銀縁の丸眼鏡、白い透かし編みカーディガン、グレージュのキャミソール、柔らかな眼差しが主役。\n\n人物・表情：\n小さな卵形の顔、丸みのある顎、大きな濃茶の瞳、細く自然な眉、短く整った鼻、艶のある淡い桃色の唇。顔はほぼ正面、眼鏡越しにカメラをまっすぐ見て静かな無表情に近い微笑み。濃茶の髪は頭頂で緩いお団子、束感のある薄い前髪と湿ったような顔周りの後れ毛。\n\n服装・ポーズ：\n細い肩紐と深い丸首のグレージュのリブトップ、その上に白い薄手の透かし編みカーディガンを両肩から落として羽織る。銀色の細い大きな丸眼鏡。左肘を机につけ、袖に包まれた左手で左頬を支え、右腕は机の手前へ伏せる。\n\n背景・光：\n画面左奥に白いカーテンの窓とぼけた白い花、画面右奥に淡色の壁、額、小さな本棚、下端右に飲み終えた陶器カップの縁。左後方から暖かな朝日が髪の輪郭と頬を照らし、細かな光点を作る柔らかな逆光。\n\n構図・カメラ：\n3:4の縦構図、座った人物の目線と同じ高さの正面カメラで頭頂から胸下までを収める近接ポートレート。顔を中央上へ大きく、左手を左頬、カップを右下端へ配置。両腕は左右下端で裁切し、両目と眼鏡に鋭くピント、背景は大きくぼかす。\n\n質感・スタイル：\nフォトリアルな実写写真。自然な毛穴と頬の血色、眼鏡の細い金属、粗い透かし編み、リブ生地、朝の微粒子を高精細にし、白とベージュの柔和な低コントラスト。\n\nネガティブ：\n眼鏡や頬杖省略；髪型と服装色変更",
+  "promptTranslations": {
+    "en": "Subject:\nMorning Time in Round Glasses\n\nMain Focus:\nCenter of the frame, a close-up from the chest up of a young woman resting her chin on her hand in a morning sunlit room. Large silver-rimmed round glasses, a white openwork knit cardigan, a greige camisole, and a soft gaze take center stage.\n\nPerson & Expression:\nA small oval face, rounded chin, large dark brown eyes, thin natural eyebrows, a short neat nose, and glossy pale pink lips. Her face is almost frontal, looking straight into the camera through her glasses with a quiet, near-expressionless gentle smile. Dark brown hair tied into a loose bun on top of her head, with wispy piecey bangs and slightly damp-looking tendrils framing her face.\n\nClothing & Pose:\nA greige ribbed top with thin shoulder straps and a deep scoop neck, layered with a sheer white openwork knit cardigan draped loosely off both shoulders. Thin, large silver round glasses. Her left elbow rests on the desk, her left hand wrapped in the sleeve propping up her left cheek, while her right arm lies flat toward the front of the desk.\n\nBackground & Lighting:\nIn the background on the far left, a window with white curtains and blurred white flowers; on the far right, a pale wall, a picture frame, a small bookshelf, and at the bottom right edge, the rim of an empty ceramic cup. Warm morning sunlight from the back-left illuminates the contours of her hair and cheek, creating soft backlighting with delicate flecks of light.\n\nComposition & Camera:\nA 3:4 vertical composition, an eye-level frontal close-up portrait of the seated subject capturing from the top of the head to below the chest. The face is positioned prominently in the upper center, the left hand at the left cheek, and the cup at the bottom right edge. Both arms are cropped at the lower left and right edges, with sharp focus on both eyes and the glasses, and a heavily blurred background.\n\nTexture & Style:\nA photorealistic real photograph. Natural pores and a healthy flush on the cheeks, the slender metal of the glasses, coarse openwork knit, ribbed fabric, and morning dust particles rendered in high definition, with a gentle, low-contrast palette of white and beige.\n\nNegative:\nOmitting glasses or hand on cheek; altering hairstyle and clothing colors"
+  },
+  "summaryTranslations": {
+    "en": "A photorealistic portrait prompt of a young woman resting her chin on her hand while wearing silver-rimmed round glasses in a morning room."
+  },
+  "translationVersion": 2,
+  "summary": "朝の室内で銀縁丸眼鏡をかけ頬杖をつく若い女性のフォトリアルなポートレート提示詞。",
+  "summaryEn": "Photorealistic prompt for a morning portrait of a young woman wearing round silver glasses resting her chin on her hand.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2101799312850124970",
+    "canonicalUrl": "https://x.com/CyberTotal2026/status/2101799312850124970",
+    "author": {
+      "username": "CyberTotal2026",
+      "displayName": "Prompt アトリエ｜AI画像プロンプト",
+      "profileUrl": "https://x.com/CyberTotal2026"
+    },
+    "publishedAt": "2026-09-20T22:23:00.000Z",
+    "collectedAt": "2026-09-21T00:16:04.144Z",
+    "language": "ja",
+    "originalText": "やわらかな朝は、急がずこのまま。眼鏡越しの光まで優しくほどける☕️🤍🌿\n\n#AIart #AI写真 #朝のひととき\n\n【GPT Image2プロンプト】\n\n主題：\n丸眼鏡の朝時間\n\n主体：\n画面中央、朝日の入る室内で頬杖をつく若い女性の胸上クローズアップ。大きな銀縁の丸眼鏡、白い透かし編みカーディガン、グレージュのキャミソール、柔らかな眼差しが主役。\n\n人物・表情：\n小さな卵形の顔、丸みのある顎、大きな濃茶の瞳、細く自然な眉、短く整った鼻、艶のある淡い桃色の唇。顔はほぼ正面、眼鏡越しにカメラをまっすぐ見て静かな無表情に近い微笑み。濃茶の髪は頭頂で緩いお団子、束感のある薄い前髪と湿ったような顔周りの後れ毛。\n\n服装・ポーズ：\n細い肩紐と深い丸首のグレージュのリブトップ、その上に白い薄手の透かし編みカーディガンを両肩から落として羽織る。銀色の細い大きな丸眼鏡。左肘を机につけ、袖に包まれた左手で左頬を支え、右腕は机の手前へ伏せる。\n\n背景・光：\n画面左奥に白いカーテンの窓とぼけた白い花、画面右奥に淡色の壁、額、小さな本棚、下端右に飲み終えた陶器カップの縁。左後方から暖かな朝日が髪の輪郭と頬を照らし、細かな光点を作る柔らかな逆光。\n\n構図・カメラ：\n3:4の縦構図、座った人物の目線と同じ高さの正面カメラで頭頂から胸下までを収める近接ポートレート。顔を中央上へ大きく、左手を左頬、カップを右下端へ配置。両腕は左右下端で裁切し、両目と眼鏡に鋭くピント、背景は大きくぼかす。\n\n質感・スタイル：\nフォトリアルな実写写真。自然な毛穴と頬の血色、眼鏡の細い金属、粗い透かし編み、リブ生地、朝の微粒子を高精細にし、白とベージュの柔和な低コントラスト。\n\nネガティブ：\n眼鏡や頬杖省略；髪型と服装色変更",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSbb_QzboAApZHA.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSbb_QzboAApZHA.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 21,
+      "repostCount": 1,
+      "replyCount": 2,
+      "quoteCount": 1,
+      "viewCount": 897
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/CyberTotal2026/status/2101799312850124970",
+  "coverUrl": "https://pbs.twimg.com/media/HSbb_QzboAApZHA.jpg",
+  "coverPath": "images/2101799312850124970-1.jpg",
+  "imagePaths": [
+    "images/2101799312850124970-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSbb_QzboAApZHA",
+    "x-post:2101799312850124970"
+  ],
+  "analysis": {
+    "summary": "朝の室内で銀縁丸眼鏡をかけ頬杖をつく若い女性のフォトリアルなポートレート提示詞。",
+    "summaryEn": "Photorealistic prompt for a morning portrait of a young woman wearing round silver glasses resting her chin on her hand.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "添付画像の人物、銀縁丸眼鏡、白い透かし編みカーディガン、頬杖のポーズ、逆光の朝光、右下のカップの配置に至るまでプロンプトの指定内容と完全に一致しています。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "主題：\n丸眼鏡の朝時間\n\n主体：\n画面中央、朝日の入る室内で頬杖をつく若い女性の胸上クローズアップ。大きな銀縁の丸眼鏡、白い透かし編みカーディガン、グレージュのキャミソール、柔らかな眼差しが主役。\n\n人物・表情：\n小さな卵形の顔、丸みのある顎、大きな濃茶の瞳、細く自然な眉、短く整った鼻、艶のある淡い桃色の唇。顔はほぼ正面、眼鏡越しにカメラをまっすぐ見て静かな無表情に近い微笑み。濃茶の髪は頭頂で緩いお団子、束感のある薄い前髪と湿ったような顔周りの後れ毛。\n\n服装・ポーズ：\n細い肩紐と深い丸首のグレージュのリブトップ、その上に白い薄手の透かし編みカーディガンを両肩から落として羽織る。銀色の細い大きな丸眼鏡。左肘を机につけ、袖に包まれた左手で左頬を支え、右腕は机の手前へ伏せる。\n\n背景・光：\n画面左奥に白いカーテンの窓とぼけた白い花、画面右奥に淡色の壁、額、小さな本棚、下端右に飲み終えた陶器カップの縁。左後方から暖かな朝日が髪の輪郭と頬を照らし、細かな光点を作る柔らかな逆光。\n\n構図・カメラ：\n3:4の縦構図、座った人物の目線と同じ高さの正面カメラで頭頂から胸下までを収める近接ポートレート。顔を中央上へ大きく、左手を左頬、カップを右下端へ配置。両腕は左右下端で裁切し、両目と眼鏡に鋭くピント、背景は大きくぼかす。\n\n質感・スタイル：\nフォトリアルな実写写真。自然な毛穴と頬の血色、眼鏡の細い金属、粗い透かし編み、リブ生地、朝の微粒子を高精細にし、白とベージュの柔和な低コントラスト。\n\nネガティブ：\n眼鏡や頬杖省略；髪型と服装色変更",
+    "sourceRange": {
+      "start": 78,
+      "end": 749
+    },
+    "translations": {
+      "zh": "主题：\n圆框眼镜的清晨时光\n\n主体：\n画面中央，清晨阳光洒入的室内，托腮端坐年轻女性的胸部以上特写。醒目银边大圆框眼镜、白色镂空针织开衫、灰褐色吊带背心以及柔和目光为主体。\n\n人物与表情：\n小巧鹅蛋脸、圆润下巴、深褐色大眼、纤细自然眉毛、小巧挺拔鼻梁与水润淡粉色双唇。面部朝向正面微露笑意。深褐色头发在头顶扎成松散丸子头，带空气感碎刘海与微湿鬓发碎发。\n\n服装与姿势：\n细肩带大圆领灰褐色罗纹吊带，外披微落于双肩的白色镂空薄针织衫。银色细边大圆眼镜。左肘支于桌面并以衣袖包裹的手托左脸颊，右臂自然平放桌面。\n\n背景与光线：\n左后方为挂白窗帘的窗户及虚化白花，右后方为浅色墙面、相框和小书架，右下角显露陶制杯沿。柔和暖阳自左后方逆光照射。\n\n构图与镜头：\n3:4纵向构图，平视胸上特写，背景大面积虚化。\n\n质感与风格：\n写实摄影风格，柔和低对比度。\n\n负面提示：\n省略眼镜或托腮；修改发型与服装颜色",
+      "en": "Theme:\nMorning with round glasses\n\nSubject:\nClose-up portrait of a young woman resting her chin on her hand in a morning room. Prominent large silver round glasses, white openwork knit cardigan, greige camisole, and gentle gaze.\n\nPerson & Expression:\nOval face, soft jaw, dark brown eyes, subtle smile. Loose dark brown top bun with wispy bangs and stray strands.\n\nOutfit & Pose:\nGreige rib tank under a loose white knit cardigan off shoulders, thin round glasses. Left elbow on table, sleeve-covered hand propping left cheek.\n\nBackground & Light:\nWhite curtain window, blurred white flowers, soft warm backlight from back-left. Ceramic cup edge at bottom right.\n\nComposition & Style:\n3:4 vertical close-up portrait, photo-realistic style with soft low contrast.\n\nNegative:\nOmit glasses or hand on cheek; change hairstyle and outfit color"
+    },
+    "targetModels": [
+      "image2"
+    ],
+    "category": "text-to-image",
+    "useCase": "写真ポートレート生成",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}

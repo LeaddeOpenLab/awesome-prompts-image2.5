@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**162** Prompts · Latest addition: **2026-09-20**
+**163** Prompts · Latest addition: **2026-09-21**
 
 <a name="catalog"></a>
 
@@ -690,6 +690,50 @@ Photography · Landscape / Nature · Published
 
 ```text
 Photo of a clearing in the woods with lots of green foliage, highly detailed
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2101799312850124970"></a>
+
+### A photorealistic portrait prompt of a young woman resting her chin on her hand while wearing silver-rimmed round glasses in a morning room.
+
+Author：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Source](https://x.com/CyberTotal2026/status/2101799312850124970)
+
+Photography · Portrait / Selfie · Character · Architecture / Interior · Published
+
+**Summary:** A photorealistic portrait prompt of a young woman resting her chin on her hand while wearing silver-rimmed round glasses in a morning room.
+
+<img src="images/2101799312850124970-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Subject:
+Morning Time in Round Glasses
+
+Main Focus:
+Center of the frame, a close-up from the chest up of a young woman resting her chin on her hand in a morning sunlit room. Large silver-rimmed round glasses, a white openwork knit cardigan, a greige camisole, and a soft gaze take center stage.
+
+Person & Expression:
+A small oval face, rounded chin, large dark brown eyes, thin natural eyebrows, a short neat nose, and glossy pale pink lips. Her face is almost frontal, looking straight into the camera through her glasses with a quiet, near-expressionless gentle smile. Dark brown hair tied into a loose bun on top of her head, with wispy piecey bangs and slightly damp-looking tendrils framing her face.
+
+Clothing & Pose:
+A greige ribbed top with thin shoulder straps and a deep scoop neck, layered with a sheer white openwork knit cardigan draped loosely off both shoulders. Thin, large silver round glasses. Her left elbow rests on the desk, her left hand wrapped in the sleeve propping up her left cheek, while her right arm lies flat toward the front of the desk.
+
+Background & Lighting:
+In the background on the far left, a window with white curtains and blurred white flowers; on the far right, a pale wall, a picture frame, a small bookshelf, and at the bottom right edge, the rim of an empty ceramic cup. Warm morning sunlight from the back-left illuminates the contours of her hair and cheek, creating soft backlighting with delicate flecks of light.
+
+Composition & Camera:
+A 3:4 vertical composition, an eye-level frontal close-up portrait of the seated subject capturing from the top of the head to below the chest. The face is positioned prominently in the upper center, the left hand at the left cheek, and the cup at the bottom right edge. Both arms are cropped at the lower left and right edges, with sharp focus on both eyes and the glasses, and a heavily blurred background.
+
+Texture & Style:
+A photorealistic real photograph. Natural pores and a healthy flush on the cheeks, the slender metal of the glasses, coarse openwork knit, ribbed fabric, and morning dust particles rendered in high definition, with a gentle, low-contrast palette of white and beige.
+
+Negative:
+Omitting glasses or hand on cheek; altering hairstyle and clothing colors
 ```
 
 [↑ Back to categories](#catalog)
