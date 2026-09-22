@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-22T04:25:55.533Z",
+  "model": "image2.5",
+  "prompt": "婚礼x极简冷灰时装电影 × 一点血色异常，3x3，9:16",
+  "promptTranslations": {
+    "en": "Wedding x minimalist cold gray fashion cinema x a touch of bloody anomaly, 3x3, 9:16"
+  },
+  "summaryTranslations": {
+    "en": "Nine-grid photo set of a minimalist cinematic gothic wedding with cool gray tones and bloodstains."
+  },
+  "translationVersion": 2,
+  "summary": "冷灰色调极简电影感哥特风婚礼与血迹九宫格组图。",
+  "summaryEn": "Cool-toned minimalist cinematic gothic wedding collage with subtle blood accents in a 3x3 grid.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2102228033306612127",
+    "canonicalUrl": "https://x.com/JoywDan/status/2102228033306612127",
+    "author": {
+      "username": "JoywDan",
+      "displayName": "禁止对AI动情（已失败）",
+      "profileUrl": "https://x.com/JoywDan"
+    },
+    "publishedAt": "2026-09-22T02:46:35.000Z",
+    "collectedAt": "2026-09-22T04:15:59.014Z",
+    "language": "zh",
+    "originalText": "👰🩸\n\nprompt-image2.5:\n\n婚礼x极简冷灰时装电影 × 一点血色异常，3x3，9:16 https://t.co/iRt3lnMIBw",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSydQE_bEAABd2t.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSydQE_bEAABd2t.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSydQFJaAAEm1Yy.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSydQFJaAAEm1Yy.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSydQE_awAAcUWX.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSydQE_awAAcUWX.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSydQFJbQAAT4xW.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSydQFJbQAAT4xW.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 15,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 302
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/JoywDan/status/2102228033306612127",
+  "coverUrl": "https://pbs.twimg.com/media/HSydQE_bEAABd2t.jpg",
+  "coverPath": "images/2102228033306612127-1.jpg",
+  "imagePaths": [
+    "images/2102228033306612127-1.jpg",
+    "images/2102228033306612127-2.jpg",
+    "images/2102228033306612127-3.jpg",
+    "images/2102228033306612127-4.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSydQE_bEAABd2t",
+    "x-image:/media/HSydQFJaAAEm1Yy",
+    "x-image:/media/HSydQE_awAAcUWX",
+    "x-image:/media/HSydQFJbQAAT4xW",
+    "x-post:2102228033306612127"
+  ],
+  "analysis": {
+    "summary": "冷灰色调极简电影感哥特风婚礼与血迹九宫格组图。",
+    "summaryEn": "Cool-toned minimalist cinematic gothic wedding collage with subtle blood accents in a 3x3 grid.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "图片为冷灰电影质感的9:16九宫格婚礼画面，伴有鲜血异常细节，与提示词完全吻合。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "婚礼x极简冷灰时装电影 × 一点血色异常，3x3，9:16",
+    "sourceRange": {
+      "start": 22,
+      "end": 51
+    },
+    "translations": {
+      "zh": "婚礼x极简冷灰时装电影 × 一点血色异常，3x3宫格，9:16",
+      "en": "Wedding x minimalist cool grey fashion cinema x subtle bloody anomaly, 3x3 grid, 9:16"
+    },
+    "targetModels": [
+      "image2.5"
+    ],
+    "category": "text-to-image",
+    "useCase": "概念摄影",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [
+        "微量血迹"
+      ],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}

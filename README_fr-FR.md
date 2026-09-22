@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**178** Prompts · Dernier ajout: **2026-09-22**
+**182** Prompts · Dernier ajout: **2026-09-22**
 
 <a name="catalog"></a>
 
@@ -628,6 +628,50 @@ Photographie · Paysage / Nature · Publié
 
 ```text
 Photo d'une clairière dans les bois avec un feuillage vert abondant, très détaillée
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2102203475757015262"></a>
+
+### Traduction en cours
+
+Auteur：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publication originale](https://x.com/CyberTotal2026/status/2102203475757015262)
+
+Photographie · Portrait / Selfie · Personnage · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2102203475757015262-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2102237701428920362"></a>
+
+### Traduction en cours
+
+Auteur：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publication originale](https://x.com/CyberTotal2026/status/2102237701428920362)
+
+Photographie · Portrait / Selfie · Personnage · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2102237701428920362-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -2528,6 +2572,34 @@ Portrait haute résolution d'un homme sud-asiatique de 23 ans aux yeux fermés e
 
 ## Image cinématographique / Photogramme de film
 
+<a name="prompt-2102228033306612127"></a>
+
+### Traduction en cours
+
+Auteur：[@JoywDan](https://x.com/JoywDan) · [Publication originale](https://x.com/JoywDan/status/2102228033306612127)
+
+Photographie · Image cinématographique / Photogramme de film · Minimalisme · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2102228033306612127-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2102228033306612127-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2102228033306612127-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2102228033306612127-4.jpg" alt="Image 4" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
 <a name="prompt-2101248200787320961"></a>
 
 ### Prompt de vidéo segmentée de 30 secondes montrant une jeune femme courant à travers une ville pliée et inversée à la manière d'Inception pour livrer une enveloppe jaune au coucher du soleil dans la Venise des années 1940.
@@ -4022,6 +4094,34 @@ Calme, poétique, raffiné, minimaliste, innocent, artistique, réfléchi, haut 
 <a name="category-other"></a>
 
 ## Autres
+
+<a name="prompt-2102218694873248214"></a>
+
+### Traduction en cours
+
+Auteur：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publication originale](https://x.com/DeepBlueX0/status/2102218694873248214)
+
+Personnage · Alimentation / Boissons · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2102218694873248214-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2102218694873248214-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2102218694873248214-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2102218694873248214-4.jpg" alt="Image 4" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2101902908178776196"></a>
 

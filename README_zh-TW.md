@@ -19,7 +19,7 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 為儲存庫加上 Star，追蹤每日精選提示詞，持續獲得創作靈感。
 
-**178** 筆內容 · 最新收錄: **2026-09-22**
+**182** 筆內容 · 最新收錄: **2026-09-22**
 
 <a name="catalog"></a>
 
@@ -633,6 +633,50 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 ```text
 樹林中一片空地的照片，周圍有大量綠葉植物，細節極其豐富
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
+
+<a name="prompt-2102203475757015262"></a>
+
+### 翻譯中
+
+作者：[@CyberTotal2026](https://x.com/CyberTotal2026) · [查看 X 原帖](https://x.com/CyberTotal2026/status/2102203475757015262)
+
+攝影 · 人像 / 自拍 · 角色 · 已推流
+
+**概括:** 翻譯中
+
+<img src="images/2102203475757015262-1.jpg" alt="圖片 1" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
+
+<a name="prompt-2102237701428920362"></a>
+
+### 翻譯中
+
+作者：[@CyberTotal2026](https://x.com/CyberTotal2026) · [查看 X 原帖](https://x.com/CyberTotal2026/status/2102237701428920362)
+
+攝影 · 人像 / 自拍 · 角色 · 已推流
+
+**概括:** 翻譯中
+
+<img src="images/2102237701428920362-1.jpg" alt="圖片 1" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
 ```
 
 [↑ 返回分類目錄](#catalog)
@@ -2573,6 +2617,34 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 ## 電影感 / 電影劇照
 
+<a name="prompt-2102228033306612127"></a>
+
+### 翻譯中
+
+作者：[@JoywDan](https://x.com/JoywDan) · [查看 X 原帖](https://x.com/JoywDan/status/2102228033306612127)
+
+攝影 · 電影感 / 電影劇照 · 極簡主義 · 已推流
+
+**概括:** 翻譯中
+
+<img src="images/2102228033306612127-1.jpg" alt="圖片 1" width="480" />
+
+<img src="images/2102228033306612127-2.jpg" alt="圖片 2" width="480" />
+
+<img src="images/2102228033306612127-3.jpg" alt="圖片 3" width="480" />
+
+<img src="images/2102228033306612127-4.jpg" alt="圖片 4" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
+
 <a name="prompt-2101248200787320961"></a>
 
 ### 1940年代威尼斯日落時分，一名年輕女子在如《全面啟動》般折疊倒置的城市中奔跑遞送黃色信封的30秒分段影片提示詞。
@@ -4054,6 +4126,34 @@ SHIBUYA • SHINJUKU • HARAJUKU • AKIHABARA
 <a name="category-other"></a>
 
 ## 其他
+
+<a name="prompt-2102218694873248214"></a>
+
+### 翻譯中
+
+作者：[@DeepBlueX0](https://x.com/DeepBlueX0) · [查看 X 原帖](https://x.com/DeepBlueX0/status/2102218694873248214)
+
+角色 · 食物 / 飲品 · 已推流
+
+**概括:** 翻譯中
+
+<img src="images/2102218694873248214-1.jpg" alt="圖片 1" width="480" />
+
+<img src="images/2102218694873248214-2.jpg" alt="圖片 2" width="480" />
+
+<img src="images/2102218694873248214-3.jpg" alt="圖片 3" width="480" />
+
+<img src="images/2102218694873248214-4.jpg" alt="圖片 4" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
 
 <a name="prompt-2101902908178776196"></a>
 

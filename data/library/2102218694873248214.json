@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-22T04:25:34.663Z",
+  "model": "image2.5",
+  "prompt": "《红楼梦·群芳夜宴》 × 《最后的晚餐》13人经典群像构图 × 仅借用横向群像结构 × 约1.9:1宽幅 × 画面左侧6人：妙玉、王熙凤、史湘云、探春、李纨、林黛玉 × 中央：贾宝玉 × 画面右侧6人：薛宝钗、迎春、惜春、平儿、袭人、晴雯 × 横向长桌宴席 × 清代宫廷工笔人物画",
+  "promptTranslations": {
+    "en": "\"Dream of the Red Chamber: Night Banquet of the Beauties\" × \"The Last Supper\" classic 13-person group portrait composition × Only borrowing the horizontal group composition structure × Approximately 1.9:1 wide aspect ratio × 6 figures on the left side of the frame: Miaoyu, Wang Xifeng, Shi Xiangyun, Tanchun, Li Wan, Lin Daiyu × Center: Jia Baoyu × 6 figures on the right side of the frame: Xue Baochai, Yingchun, Xichun, Ping'er, Xiren, Qingwen × Horizontal long banquet table × Qing Dynasty court gongbi figure painting style"
+  },
+  "summaryTranslations": {
+    "en": "Create a Qing Dynasty court gongbi style group portrait of \"Dream of the Red Chamber: Night Banquet of the Beauties\" using the 13-person compositional layout of \"The Last Supper\"."
+  },
+  "translationVersion": 2,
+  "summary": "以《最后的晚餐》13人格局构图创作清代宫廷工笔风《红楼梦·群芳夜宴》群像。",
+  "summaryEn": "A Dream of the Red Chamber 13-character banquet composition styled after The Last Supper in Qing court Gongbi painting.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2102218694873248214",
+    "canonicalUrl": "https://x.com/DeepBlueX0/status/2102218694873248214",
+    "author": {
+      "username": "DeepBlueX0",
+      "displayName": "DeepBlue深藍",
+      "profileUrl": "https://x.com/DeepBlueX0"
+    },
+    "publishedAt": "2026-09-22T02:09:28.000Z",
+    "collectedAt": "2026-09-22T04:15:59.014Z",
+    "language": "zh",
+    "originalText": "喜欢《红楼梦》的应该都认识吧？构图灵感来源达芬奇《最后的晚餐》\n\n🔵 GPT image 2.5 Prompt:\n\n《红楼梦·群芳夜宴》 × 《最后的晚餐》13人经典群像构图 × 仅借用横向群像结构 × 约1.9:1宽幅 × 画面左侧6人：妙玉、王熙凤、史湘云、探春、李纨、林黛玉 × 中央：贾宝玉 × 画面右侧6人：薛宝钗、迎春、惜春、平儿、袭人、晴雯 × 横向长桌宴席 × 清代宫廷工笔人物画\n\n说明：\n“《最后的晚餐》13人经典群像构图”仅借用其中央人物＋左右各6人＋横向长桌＋左右人物分组的构图关系。画面严格保持左6人、中央1人、右6人，共13人。贾宝玉位于画面正中央，林黛玉与薛宝钗分别紧邻贾宝玉两侧，其余人物按照提示词规定的顺序向画面两侧展开。13人全部清晰可见，不增减人物，不打乱左右顺序，不将人物分散到其他区域。人物沿长桌两侧形成完整横向群像。仅借用《最后的晚餐》的构图结构，故事、人物、服饰、场景与绘画语言均采用《红楼梦》的中国古典语境，不出现西方宗教人物或宗教元素。",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSyUwcubAAAZxxH.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSyUwcubAAAZxxH.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSyUwfMboAAu3bd.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSyUwfMboAAu3bd.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSyUwcvaYAA3JZ1.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSyUwcvaYAA3JZ1.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSyUwcyaMAAZO7L.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSyUwcyaMAAZO7L.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 21,
+      "repostCount": 1,
+      "replyCount": 2,
+      "quoteCount": 1,
+      "viewCount": 865
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/DeepBlueX0/status/2102218694873248214",
+  "coverUrl": "https://pbs.twimg.com/media/HSyUwcubAAAZxxH.jpg",
+  "coverPath": "images/2102218694873248214-1.jpg",
+  "imagePaths": [
+    "images/2102218694873248214-1.jpg",
+    "images/2102218694873248214-2.jpg",
+    "images/2102218694873248214-3.jpg",
+    "images/2102218694873248214-4.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSyUwcubAAAZxxH",
+    "x-image:/media/HSyUwfMboAAu3bd",
+    "x-image:/media/HSyUwcvaYAA3JZ1",
+    "x-image:/media/HSyUwcyaMAAZO7L",
+    "x-post:2102218694873248214"
+  ],
+  "analysis": {
+    "summary": "以《最后的晚餐》13人格局构图创作清代宫廷工笔风《红楼梦·群芳夜宴》群像。",
+    "summaryEn": "A Dream of the Red Chamber 13-character banquet composition styled after The Last Supper in Qing court Gongbi painting.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "图片展现了清代工笔画风格的横向长桌宴席，贾宝玉居中，金陵十二钗及丫鬟分列两侧，与提示词构图完全对应。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "《红楼梦·群芳夜宴》 × 《最后的晚餐》13人经典群像构图 × 仅借用横向群像结构 × 约1.9:1宽幅 × 画面左侧6人：妙玉、王熙凤、史湘云、探春、李纨、林黛玉 × 中央：贾宝玉 × 画面右侧6人：薛宝钗、迎春、惜春、平儿、袭人、晴雯 × 横向长桌宴席 × 清代宫廷工笔人物画",
+    "sourceRange": {
+      "start": 58,
+      "end": 198
+    },
+    "translations": {
+      "zh": "《红楼梦·群芳夜宴》借用《最后的晚餐》13人经典群像构图，约1.9:1宽幅，横向长桌宴席，左6人、中贾宝玉、右6人，清代宫廷工笔人物画风格。",
+      "en": "\"Dream of the Red Chamber Night Banquet\" in a 13-person composition inspired by \"The Last Supper\" at a ~1.9:1 aspect ratio, featuring 6 figures on the left, Jia Baoyu in the center, and 6 on the right along a banquet table, rendered in Qing court Gongbi style."
+    },
+    "targetModels": [
+      "image2.5"
+    ],
+    "category": "text-to-image",
+    "useCase": "AI绘图生成古典长卷群像画作",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}

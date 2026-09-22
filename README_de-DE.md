@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**178** Prompts · Zuletzt hinzugefügt: **2026-09-22**
+**182** Prompts · Zuletzt hinzugefügt: **2026-09-22**
 
 <a name="catalog"></a>
 
@@ -628,6 +628,50 @@ Fotografie · Landschaft / Natur · Veröffentlicht
 
 ```text
 Foto einer Waldlichtung mit viel grünem Blattwerk, sehr detailliert
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2102203475757015262"></a>
+
+### Übersetzung läuft
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Originalbeitrag](https://x.com/CyberTotal2026/status/2102203475757015262)
+
+Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2102203475757015262-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2102237701428920362"></a>
+
+### Übersetzung läuft
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Originalbeitrag](https://x.com/CyberTotal2026/status/2102237701428920362)
+
+Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2102237701428920362-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -2528,6 +2572,34 @@ Hochauflösendes Porträt eines 23-jährigen südasiatischen Mannes mit geschlos
 
 ## Kinematisch / Filmstill
 
+<a name="prompt-2102228033306612127"></a>
+
+### Übersetzung läuft
+
+Autor：[@JoywDan](https://x.com/JoywDan) · [Originalbeitrag](https://x.com/JoywDan/status/2102228033306612127)
+
+Fotografie · Kinematisch / Filmstill · Minimalismus · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2102228033306612127-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2102228033306612127-2.jpg" alt="Bild 2" width="480" />
+
+<img src="images/2102228033306612127-3.jpg" alt="Bild 3" width="480" />
+
+<img src="images/2102228033306612127-4.jpg" alt="Bild 4" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
 <a name="prompt-2101248200787320961"></a>
 
 ### 30-sekündiger segmentierter Video-Prompt: Eine junge Frau rennt im Venedig der 1940er Jahre bei Sonnenuntergang durch eine im Inception-Stil gefaltete, umgedrehte Stadt, um einen gelben Umschlag zu überbringen.
@@ -4023,6 +4095,34 @@ Ruhig, poetisch, raffiniert, minimalistisch, unschuldig, künstlerisch, nachdenk
 <a name="category-other"></a>
 
 ## Sonstige
+
+<a name="prompt-2102218694873248214"></a>
+
+### Übersetzung läuft
+
+Autor：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Originalbeitrag](https://x.com/DeepBlueX0/status/2102218694873248214)
+
+Charakter · Essen / Trinken · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2102218694873248214-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2102218694873248214-2.jpg" alt="Bild 2" width="480" />
+
+<img src="images/2102218694873248214-3.jpg" alt="Bild 3" width="480" />
+
+<img src="images/2102218694873248214-4.jpg" alt="Bild 4" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2101902908178776196"></a>
 

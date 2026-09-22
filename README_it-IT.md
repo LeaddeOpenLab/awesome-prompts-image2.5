@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**178** Prompt · Ultima aggiunta: **2026-09-22**
+**182** Prompt · Ultima aggiunta: **2026-09-22**
 
 <a name="catalog"></a>
 
@@ -628,6 +628,50 @@ Fotografia · Paesaggio / Natura · Pubblicato
 
 ```text
 Foto di una radura nel bosco con abbondante fogliame verde, altamente dettagliata
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2102203475757015262"></a>
+
+### Traduzione in corso
+
+Autore：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Post originale](https://x.com/CyberTotal2026/status/2102203475757015262)
+
+Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2102203475757015262-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2102237701428920362"></a>
+
+### Traduzione in corso
+
+Autore：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Post originale](https://x.com/CyberTotal2026/status/2102237701428920362)
+
+Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2102237701428920362-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -2528,6 +2572,34 @@ Ritratto ad alta risoluzione di un uomo sudasiatico di 23 anni con gli occhi chi
 
 ## Fermo immagine cinematografico / Still fotografico
 
+<a name="prompt-2102228033306612127"></a>
+
+### Traduzione in corso
+
+Autore：[@JoywDan](https://x.com/JoywDan) · [Post originale](https://x.com/JoywDan/status/2102228033306612127)
+
+Fotografia · Fermo immagine cinematografico / Still fotografico · Minimalismo · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2102228033306612127-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2102228033306612127-2.jpg" alt="Immagine 2" width="480" />
+
+<img src="images/2102228033306612127-3.jpg" alt="Immagine 3" width="480" />
+
+<img src="images/2102228033306612127-4.jpg" alt="Immagine 4" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
 <a name="prompt-2101248200787320961"></a>
 
 ### Prompt video suddiviso in sequenze di 30 secondi di una giovane donna che corre in una città ripiegata e capovolta in stile Inception per consegnare una busta gialla al tramonto nella Venezia degli anni '40.
@@ -4022,6 +4094,34 @@ Silenzioso, poetico, raffinato, minimale, innocente, artistico, riflessivo, prem
 <a name="category-other"></a>
 
 ## Altro
+
+<a name="prompt-2102218694873248214"></a>
+
+### Traduzione in corso
+
+Autore：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Post originale](https://x.com/DeepBlueX0/status/2102218694873248214)
+
+Personaggio · Cibo / Bevande · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2102218694873248214-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2102218694873248214-2.jpg" alt="Immagine 2" width="480" />
+
+<img src="images/2102218694873248214-3.jpg" alt="Immagine 3" width="480" />
+
+<img src="images/2102218694873248214-4.jpg" alt="Immagine 4" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2101902908178776196"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**178** Prompts · Latest addition: **2026-09-22**
+**182** Prompts · Latest addition: **2026-09-22**
 
 <a name="catalog"></a>
 
@@ -690,6 +690,94 @@ Photography · Landscape / Nature · Published
 
 ```text
 Photo of a clearing in the woods with lots of green foliage, highly detailed
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2102203475757015262"></a>
+
+### A prompt for a realistic portrait photograph of a woman reading a book on a toilet seat in a Japanese-style restroom.
+
+Author：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Source](https://x.com/CyberTotal2026/status/2102203475757015262)
+
+Photography · Portrait / Selfie · Character · Published
+
+**Summary:** A prompt for a realistic portrait photograph of a woman reading a book on a toilet seat in a Japanese-style restroom.
+
+<img src="images/2102203475757015262-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Theme:
+Blue Shirt and Secret Reading
+
+Main Subject:
+In the center of the frame, a young woman sits on a toilet seat in a narrow Japanese-style restroom, reading an old green book. The pale blue shirt slipped off her shoulders, wide-leg denim pulled down to her knees, the book, and the red cups and small items scattered on the floor take center stage.
+
+Person / Expression:
+A small oval face, slender jaw, downcast dark brown eyes, thin eyebrows, well-shaped nose, and glossy pale pink lips. Her face is turned downward with a calm expression, her gaze focused on the open book. Long, wavy dark brown hair flows over both shoulders, leaving thin bangs.
+
+Clothing / Pose:
+A white ribbed tank top with lace trim, over which a pale blue long-sleeved shirt hangs off both shoulders. Light-colored wide denim jeans with a belt are pulled down to her knees, paired with white pointed-toe pumps. Sitting on the toilet seat with knees spread, holding a large green-covered book open in front of her chest with both hands.
+
+Background / Lighting:
+On the right side of the frame is a wood-framed shoji sliding door, on the left a wooden washbasin, toilet paper holder, and towel; in the central background a shelf, potted plant, fragrance bottle, and framed picture. On the foreground floor are two red paper cups, a white bag, a mobile phone, and a small box. Soft, warm light from the upper front evenly illuminates the narrow room.
+
+Composition / Camera:
+2:3 vertical composition, front-facing camera slightly higher than the floor capturing the full body from the framed picture overhead down to the tips of her shoes and foreground items. The subject is prominently centered, framed by the wooden trim on the left and right, with the book in the center, cups in the lower left, and bag in the lower right. Focus is sharp near the shoe tips, with the shelf in the back lightly blurred.
+
+Texture / Style:
+Photorealistic live-action photograph. High-definition rendering of denim wrinkles, shirt, old book, wood frame, shoji, and small items on the floor, using the red cups as accent colors against wood tones, pale blue, and green.
+
+Negative:
+Altering reading and toilet seat posture; omitting floor items or denim
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2102237701428920362"></a>
+
+### A realistic morning portrait of a young woman lying prone on a white bed in a dark navy lace bralette top, propping herself up on her elbows and gazing into the camera.
+
+Author：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Source](https://x.com/CyberTotal2026/status/2102237701428920362)
+
+Photography · Portrait / Selfie · Character · Published
+
+**Summary:** A realistic morning portrait of a young woman lying prone on a white bed in a dark navy lace bralette top, propping herself up on her elbows and gazing into the camera.
+
+<img src="images/2102237701428920362-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Subject:
+Morning Gaze in Dark Navy Lace
+
+Main Subject:
+A close-up view of a young woman in the center of the frame, lying prone on a white bed and propping up her upper body on her elbows. The dark navy lace bralette top, long dark brown hair, and her face illuminated by the morning sun take center stage.
+
+Person / Expression:
+A slender oval face, small chin, large dark brown eyes, thin eyebrows, a neat nose bridge, and pale pink lips slightly parted. Face is almost directly facing forward, with a serene expression directing her gaze straight at the camera. Long dark brown hair forms wispy bangs and falls naturally over both shoulders and across her chest.
+
+Clothing / Pose:
+A bralette/swimsuit-style top with thin shoulder straps, dark navy floral lace trim, and a small knot in the center, with matching bottoms partially visible in the background to the left. Lying prone on white bedding, resting both elbows beneath her chest with forearms crossed, bringing her shoulders forward to draw her face close to the camera.
+
+Background / Lighting:
+White sheets and pillows in the foreground and right of the frame, sheer pale blue-white curtains in the background right, and dark areas of a gray wall and furniture in the far left background. Soft morning sunlight pours in from the window on the right of the frame onto her right cheek, shoulder, and arm, creating a fine rim light on the hair on her left side.
+
+Composition / Camera:
+3:4 vertical composition, a chest-up close-up shot with the camera positioned front-on skimming the surface of the bed, capturing from the crown of her head down to the crossed forearms beneath her chest. Her face is framed prominently in the upper center, with the dark navy top in the lower center. Arms are cropped at the bottom edge, hair cropped at the left and right edges, sharp focus on both eyes and lips, with softly blurred bedding.
+
+Texture / Style:
+Photorealistic real-life photography. High-definition rendering of natural pores, eyelashes, glossy hair, dark navy floral lace, and white bedding, bathed in morning light with a palette of white, navy, and soft skin tones.
+
+Negative:
+Altering the prone close-up; omitting dark navy lace and morning light
 ```
 
 [↑ Back to categories](#catalog)
@@ -3592,6 +3680,34 @@ High-resolution portrait of a 23-year-old South Asian man with eyes closed and h
 
 ## Cinematic / Film Still
 
+<a name="prompt-2102228033306612127"></a>
+
+### Nine-grid photo set of a minimalist cinematic gothic wedding with cool gray tones and bloodstains.
+
+Author：[@JoywDan](https://x.com/JoywDan) · [Source](https://x.com/JoywDan/status/2102228033306612127)
+
+Photography · Cinematic / Film Still · Minimalism · Published
+
+**Summary:** Nine-grid photo set of a minimalist cinematic gothic wedding with cool gray tones and bloodstains.
+
+<img src="images/2102228033306612127-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2102228033306612127-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2102228033306612127-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2102228033306612127-4.jpg" alt="Image 4" width="480" />
+
+**Prompt**
+
+```text
+Wedding x minimalist cold gray fashion cinema x a touch of bloody anomaly, 3x3, 9:16
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
 <a name="prompt-2101248200787320961"></a>
 
 ### A 30-second segmented video prompt of a young woman running through an Inception-style folding, inverted city to deliver a yellow envelope in 1940s Venice at sunset.
@@ -5039,6 +5155,34 @@ Create ONE independent high-end editorial poster for EACH uploaded photo. Never 
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2102218694873248214"></a>
+
+### Create a Qing Dynasty court gongbi style group portrait of &quot;Dream of the Red Chamber: Night Banquet of the Beauties&quot; using the 13-person compositional layout of &quot;The Last Supper&quot;.
+
+Author：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Source](https://x.com/DeepBlueX0/status/2102218694873248214)
+
+Character · Food / Drink · Published
+
+**Summary:** Create a Qing Dynasty court gongbi style group portrait of &quot;Dream of the Red Chamber: Night Banquet of the Beauties&quot; using the 13-person compositional layout of &quot;The Last Supper&quot;.
+
+<img src="images/2102218694873248214-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2102218694873248214-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2102218694873248214-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2102218694873248214-4.jpg" alt="Image 4" width="480" />
+
+**Prompt**
+
+```text
+"Dream of the Red Chamber: Night Banquet of the Beauties" × "The Last Supper" classic 13-person group portrait composition × Only borrowing the horizontal group composition structure × Approximately 1.9:1 wide aspect ratio × 6 figures on the left side of the frame: Miaoyu, Wang Xifeng, Shi Xiangyun, Tanchun, Li Wan, Lin Daiyu × Center: Jia Baoyu × 6 figures on the right side of the frame: Xue Baochai, Yingchun, Xichun, Ping'er, Xiren, Qingwen × Horizontal long banquet table × Qing Dynasty court gongbi figure painting style
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2101902908178776196"></a>
 

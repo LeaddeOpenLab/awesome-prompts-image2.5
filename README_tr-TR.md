@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**178** Prompt · Son eklenen: **2026-09-22**
+**182** Prompt · Son eklenen: **2026-09-22**
 
 <a name="catalog"></a>
 
@@ -628,6 +628,50 @@ Fotoğrafçılık · Manzara / Doğa · Yayımlandı
 
 ```text
 Ormanda bol yeşil yaprakları olan bir açıklığın fotoğrafı, son derece detaylı
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2102203475757015262"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Orijinal gönderi](https://x.com/CyberTotal2026/status/2102203475757015262)
+
+Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2102203475757015262-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2102237701428920362"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Orijinal gönderi](https://x.com/CyberTotal2026/status/2102237701428920362)
+
+Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2102237701428920362-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -2546,6 +2590,34 @@ Gözleri kapalı ve başı dingin bir ifadeyle geriye eğilmiş, dağınık siya
 
 ## Sinematik / Film Karesi
 
+<a name="prompt-2102228033306612127"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@JoywDan](https://x.com/JoywDan) · [Orijinal gönderi](https://x.com/JoywDan/status/2102228033306612127)
+
+Fotoğrafçılık · Sinematik / Film Karesi · Minimalizm · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2102228033306612127-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2102228033306612127-2.jpg" alt="Görsel 2" width="480" />
+
+<img src="images/2102228033306612127-3.jpg" alt="Görsel 3" width="480" />
+
+<img src="images/2102228033306612127-4.jpg" alt="Görsel 4" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
 <a name="prompt-2101248200787320961"></a>
 
 ### 1940'lar Venedik'inde gün batımında, Başlangıç \(Inception\) tarzı katlanan ve baş aşağı duran bir şehirde sarı bir zarfı teslim etmek için koşan genç bir kadının 30 saniyelik bölümlere ayrılmış video istemi.
@@ -4011,6 +4083,34 @@ Sakin, şiirsel, zarif, minimal, masum, sanatsal, düşünceli, birinci sınıf 
 <a name="category-other"></a>
 
 ## Diğer
+
+<a name="prompt-2102218694873248214"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Orijinal gönderi](https://x.com/DeepBlueX0/status/2102218694873248214)
+
+Karakter · Yiyecek / İçecek · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2102218694873248214-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2102218694873248214-2.jpg" alt="Görsel 2" width="480" />
+
+<img src="images/2102218694873248214-3.jpg" alt="Görsel 3" width="480" />
+
+<img src="images/2102218694873248214-4.jpg" alt="Görsel 4" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2101902908178776196"></a>
 

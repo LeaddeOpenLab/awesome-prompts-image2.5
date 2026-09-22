@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**178** Prompt · Bổ sung mới nhất: **2026-09-22**
+**182** Prompt · Bổ sung mới nhất: **2026-09-22**
 
 <a name="catalog"></a>
 
@@ -633,6 +633,50 @@ Nhiếp ảnh · Phong cảnh / Thiên nhiên · Đã xuất bản
 
 ```text
 Ảnh chụp một bãi đất trống trong rừng với nhiều tán lá xanh tươi, rất chi tiết
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2102203475757015262"></a>
+
+### Đang dịch
+
+Tác giả：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Bài gốc](https://x.com/CyberTotal2026/status/2102203475757015262)
+
+Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2102203475757015262-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2102237701428920362"></a>
+
+### Đang dịch
+
+Tác giả：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Bài gốc](https://x.com/CyberTotal2026/status/2102237701428920362)
+
+Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2102237701428920362-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
 ```
 
 [↑ Về danh mục](#catalog)
@@ -2573,6 +2617,34 @@ Bức chân dung độ phân giải cao của một người đàn ông Nam Á 2
 
 ## Điện ảnh / Ảnh tĩnh từ phim
 
+<a name="prompt-2102228033306612127"></a>
+
+### Đang dịch
+
+Tác giả：[@JoywDan](https://x.com/JoywDan) · [Bài gốc](https://x.com/JoywDan/status/2102228033306612127)
+
+Nhiếp ảnh · Điện ảnh / Ảnh tĩnh từ phim · Chủ nghĩa tối giản · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2102228033306612127-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2102228033306612127-2.jpg" alt="Hình ảnh 2" width="480" />
+
+<img src="images/2102228033306612127-3.jpg" alt="Hình ảnh 3" width="480" />
+
+<img src="images/2102228033306612127-4.jpg" alt="Hình ảnh 4" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
 <a name="prompt-2101248200787320961"></a>
 
 ### Lời nhắc video phân đoạn 30 giây về một người phụ nữ trẻ chạy qua một thành phố Venice những năm 1940 gấp khúc và lộn ngược như trong phim Inception để chuyển phát một phong bì màu vàng lúc hoàng hôn.
@@ -4064,6 +4136,34 @@ Tạo MỘT áp phích biên tập cao cấp độc lập cho MỖI bức ảnh 
 <a name="category-other"></a>
 
 ## Khác
+
+<a name="prompt-2102218694873248214"></a>
+
+### Đang dịch
+
+Tác giả：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Bài gốc](https://x.com/DeepBlueX0/status/2102218694873248214)
+
+Nhân vật · Thực phẩm / Đồ uống · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2102218694873248214-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2102218694873248214-2.jpg" alt="Hình ảnh 2" width="480" />
+
+<img src="images/2102218694873248214-3.jpg" alt="Hình ảnh 3" width="480" />
+
+<img src="images/2102218694873248214-4.jpg" alt="Hình ảnh 4" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2101902908178776196"></a>
 

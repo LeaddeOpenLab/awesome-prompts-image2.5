@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**178** Prompts · Adição mais recente: **2026-09-22**
+**182** Prompts · Adição mais recente: **2026-09-22**
 
 <a name="catalog"></a>
 
@@ -628,6 +628,50 @@ Fotografia · Paisagem / Natureza · Publicado
 
 ```text
 Fotografia de uma clareira na floresta com muita folhagem verde, altamente detalhada
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2102203475757015262"></a>
+
+### Tradução em curso
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicação original](https://x.com/CyberTotal2026/status/2102203475757015262)
+
+Fotografia · Retrato / Selfie · Personagem · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2102203475757015262-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2102237701428920362"></a>
+
+### Tradução em curso
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicação original](https://x.com/CyberTotal2026/status/2102237701428920362)
+
+Fotografia · Retrato / Selfie · Personagem · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2102237701428920362-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -2546,6 +2590,34 @@ Retrato em alta resolução de um homem do sul da Ásia de 23 anos com os olhos 
 
 ## Cena de Cinema / Fotograma
 
+<a name="prompt-2102228033306612127"></a>
+
+### Tradução em curso
+
+Autor：[@JoywDan](https://x.com/JoywDan) · [Publicação original](https://x.com/JoywDan/status/2102228033306612127)
+
+Fotografia · Cena de Cinema / Fotograma · Minimalismo · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2102228033306612127-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2102228033306612127-2.jpg" alt="Imagem 2" width="480" />
+
+<img src="images/2102228033306612127-3.jpg" alt="Imagem 3" width="480" />
+
+<img src="images/2102228033306612127-4.jpg" alt="Imagem 4" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
 <a name="prompt-2101248200787320961"></a>
 
 ### Prompt de vídeo segmentado de 30 segundos de uma jovem mulher a correr para entregar um envelope amarelo numa Veneza invertida e dobrada ao estilo Inception durante o pôr do sol na década de 1940.
@@ -4015,6 +4087,34 @@ Tranquilo, poético, refinado, minimalista, inocente, artístico, ponderado, sof
 <a name="category-other"></a>
 
 ## Outros
+
+<a name="prompt-2102218694873248214"></a>
+
+### Tradução em curso
+
+Autor：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicação original](https://x.com/DeepBlueX0/status/2102218694873248214)
+
+Personagem · Comida / Bebida · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2102218694873248214-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2102218694873248214-2.jpg" alt="Imagem 2" width="480" />
+
+<img src="images/2102218694873248214-3.jpg" alt="Imagem 3" width="480" />
+
+<img src="images/2102218694873248214-4.jpg" alt="Imagem 4" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2101902908178776196"></a>
 

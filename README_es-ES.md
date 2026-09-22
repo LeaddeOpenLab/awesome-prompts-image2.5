@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**178** Prompts · Última incorporación: **2026-09-22**
+**182** Prompts · Última incorporación: **2026-09-22**
 
 <a name="catalog"></a>
 
@@ -633,6 +633,50 @@ Fotografía · Paisaje / Naturaleza · Publicado
 
 ```text
 Foto de un claro en el bosque con abundante follaje verde, altamente detallada
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2102203475757015262"></a>
+
+### Traducción en curso
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicación original](https://x.com/CyberTotal2026/status/2102203475757015262)
+
+Fotografía · Retrato / Selfie · Personaje · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2102203475757015262-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2102237701428920362"></a>
+
+### Traducción en curso
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicación original](https://x.com/CyberTotal2026/status/2102237701428920362)
+
+Fotografía · Retrato / Selfie · Personaje · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2102237701428920362-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -2573,6 +2617,34 @@ Retrato de alta resolución de un hombre del sur de Asia de 23 años con los ojo
 
 ## Cine / Fotograma de película
 
+<a name="prompt-2102228033306612127"></a>
+
+### Traducción en curso
+
+Autor：[@JoywDan](https://x.com/JoywDan) · [Publicación original](https://x.com/JoywDan/status/2102228033306612127)
+
+Fotografía · Cine / Fotograma de película · Minimalismo · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2102228033306612127-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2102228033306612127-2.jpg" alt="Imagen 2" width="480" />
+
+<img src="images/2102228033306612127-3.jpg" alt="Imagen 3" width="480" />
+
+<img src="images/2102228033306612127-4.jpg" alt="Imagen 4" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
 <a name="prompt-2101248200787320961"></a>
 
 ### Prompt de video segmentado de 30 segundos de una joven que corre por una Venecia de los años 40 plegada e invertida al estilo de Inception para entregar un sobre amarillo al atardecer.
@@ -4087,6 +4159,34 @@ Tranquilo, poético, refinado, minimalista, inocente, artístico, reflexivo, pr�
 <a name="category-other"></a>
 
 ## Otros
+
+<a name="prompt-2102218694873248214"></a>
+
+### Traducción en curso
+
+Autor：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicación original](https://x.com/DeepBlueX0/status/2102218694873248214)
+
+Personaje · Comida / Bebida · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2102218694873248214-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2102218694873248214-2.jpg" alt="Imagen 2" width="480" />
+
+<img src="images/2102218694873248214-3.jpg" alt="Imagen 3" width="480" />
+
+<img src="images/2102218694873248214-4.jpg" alt="Imagen 4" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2101902908178776196"></a>
 
