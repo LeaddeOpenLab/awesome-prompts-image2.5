@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**182** Prompts · Última adição: **2026-09-22**
+**187** Prompts · Última adição: **2026-09-22**
 
 <a name="catalog"></a>
 
@@ -628,6 +628,94 @@ Fotografia · Paisagem / Natureza · Publicado
 
 ```text
 Foto de uma clareira na floresta com muita folhagem verde, altamente detalhada
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2102325781875794287"></a>
+
+### Tradução em andamento
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicação original](https://x.com/CyberTotal2026/status/2102325781875794287)
+
+Fotografia · Retrato / Selfie · Personagem · Item de Moda · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2102325781875794287-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2102354722426675276"></a>
+
+### Tradução em andamento
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicação original](https://x.com/CyberTotal2026/status/2102354722426675276)
+
+Fotografia · Retrato / Selfie · Personagem · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2102354722426675276-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2102342895839973459"></a>
+
+### Tradução em andamento
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicação original](https://x.com/CyberTotal2026/status/2102342895839973459)
+
+Fotografia · Retrato / Selfie · Personagem · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2102342895839973459-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2102370828633674112"></a>
+
+### Tradução em andamento
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicação original](https://x.com/CyberTotal2026/status/2102370828633674112)
+
+Fotografia · Retrato / Selfie · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2102370828633674112-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -2592,13 +2680,13 @@ Retrato em alta resolução de um homem do sul da Ásia de 23 anos com os olhos 
 
 <a name="prompt-2102228033306612127"></a>
 
-### Tradução em andamento
+### Conjunto de imagens em grade 3x3 de casamento gótico cinematográfico e minimalista em tons de cinza frio com manchas de sangue.
 
 Autor：[@JoywDan](https://x.com/JoywDan) · [Publicação original](https://x.com/JoywDan/status/2102228033306612127)
 
 Fotografia · Cinematográfico / Imagem de Filme · Minimalismo · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Conjunto de imagens em grade 3x3 de casamento gótico cinematográfico e minimalista em tons de cinza frio com manchas de sangue.
 
 <img src="images/2102228033306612127-1.jpg" alt="Imagem 1" width="480" />
 
@@ -2611,7 +2699,7 @@ Fotografia · Cinematográfico / Imagem de Filme · Minimalismo · Publicado
 **Prompt**
 
 ```text
-Tradução em andamento
+Casamento x cinema de moda minimalista cinza frio × um toque de anomalia cor de sangue, 3x3, 9:16
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -2963,6 +3051,38 @@ Negative Prompt: outfit changes, identity changes, realistic second person, norm
 <a name="category-illustration"></a>
 
 ## Ilustração
+
+<a name="prompt-2102328812386287750"></a>
+
+### Tradução em andamento
+
+Autor：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicação original](https://x.com/DeepBlueX0/status/2102328812386287750)
+
+Infográfico / Edu Visual · Ilustração · Diagrama / Gráfico · Publicado
+
+Publicação original：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicação original](https://x.com/DeepBlueX0/status/2097660427216036207)
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2102328812386287750-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2102328812386287750-2.jpg" alt="Imagem 2" width="480" />
+
+<img src="images/2102328812386287750-3.jpg" alt="Imagem 3" width="480" />
+
+<img src="images/2102328812386287750-4.jpg" alt="Imagem 4" width="480" />
+
+<img src="images/2102328812386287750-5.jpg" alt="Imagem 5" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2097713691433070629"></a>
 
@@ -4090,13 +4210,13 @@ Tranquilo, poético, refinado, minimalista, inocente, artístico, ponderado, sof
 
 <a name="prompt-2102218694873248214"></a>
 
-### Tradução em andamento
+### Criação de um retrato de grupo de «O Sonho da Câmara Vermelha · O Banquete Noturno das Beldades» no estilo Gongbi cortesão da dinastia Qing, utilizando a composição de 13 pessoas de «A Última Ceia».
 
 Autor：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicação original](https://x.com/DeepBlueX0/status/2102218694873248214)
 
 Personagem · Alimentos / Bebidas · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Criação de um retrato de grupo de «O Sonho da Câmara Vermelha · O Banquete Noturno das Beldades» no estilo Gongbi cortesão da dinastia Qing, utilizando a composição de 13 pessoas de «A Última Ceia».
 
 <img src="images/2102218694873248214-1.jpg" alt="Imagem 1" width="480" />
 
@@ -4109,7 +4229,7 @@ Personagem · Alimentos / Bebidas · Publicado
 **Prompt**
 
 ```text
-Tradução em andamento
+«O Sonho da Câmara Vermelha · O Banquete Noturno das Beldades» × Composição clássica de grupo com 13 pessoas de «A Última Ceia» × Tomando emprestada apenas a estrutura horizontal do grupo × Formato amplo de aproximadamente 1,9:1 × 6 pessoas no lado esquerdo da imagem: Miaoyu, Wang Xifeng, Shi Xiangyun, Tanchun, Li Wan, Lin Daiyu × Ao centro: Jia Baoyu × 6 pessoas no lado direito da imagem: Xue Baochai, Yingchun, Xichun, Ping'er, Xiren, Qingwen × Banquete em mesa longa horizontal × Pintura de figuras no estilo Gongbi cortesão da dinastia Qing
 ```
 
 [↑ Voltar às categorias](#catalog)

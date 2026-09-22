@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**182** Prompts · Latest addition: **2026-09-22**
+**187** Prompts · Latest addition: **2026-09-22**
 
 <a name="catalog"></a>
 
@@ -690,6 +690,182 @@ Photography · Landscape / Nature · Published
 
 ```text
 Photo of a clearing in the woods with lots of green foliage, highly detailed
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2102325781875794287"></a>
+
+### A realistic portrait photo prompt of a young woman leaning forward in a pale mint-green camisole dress inside a bedroom filled with morning sunlight.
+
+Author：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Source](https://x.com/CyberTotal2026/status/2102325781875794287)
+
+Photography · Portrait / Selfie · Character · Fashion Item · Published
+
+**Summary:** A realistic portrait photo prompt of a young woman leaning forward in a pale mint-green camisole dress inside a bedroom filled with morning sunlight.
+
+<img src="images/2102325781875794287-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Subject:
+Mint Dress in Morning Light
+
+Main Subject:
+In the center of the frame, a young woman leaning forward in a bright bedroom. The highlights are her pale mint-green ribbed mini dress, shoulder tie straps, bow at the chest, and both hands aligned in front of her thighs.
+
+Character / Expression:
+Slender oval face, small chin, large dark brown eyes, thin eyebrows, well-defined nose bridge, glossy pinkish-red lips. Head tilted slightly to the right, directing her gaze and a gentle smile toward the front-facing camera. Her very long dark brown hair has wispy bangs and flows straight from her left shoulder to below her waist.
+
+Outfit / Pose:
+A form-fitting short camisole dress made of pale mint-green fine-ribbed fabric, with a deep scoop neckline featuring ruffles and a center knot, bow-tied shoulder straps on both sides, and delicate ruffles at the hem. Hips tilted to the left with her upper body leaning forward, extending both arms straight down and resting her hands overlapping in front of her thighs.
+
+Background / Lighting:
+On the right side of the frame are white bedding, an off-white knitted blanket, and light green cushions; on the left side are a wooden chest of drawers, a houseplant, a picture frame, a lamp, and a round table with a white cup. Soft morning sunlight streams through the window on the left onto her hair, shoulders, and legs, brightly wrapping the room.
+
+Composition / Camera:
+3:4 vertical composition, a three-quarter portrait captured from a front-facing camera positioned slightly lower than waist level, framing from the top of the head to below the thighs. The subject is prominently centered, with the bed occupying the right half and the plant and round table on the left. Thighs are cropped at the bottom edge, with focus on the face and eyes, and a softly blurred background.
+
+Texture / Style:
+Photorealistic live-action photograph. Natural skin, long hair, fine ribs and ruffles, bedding and knit fabric, and foliage rendered in high definition, with refreshing morning light in mint, white, and light wood tones.
+
+Negative:
+Changes to the forward-leaning posture and hand positions; omitting the mint dress
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2102354722426675276"></a>
+
+### A realistic close-up photo prompt of a young woman wearing a blue floral top making a kissy face in a warm bedroom.
+
+Author：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Source](https://x.com/CyberTotal2026/status/2102354722426675276)
+
+Photography · Portrait / Selfie · Character · Published
+
+**Summary:** A realistic close-up photo prompt of a young woman wearing a blue floral top making a kissy face in a warm bedroom.
+
+<img src="images/2102354722426675276-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Theme:
+Goodnight kiss in blue florals
+
+Subject:
+In the center of the frame, a young woman in a warm bedroom leans in toward the camera making a kissy face. Starring her close-up face, a cardigan top featuring faint blue floral patterns on a white background, a round gold pendant, and braided hair.
+
+Person / Expression:
+A round oval-shaped face, a small chin, half-open light brown eyes, thin eyebrows, a small nose, and glossy pink lips rounded and puckered forward. Her face is slightly tilted upward, her gaze directed straight at the camera, with a kiss expression with puckered lips. Her dark brown hair is braided from the top of her head and gathered at the back, leaving wispy bangs and wet-looking loose strands framing her cheeks.
+
+Clothing / Pose:
+A finely ribbed white cardigan top with a faint blue floral pattern, ruffles on the sleeves and collar, short sleeves, a deep open neckline fastened with two white buttons. A thin gold chain with a round gold pendant, and gold hoop earrings. On the bed, on her hands and knees, with her shoulders pulled forward to bring her face close to the camera.
+
+Background / Lighting:
+An off-white knit blanket in the foreground, white bedding and a plaid blanket on the left in the background, a wooden shelf, stacked books, a warm lamp, and a houseplant in the far right of the frame. The lamp in the rear right and soft light from the front top evenly illuminate her face.
+
+Composition / Camera:
+A 3:4 vertical composition, a close-up frontal camera angle slightly looking down from above the bed, capturing from the crown of the head down to below the chest and upper arms in a bust close-up. The face is positioned very large in the upper center, with both shoulders on the left and right, and the chest in the lower half. The arms are cropped at the bottom edge, with focus on the eyes and lips, and a deeply blurred background.
+
+Texture / Style:
+Photorealistic live-action photograph. High-definition natural pores, glossy lips, braided hair, floral ribbed fabric, metallic accessories, knit textiles, with warm indoor lighting in tones of white, pale blue, and wood.
+
+Negative:
+Altering kissy face and close-up angle; omitting blue floral top
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2102342895839973459"></a>
+
+### A realistic selfie-style portrait prompt of a young woman wearing transparent pink-rimmed glasses, taken on a bed in a bedroom at night.
+
+Author：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Source](https://x.com/CyberTotal2026/status/2102342895839973459)
+
+Photography · Portrait / Selfie · Character · Published
+
+**Summary:** A realistic selfie-style portrait prompt of a young woman wearing transparent pink-rimmed glasses, taken on a bed in a bedroom at night.
+
+<img src="images/2102342895839973459-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Subject:
+Night selfie with clear glasses
+
+Main Subject:
+In the center of the frame, a close-up selfie of the face and upper chest of a young woman taking the shot with her arm extended in bed in a warm bedroom. Oversized transparent pink-rimmed glasses, a white camisole with tiny floral prints, and a fluffy white wrap take center stage.
+
+Person and Expression:
+A small oval face, a slender chin, large dark brown eyes seen through transparent glasses, thin eyebrows, a neat nose, and glossy, plump peach-pink lips. Face tilted slightly to the left, with a quiet, calm expression gazing straight into the camera. Light brown hair gathered neatly into a small updo at the back, with wispy bangs and long stray strands draping down her cheeks.
+
+Clothing and Pose:
+A camisole top featuring microscopic pink floral patterns on a white base, white lace trim, delicate shoulder straps, and a center bow. A white fuzzy knit cardigan loosely draped over both shoulders and arms, paired with oversized clear light-pink round glasses. Her right arm extends toward the camera at the upper right of the frame, while her left arm rests wrapped in fabric near the bottom edge.
+
+Background and Lighting:
+In the background, a white bed, gray checkered pillows, an off-white blanket; in the far left of the frame, a wooden side table, a warm lamp, a plant, and a fragrance bottle. The lamp in the left background and a soft front light illuminate her face and glasses, creating a warm bokeh in the background.
+
+Composition and Camera:
+3:4 vertical composition, a chest-up close-up capturing from the top of the head down to below the chest taken from an extended-arm, slightly high selfie camera angle. The face is prominently positioned in the upper center, glasses as the focal point, and the white wrap framing the lower left and right. The right arm is cropped at the right edge, sharp focus on the eyes and glasses, with the bedding softly blurred.
+
+Texture and Style:
+Photorealistic real photograph. High definition rendering of transparent resin glasses, eyelashes and natural skin, floral print, lace, and fuzzy white fabric, bathed in soft nocturnal light of peach-pink, white, and amber tones.
+
+Negative:
+Omission of transparent round glasses; alteration of close-up angle and floral top
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2102370828633674112"></a>
+
+### Full-body realistic portrait of a young female idol standing with legs apart on a stage with blue lighting, wearing a pink cropped top and a white pleated miniskirt.
+
+Author：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Source](https://x.com/CyberTotal2026/status/2102370828633674112)
+
+Photography · Portrait / Selfie · Published
+
+**Summary:** Full-body realistic portrait of a young female idol standing with legs apart on a stage with blue lighting, wearing a pink cropped top and a white pleated miniskirt.
+
+<img src="images/2102370828633674112-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Subject:
+Pink stage with blue lighting
+
+Main Subject:
+Full body of a young woman standing with legs wide apart on a dark stage in the center of the frame. The stars are a pale pink tie cropped top, a white pleated miniskirt, white platform high heels, and blue spotlights.
+
+Person and Expression:
+Slender oval face, small chin, large dark brown eyes, thin eyebrows, well-defined bridge of the nose, glossy reddish-pink lips. Tilting her head slightly to the right, looking straight into the camera, and smiling gently. Very long dark brown wavy hair with thin bangs, flowing from both sides of her chest down to her waist.
+
+Attire and Pose:
+Pale pink thin-strap ribbed crop top with a small bow and a vertical opening in the center of the chest, and ruffles on the short hem. White high-waisted pleated miniskirt with a silver chain accent on the right hip, and white platform stiletto heels with ankle straps. Standing upright with legs wide apart and both arms placed behind her back.
+
+Background and Lighting:
+The entire background is a stage in dark navy close to black, with bluish-white spotlights from the upper left and right, circular lights on the lower left and right edges, and a glossy black floor with white reflections in the foreground. Hard key light from above brightly illuminates her hair, face, chest, and legs, sharply carving out the contour.
+
+Composition and Camera:
+3:4 vertical composition, full-body shot taken from a front camera positioned lower than knee height, framing from the empty space above the head to the soles of the shoes. The figure is prominent in the center, with long legs forming a V-shape toward the bottom corners, leaving dark negative space in the upper half. Shoes positioned near the bottom edge, full body in sharp focus, background lights softly blurred.
+
+Texture and Style:
+Photorealistic live-action photo. High definition on glossy natural skin, ribbed fabric, pleats, silver chains, white shoes, and floor reflections, with concert lighting in pink, white, and deep navy.
+
+Negative:
+Change wide-stance upright pose; omit pink top and white skirt
 ```
 
 [↑ Back to categories](#catalog)
@@ -4100,6 +4276,40 @@ Use the uploaded reference image as the strict identity and outfit reference. Pr
 <a name="category-illustration"></a>
 
 ## Illustration
+
+<a name="prompt-2102328812386287750"></a>
+
+### Universal prompt template for popular science infographics based on scientific principles and authentic cross-sectional structures, emphasizing clear hierarchy and structural relationships.
+
+Author：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Source](https://x.com/DeepBlueX0/status/2102328812386287750)
+
+Infographic / Edu Visual · Illustration · Diagram / Chart · Published
+
+Source：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Source](https://x.com/DeepBlueX0/status/2097660427216036207)
+
+**Summary:** Universal prompt template for popular science infographics based on scientific principles and authentic cross-sectional structures, emphasizing clear hierarchy and structural relationships.
+
+<img src="images/2102328812386287750-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2102328812386287750-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2102328812386287750-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2102328812386287750-4.jpg" alt="Image 4" width="480" />
+
+<img src="images/2102328812386287750-5.jpg" alt="Image 5" width="480" />
+
+**Prompt**
+
+```text
+[Subject] × Popular science illustration × Professional structural visualization × Cross-sectional structure and spatial relationships × Clear structural hierarchy and information relationships × Scientific infographic-style representation
+
+Based on authentic structures and scientific principles, highlighting key structural and spatial relationships; the image is clear, easy to understand, professional, and accurate; text information is clearly legible, necessary annotations are concise and precise, fonts are neat, and clearly associated with corresponding structures; avoid cartoonish, decorative, overly artistic styles, garbled text, and meaningless text.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097713691433070629"></a>
 

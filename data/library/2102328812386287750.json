@@ -1,0 +1,139 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-22T12:25:36.906Z",
+  "model": "image2.5",
+  "prompt": "【主体】× 科普插图 × 专业结构可视化 × 剖面结构与空间关系 × 清晰的结构层次与信息关系 × 科学图解式表达\n\n以真实结构和科学原理为基础，突出关键结构与空间关系；画面清晰易懂、专业准确；文字信息清晰可读，必要标注简洁准确，字体规整，并与对应结构明确关联；避免卡通化、装饰化、过度艺术化、乱码和无意义文字。",
+  "promptTranslations": {
+    "en": "[Subject] × Popular science illustration × Professional structural visualization × Cross-sectional structure and spatial relationships × Clear structural hierarchy and information relationships × Scientific infographic-style representation\n\nBased on authentic structures and scientific principles, highlighting key structural and spatial relationships; the image is clear, easy to understand, professional, and accurate; text information is clearly legible, necessary annotations are concise and precise, fonts are neat, and clearly associated with corresponding structures; avoid cartoonish, decorative, overly artistic styles, garbled text, and meaningless text."
+  },
+  "summaryTranslations": {
+    "en": "Universal prompt template for popular science infographics based on scientific principles and authentic cross-sectional structures, emphasizing clear hierarchy and structural relationships."
+  },
+  "translationVersion": 2,
+  "summary": "基于科学原理与真实剖面结构的科普图解通用提示词模板，强调清晰层级与结构关联。",
+  "summaryEn": "A general prompt template for popular science infographics and cross-sectional diagrams highlighting spatial relations and accurate technical labeling.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2097660427216036207",
+      "canonicalUrl": "https://x.com/DeepBlueX0/status/2097660427216036207",
+      "author": {
+        "username": "DeepBlueX0",
+        "displayName": "DeepBlue深藍",
+        "profileUrl": "https://x.com/DeepBlueX0"
+      },
+      "originalText": "测试一下即将发布的苹果折叠屏 iPhone Duo的拍照\n\n@grok 帮我看看GPT image 2.5对真实物理世界镜面反射是否合理 https://t.co/9Bh9KbFjcw"
+    },
+    "id": "2102328812386287750",
+    "canonicalUrl": "https://x.com/DeepBlueX0/status/2102328812386287750",
+    "author": {
+      "username": "DeepBlueX0",
+      "displayName": "DeepBlue深藍",
+      "profileUrl": "https://x.com/DeepBlueX0"
+    },
+    "publishedAt": "2026-09-22T09:27:02.000Z",
+    "collectedAt": "2026-09-22T12:15:28.194Z",
+    "language": "zh",
+    "originalText": "9月苹果发布会，我觉得最容易被忽略的，是 A20 这颗芯片升级，按科技博主说法叫牙膏挤爆了。\n\n大部分人看发布会，盯着 iPhone Duo、相机、外观、颜色这些变化，但真正决定一台手机底层体验的，还是芯片。\n\n所以我让GPT把 A20 Pro 拆开画了一张科普图。\n\n这科普图最有意思的地方，就是把原本藏在芯片里的结构、模块和空间关系直接摊开来看。\n\n通用🔵 GPT image 2.5 Prompt:\n\n【主体】× 科普插图 × 专业结构可视化 × 剖面结构与空间关系 × 清晰的结构层次与信息关系 × 科学图解式表达\n\n以真实结构和科学原理为基础，突出关键结构与空间关系；画面清晰易懂、专业准确；文字信息清晰可读，必要标注简洁准确，字体规整，并与对应结构明确关联；避免卡通化、装饰化、过度艺术化、乱码和无意义文字。\n\n主体举例：\n\nA20 Pro SoC → 拆解芯片内部结构\n转子发动机 → 展示燃烧与机械运动关系\nEUV 光刻机 → 展示内部光路和核心组件\n……\n\n本人很喜欢这种玩法。\n\n复杂的事物，用一张图讲明白，让小学生能理解的方式，就感觉很有趣。\n\n以下4图主体分别是：\nA20 Pro芯片、EUV光刻机、转子发动机、精子",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSz46A4bAAEhyMo.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSz46A4bAAEhyMo.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSz46BBaMAAuVfx.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSz46BBaMAAuVfx.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSz46A0asAAhMx1.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSz46A0asAAhMx1.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSz46DcaAAAt9KT.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSz46DcaAAAt9KT.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRxjCH-bgAAxpuW.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRxjCH-bgAAxpuW.jpg",
+        "sourcePostId": "2097660427216036207"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 286
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/DeepBlueX0/status/2102328812386287750",
+  "coverUrl": "https://pbs.twimg.com/media/HSz46A4bAAEhyMo.jpg",
+  "coverPath": "images/2102328812386287750-1.jpg",
+  "imagePaths": [
+    "images/2102328812386287750-1.jpg",
+    "images/2102328812386287750-2.jpg",
+    "images/2102328812386287750-3.jpg",
+    "images/2102328812386287750-4.jpg",
+    "images/2102328812386287750-5.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSz46A4bAAEhyMo",
+    "x-image:/media/HSz46BBaMAAuVfx",
+    "x-image:/media/HSz46A0asAAhMx1",
+    "x-image:/media/HSz46DcaAAAt9KT",
+    "x-image:/media/HRxjCH-bgAAxpuW",
+    "x-post:2102328812386287750",
+    "x-post:2097660427216036207"
+  ],
+  "analysis": {
+    "summary": "基于科学原理与真实剖面结构的科普图解通用提示词模板，强调清晰层级与结构关联。",
+    "summaryEn": "A general prompt template for popular science infographics and cross-sectional diagrams highlighting spatial relations and accurate technical labeling.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "配图清晰展示了 A20 Pro 芯片、EUV 光刻机、转子发动机和精子解剖图的剖面结构图解，带有准确规整的科学排版与标注，与提示词要求高度吻合。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "【主体】× 科普插图 × 专业结构可视化 × 剖面结构与空间关系 × 清晰的结构层次与信息关系 × 科学图解式表达\n\n以真实结构和科学原理为基础，突出关键结构与空间关系；画面清晰易懂、专业准确；文字信息清晰可读，必要标注简洁准确，字体规整，并与对应结构明确关联；避免卡通化、装饰化、过度艺术化、乱码和无意义文字。",
+    "sourceRange": {
+      "start": 204,
+      "end": 360
+    },
+    "translations": {
+      "zh": "【主体】× 科普插图 × 专业结构可视化 × 剖面结构与空间关系 × 清晰的结构层次与信息关系 × 科学图解式表达\n\n以真实结构和科学原理为基础，突出关键结构与空间关系；画面清晰易懂、专业准确；文字信息清晰可读，必要标注简洁准确，字体规整，并与对应结构明确关联；避免卡通化、装饰化、过度艺术化、乱码和无意义文字。",
+      "en": "[Subject] × Popular science illustration × Professional structural visualization × Cross-sectional structure and spatial relationships × Clear structural hierarchy and information relations × Scientific diagrammatic expression\n\nBased on authentic structures and scientific principles, highlighting key structural and spatial relationships; the image is clear, easily understood, professional, and accurate; text annotations are clear, readable, concise, and precise with neat fonts clearly associated with corresponding components; avoid cartoonish, decorative, overly artistic styles, garbled text, and meaningless characters."
+    },
+    "targetModels": [
+      "image2.5"
+    ],
+    "category": "text-to-image",
+    "useCase": "科学图解与精密机械/微观结构剖面科普插画生成",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}

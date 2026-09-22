@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**182** Prompt · Bổ sung mới nhất: **2026-09-22**
+**187** Prompt · Bổ sung mới nhất: **2026-09-22**
 
 <a name="catalog"></a>
 
@@ -633,6 +633,94 @@ Nhiếp ảnh · Phong cảnh / Thiên nhiên · Đã xuất bản
 
 ```text
 Ảnh chụp một bãi đất trống trong rừng với nhiều tán lá xanh tươi, rất chi tiết
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2102325781875794287"></a>
+
+### Đang dịch
+
+Tác giả：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Bài gốc](https://x.com/CyberTotal2026/status/2102325781875794287)
+
+Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng thời trang · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2102325781875794287-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2102354722426675276"></a>
+
+### Đang dịch
+
+Tác giả：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Bài gốc](https://x.com/CyberTotal2026/status/2102354722426675276)
+
+Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2102354722426675276-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2102342895839973459"></a>
+
+### Đang dịch
+
+Tác giả：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Bài gốc](https://x.com/CyberTotal2026/status/2102342895839973459)
+
+Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2102342895839973459-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2102370828633674112"></a>
+
+### Đang dịch
+
+Tác giả：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Bài gốc](https://x.com/CyberTotal2026/status/2102370828633674112)
+
+Nhiếp ảnh · Chân dung / Ảnh tự chụp · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2102370828633674112-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
 ```
 
 [↑ Về danh mục](#catalog)
@@ -2619,13 +2707,13 @@ Bức chân dung độ phân giải cao của một người đàn ông Nam Á 2
 
 <a name="prompt-2102228033306612127"></a>
 
-### Đang dịch
+### Bộ ảnh lưới 9 ô phong cách gothic điện ảnh tối giản tông màu xám lạnh đám cưới và vệt máu.
 
 Tác giả：[@JoywDan](https://x.com/JoywDan) · [Bài gốc](https://x.com/JoywDan/status/2102228033306612127)
 
 Nhiếp ảnh · Điện ảnh / Ảnh tĩnh từ phim · Chủ nghĩa tối giản · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Bộ ảnh lưới 9 ô phong cách gothic điện ảnh tối giản tông màu xám lạnh đám cưới và vệt máu.
 
 <img src="images/2102228033306612127-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -2638,7 +2726,7 @@ Nhiếp ảnh · Điện ảnh / Ảnh tĩnh từ phim · Chủ nghĩa tối gi�
 **Câu lệnh**
 
 ```text
-Đang dịch
+Đám cưới x phim thời trang tối giản tông xám lạnh × một chút dị thường màu máu, 3x3, 9:16
 ```
 
 [↑ Về danh mục](#catalog)
@@ -3033,6 +3121,38 @@ Negative Prompt: thay đổi trang phục, thay đổi danh tính, người th�
 <a name="category-illustration"></a>
 
 ## Minh họa
+
+<a name="prompt-2102328812386287750"></a>
+
+### Đang dịch
+
+Tác giả：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Bài gốc](https://x.com/DeepBlueX0/status/2102328812386287750)
+
+Infographic / Hình ảnh giáo dục · Minh họa · Sơ đồ / Biểu đồ · Đã xuất bản
+
+Bài gốc：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Bài gốc](https://x.com/DeepBlueX0/status/2097660427216036207)
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2102328812386287750-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2102328812386287750-2.jpg" alt="Hình ảnh 2" width="480" />
+
+<img src="images/2102328812386287750-3.jpg" alt="Hình ảnh 3" width="480" />
+
+<img src="images/2102328812386287750-4.jpg" alt="Hình ảnh 4" width="480" />
+
+<img src="images/2102328812386287750-5.jpg" alt="Hình ảnh 5" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2097713691433070629"></a>
 
@@ -4139,13 +4259,13 @@ Tạo MỘT áp phích biên tập cao cấp độc lập cho MỖI bức ảnh 
 
 <a name="prompt-2102218694873248214"></a>
 
-### Đang dịch
+### Sáng tác bức tranh chân dung tập thể 《Hồng Lâu Mộng · Quần phương dạ yến》 theo phong cách công bút cung đình thời Thanh dựa trên bố cục 13 người của 《Bữa ăn tối cuối cùng》.
 
 Tác giả：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Bài gốc](https://x.com/DeepBlueX0/status/2102218694873248214)
 
 Nhân vật · Thực phẩm / Đồ uống · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Sáng tác bức tranh chân dung tập thể 《Hồng Lâu Mộng · Quần phương dạ yến》 theo phong cách công bút cung đình thời Thanh dựa trên bố cục 13 người của 《Bữa ăn tối cuối cùng》.
 
 <img src="images/2102218694873248214-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -4158,7 +4278,7 @@ Nhân vật · Thực phẩm / Đồ uống · Đã xuất bản
 **Câu lệnh**
 
 ```text
-Đang dịch
+《Hồng Lâu Mộng · Quần phương dạ yến》 × Bố cục chân dung tập thể 13 người kinh điển của 《Bữa ăn tối cuối cùng》 × Chỉ mượn cấu trúc hàng ngang của tranh nhóm × Tỉ lệ khung hình rộng khoảng 1.9:1 × 6 người bên trái khung hình: Diệu Ngọc, Vương Hy Phượng, Sử Tương Vân, Thám Xuân, Lý Hoàn, Lâm Đại Ngọc × Ở giữa: Giả Bảo Ngọc × 6 người bên phải khung hình: Tiết Bảo Thoa, Nghênh Xuân, Tích Xuân, Bình Nhi, Tập Nhân, Tình Văn × Bàn tiệc dài nằm ngang × Tranh vẽ nhân vật lối công bút cung đình thời nhà Thanh
 ```
 
 [↑ Về danh mục](#catalog)

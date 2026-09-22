@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**182** Prompts · Zuletzt hinzugefügt: **2026-09-22**
+**187** Prompts · Zuletzt hinzugefügt: **2026-09-22**
 
 <a name="catalog"></a>
 
@@ -628,6 +628,94 @@ Fotografie · Landschaft / Natur · Veröffentlicht
 
 ```text
 Foto einer Waldlichtung mit viel grünem Blattwerk, sehr detailliert
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2102325781875794287"></a>
+
+### Übersetzung läuft
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Originalbeitrag](https://x.com/CyberTotal2026/status/2102325781875794287)
+
+Fotografie · Porträt / Selfie · Charakter · Modeartikel · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2102325781875794287-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2102354722426675276"></a>
+
+### Übersetzung läuft
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Originalbeitrag](https://x.com/CyberTotal2026/status/2102354722426675276)
+
+Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2102354722426675276-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2102342895839973459"></a>
+
+### Übersetzung läuft
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Originalbeitrag](https://x.com/CyberTotal2026/status/2102342895839973459)
+
+Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2102342895839973459-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2102370828633674112"></a>
+
+### Übersetzung läuft
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Originalbeitrag](https://x.com/CyberTotal2026/status/2102370828633674112)
+
+Fotografie · Porträt / Selfie · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2102370828633674112-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -2574,13 +2662,13 @@ Hochauflösendes Porträt eines 23-jährigen südasiatischen Mannes mit geschlos
 
 <a name="prompt-2102228033306612127"></a>
 
-### Übersetzung läuft
+### 3x3-Raster-Bilderserie einer minimalistischen, filmischen Gothic-Hochzeit in kühlen Grautönen mit Blutspuren.
 
 Autor：[@JoywDan](https://x.com/JoywDan) · [Originalbeitrag](https://x.com/JoywDan/status/2102228033306612127)
 
 Fotografie · Kinematisch / Filmstill · Minimalismus · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** 3x3-Raster-Bilderserie einer minimalistischen, filmischen Gothic-Hochzeit in kühlen Grautönen mit Blutspuren.
 
 <img src="images/2102228033306612127-1.jpg" alt="Bild 1" width="480" />
 
@@ -2593,7 +2681,7 @@ Fotografie · Kinematisch / Filmstill · Minimalismus · Veröffentlicht
 **Prompt**
 
 ```text
-Übersetzung läuft
+Hochzeit x minimalistischer kühler grauer Modefilm × ein Hauch blutroter Anomalie, 3x3, 9:16
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -2970,6 +3058,38 @@ Negative Prompt: outfit changes, identity changes, realistic second person, norm
 <a name="category-illustration"></a>
 
 ## Illustration
+
+<a name="prompt-2102328812386287750"></a>
+
+### Übersetzung läuft
+
+Autor：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Originalbeitrag](https://x.com/DeepBlueX0/status/2102328812386287750)
+
+Infografik / Edu Visual · Illustration · Diagramm / Grafik · Veröffentlicht
+
+Originalbeitrag：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Originalbeitrag](https://x.com/DeepBlueX0/status/2097660427216036207)
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2102328812386287750-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2102328812386287750-2.jpg" alt="Bild 2" width="480" />
+
+<img src="images/2102328812386287750-3.jpg" alt="Bild 3" width="480" />
+
+<img src="images/2102328812386287750-4.jpg" alt="Bild 4" width="480" />
+
+<img src="images/2102328812386287750-5.jpg" alt="Bild 5" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2097713691433070629"></a>
 
@@ -4098,13 +4218,13 @@ Ruhig, poetisch, raffiniert, minimalistisch, unschuldig, künstlerisch, nachdenk
 
 <a name="prompt-2102218694873248214"></a>
 
-### Übersetzung läuft
+### Schaffung eines Gruppenporträts von „Der Traum der Roten Kammer · Nächtliches Festmahl der Schönheiten“ im höfischen Gongbi-Stil der Qing-Dynastie unter Verwendung der 13-Personen-Komposition von „Das letzte Abendmahl“.
 
 Autor：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Originalbeitrag](https://x.com/DeepBlueX0/status/2102218694873248214)
 
 Charakter · Essen / Trinken · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Schaffung eines Gruppenporträts von „Der Traum der Roten Kammer · Nächtliches Festmahl der Schönheiten“ im höfischen Gongbi-Stil der Qing-Dynastie unter Verwendung der 13-Personen-Komposition von „Das letzte Abendmahl“.
 
 <img src="images/2102218694873248214-1.jpg" alt="Bild 1" width="480" />
 
@@ -4117,7 +4237,7 @@ Charakter · Essen / Trinken · Veröffentlicht
 **Prompt**
 
 ```text
-Übersetzung läuft
+„Der Traum der Roten Kammer · Nächtliches Festmahl der Schönheiten“ × Klassische Gruppenkomposition von 13 Personen nach „Das letzte Abendmahl“ × Ausschließlich die horizontale Gruppenstruktur übernehmend × Breites Format ca. 1,9:1 × 6 Personen auf der linken Bildseite: Miaoyu, Wang Xifeng, Shi Xiangyun, Tanchun, Li Wan, Lin Daiyu × In der Mitte: Jia Baoyu × 6 Personen auf der rechten Bildseite: Xue Baochai, Yingchun, Xichun, Ping'er, Xiren, Qingwen × Horizontale lange Festtafel × Figurenmalerei im höfischen Gongbi-Stil der Qing-Dynastie
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

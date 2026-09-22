@@ -19,7 +19,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**182** 条内容 · 最新收录: **2026-09-22**
+**187** 条内容 · 最新收录: **2026-09-22**
 
 <a name="catalog"></a>
 
@@ -633,6 +633,94 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 ```text
 树林中一片空地的照片，周围有大量绿叶植物，细节极其丰富
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
+
+<a name="prompt-2102325781875794287"></a>
+
+### 翻译中
+
+作者：[@CyberTotal2026](https://x.com/CyberTotal2026) · [查看 X 原帖](https://x.com/CyberTotal2026/status/2102325781875794287)
+
+摄影 · 人像 / 自拍 · 角色 · 时尚单品 · 已推流
+
+**概括:** 翻译中
+
+<img src="images/2102325781875794287-1.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
+
+<a name="prompt-2102354722426675276"></a>
+
+### 翻译中
+
+作者：[@CyberTotal2026](https://x.com/CyberTotal2026) · [查看 X 原帖](https://x.com/CyberTotal2026/status/2102354722426675276)
+
+摄影 · 人像 / 自拍 · 角色 · 已推流
+
+**概括:** 翻译中
+
+<img src="images/2102354722426675276-1.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
+
+<a name="prompt-2102342895839973459"></a>
+
+### 翻译中
+
+作者：[@CyberTotal2026](https://x.com/CyberTotal2026) · [查看 X 原帖](https://x.com/CyberTotal2026/status/2102342895839973459)
+
+摄影 · 人像 / 自拍 · 角色 · 已推流
+
+**概括:** 翻译中
+
+<img src="images/2102342895839973459-1.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
+
+<a name="prompt-2102370828633674112"></a>
+
+### 翻译中
+
+作者：[@CyberTotal2026](https://x.com/CyberTotal2026) · [查看 X 原帖](https://x.com/CyberTotal2026/status/2102370828633674112)
+
+摄影 · 人像 / 自拍 · 已推流
+
+**概括:** 翻译中
+
+<img src="images/2102370828633674112-1.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
 ```
 
 [↑ 返回分类目录](#catalog)
@@ -2619,13 +2707,13 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 <a name="prompt-2102228033306612127"></a>
 
-### 翻译中
+### 冷灰色调极简电影感哥特风婚礼与血迹九宫格组图。
 
 作者：[@JoywDan](https://x.com/JoywDan) · [查看 X 原帖](https://x.com/JoywDan/status/2102228033306612127)
 
 摄影 · 电影 / 电影剧照 · 极简主义 · 已推流
 
-**概括:** 翻译中
+**概括:** 冷灰色调极简电影感哥特风婚礼与血迹九宫格组图。
 
 <img src="images/2102228033306612127-1.jpg" alt="图片 1" width="480" />
 
@@ -2638,7 +2726,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 **提示词**
 
 ```text
-翻译中
+婚礼x极简冷灰时装电影 × 一点血色异常，3x3，9:16
 ```
 
 [↑ 返回分类目录](#catalog)
@@ -3033,6 +3121,38 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 <a name="category-illustration"></a>
 
 ## 插画
+
+<a name="prompt-2102328812386287750"></a>
+
+### 翻译中
+
+作者：[@DeepBlueX0](https://x.com/DeepBlueX0) · [查看 X 原帖](https://x.com/DeepBlueX0/status/2102328812386287750)
+
+信息图 / 教育视觉图 · 插画 · 图表 · 已推流
+
+查看 X 原帖：[@DeepBlueX0](https://x.com/DeepBlueX0) · [查看 X 原帖](https://x.com/DeepBlueX0/status/2097660427216036207)
+
+**概括:** 翻译中
+
+<img src="images/2102328812386287750-1.jpg" alt="图片 1" width="480" />
+
+<img src="images/2102328812386287750-2.jpg" alt="图片 2" width="480" />
+
+<img src="images/2102328812386287750-3.jpg" alt="图片 3" width="480" />
+
+<img src="images/2102328812386287750-4.jpg" alt="图片 4" width="480" />
+
+<img src="images/2102328812386287750-5.jpg" alt="图片 5" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
 
 <a name="prompt-2097713691433070629"></a>
 
@@ -4129,13 +4249,13 @@ SHIBUYA • SHINJUKU • HARAJUKU • AKIHABARA
 
 <a name="prompt-2102218694873248214"></a>
 
-### 翻译中
+### 以《最后的晚餐》13人格局构图创作清代宫廷工笔风《红楼梦·群芳夜宴》群像。
 
 作者：[@DeepBlueX0](https://x.com/DeepBlueX0) · [查看 X 原帖](https://x.com/DeepBlueX0/status/2102218694873248214)
 
 角色 · 食品 / 饮料 · 已推流
 
-**概括:** 翻译中
+**概括:** 以《最后的晚餐》13人格局构图创作清代宫廷工笔风《红楼梦·群芳夜宴》群像。
 
 <img src="images/2102218694873248214-1.jpg" alt="图片 1" width="480" />
 
@@ -4148,7 +4268,7 @@ SHIBUYA • SHINJUKU • HARAJUKU • AKIHABARA
 **提示词**
 
 ```text
-翻译中
+《红楼梦·群芳夜宴》 × 《最后的晚餐》13人经典群像构图 × 仅借用横向群像结构 × 约1.9:1宽幅 × 画面左侧6人：妙玉、王熙凤、史湘云、探春、李纨、林黛玉 × 中央：贾宝玉 × 画面右侧6人：薛宝钗、迎春、惜春、平儿、袭人、晴雯 × 横向长桌宴席 × 清代宫廷工笔人物画
 ```
 
 [↑ 返回分类目录](#catalog)

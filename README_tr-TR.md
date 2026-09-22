@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**182** Prompt · Son eklenen: **2026-09-22**
+**187** Prompt · Son eklenen: **2026-09-22**
 
 <a name="catalog"></a>
 
@@ -628,6 +628,94 @@ Fotoğrafçılık · Manzara / Doğa · Yayımlandı
 
 ```text
 Ormanda bol yeşil yaprakları olan bir açıklığın fotoğrafı, son derece detaylı
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2102325781875794287"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Orijinal gönderi](https://x.com/CyberTotal2026/status/2102325781875794287)
+
+Fotoğrafçılık · Portre / Selfie · Karakter · Moda Ürünü · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2102325781875794287-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2102354722426675276"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Orijinal gönderi](https://x.com/CyberTotal2026/status/2102354722426675276)
+
+Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2102354722426675276-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2102342895839973459"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Orijinal gönderi](https://x.com/CyberTotal2026/status/2102342895839973459)
+
+Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2102342895839973459-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2102370828633674112"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Orijinal gönderi](https://x.com/CyberTotal2026/status/2102370828633674112)
+
+Fotoğrafçılık · Portre / Selfie · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2102370828633674112-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -2592,13 +2680,13 @@ Gözleri kapalı ve başı dingin bir ifadeyle geriye eğilmiş, dağınık siya
 
 <a name="prompt-2102228033306612127"></a>
 
-### Çeviri sürüyor
+### Soğuk gri tonlarında minimalist sinematik gotik düğün ve kan izleri içeren 3x3 ızgara görsel seti.
 
 Yazar：[@JoywDan](https://x.com/JoywDan) · [Orijinal gönderi](https://x.com/JoywDan/status/2102228033306612127)
 
 Fotoğrafçılık · Sinematik / Film Karesi · Minimalizm · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Soğuk gri tonlarında minimalist sinematik gotik düğün ve kan izleri içeren 3x3 ızgara görsel seti.
 
 <img src="images/2102228033306612127-1.jpg" alt="Görsel 1" width="480" />
 
@@ -2611,7 +2699,7 @@ Fotoğrafçılık · Sinematik / Film Karesi · Minimalizm · Yayımlandı
 **İstem**
 
 ```text
-Çeviri sürüyor
+Düğün x minimalist soğuk gri moda sineması × ufak bir kan kırmızısı anormallik, 3x3, 9:16
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -2963,6 +3051,38 @@ Negative Prompt: outfit changes, identity changes, realistic second person, norm
 <a name="category-illustration"></a>
 
 ## İllüstrasyon
+
+<a name="prompt-2102328812386287750"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Orijinal gönderi](https://x.com/DeepBlueX0/status/2102328812386287750)
+
+İnfografik / Eğitici Görsel · İllüstrasyon · Diyagram / Grafik · Yayımlandı
+
+Orijinal gönderi：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Orijinal gönderi](https://x.com/DeepBlueX0/status/2097660427216036207)
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2102328812386287750-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2102328812386287750-2.jpg" alt="Görsel 2" width="480" />
+
+<img src="images/2102328812386287750-3.jpg" alt="Görsel 3" width="480" />
+
+<img src="images/2102328812386287750-4.jpg" alt="Görsel 4" width="480" />
+
+<img src="images/2102328812386287750-5.jpg" alt="Görsel 5" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2097713691433070629"></a>
 
@@ -4086,13 +4206,13 @@ Sakin, şiirsel, zarif, minimal, masum, sanatsal, düşünceli, birinci sınıf 
 
 <a name="prompt-2102218694873248214"></a>
 
-### Çeviri sürüyor
+### 《Son Akşam Yemeği》nin 13 kişilik düzen kompozisyonu kullanılarak Çing Hanedanı saray Gongbi tarzında 《Kızıl Köşkün Rüyası · Güzellerin Gece Ziyafeti》 grup portresi yaratımı.
 
 Yazar：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Orijinal gönderi](https://x.com/DeepBlueX0/status/2102218694873248214)
 
 Karakter · Yiyecek / İçecek · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** 《Son Akşam Yemeği》nin 13 kişilik düzen kompozisyonu kullanılarak Çing Hanedanı saray Gongbi tarzında 《Kızıl Köşkün Rüyası · Güzellerin Gece Ziyafeti》 grup portresi yaratımı.
 
 <img src="images/2102218694873248214-1.jpg" alt="Görsel 1" width="480" />
 
@@ -4105,7 +4225,7 @@ Karakter · Yiyecek / İçecek · Yayımlandı
 **İstem**
 
 ```text
-Çeviri sürüyor
+《Kızıl Köşkün Rüyası · Güzellerin Gece Ziyafeti》 × 《Son Akşam Yemeği》nden 13 kişilik klasik grup kompozisyonu × Yalnızca yatay grup yapısı ödünç alınmıştır × Yaklaşık 1.9:1 geniş format × Resmin sol tarafında 6 kişi: Miaoyu, Wang Xifeng, Shi Xiangyun, Tanchun, Li Wan, Lin Daiyu × Merkezde: Jia Baoyu × Resmin sağ tarafında 6 kişi: Xue Baochai, Yingchun, Xichun, Ping'er, Xiren, Qingwen × Yatay uzun masa ziyafeti × Çing Hanedanı saray Gongbi tarzı figür resmi
 ```
 
 [↑ Kategorilere dön](#catalog)

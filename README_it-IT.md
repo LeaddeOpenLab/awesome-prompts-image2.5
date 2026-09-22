@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**182** Prompt · Ultima aggiunta: **2026-09-22**
+**187** Prompt · Ultima aggiunta: **2026-09-22**
 
 <a name="catalog"></a>
 
@@ -628,6 +628,94 @@ Fotografia · Paesaggio / Natura · Pubblicato
 
 ```text
 Foto di una radura nel bosco con abbondante fogliame verde, altamente dettagliata
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2102325781875794287"></a>
+
+### Traduzione in corso
+
+Autore：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Post originale](https://x.com/CyberTotal2026/status/2102325781875794287)
+
+Fotografia · Ritratto / Selfie · Personaggio · Articolo di moda · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2102325781875794287-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2102354722426675276"></a>
+
+### Traduzione in corso
+
+Autore：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Post originale](https://x.com/CyberTotal2026/status/2102354722426675276)
+
+Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2102354722426675276-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2102342895839973459"></a>
+
+### Traduzione in corso
+
+Autore：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Post originale](https://x.com/CyberTotal2026/status/2102342895839973459)
+
+Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2102342895839973459-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2102370828633674112"></a>
+
+### Traduzione in corso
+
+Autore：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Post originale](https://x.com/CyberTotal2026/status/2102370828633674112)
+
+Fotografia · Ritratto / Selfie · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2102370828633674112-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -2574,13 +2662,13 @@ Ritratto ad alta risoluzione di un uomo sudasiatico di 23 anni con gli occhi chi
 
 <a name="prompt-2102228033306612127"></a>
 
-### Traduzione in corso
+### Set di immagini a griglia 3x3 di un matrimonio gotico cinematografico e minimalista nei toni del grigio freddo con macchie di sangue.
 
 Autore：[@JoywDan](https://x.com/JoywDan) · [Post originale](https://x.com/JoywDan/status/2102228033306612127)
 
 Fotografia · Fermo immagine cinematografico / Still fotografico · Minimalismo · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Set di immagini a griglia 3x3 di un matrimonio gotico cinematografico e minimalista nei toni del grigio freddo con macchie di sangue.
 
 <img src="images/2102228033306612127-1.jpg" alt="Immagine 1" width="480" />
 
@@ -2593,7 +2681,7 @@ Fotografia · Fermo immagine cinematografico / Still fotografico · Minimalismo 
 **Prompt**
 
 ```text
-Traduzione in corso
+Matrimonio x cinema di moda minimalista grigio freddo × un tocco di anomalia sanguigna, 3x3, 9:16
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -2970,6 +3058,38 @@ Negative Prompt: outfit changes, identity changes, realistic second person, norm
 <a name="category-illustration"></a>
 
 ## Illustrazione
+
+<a name="prompt-2102328812386287750"></a>
+
+### Traduzione in corso
+
+Autore：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Post originale](https://x.com/DeepBlueX0/status/2102328812386287750)
+
+Infografica / Contenuto Visual Educativo · Illustrazione · Diagramma / Grafico · Pubblicato
+
+Post originale：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Post originale](https://x.com/DeepBlueX0/status/2097660427216036207)
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2102328812386287750-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2102328812386287750-2.jpg" alt="Immagine 2" width="480" />
+
+<img src="images/2102328812386287750-3.jpg" alt="Immagine 3" width="480" />
+
+<img src="images/2102328812386287750-4.jpg" alt="Immagine 4" width="480" />
+
+<img src="images/2102328812386287750-5.jpg" alt="Immagine 5" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2097713691433070629"></a>
 
@@ -4097,13 +4217,13 @@ Silenzioso, poetico, raffinato, minimale, innocente, artistico, riflessivo, prem
 
 <a name="prompt-2102218694873248214"></a>
 
-### Traduzione in corso
+### Creazione di un ritratto di gruppo di «Il sogno della camera rossa · Il banchetto notturno delle bellezze» nello stile Gongbi di corte della dinastia Qing, basato sulla composizione a 13 persone de «L'Ultima Cena».
 
 Autore：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Post originale](https://x.com/DeepBlueX0/status/2102218694873248214)
 
 Personaggio · Cibo / Bevande · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Creazione di un ritratto di gruppo di «Il sogno della camera rossa · Il banchetto notturno delle bellezze» nello stile Gongbi di corte della dinastia Qing, basato sulla composizione a 13 persone de «L'Ultima Cena».
 
 <img src="images/2102218694873248214-1.jpg" alt="Immagine 1" width="480" />
 
@@ -4116,7 +4236,7 @@ Personaggio · Cibo / Bevande · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+«Il sogno della camera rossa · Il banchetto notturno delle bellezze» × Composizione classica di gruppo con 13 persone ispirata a «L'Ultima Cena» × Utilizzo esclusivo della struttura orizzontale di gruppo × Formato panoramico di circa 1,9:1 × 6 persone a sinistra nell'immagine: Miaoyu, Wang Xifeng, Shi Xiangyun, Tanchun, Li Wan, Lin Daiyu × Al centro: Jia Baoyu × 6 persone a destra nell'immagine: Xue Baochai, Yingchun, Xichun, Ping'er, Xiren, Qingwen × Banchetto a tavola lunga orizzontale × Pittura figurativa in stile Gongbi di corte della dinastia Qing
 ```
 
 [↑ Torna alle categorie](#catalog)

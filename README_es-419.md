@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**182** Prompts · Última incorporación: **2026-09-22**
+**187** Prompts · Última incorporación: **2026-09-22**
 
 <a name="catalog"></a>
 
@@ -628,6 +628,94 @@ Fotografía · Paisaje / Naturaleza · Publicado
 
 ```text
 Foto de un claro en el bosque con mucho follaje verde, muy detallada
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2102325781875794287"></a>
+
+### Traducción en curso
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicación original](https://x.com/CyberTotal2026/status/2102325781875794287)
+
+Fotografía · Retrato / Selfie · Personaje · Artículo de moda · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2102325781875794287-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2102354722426675276"></a>
+
+### Traducción en curso
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicación original](https://x.com/CyberTotal2026/status/2102354722426675276)
+
+Fotografía · Retrato / Selfie · Personaje · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2102354722426675276-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2102342895839973459"></a>
+
+### Traducción en curso
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicación original](https://x.com/CyberTotal2026/status/2102342895839973459)
+
+Fotografía · Retrato / Selfie · Personaje · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2102342895839973459-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2102370828633674112"></a>
+
+### Traducción en curso
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicación original](https://x.com/CyberTotal2026/status/2102370828633674112)
+
+Fotografía · Retrato / Selfie · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2102370828633674112-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -2574,13 +2662,13 @@ Retrato de alta resolución de un hombre del sur de Asia de 23 años con los ojo
 
 <a name="prompt-2102228033306612127"></a>
 
-### Traducción en curso
+### Conjunto de imágenes en cuadrícula de 3x3 de boda gótica minimalista y cinematográfica en tonos grises fríos con manchas de sangre.
 
 Autor：[@JoywDan](https://x.com/JoywDan) · [Publicación original](https://x.com/JoywDan/status/2102228033306612127)
 
 Fotografía · Cine / Fotograma · Minimalismo · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Conjunto de imágenes en cuadrícula de 3x3 de boda gótica minimalista y cinematográfica en tonos grises fríos con manchas de sangre.
 
 <img src="images/2102228033306612127-1.jpg" alt="Imagen 1" width="480" />
 
@@ -2593,7 +2681,7 @@ Fotografía · Cine / Fotograma · Minimalismo · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+Boda x cine de moda minimalista en gris frío × una pizca de anomalía sangrienta, 3x3, 9:16
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -2970,6 +3058,38 @@ Negative Prompt: outfit changes, identity changes, realistic second person, norm
 <a name="category-illustration"></a>
 
 ## Ilustración
+
+<a name="prompt-2102328812386287750"></a>
+
+### Traducción en curso
+
+Autor：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicación original](https://x.com/DeepBlueX0/status/2102328812386287750)
+
+Infografía / Visual educativo · Ilustración · Diagrama / Gráfico · Publicado
+
+Publicación original：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicación original](https://x.com/DeepBlueX0/status/2097660427216036207)
+
+**Resumen:** Traducción en curso
+
+<img src="images/2102328812386287750-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2102328812386287750-2.jpg" alt="Imagen 2" width="480" />
+
+<img src="images/2102328812386287750-3.jpg" alt="Imagen 3" width="480" />
+
+<img src="images/2102328812386287750-4.jpg" alt="Imagen 4" width="480" />
+
+<img src="images/2102328812386287750-5.jpg" alt="Imagen 5" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2097713691433070629"></a>
 
@@ -4097,13 +4217,13 @@ Tranquilo, poético, refinado, minimalista, inocente, artístico, reflexivo, pr�
 
 <a name="prompt-2102218694873248214"></a>
 
-### Traducción en curso
+### Creación de un retrato grupal de «Sueño en el pabellón rojo: El banquete nocturno de las bellezas» al estilo Gongbi cortesano de la dinastía Qing, basado en la composición de 13 personas de «La última cena».
 
 Autor：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicación original](https://x.com/DeepBlueX0/status/2102218694873248214)
 
 Personaje · Comida y bebida · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Creación de un retrato grupal de «Sueño en el pabellón rojo: El banquete nocturno de las bellezas» al estilo Gongbi cortesano de la dinastía Qing, basado en la composición de 13 personas de «La última cena».
 
 <img src="images/2102218694873248214-1.jpg" alt="Imagen 1" width="480" />
 
@@ -4116,7 +4236,7 @@ Personaje · Comida y bebida · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+«Sueño en el pabellón rojo: El banquete nocturno de las bellezas» × Composición clásica de retrato grupal de 13 personas de «La última cena» × Usando únicamente la estructura horizontal del grupo × Formato ancho aproximado de 1.9:1 × 6 personas a la izquierda de la imagen: Miaoyu, Wang Xifeng, Shi Xiangyun, Tanchun, Li Wan, Lin Daiyu × Al centro: Jia Baoyu × 6 personas a la derecha de la imagen: Xue Baochai, Yingchun, Xichun, Ping'er, Xiren, Qingwen × Banquete en mesa larga horizontal × Pintura figurativa estilo Gongbi cortesano de la dinastía Qing
 ```
 
 [↑ Volver a categorías](#catalog)
