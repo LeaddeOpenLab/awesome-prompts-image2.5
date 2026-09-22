@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**184** Prompts · Última adição: **2026-09-21**
+**178** Prompts · Última adição: **2026-09-22**
 
 <a name="catalog"></a>
 
@@ -132,13 +132,13 @@ Inúmeras fotos fracassadas de amadores, 3x3, 9:16
 
 <a name="prompt-2100221410358735319"></a>
 
-### Tradução em andamento
+### Um prompt de selfies realista em grade 3x3 imitando várias fotos com falhas de amadores.
 
 Autor：[@oneruofeng](https://x.com/oneruofeng) · [Publicação original](https://x.com/oneruofeng/status/2100221410358735319)
 
 Fotografia · Retrato / Selfie · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Um prompt de selfies realista em grade 3x3 imitando várias fotos com falhas de amadores.
 
 <img src="images/2100221410358735319-1.jpg" alt="Imagem 1" width="480" />
 
@@ -147,7 +147,7 @@ Fotografia · Retrato / Selfie · Publicado
 **Prompt**
 
 ```text
-Tradução em andamento
+Várias fotos com falhas de amadores, 3x3, 9:16
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -234,20 +234,20 @@ Tradução em andamento
 
 <a name="prompt-2099374878910734661"></a>
 
-### Tradução em andamento
+### Paisagem surrealista de cânion em 9:16, gigantesco anel de nuvens em rotação com efeito time-stack de longa exposição, viajante de costas no leito do cânion.
 
 Autor：[@listudio](https://x.com/listudio) · [Publicação original](https://x.com/listudio/status/2099374878910734661)
 
 Fotografia · Paisagem / Natureza · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Paisagem surrealista de cânion em 9:16, gigantesco anel de nuvens em rotação com efeito time-stack de longa exposição, viajante de costas no leito do cânion.
 
 <img src="images/2099374878910734661-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Crie uma fotografia time-stack fotorrealista e surrealista de um cânion na proporção vertical 9:16. O leito do cânion é amplo e seco, flanqueado por imensas paredes rochosas estratificadas verticais em tons de marrom quente, ocre e preto carvão que se erguem a partir das bordas do primeiro plano, formando uma moldura natural escura, com texturas de rocha e cascalho mantendo detalhes nítidos. No céu, na meia-distância e ao fundo do cânion, surge um anel gigantesco de nuvens rodopiantes ocupando a maior parte da área central, revelando um céu cinza-azulado sereno no centro da abertura circular. Utilize um efeito de longa exposição com câmera estática e time-stack de múltiplos quadros: densos cúmulos giram lentamente no mesmo sentido de rotação, fundindo-se em linhas de fluxo concêntricas, contínuas e suaves; a parede interna exibe centenas e milhares de delicadas estrias de nuvens em forma de arco, e as bordas da abertura circular trazem rastros suaves de rotação; a massa de nuvens mantém o volume real de luz e sombra e uma textura branco-leitosa, sem parecer um túnel sólido e sem ruídos fragmentados. O leito do cânion se espalha amplamente no primeiro plano e se estreita em direção à distância; um viajante adulto de costas para a câmera está parado no centro inferior, ocupando apenas cerca de 2% da altura do quadro e mantendo-se nítido. A luz solar quente no canto superior direito atravessa as fendas das nuvens; a exposição contínua difunde suavemente as altas luzes, iluminando a parede de nuvens da direita e as bordas rochosas; a rocha quente, o céu cinza-azulado frio e as nuvens branco-leitosas brilhantes estabelecem uma relação tricromática contida. Granulação sutil de filme, perspectiva atmosférica natural, silêncio épico e sensação imponente de opressão. O desfoque de movimento aplica-se apenas às nuvens e a uma leve névoa de poeira; as paredes rochosas, o leito do vale e a figura humana permanecem nítidos. Sem construções, sem vegetação densa, sem pássaros voando, sem texto, sem logotipo, sem marca d'água, sem relâmpagos.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -411,54 +411,6 @@ Publicação original：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicação
 <img src="images/2098799449237782991-1.jpg" alt="Imagem 1" width="480" />
 
 <img src="images/2098799449237782991-2.jpg" alt="Imagem 2" width="480" />
-
-**Prompt**
-
-```text
-Tradução em andamento
-```
-
-[↑ Voltar às categorias](#catalog)
-
----
-
-<a name="prompt-2098797110401335713"></a>
-
-### Tradução em andamento
-
-Autor：[@sdjn\_wgc](https://x.com/sdjn_wgc) · [Publicação original](https://x.com/sdjn_wgc/status/2098797110401335713)
-
-Fotografia · Retrato / Selfie · Arquitetura / Interiores · Publicado
-
-**Resumo:** Tradução em andamento
-
-<img src="images/2098797110401335713-1.jpg" alt="Imagem 1" width="480" />
-
-**Prompt**
-
-```text
-Tradução em andamento
-```
-
-[↑ Voltar às categorias](#catalog)
-
----
-
-<a name="prompt-2098779220566839714"></a>
-
-### Tradução em andamento
-
-Autor：[@AI\_money\_club](https://x.com/AI_money_club) · [Publicação original](https://x.com/AI_money_club/status/2098779220566839714)
-
-Fotografia · Personagem · Alimentos / Bebidas · Publicado
-
-Publicação original：[@AI\_money\_club](https://x.com/AI_money_club) · [Publicação original](https://x.com/AI_money_club/status/2098767892028535126)
-
-**Resumo:** Tradução em andamento
-
-<img src="images/2098779220566839714-1.jpg" alt="Imagem 1" width="480" />
-
-<img src="images/2098779220566839714-2.jpg" alt="Imagem 2" width="480" />
 
 **Prompt**
 
@@ -676,6 +628,28 @@ Fotografia · Paisagem / Natureza · Publicado
 
 ```text
 Foto de uma clareira na floresta com muita folhagem verde, altamente detalhada
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2102160442080874842"></a>
+
+### Tradução em andamento
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicação original](https://x.com/CyberTotal2026/status/2102160442080874842)
+
+Fotografia · Personagem · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2102160442080874842-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -1638,37 +1612,15 @@ Tradução em andamento
 
 ---
 
-<a name="prompt-2099470719235318149"></a>
-
-### Tradução em andamento
-
-Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicação original](https://x.com/CyberTotal2026/status/2099470719235318149)
-
-Fotografia · Retrato / Selfie · Personagem · Item de Moda · Arquitetura / Interiores · Publicado
-
-**Resumo:** Tradução em andamento
-
-<img src="images/2099470719235318149-1.jpg" alt="Imagem 1" width="480" />
-
-**Prompt**
-
-```text
-Tradução em andamento
-```
-
-[↑ Voltar às categorias](#catalog)
-
----
-
 <a name="prompt-2099370474455396482"></a>
 
-### Tradução em andamento
+### Retrato de estúdio fotorrealista de uma mulher elegante vestindo um vestido midi preto sob medida.
 
 Autor：[@MissDelulu9](https://x.com/MissDelulu9) · [Publicação original](https://x.com/MissDelulu9/status/2099370474455396482)
 
 Fotografia · Retrato / Selfie · Personagem · Item de Moda · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Retrato de estúdio fotorrealista de uma mulher elegante vestindo um vestido midi preto sob medida.
 
 <img src="images/2099370474455396482-1.jpg" alt="Imagem 1" width="480" />
 
@@ -1677,7 +1629,7 @@ Fotografia · Retrato / Selfie · Personagem · Item de Moda · Publicado
 **Prompt**
 
 ```text
-Tradução em andamento
+Crie um retrato de estúdio de corpo inteiro altamente fotorrealista de uma mulher adulta elegante vestindo um vestido formal midi preto sofisticado com mangas compridas, cintura sob medida, tecido premium e textura sutil. Joias minimalistas, elegantes sapatos de salto fino com bico fino, cabelo liso e polido, maquiagem suave e natural, expressão confiante e serena. Cenário de estúdio de moda de luxo, iluminação suave e difusa, textura de pele realista, proporções naturais, fotografia editorial cinematográfica, lente de 85 mm, ultradetalhado, 8K, sem texto, sem marca d'água.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -1774,7 +1726,7 @@ Não omitir o lago de montanha nem o café gelado no canto inferior esquerdo
 
 <a name="prompt-2099400168433152293"></a>
 
-### Tradução em andamento
+### Prompt de retrato em primeiríssimo plano de uma mulher olhando para cima em direção à câmera com olhos marejados.
 
 Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicação original](https://x.com/CyberTotal2026/status/2099400168433152293)
 
@@ -1782,7 +1734,7 @@ Fotografia · Retrato / Selfie · Personagem · Publicado
 
 Publicação original：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicação original](https://x.com/CyberTotal2026/status/2093263569249005578)
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt de retrato em primeiríssimo plano de uma mulher olhando para cima em direção à câmera com olhos marejados.
 
 <img src="images/2099400168433152293-1.jpg" alt="Imagem 1" width="480" />
 
@@ -1791,7 +1743,29 @@ Publicação original：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publ
 **Prompt**
 
 ```text
-Tradução em andamento
+Tema:
+Retrato em primeiríssimo plano com olhos marejados
+
+Sujeito:
+Uma fotografia vertical capturada de cima a uma distância extremamente próxima de uma mulher na faixa dos 20 anos. A pessoa ocupa predominantemente o centro da imagem, inclinando a parte superior do corpo para a frente enquanto olha para cima em direção à câmera. Uma das mãos está levemente aberta em concha logo abaixo da boca, com algumas gotas de água transparentes repousando na palma. Um fundo interno escuro e uma atmosfera íntima típica de grande proximidade.
+
+Pessoa e expressão:
+Rosto pequeno e arredondado, com uma linha de mandíbula suave. Olhos castanhos grandes olhando fixamente para a câmera, com os cantos externos ligeiramente caídos, transmitindo uma impressão serena. Há uma película natural de lágrimas na pálpebra inferior e apenas uma lágrima minúscula visível perto do canto externo do olho, sem parecer um rosto choroso. Sobrancelhas castanhas finas, blush rosa suave, cílios delicados e lábios brilhantes em tom rosa-bege. Cabelos longos castanho-claros com ondas suaves, franja rala e mechas finas contornando as bochechas.
+
+Vestimenta e pose:
+Blusa regata de malha canelada fina em rosa-claro. Decote em V profundo com um pequeno laço central visível, combinada com uma peça inferior curta em marfim-claro. Postura com o tronco inclinado em direção à câmera e os ombros levemente recolhidos para dentro. Uma das mãos posicionada sob o rosto com a palma voltada para cima e os dedos naturalmente curvados, segurando uma pequena quantidade de gotas de água.
+
+Fundo e iluminação:
+Ambiente interno em tons de marrom-escuro e preto. Ao fundo à esquerda, móveis escuros e papéis pequenos aparecem desfocados; ao fundo à direita, um compartimento preto e pequenos objetos brancos estão desfocados. Uma iluminação suave e quente, vinda principalmente de frente, ilumina com clareza o rosto, o cabelo, os ombros e a palma da mão, enquanto o fundo cai em sombras mais escuras. A pele tem um viço sutil, com pequenos reflexos nas pupilas e na superfície das lágrimas.
+
+Composição e câmera:
+Vertical 4:3. Retrato em ângulo extremamente próximo com o rosto posicionado em destaque no centro da metade superior do enquadramento. Perspectiva angular vista de cima com leve inclinação para baixo, destacando fortemente o rosto e a mão no primeiro plano. Enquadramento do topo da cabeça até o peito e parte das coxas, com a palma da mão sobreposta no centro inferior da imagem. Foco nítido no rosto e nos olhos, com fundo suavemente desfocado.
+
+Textura e estilo:
+Representação fotográfica realista. Pele macia preservando a textura natural, cabelos suaves visíveis fio a fio, tecido canelado, gotas de água e a transparência das lágrimas detalhadas com precisão. Tons quentes e suaves, evitando HDR excessivo ou suavização de pele artificial. Tridimensionalidade característica de foto próxima e atmosfera natural de uma fotografia cotidiana.
+
+Negativo:
+Lágrimas grandes e artificiais; rosto inchado de choro
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -1875,28 +1849,6 @@ Fotografia · Retrato / Selfie · Personagem · Publicado
 **Resumo:** Tradução em andamento
 
 <img src="images/2099262094302761246-1.jpg" alt="Imagem 1" width="480" />
-
-**Prompt**
-
-```text
-Tradução em andamento
-```
-
-[↑ Voltar às categorias](#catalog)
-
----
-
-<a name="prompt-2099152153722159320"></a>
-
-### Tradução em andamento
-
-Autor：[@Aqsahere\_](https://x.com/Aqsahere_) · [Publicação original](https://x.com/Aqsahere_/status/2099152153722159320)
-
-Fotografia · Retrato / Selfie · Personagem · Item de Moda · Publicado
-
-**Resumo:** Tradução em andamento
-
-<img src="images/2099152153722159320-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
@@ -3137,20 +3089,55 @@ Crie um pôster de arte editorial de alto padrão para cada fotografia enviada, 
 
 <a name="prompt-2102084659458822632"></a>
 
-### Tradução em andamento
+### Contém dois conjuntos de prompts de renderização 3D de folhas de bordo em nível de produto de luxo: o primeiro é uma folha de bordo esmaltada cor de safira com textura de vidro líquido, acessórios de platina e base de seda com pérolas; o segundo é uma folha de bordo de cristal lapidado facetado/vidro prismático com gradiente holográfico verde-esmeralda e detalhes em ouro.
 
 Autor：[@churvikv](https://x.com/churvikv) · [Publicação original](https://x.com/churvikv/status/2102084659458822632)
 
 Renderização 3D · Produto · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Contém dois conjuntos de prompts de renderização 3D de folhas de bordo em nível de produto de luxo: o primeiro é uma folha de bordo esmaltada cor de safira com textura de vidro líquido, acessórios de platina e base de seda com pérolas; o segundo é uma folha de bordo de cristal lapidado facetado/vidro prismático com gradiente holográfico verde-esmeralda e detalhes em ouro.
 
 <img src="covers/2102084659458822632.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Uma única folha de bordo grande, azul-safira e brilhante, centralizada e orientada verticalmente,
+
+sua superfície como vidro líquido / esmalte colorido: nervuras em formato de chama espiralada brilhando
+desde a safira profunda nas bordas externas passando por azul-real e azul-celeste brilhante até
+o branco-gelo no centro, realces reflexivos ultrabrilhantes e úmidos, aparência de relevo 3D,
+um caule fino e esguio que afunila para baixo e termina em uma pequena base de platina polida.
+Ao redor dela, perto dos cantos, cinco folhas de bordo menores de platina metálica com
+superfícies branco-prateadas brilhantes com polimento espelhado e realces especulares nítidos.
+Fundo: tecido luxuoso de cetim de seda branca com dobras de drapeado suaves e fluidas
+e um brilho sedoso sutil; algumas pequenas contas de pérola brilhantes espalhadas sobre o tecido.
+Iluminação de estúdio suave e difusa vinda de cima, estética elegante de foto de produto premium,
+ultradetalhado, renderização 3D hiper-realista,
+texto, letras, marca d'água, logotipo, assinatura, moldura, borda, bordas ornamentadas,
+folhas vermelhas extras, cores foscas ou opacas, aparência de brinquedo de plástico, borrado, baixo detalhe,
+desenho animado, 2D plano, sombras duras, desordem, fundo poluído
+
+Prompt 2:
+Uma única folha de bordo grande feita de cristal lapidado facetado / vidro prismático, centralizada
+
+e orientada verticalmente, sua superfície dividida em facetas triangulares geométricas e nítidas
+como uma gema estilhaçada ou um mosaico low-poly, sobreposta por um filme holográfico iridescente
+que varia entre verde-esmeralda, cerceta, água-marinha, jade profundo e menta suave
+dependendo do ângulo. Nervuras finas de ouro polido percorrem a folha seguindo a
+venação natural do bordo, e vários painéis internos são preenchidos com textura de ouro pontilhada /
+pontilhismo fino. Um caule esguio de ouro polido afunila para baixo, terminando em uma pequena
+base dourada alargada.
+Ao redor dela, perto dos quatro cantos, quatro folhas de bordo menores em metal ouro-branco / champanhe polido com o mesmo gradiente holográfico verde-esmeralda-cerceta
+e textura pontilhada de ouro em sua superfície.
+Fundo: tecido de cetim de seda branca com dobras de drapeado suaves e fluidas e um brilho sedoso;
+cáusticas brilhantes e iridescentes em verde, cerceta e menta e reflexos de luz colorida espalhados
+pelo tecido abaixo da folha central.
+Iluminação de estúdio difusa, suave e brilhante vinda de cima, realces especulares fortes e nítidos,
+estética luxuosa de foto de produto premium, ultradetalhado, renderização 3D hiper-realista,
+texto, letras, marca d'água, logotipo, assinatura, moldura, borda, bordas ornamentadas,
+superfícies foscas ou opacas, aparência de brinquedo de plástico opaco, facetas borradas, cores turvas,
+2D plano, desenho animado, sombras pretas duras, fundo desordenado, poeira, arranhões
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -3523,7 +3510,7 @@ Converta a foto para o estilo de um diário de viagem desenhado à mão com láp
 
 <a name="prompt-2100241141967081911"></a>
 
-### Tradução em andamento
+### Prompt de fotografia em primeiríssimo plano extremo de nail art no estilo tradicional chinês centrado na estética da dinastia Song, enfatizando o travamento do foco no visual requintado das unhas.
 
 Autor：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicação original](https://x.com/DeepBlueX0/status/2100241141967081911)
 
@@ -3531,7 +3518,7 @@ Fotografia · Tinta / Estilo Chinês · Publicado
 
 Publicação original：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicação original](https://x.com/DeepBlueX0/status/2100101510634037441)
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt de fotografia em primeiríssimo plano extremo de nail art no estilo tradicional chinês centrado na estética da dinastia Song, enfatizando o travamento do foco no visual requintado das unhas.
 
 <img src="images/2100241141967081911-1.jpg" alt="Imagem 1" width="480" />
 
@@ -3546,7 +3533,7 @@ Publicação original：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicação
 **Prompt**
 
 ```text
-Tradução em andamento
+Estética da dinastia Song × Primeiríssimo plano extremo de nail art no estilo Song × Foco travado no visual principal da nail art
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -3640,30 +3627,6 @@ Publicação original：[@huku\_ken\_ai](https://x.com/huku_ken_ai) · [Publica�
 
 ```text
 Extraia da imagem os elementos, contornos, poses e relações narrativas mais característicos, reconstruindo-os em uma ilustração editorial feita à mão, leve, rústica e retrô. Evitando a reprodução mecânica de detalhes, a ilustração é reinterpretada por meio de formas generalizadas, proporções moderadamente exageradas, traços simbólicos e metáforas visuais bem-humoradas, mantendo ao mesmo tempo a expressão característica do original. Essas ilustrações combinam a ilustração editorial modernista, o design gráfico da Bauhaus, livros ilustrados infantis, arte naïf e técnicas de esboço em alta. As formas são concisas, as linhas de contorno transmitem uma impressão ligeiramente imprecisa que reflete as imperfeições naturais do desenho à mão, e elementos específicos são ampliados adequadamente para criar uma imagem narrativa, estilosa e lúdica.
-```
-
-[↑ Voltar às categorias](#catalog)
-
----
-
-<a name="prompt-2098762789489873062"></a>
-
-### Tradução em andamento
-
-Autor：[@lovimg\_com](https://x.com/lovimg_com) · [Publicação original](https://x.com/lovimg_com/status/2098762789489873062)
-
-Pôster / Flyer · Ilustração · Retrô / Vintage · Item de Moda · Texto / Tipografia · Publicado
-
-**Resumo:** Tradução em andamento
-
-<img src="images/2098762789489873062-1.jpg" alt="Imagem 1" width="480" />
-
-<img src="images/2098762789489873062-2.jpg" alt="Imagem 2" width="480" />
-
-**Prompt**
-
-```text
-Tradução em andamento
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -4385,13 +4348,13 @@ Tradução em andamento
 
 <a name="prompt-2100255511228932598"></a>
 
-### Tradução em andamento
+### Instantâneos verticais de erros em grade de quatro, cena de colheita de raiz de lótus em lagoa de lótus e personagens
 
 Autor：[@ahamme35638](https://x.com/ahamme35638) · [Publicação original](https://x.com/ahamme35638/status/2100255511228932598)
 
 Personagem · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Instantâneos verticais de erros em grade de quatro, cena de colheita de raiz de lótus em lagoa de lótus e personagens
 
 <img src="images/2100255511228932598-1.jpg" alt="Imagem 1" width="480" />
 
@@ -4402,7 +4365,7 @@ Personagem · Publicado
 **Prompt**
 
 ```text
-Tradução em andamento
+Fotos com erro verticais 2×2, cena de colheita de raiz de lótus em lagoa de lótus + personagem
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -5044,28 +5007,6 @@ Cristiano Ronaldo comendo shawarma
 
 ---
 
-<a name="prompt-2097582500273115191"></a>
-
-### Tradução em andamento
-
-Autor：[@ky6001481673691](https://x.com/ky6001481673691) · [Publicação original](https://x.com/ky6001481673691/status/2097582500273115191)
-
-Retrato / Selfie · Personagem · Item de Moda · Publicado
-
-**Resumo:** Tradução em andamento
-
-<img src="images/2097582500273115191-1.jpg" alt="Imagem 1" width="480" />
-
-**Prompt**
-
-```text
-Tradução em andamento
-```
-
-[↑ Voltar às categorias](#catalog)
-
----
-
 <a name="prompt-2097558679956664521"></a>
 
 ### Retrato de terror cibernético apresentando um humanoide esguio com uma máscara de porcelana rachada, cabos na cabeça e iluminação monocromática de alto contraste.
@@ -5206,30 +5147,6 @@ Cena 5 (7–9s): O frasco é segurado elegantemente com uma mão e girado lentam
 Cena 6 (9–10s): Tomada principal final do frasco de Cheng Guang Cocoa Soft Glow cercado por grãos de cacau e folhas. A câmera se aproxima lentamente (push-in), efeitos sutis de brilho, fundo quente e luxuoso, composição limpa com foco no produto.
 
 Estilo: fotorrealista, anúncio de beleza premium, iluminação cinematográfica, movimentos de mão realistas, transições de câmera suaves, profundidade de campo rasa, bokeh suave, tons dourados quentes, 4K, altamente detalhado, movimento natural, sem distorção, sem produtos adicionais, sem alteração no rótulo ou na marca do frasco.
-```
-
-[↑ Voltar às categorias](#catalog)
-
----
-
-<a name="prompt-2098762663941832907"></a>
-
-### Tradução em andamento
-
-Autor：[@lovimg\_com](https://x.com/lovimg_com) · [Publicação original](https://x.com/lovimg_com/status/2098762663941832907)
-
-Pôster / Flyer · Texto / Tipografia · Publicado
-
-**Resumo:** Tradução em andamento
-
-<img src="images/2098762663941832907-1.jpg" alt="Imagem 1" width="480" />
-
-<img src="images/2098762663941832907-2.jpg" alt="Imagem 2" width="480" />
-
-**Prompt**
-
-```text
-Tradução em andamento
 ```
 
 [↑ Voltar às categorias](#catalog)
