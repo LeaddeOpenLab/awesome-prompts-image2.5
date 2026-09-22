@@ -5507,13 +5507,13 @@ Use a imagem anexada como referência para o plano fotográfico. Mantenha a rela
 
 <a name="prompt-2102411458143498618"></a>
 
-### Tradução em andamento
+### Uma foto editorial de alta moda de corpo inteiro de uma mulher com sobretudo magenta, calça amarela e óculos de sol contra um fundo geométrico pop-art.
 
 Autor：[@hey\_am\_cherry](https://x.com/hey_am_cherry) · [Publicação original](https://x.com/hey_am_cherry/status/2102411458143498618)
 
 Personagem · Item de Moda · Resumo / Contexto · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Uma foto editorial de alta moda de corpo inteiro de uma mulher com sobretudo magenta, calça amarela e óculos de sol contra um fundo geométrico pop-art.
 
 <img src="images/2102411458143498618-1.jpg" alt="Imagem 1" width="480" />
 
@@ -5522,7 +5522,7 @@ Personagem · Item de Moda · Resumo / Contexto · Publicado
 **Prompt**
 
 ```text
-Tradução em andamento
+Uma foto editorial de corpo inteiro de alta moda de uma jovem e bela mulher americana usando óculos de sol estilosos, fazendo uma pose dinâmica congelada, selvagem, vanguardista e cheia de energia, vestindo um sobretudo magenta vibrante, calças de alfaiataria amarelo brilhante e uma camisa com padrão quadriculado amarelo e rosa, segurando uma bolsa de mão rosa acolchoada, contra um fundo ousado de listras geométricas pop-art em amarelo, magenta e turquesa, iluminação profissional de estúdio, proporção 9:16.
 ```
 
 [↑ Voltar às categorias](#catalog)

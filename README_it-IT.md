@@ -5514,13 +5514,13 @@ Usa l'immagine allegata come riferimento per il set fotografico. Mantieni il rap
 
 <a name="prompt-2102411458143498618"></a>
 
-### Traduzione in corso
+### Uno scatto editoriale a figura intera di alta moda di una donna con un trench magenta, pantaloni gialli e occhiali da sole su uno sfondo geometrico pop-art.
 
 Autore：[@hey\_am\_cherry](https://x.com/hey_am_cherry) · [Post originale](https://x.com/hey_am_cherry/status/2102411458143498618)
 
 Personaggio · Articolo di moda · Abstract / Contesto · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Uno scatto editoriale a figura intera di alta moda di una donna con un trench magenta, pantaloni gialli e occhiali da sole su uno sfondo geometrico pop-art.
 
 <img src="images/2102411458143498618-1.jpg" alt="Immagine 1" width="480" />
 
@@ -5529,7 +5529,7 @@ Personaggio · Articolo di moda · Abstract / Contesto · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+Uno scatto editoriale di alta moda a figura intera di una giovane e bella donna americana che indossa occhiali da sole alla moda, in posa con un movimento dinamico congelato, selvaggio, d'avanguardia ed energico, con indosso un trench magenta vibrante, pantaloni sartoriali giallo brillante e una camicia a griglia gialla e rosa, con in mano una borsa trapuntata rosa, su uno sfondo geometrico a strisce pop-art audace in giallo, magenta e turchese, illuminazione professionale da studio, formato 9:16.
 ```
 
 [↑ Torna alle categorie](#catalog)

@@ -5514,13 +5514,13 @@ Utilisez l'image jointe comme référence pour le schéma photographique. Conser
 
 <a name="prompt-2102411458143498618"></a>
 
-### Traduction en cours
+### Un plan éditorial en pied de haute couture d'une femme en trench magenta, pantalon jaune et lunettes de soleil sur un fond géométrique pop-art.
 
 Auteur：[@hey\_am\_cherry](https://x.com/hey_am_cherry) · [Publication originale](https://x.com/hey_am_cherry/status/2102411458143498618)
 
 Personnage · Article de mode · Résumé / Contexte · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Un plan éditorial en pied de haute couture d'une femme en trench magenta, pantalon jaune et lunettes de soleil sur un fond géométrique pop-art.
 
 <img src="images/2102411458143498618-1.jpg" alt="Image 1" width="480" />
 
@@ -5529,7 +5529,7 @@ Personnage · Article de mode · Résumé / Contexte · Publié
 **Consigne**
 
 ```text
-Traduction en cours
+Un plan en pied éditorial de haute couture d'une belle jeune femme américaine portant des lunettes de soleil élégantes, prenant une pose dynamique en mouvement figé, sauvage, avant-gardiste et énergique, vêtue d'un trench-coat magenta éclatant, d'un pantalon ajusté jaune vif et d'une chemise à motif quadrillé jaune et rose, tenant un sac à main rose matelassé, sur un fond géométrique rayé pop-art audacieux jaune, magenta et turquoise, éclairage de studio professionnel, format d'image 9:16.
 ```
 
 [↑ Retour aux catégories](#catalog)

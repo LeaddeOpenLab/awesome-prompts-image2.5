@@ -5514,13 +5514,13 @@ Usa la imagen adjunta como referencia del esquema fotográfico. Mantén su relac
 
 <a name="prompt-2102411458143498618"></a>
 
-### Traducción en curso
+### Una toma editorial de cuerpo entero de alta costura de una mujer con gabardina magenta, pantalones amarillos y gafas de sol sobre un fondo geométrico pop-art.
 
 Autor：[@hey\_am\_cherry](https://x.com/hey_am_cherry) · [Publicación original](https://x.com/hey_am_cherry/status/2102411458143498618)
 
 Personaje · Artículo de moda · Resumen / Antecedentes · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Una toma editorial de cuerpo entero de alta costura de una mujer con gabardina magenta, pantalones amarillos y gafas de sol sobre un fondo geométrico pop-art.
 
 <img src="images/2102411458143498618-1.jpg" alt="Imagen 1" width="480" />
 
@@ -5529,7 +5529,7 @@ Personaje · Artículo de moda · Resumen / Antecedentes · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+Una toma editorial de cuerpo entero de alta costura de una joven y hermosa mujer estadounidense que lleva gafas de sol elegantes, posando en una pose dinámica de movimiento congelado salvaje, vanguardista y enérgica, vistiendo una gabardina magenta vibrante, pantalones de vestir amarillo brillante y una camisa con diseño de cuadrícula amarilla y rosa, sosteniendo un bolso de mano rosa acolchado, con un audaz fondo geométrico a rayas estilo pop-art en amarillo, magenta y turquesa, iluminación de estudio profesional, relación de aspecto 9:16.
 ```
 
 [↑ Volver a categorías](#catalog)

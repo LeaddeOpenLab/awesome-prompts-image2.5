@@ -5507,13 +5507,13 @@ Use a imagem em anexo como referência para o plano fotográfico. Mantenha a rel
 
 <a name="prompt-2102411458143498618"></a>
 
-### Tradução em curso
+### Uma fotografia editorial de corpo inteiro de alta-costura de uma mulher com uma gabardina magenta, calças amarelas e óculos de sol contra um fundo geométrico pop-art.
 
 Autor：[@hey\_am\_cherry](https://x.com/hey_am_cherry) · [Publicação original](https://x.com/hey_am_cherry/status/2102411458143498618)
 
 Personagem · Item de Moda · Resumo / Contexto · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Uma fotografia editorial de corpo inteiro de alta-costura de uma mulher com uma gabardina magenta, calças amarelas e óculos de sol contra um fundo geométrico pop-art.
 
 <img src="images/2102411458143498618-1.jpg" alt="Imagem 1" width="480" />
 
@@ -5522,7 +5522,7 @@ Personagem · Item de Moda · Resumo / Contexto · Publicado
 **Prompt**
 
 ```text
-Tradução em curso
+Uma fotografia editorial de corpo inteiro de alta-costura de uma jovem e bela mulher americana a usar óculos de sol elegantes, numa pose dinâmica de movimento congelado, selvagem, vanguardista e enérgica, a vestir uma gabardina magenta vibrante, calças de alfaiataria amarelo-brilhante e uma camisa com padrão de grelha em amarelo e cor-de-rosa, a segurar uma mala acolchoada cor-de-rosa, contra um ousado fundo pop-art de riscas geométricas em amarelo, magenta e turquesa, iluminação de estúdio profissional, proporção 9:16.
 ```
 
 [↑ Voltar às categorias](#catalog)

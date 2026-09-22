@@ -5503,13 +5503,13 @@ Ekli görseli fotoğraf konsepti referansı olarak kullanın. Pozlama ilişkisin
 
 <a name="prompt-2102411458143498618"></a>
 
-### Çeviri sürüyor
+### Pop-art geometrik bir arka plan önünde macenta bir trençkot, sarı pantolon ve güneş gözlüğü giymiş bir kadının yüksek moda tam boy editoryal çekimi.
 
 Yazar：[@hey\_am\_cherry](https://x.com/hey_am_cherry) · [Orijinal gönderi](https://x.com/hey_am_cherry/status/2102411458143498618)
 
 Karakter · Moda Ürünü · Özet / Arka Plan · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Pop-art geometrik bir arka plan önünde macenta bir trençkot, sarı pantolon ve güneş gözlüğü giymiş bir kadının yüksek moda tam boy editoryal çekimi.
 
 <img src="images/2102411458143498618-1.jpg" alt="Görsel 1" width="480" />
 
@@ -5518,7 +5518,7 @@ Karakter · Moda Ürünü · Özet / Arka Plan · Yayımlandı
 **İstem**
 
 ```text
-Çeviri sürüyor
+Şık güneş gözlükleri takan, vahşi, avangart ve enerjik dinamik bir donma hareketi pozu veren genç ve güzel bir Amerikalı kadının yüksek moda editoryal tam boy çekimi; canlı macenta rengi bir trençkot, parlak sarı özel dikim pantolon ve sarı-pembe ızgara desenli bir gömlek giymiş, kapitone pembe bir el çantası tutuyor, sarı, macenta ve turkuaz renklerde cesur bir pop-art geometrik çizgili arka plan önünde, profesyonel stüdyo aydınlatması, 9:16 en-boy oranı.
 ```
 
 [↑ Kategorilere dön](#catalog)

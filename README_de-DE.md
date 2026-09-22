@@ -5515,13 +5515,13 @@ Verwende das beigefügte Bild als Referenz für das Fotokonzept. Behalte das Bel
 
 <a name="prompt-2102411458143498618"></a>
 
-### Übersetzung läuft
+### Ein High-Fashion-Editorial-Ganzkörperschuss einer Frau in einem magentafarbenen Trenchcoat, einer gelben Hose und einer Sonnenbrille vor einem geometrischen Pop-Art-Hintergrund.
 
 Autor：[@hey\_am\_cherry](https://x.com/hey_am_cherry) · [Originalbeitrag](https://x.com/hey_am_cherry/status/2102411458143498618)
 
 Charakter · Modeartikel · Zusammenfassung / Hintergrund · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Ein High-Fashion-Editorial-Ganzkörperschuss einer Frau in einem magentafarbenen Trenchcoat, einer gelben Hose und einer Sonnenbrille vor einem geometrischen Pop-Art-Hintergrund.
 
 <img src="images/2102411458143498618-1.jpg" alt="Bild 1" width="480" />
 
@@ -5530,7 +5530,7 @@ Charakter · Modeartikel · Zusammenfassung / Hintergrund · Veröffentlicht
 **Prompt**
 
 ```text
-Übersetzung läuft
+Eine High-Fashion-Editorial-Ganzkörperaufnahme einer jungen, schönen amerikanischen Frau mit stilvoller Sonnenbrille, die in einer wilden, avantgardistischen und energiegeladenen, dynamischen Freeze-Motion-Pose posiert, bekleidet mit einem leuchtend magentafarbenen Trenchcoat, einer hellgelben Maßhose und einem gemusterten gelb-rosa karierten Hemd, in der Hand eine gesteppte rosa Handtasche, vor einem markanten geometrisch gestreiften Pop-Art-Hintergrund in Gelb, Magenta und Türkis, professionelle Studiobeleuchtung, Seitenverhältnis 9:16.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

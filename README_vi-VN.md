@@ -5555,13 +5555,13 @@ Sử dụng hình ảnh đính kèm làm tài liệu tham khảo cho phương á
 
 <a name="prompt-2102411458143498618"></a>
 
-### Đang dịch
+### Ảnh biên tập toàn thân thời trang cao cấp về một người phụ nữ mặc áo măng tô màu đỏ tươi, quần vàng và đeo kính râm trước phông nền hình học pop-art.
 
 Tác giả：[@hey\_am\_cherry](https://x.com/hey_am_cherry) · [Bài gốc](https://x.com/hey_am_cherry/status/2102411458143498618)
 
 Nhân vật · Mặt hàng thời trang · Tóm tắt / Bối cảnh · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Ảnh biên tập toàn thân thời trang cao cấp về một người phụ nữ mặc áo măng tô màu đỏ tươi, quần vàng và đeo kính râm trước phông nền hình học pop-art.
 
 <img src="images/2102411458143498618-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -5570,7 +5570,7 @@ Nhân vật · Mặt hàng thời trang · Tóm tắt / Bối cảnh · Đã xu�
 **Câu lệnh**
 
 ```text
-Đang dịch
+Một bức ảnh toàn thân phong cách biên tập thời trang cao cấp của một phụ nữ Mỹ trẻ đẹp đeo kính râm sành điệu, tạo dáng đóng băng chuyển động đầy năng động, táo bạo và tiên phong, mặc áo khoác măng tô màu đỏ tươi (magenta) rực rỡ, quần tây may đo màu vàng sáng và áo sơ mi kẻ caro màu vàng và hồng, tay cầm túi xách chần bông màu hồng, trên nền sọc hình học nghệ thuật pop-art táo bạo gồm các màu vàng, đỏ tươi và xanh ngọc lam, ánh sáng studio chuyên nghiệp, tỷ lệ khung hình 9:16.
 ```
 
 [↑ Về danh mục](#catalog)
