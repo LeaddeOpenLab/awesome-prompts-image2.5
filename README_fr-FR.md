@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**187** Prompts · Dernier ajout: **2026-09-22**
+**190** Prompts · Dernier ajout: **2026-09-22**
 
 <a name="catalog"></a>
 
@@ -628,6 +628,28 @@ Photographie · Paysage / Nature · Publié
 
 ```text
 Photo d'une clairière dans les bois avec un feuillage vert abondant, très détaillée
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2102387689831989509"></a>
+
+### Traduction en cours
+
+Auteur：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publication originale](https://x.com/CyberTotal2026/status/2102387689831989509)
+
+Photographie · Portrait / Selfie · Personnage · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2102387689831989509-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -2977,6 +2999,34 @@ Portrait cinématographique photoréaliste d'un bel homme adulte aux cheveux bru
 
 ## Anime / Manga
 
+<a name="prompt-2102372464835874926"></a>
+
+### Traduction en cours
+
+Auteur：[@AALstudio2026](https://x.com/AALstudio2026) · [Publication originale](https://x.com/AALstudio2026/status/2102372464835874926)
+
+Anime / Manga · Personnage · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2102372464835874926-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2102372464835874926-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2102372464835874926-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2102372464835874926-4.jpg" alt="Image 4" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
 <a name="prompt-2101988472164884652"></a>
 
 ### Prompt de génération d'image rassemblant environ 200 personnages 2D numérotés, façon album de promotion d'une école gigantesque dans une ville académique.
@@ -3061,7 +3111,7 @@ Negative Prompt: outfit changes, identity changes, realistic second person, norm
 
 <a name="prompt-2102328812386287750"></a>
 
-### Traduction en cours
+### Modèle de prompt universel pour schémas de vulgarisation scientifique basé sur des principes scientifiques et des structures réelles en coupe, mettant l'accent sur des hiérarchies claires et la corrélation structurelle.
 
 Auteur：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publication originale](https://x.com/DeepBlueX0/status/2102328812386287750)
 
@@ -3069,7 +3119,7 @@ Infographie / Visuel éducatif · Illustration · Diagramme / Graphique · Publi
 
 Publication originale：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publication originale](https://x.com/DeepBlueX0/status/2097660427216036207)
 
-**Résumé:** Traduction en cours
+**Résumé:** Modèle de prompt universel pour schémas de vulgarisation scientifique basé sur des principes scientifiques et des structures réelles en coupe, mettant l'accent sur des hiérarchies claires et la corrélation structurelle.
 
 <img src="images/2102328812386287750-1.jpg" alt="Image 1" width="480" />
 
@@ -3084,7 +3134,9 @@ Publication originale：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publication 
 **Consigne**
 
 ```text
-Traduction en cours
+【Sujet】× Illustration de vulgarisation scientifique × Visualisation de structures professionnelle × Structure en coupe et relations spatiales × Hiérarchie structurelle et relations d'information claires × Expression sous forme de schéma scientifique
+
+Basé sur des structures réelles et des principes scientifiques, mettant en évidence les structures clés et les relations spatiales ; image claire, facile à comprendre, professionnelle et précise ; informations textuelles claires et lisibles, annotations nécessaires concises et précises, typographie soignée et clairement associée à la structure correspondante ; éviter le style dessin animé, la surdécoration, l'artistique excessif, les caractères illisibles et les textes dénués de sens.
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -5338,6 +5390,30 @@ Personnage · Publié
 
 ```text
 Utilisez l'image jointe comme référence pour le schéma photographique. Conservez son rapport d'exposition, la direction de la lumière, la texture des tissus et le rythme de la composition ; redessinez le personnage et la palette de couleurs thématique. Le personnage est un adulte, sans copier le visage de la personne de référence. Après la génération, comparez avec l'image originale pour vérifier : l'éclairage a-t-il été modifié sans autorisation, les vêtements ont-ils été épaissis, ou la peau a-t-elle été retouchée de manière excessivement lisse ?
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2102411458143498618"></a>
+
+### Traduction en cours
+
+Auteur：[@hey\_am\_cherry](https://x.com/hey_am_cherry) · [Publication originale](https://x.com/hey_am_cherry/status/2102411458143498618)
+
+Personnage · Article de mode · Résumé / Contexte · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2102411458143498618-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2102411458143498618-2.jpg" alt="Image 2" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
 ```
 
 [↑ Retour aux catégories](#catalog)

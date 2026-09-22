@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-22T16:28:21.893Z",
+  "model": "image2.5",
+  "prompt": "An anime magazine feature illustration, 16:9 aspect ratio, double-page spread composition. Leo and the MMX rocket, highlighting the charm and synergy of both characters and machinery. Leo's official character design and animation sheet guidelines must be strictly followed. Cinematic and artistic presentation with tasteful aesthetic exaggerations (creative liberties for visual impact) while avoiding over-the-top or unrealistic effects. Clean and professional anime style, no corporate or institutional logos, no text. --ar 16:9",
+  "promptTranslations": {
+    "en": "An anime magazine feature illustration, 16:9 aspect ratio, double-page spread composition. Leo and the MMX rocket, highlighting the charm and synergy of both characters and machinery. Leo's official character design and animation sheet guidelines must be strictly followed. Cinematic and artistic presentation with tasteful aesthetic exaggerations (creative liberties for visual impact) while avoiding over-the-top or unrealistic effects. Clean and professional anime style, no corporate or institutional logos, no text. --ar 16:9"
+  },
+  "summaryTranslations": {
+    "en": "A launch scene featuring the character \"Leo\" and the MMX rocket, drawn in an anime magazine spread-style composition."
+  },
+  "translationVersion": 2,
+  "summary": "アニメ雑誌見開き風の構図で描かれたキャラクター「レオ君」とMMXロケットの発射シーン。",
+  "summaryEn": "An anime magazine double-page spread featuring the character Leo alongside the MMX rocket launch.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2102372464835874926",
+    "canonicalUrl": "https://x.com/AALstudio2026/status/2102372464835874926",
+    "author": {
+      "username": "AALstudio2026",
+      "displayName": "Astronomy Arts Lab",
+      "profileUrl": "https://x.com/AALstudio2026"
+    },
+    "publishedAt": "2026-09-22T12:20:30.000Z",
+    "collectedAt": "2026-09-22T16:16:58.333Z",
+    "language": "ja",
+    "originalText": "このイラストは再掲載となります。\n\n2.5頭身くらいのキャラクターのプロポーションは結構構図によって変わってくるんですよね。\n参照モデルの少ない創作キャラクターだから特にでしょうか。\n\n最近なんとなく思ったのですが、GPT系はアタリをとってないぽいですね。\n好きなところから描いている感じ。\nだからこそ事細かな指示がいるのでしょうか。\nとはいえGPT Image2.5内部の事は全然わからないのですが。\n\nこれは写真的な構図はおかしくともイラストとして魅力的なウソをGPTにお願いしたイラストで、例えに出したのがアニメ雑誌の見開きです。\n\n以下プロンプト\n↓\nあなたはアニメ雑誌の演出家です。\nレオ君の設定・作画上の注意点を守り、MMXロケットとレオ君、双方の魅力が伝わる一枚を描いてください。\n絵をよく見せる「ウソ」は歓迎しますが、過剰な演出は避けてください。\n\n見開きを意識した16：9の構図で、企業・機関のロゴは使用しないでください。\n(この他、毎日ねちねちくどくど説教しているレオ君創作ルールがあります、が勿論100％聞くわけではないです。)\n\nAn anime magazine feature illustration, 16:9 aspect ratio, double-page spread composition. Leo and the MMX rocket, highlighting the charm and synergy of both characters and machinery. Leo's official character design and animation sheet guidelines must be strictly followed. Cinematic and artistic presentation with tasteful aesthetic exaggerations (creative liberties for visual impact) while avoiding over-the-top or unrealistic effects. Clean and professional anime style, no corporate or institutional logos, no text. --ar 16:9\n\nIllustration: Made with ChatGPT\nCreated by Astronomy Arts Lab",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HS0gbVNbQAAX9cN.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HS0gbVNbQAAX9cN.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HS0ge-aboAAAjZV.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HS0ge-aboAAAjZV.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HS0gihnagAAEP6H.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HS0gihnagAAEP6H.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HS0gmHqakAEP-6K.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HS0gmHqakAEP-6K.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 7,
+      "repostCount": 1,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 113
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/AALstudio2026/status/2102372464835874926",
+  "coverUrl": "https://pbs.twimg.com/media/HS0gbVNbQAAX9cN.jpg",
+  "coverPath": "images/2102372464835874926-1.jpg",
+  "imagePaths": [
+    "images/2102372464835874926-1.jpg",
+    "images/2102372464835874926-2.jpg",
+    "images/2102372464835874926-3.jpg",
+    "images/2102372464835874926-4.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HS0gbVNbQAAX9cN",
+    "x-image:/media/HS0ge-aboAAAjZV",
+    "x-image:/media/HS0gihnagAAEP6H",
+    "x-image:/media/HS0gmHqakAEP-6K",
+    "x-post:2102372464835874926"
+  ],
+  "analysis": {
+    "summary": "アニメ雑誌見開き風の構図で描かれたキャラクター「レオ君」とMMXロケットの発射シーン。",
+    "summaryEn": "An anime magazine double-page spread featuring the character Leo alongside the MMX rocket launch.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "图片组展示了狮子角色Leo以及升空的MMX火箭，拼接后完美对应提示词要求的16:9动漫杂志跨页构图与艺术风格。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "An anime magazine feature illustration, 16:9 aspect ratio, double-page spread composition. Leo and the MMX rocket, highlighting the charm and synergy of both characters and machinery. Leo's official character design and animation sheet guidelines must be strictly followed. Cinematic and artistic presentation with tasteful aesthetic exaggerations (creative liberties for visual impact) while avoiding over-the-top or unrealistic effects. Clean and professional anime style, no corporate or institutional logos, no text. --ar 16:9",
+    "sourceRange": {
+      "start": 477,
+      "end": 1007
+    },
+    "translations": {
+      "zh": "动漫杂志特辑插画，16:9纵横比，双页跨页构图。雷欧与MMX火箭，突显角色与机械的魅力与协同。必须严格遵循雷欧官方角色设计和动画设定规范。富有品味的美学夸张，避免过分特效，呈现电影感与艺术感。干净专业的动漫风格，无企业或机构标志，无文字。--ar 16:9",
+      "en": "An anime magazine feature illustration, 16:9 aspect ratio, double-page spread composition. Leo and the MMX rocket, highlighting the charm and synergy of both characters and machinery. Leo's official character design and animation sheet guidelines must be strictly followed. Cinematic and artistic presentation with tasteful aesthetic exaggerations (creative liberties for visual impact) while avoiding over-the-top or unrealistic effects. Clean and professional anime style, no corporate or institutional logos, no text. --ar 16:9"
+    },
+    "targetModels": [
+      "image2.5"
+    ],
+    "category": "text-to-image",
+    "useCase": "text-to-image",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}

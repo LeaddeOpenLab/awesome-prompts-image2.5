@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**187** Prompts · Zuletzt hinzugefügt: **2026-09-22**
+**190** Prompts · Zuletzt hinzugefügt: **2026-09-22**
 
 <a name="catalog"></a>
 
@@ -628,6 +628,28 @@ Fotografie · Landschaft / Natur · Veröffentlicht
 
 ```text
 Foto einer Waldlichtung mit viel grünem Blattwerk, sehr detailliert
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2102387689831989509"></a>
+
+### Übersetzung läuft
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Originalbeitrag](https://x.com/CyberTotal2026/status/2102387689831989509)
+
+Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2102387689831989509-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -2977,6 +2999,34 @@ Fotorealistisches, filmisches Porträt eines gutaussehenden erwachsenen Mannes m
 
 ## Anime / Manga
 
+<a name="prompt-2102372464835874926"></a>
+
+### Übersetzung läuft
+
+Autor：[@AALstudio2026](https://x.com/AALstudio2026) · [Originalbeitrag](https://x.com/AALstudio2026/status/2102372464835874926)
+
+Anime / Manga · Charakter · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2102372464835874926-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2102372464835874926-2.jpg" alt="Bild 2" width="480" />
+
+<img src="images/2102372464835874926-3.jpg" alt="Bild 3" width="480" />
+
+<img src="images/2102372464835874926-4.jpg" alt="Bild 4" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
 <a name="prompt-2101988472164884652"></a>
 
 ### Bildgenerierungs-Prompt, der etwa 200 nummerierte 2D-Charaktere im Stil eines Abschlussjahrbuchs einer Mammutschule in einer Bildungsstadt versammelt.
@@ -3061,7 +3111,7 @@ Negative Prompt: outfit changes, identity changes, realistic second person, norm
 
 <a name="prompt-2102328812386287750"></a>
 
-### Übersetzung läuft
+### Universelle Prompt-Vorlage für populärwissenschaftliche Diagramme basierend auf wissenschaftlichen Prinzipien und realen Querschnittstrukturen, mit Betonung auf klare Hierarchien und Strukturverknüpfungen.
 
 Autor：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Originalbeitrag](https://x.com/DeepBlueX0/status/2102328812386287750)
 
@@ -3069,7 +3119,7 @@ Infografik / Edu Visual · Illustration · Diagramm / Grafik · Veröffentlicht
 
 Originalbeitrag：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Originalbeitrag](https://x.com/DeepBlueX0/status/2097660427216036207)
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Universelle Prompt-Vorlage für populärwissenschaftliche Diagramme basierend auf wissenschaftlichen Prinzipien und realen Querschnittstrukturen, mit Betonung auf klare Hierarchien und Strukturverknüpfungen.
 
 <img src="images/2102328812386287750-1.jpg" alt="Bild 1" width="480" />
 
@@ -3084,7 +3134,9 @@ Originalbeitrag：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Originalbeitrag](h
 **Prompt**
 
 ```text
-Übersetzung läuft
+【Hauptmotiv】× Populärwissenschaftliche Illustration × Professionelle Strukturvisualisierung × Querschnittstruktur und räumliche Beziehungen × Klare Strukturhierarchie und Informationsbeziehungen × Wissenschaftliche diagrammatische Darstellung
+
+Basierend auf realen Strukturen und wissenschaftlichen Prinzipien, Hervorhebung von Schlüsselstrukturen und räumlichen Beziehungen; Bilddarstellung klar, leicht verständlich, professionell und präzise; Textinformationen klar lesbar, notwendige Beschriftungen prägnant und präzise, ordentliche Schriftart und eindeutig mit der entsprechenden Struktur verknüpft; Cartoon-Stil, Dekorationen, übermäßige Künstlerischkeit, Zeichensalat und sinnlose Texte vermeiden.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -5339,6 +5391,30 @@ Charakter · Veröffentlicht
 
 ```text
 Verwende das beigefügte Bild als Referenz für das Fotokonzept. Behalte das Belichtungsverhältnis, die Lichtrichtung, die Textur der Kleidung und den Kompositionsrhythmus bei; entwirf die Figur und das thematische Farbschema neu. Die Person ist ein Erwachsener; kopiere nicht das Gesicht der Referenzperson. Nach der Generierung im Vergleich zum Originalbild prüfen: Wurde eigenmächtig die Beleuchtung verändert, die Kleidung dicker gemacht oder die Haut übermäßig glatt retuschiert?
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2102411458143498618"></a>
+
+### Übersetzung läuft
+
+Autor：[@hey\_am\_cherry](https://x.com/hey_am_cherry) · [Originalbeitrag](https://x.com/hey_am_cherry/status/2102411458143498618)
+
+Charakter · Modeartikel · Zusammenfassung / Hintergrund · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2102411458143498618-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2102411458143498618-2.jpg" alt="Bild 2" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**187** Prompt · Ultima aggiunta: **2026-09-22**
+**190** Prompt · Ultima aggiunta: **2026-09-22**
 
 <a name="catalog"></a>
 
@@ -628,6 +628,28 @@ Fotografia · Paesaggio / Natura · Pubblicato
 
 ```text
 Foto di una radura nel bosco con abbondante fogliame verde, altamente dettagliata
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2102387689831989509"></a>
+
+### Traduzione in corso
+
+Autore：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Post originale](https://x.com/CyberTotal2026/status/2102387689831989509)
+
+Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2102387689831989509-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -2977,6 +2999,34 @@ Ritratto cinematografico fotorealistico di un bell'uomo adulto con capelli casta
 
 ## Anime / Manga
 
+<a name="prompt-2102372464835874926"></a>
+
+### Traduzione in corso
+
+Autore：[@AALstudio2026](https://x.com/AALstudio2026) · [Post originale](https://x.com/AALstudio2026/status/2102372464835874926)
+
+Anime / Manga · Personaggio · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2102372464835874926-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2102372464835874926-2.jpg" alt="Immagine 2" width="480" />
+
+<img src="images/2102372464835874926-3.jpg" alt="Immagine 3" width="480" />
+
+<img src="images/2102372464835874926-4.jpg" alt="Immagine 4" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
 <a name="prompt-2101988472164884652"></a>
 
 ### Prompt di generazione immagini che riunisce circa 200 personaggi 2D numerati, in stile annuario scolastico di una scuola mastodontica in una città accademica.
@@ -3061,7 +3111,7 @@ Negative Prompt: outfit changes, identity changes, realistic second person, norm
 
 <a name="prompt-2102328812386287750"></a>
 
-### Traduzione in corso
+### Modello di prompt universale per diagrammi di divulgazione scientifica basato su principi scientifici e reali strutture in sezione, che enfatizza gerarchie chiare e correlazione strutturale.
 
 Autore：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Post originale](https://x.com/DeepBlueX0/status/2102328812386287750)
 
@@ -3069,7 +3119,7 @@ Infografica / Contenuto Visual Educativo · Illustrazione · Diagramma / Grafico
 
 Post originale：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Post originale](https://x.com/DeepBlueX0/status/2097660427216036207)
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Modello di prompt universale per diagrammi di divulgazione scientifica basato su principi scientifici e reali strutture in sezione, che enfatizza gerarchie chiare e correlazione strutturale.
 
 <img src="images/2102328812386287750-1.jpg" alt="Immagine 1" width="480" />
 
@@ -3084,7 +3134,9 @@ Post originale：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Post originale](htt
 **Prompt**
 
 ```text
-Traduzione in corso
+【Soggetto】× Illustrazione di divulgazione scientifica × Visualizzazione strutturale professionale × Struttura in sezione trasversale e relazioni spaziali × Chiara gerarchia strutturale e relazioni informative × Espressione diagrammatica scientifica
+
+Basato su strutture reali e principi scientifici, evidenziando le strutture chiave e le relazioni spaziali; immagine chiara, facile da capire, professionale e accurata; informazioni testuali chiare e leggibili, annotazioni necessarie concise e precise, carattere ordinato e chiaramente collegato alla struttura corrispondente; evitare stile cartoon, decorativismo, eccessiva artisticità, caratteri illeggibili e testo privo di significato.
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -5338,6 +5390,30 @@ Personaggio · Pubblicato
 
 ```text
 Usa l'immagine allegata come riferimento per il set fotografico. Mantieni il rapporto di esposizione, la direzione della luce, la consistenza dei tessuti e il ritmo compositivo; riprogetta il personaggio e la palette di colori tematica. Il personaggio deve essere un adulto, senza copiare il viso della persona di riferimento. Dopo la generazione, confrontala con l'immagine originale per verificare: l'illuminazione è stata modificata arbitrariamente, gli abiti sono stati appesantiti o la pelle è stata ritoccata risultando eccessivamente liscia?
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2102411458143498618"></a>
+
+### Traduzione in corso
+
+Autore：[@hey\_am\_cherry](https://x.com/hey_am_cherry) · [Post originale](https://x.com/hey_am_cherry/status/2102411458143498618)
+
+Personaggio · Articolo di moda · Abstract / Contesto · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2102411458143498618-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2102411458143498618-2.jpg" alt="Immagine 2" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)

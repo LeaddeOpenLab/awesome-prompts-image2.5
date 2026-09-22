@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**187** Prompts · Última adição: **2026-09-22**
+**190** Prompts · Última adição: **2026-09-22**
 
 <a name="catalog"></a>
 
@@ -628,6 +628,28 @@ Fotografia · Paisagem / Natureza · Publicado
 
 ```text
 Foto de uma clareira na floresta com muita folhagem verde, altamente detalhada
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2102387689831989509"></a>
+
+### Tradução em andamento
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicação original](https://x.com/CyberTotal2026/status/2102387689831989509)
+
+Fotografia · Retrato / Selfie · Personagem · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2102387689831989509-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -2970,6 +2992,34 @@ Retrato cinematográfico fotorrealista de um belo homem adulto com cabelo castan
 
 ## Anime / Mangá
 
+<a name="prompt-2102372464835874926"></a>
+
+### Tradução em andamento
+
+Autor：[@AALstudio2026](https://x.com/AALstudio2026) · [Publicação original](https://x.com/AALstudio2026/status/2102372464835874926)
+
+Anime / Mangá · Personagem · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2102372464835874926-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2102372464835874926-2.jpg" alt="Imagem 2" width="480" />
+
+<img src="images/2102372464835874926-3.jpg" alt="Imagem 3" width="480" />
+
+<img src="images/2102372464835874926-4.jpg" alt="Imagem 4" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
 <a name="prompt-2101988472164884652"></a>
 
 ### Prompt de geração de imagem que reúne cerca de 200 personagens 2D numerados no estilo de um anuário de formatura de uma escola gigantesca em uma cidade acadêmica.
@@ -3054,7 +3104,7 @@ Negative Prompt: outfit changes, identity changes, realistic second person, norm
 
 <a name="prompt-2102328812386287750"></a>
 
-### Tradução em andamento
+### Modelo de prompt universal para diagramas de divulgação científica baseado em princípios científicos e estruturas reais em corte transversal, enfatizando hierarquias claras e correlação estrutural.
 
 Autor：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicação original](https://x.com/DeepBlueX0/status/2102328812386287750)
 
@@ -3062,7 +3112,7 @@ Infográfico / Edu Visual · Ilustração · Diagrama / Gráfico · Publicado
 
 Publicação original：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicação original](https://x.com/DeepBlueX0/status/2097660427216036207)
 
-**Resumo:** Tradução em andamento
+**Resumo:** Modelo de prompt universal para diagramas de divulgação científica baseado em princípios científicos e estruturas reais em corte transversal, enfatizando hierarquias claras e correlação estrutural.
 
 <img src="images/2102328812386287750-1.jpg" alt="Imagem 1" width="480" />
 
@@ -3077,7 +3127,9 @@ Publicação original：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicação
 **Prompt**
 
 ```text
-Tradução em andamento
+【Assunto】× Ilustração de divulgação científica × Visualização de estruturas profissional × Estrutura em corte transversal e relações espaciais × Hierarquia estrutural e relações de informação claras × Expressão diagramática científica
+
+Com base em estruturas reais e princípios científicos, destacando estruturas essenciais e relações espaciais; imagem clara, fácil de entender, profissional e precisa; informações de texto claras e legíveis, anotações necessárias concisas e precisas, tipografia ordenada e claramente associada à estrutura correspondente; evitar estilo de desenho animado, decorativismo, artisticidade excessiva, caracteres ilegíveis e texto sem sentido.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -5331,6 +5383,30 @@ Personagem · Publicado
 
 ```text
 Use a imagem anexada como referência para o plano fotográfico. Mantenha a relação de exposição, a direção da luz, a textura dos tecidos e o ritmo de composição; redesenhe o personagem e a paleta de cores temática. O personagem deve ser um adulto, sem copiar o rosto da pessoa de referência. Após a geração, compare com a imagem original para verificar: a iluminação foi alterada arbitrariamente, as roupas ficaram mais grossas ou a pele foi excessivamente suavizada?
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2102411458143498618"></a>
+
+### Tradução em andamento
+
+Autor：[@hey\_am\_cherry](https://x.com/hey_am_cherry) · [Publicação original](https://x.com/hey_am_cherry/status/2102411458143498618)
+
+Personagem · Item de Moda · Resumo / Contexto · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2102411458143498618-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2102411458143498618-2.jpg" alt="Imagem 2" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
 ```
 
 [↑ Voltar às categorias](#catalog)

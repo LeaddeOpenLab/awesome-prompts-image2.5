@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-22T16:29:23.791Z",
+  "model": "image2",
+  "prompt": "A high-fashion editorial full-body shot of a young beautiful American woman wearing stylish sunglasses, posing in a wild, avant-garde and energetic dynamic freeze-motion pose, wearing a vibrant magenta trench coat, bright yellow tailored trousers, and a patterned yellow and pink grid shirt, holding a quilted pink handbag, set against a bold pop-art geometric striped background of yellow, magenta, and turquoise, professional studio lighting, 9:16 aspect ratio.",
+  "promptTranslations": {
+    "en": "A high-fashion editorial full-body shot of a young beautiful American woman wearing stylish sunglasses, posing in a wild, avant-garde and energetic dynamic freeze-motion pose, wearing a vibrant magenta trench coat, bright yellow tailored trousers, and a patterned yellow and pink grid shirt, holding a quilted pink handbag, set against a bold pop-art geometric striped background of yellow, magenta, and turquoise, professional studio lighting, 9:16 aspect ratio."
+  },
+  "summaryTranslations": {
+    "en": "A high-fashion full-body editorial shot of a woman in a magenta trench coat, yellow trousers, and sunglasses against a pop-art geometric background."
+  },
+  "translationVersion": 2,
+  "summary": "A high-fashion full-body editorial shot of a woman in a magenta trench coat, yellow trousers, and sunglasses against a pop-art geometric background.",
+  "summaryEn": "A high-fashion full-body editorial shot of a woman in a magenta trench coat, yellow trousers, and sunglasses against a pop-art geometric background.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2102411458143498618",
+    "canonicalUrl": "https://x.com/hey_am_cherry/status/2102411458143498618",
+    "author": {
+      "username": "hey_am_cherry",
+      "displayName": "Cherry",
+      "profileUrl": "https://x.com/hey_am_cherry"
+    },
+    "publishedAt": "2026-09-22T14:55:27.000Z",
+    "collectedAt": "2026-09-22T16:16:58.333Z",
+    "language": "en",
+    "originalText": "Vibrant colours, bold attitude and pure high-fashion energy\n\nCreated with GPT image 2\n\nPrompt \n\nA high-fashion editorial full-body shot of a young beautiful American woman wearing stylish sunglasses, posing in a wild, avant-garde and energetic dynamic freeze-motion pose, wearing a vibrant magenta trench coat, bright yellow tailored trousers, and a patterned yellow and pink grid shirt, holding a quilted pink handbag, set against a bold pop-art geometric striped background of yellow, magenta, and turquoise, professional studio lighting, 9:16 aspect ratio.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HS1EEMJaIAEABzA.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HS1EEMJaIAEABzA.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HS1EEwUboAAUOIo.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HS1EEwUboAAUOIo.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 24,
+      "repostCount": 3,
+      "replyCount": 19,
+      "quoteCount": 0,
+      "viewCount": 176
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/hey_am_cherry/status/2102411458143498618",
+  "coverUrl": "https://pbs.twimg.com/media/HS1EEMJaIAEABzA.jpg",
+  "coverPath": "images/2102411458143498618-1.jpg",
+  "imagePaths": [
+    "images/2102411458143498618-1.jpg",
+    "images/2102411458143498618-2.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HS1EEMJaIAEABzA",
+    "x-image:/media/HS1EEwUboAAUOIo",
+    "x-post:2102411458143498618"
+  ],
+  "analysis": {
+    "summary": "A high-fashion full-body editorial shot of a woman in a magenta trench coat, yellow trousers, and sunglasses against a pop-art geometric background.",
+    "summaryEn": "A high-fashion full-body editorial shot of a woman in a magenta trench coat, yellow trousers, and sunglasses against a pop-art geometric background.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The image reflects the magenta coat, yellow pants, grid shirt, sunglasses, handbag, dynamic pose, and geometric pop-art backdrop."
+    },
+    "videoQuality": null,
+    "originalPrompt": "A high-fashion editorial full-body shot of a young beautiful American woman wearing stylish sunglasses, posing in a wild, avant-garde and energetic dynamic freeze-motion pose, wearing a vibrant magenta trench coat, bright yellow tailored trousers, and a patterned yellow and pink grid shirt, holding a quilted pink handbag, set against a bold pop-art geometric striped background of yellow, magenta, and turquoise, professional studio lighting, 9:16 aspect ratio.",
+    "sourceRange": {
+      "start": 96,
+      "end": 559
+    },
+    "translations": {
+      "zh": "年轻美国女性的高端时尚全景全身照，佩戴时髦太阳镜，摆出前卫且充满活力的定格动态姿势。她穿着亮丽洋红色风衣、明黄色西装长裤及黄色粉色格子衬衫，手提绗缝粉色手袋，背景为黄色、洋红和绿松石色构成的波普艺术几何条纹，专业影棚灯光，9:16纵横比。",
+      "en": "A high-fashion editorial full-body shot of a young beautiful American woman wearing stylish sunglasses, posing in a wild, avant-garde and energetic dynamic freeze-motion pose, wearing a vibrant magenta trench coat, bright yellow tailored trousers, and a patterned yellow and pink grid shirt, holding a quilted pink handbag, set against a bold pop-art geometric striped background of yellow, magenta, and turquoise, professional studio lighting, 9:16 aspect ratio."
+    },
+    "targetModels": [
+      "image2"
+    ],
+    "category": "text-to-image",
+    "useCase": "fashion_editorial",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}

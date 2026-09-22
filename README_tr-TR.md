@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**187** Prompt · Son eklenen: **2026-09-22**
+**190** Prompt · Son eklenen: **2026-09-22**
 
 <a name="catalog"></a>
 
@@ -628,6 +628,28 @@ Fotoğrafçılık · Manzara / Doğa · Yayımlandı
 
 ```text
 Ormanda bol yeşil yaprakları olan bir açıklığın fotoğrafı, son derece detaylı
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2102387689831989509"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Orijinal gönderi](https://x.com/CyberTotal2026/status/2102387689831989509)
+
+Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2102387689831989509-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -2970,6 +2992,34 @@ Dağınık orta uzunlukta kahverengi saçlı ve düzgünce kesilmiş sakallı, y
 
 ## Anime / Manga
 
+<a name="prompt-2102372464835874926"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@AALstudio2026](https://x.com/AALstudio2026) · [Orijinal gönderi](https://x.com/AALstudio2026/status/2102372464835874926)
+
+Anime / Manga · Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2102372464835874926-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2102372464835874926-2.jpg" alt="Görsel 2" width="480" />
+
+<img src="images/2102372464835874926-3.jpg" alt="Görsel 3" width="480" />
+
+<img src="images/2102372464835874926-4.jpg" alt="Görsel 4" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
 <a name="prompt-2101988472164884652"></a>
 
 ### Bir akademi şehrindeki devasa bir okulun mezuniyet yıllığı tarzında, numaralandırılmış 200 kişilik 2 boyutlu karakter topluluğunu bir araya getiren görsel oluşturma istemi.
@@ -3054,7 +3104,7 @@ Negative Prompt: outfit changes, identity changes, realistic second person, norm
 
 <a name="prompt-2102328812386287750"></a>
 
-### Çeviri sürüyor
+### Net hiyerarşiyi ve yapısal korelasyonu vurgulayan, bilimsel ilkelere ve gerçek kesit yapılarına dayalı popüler bilim diyagramları için evrensel istem şablonu.
 
 Yazar：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Orijinal gönderi](https://x.com/DeepBlueX0/status/2102328812386287750)
 
@@ -3062,7 +3112,7 @@ Yazar：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Orijinal gönderi](https://x
 
 Orijinal gönderi：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Orijinal gönderi](https://x.com/DeepBlueX0/status/2097660427216036207)
 
-**Özet:** Çeviri sürüyor
+**Özet:** Net hiyerarşiyi ve yapısal korelasyonu vurgulayan, bilimsel ilkelere ve gerçek kesit yapılarına dayalı popüler bilim diyagramları için evrensel istem şablonu.
 
 <img src="images/2102328812386287750-1.jpg" alt="Görsel 1" width="480" />
 
@@ -3077,7 +3127,9 @@ Orijinal gönderi：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Orijinal gönder
 **İstem**
 
 ```text
-Çeviri sürüyor
+【Özne】× Popüler bilim illüstrasyonu × Profesyonel yapı görselleştirme × Kesit yapısı ve mekânsal ilişkiler × Net yapısal hiyerarşi ve bilgi ilişkileri × Bilimsel diyagramatik ifade
+
+Gerçek yapılar ve bilimsel ilkelere dayalı, kilit yapıları ve mekânsal ilişkileri vurgulayan; görsel net, anlaşılması kolay, profesyonel ve doğru; metin bilgileri açık ve okunabilir, gerekli etiketler kısa ve net, düzenli yazı tipi ve ilgili yapıyla açıkça ilişkili; karikatürize edilmiş, süslü, aşırı sanatsal stillerden, bozuk karakterlerden ve anlamsız metinlerden kaçınılmış.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -5327,6 +5379,30 @@ Karakter · Yayımlandı
 
 ```text
 Ekli görseli fotoğraf konsepti referansı olarak kullanın. Pozlama ilişkisini, ışık yönünü, kumaş dokusunu ve kompozisyon ritmini koruyun; karakteri ve tematik renk paletini yeniden tasarlayın. Karakter bir yetişkin olmalı, referanstaki kişinin yüzü kopyalanmamalıdır. Üretimden sonra orijinal görselle karşılaştırarak kontrol edin: Işıklandırma izinsiz olarak değiştirildi mi, giysiler kalınlaştırıldı mı veya cilt aşırı derecede pürüzsüzleştirildi mi?
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2102411458143498618"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@hey\_am\_cherry](https://x.com/hey_am_cherry) · [Orijinal gönderi](https://x.com/hey_am_cherry/status/2102411458143498618)
+
+Karakter · Moda Ürünü · Özet / Arka Plan · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2102411458143498618-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2102411458143498618-2.jpg" alt="Görsel 2" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
 ```
 
 [↑ Kategorilere dön](#catalog)

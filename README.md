@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**187** Prompts · Latest addition: **2026-09-22**
+**190** Prompts · Latest addition: **2026-09-22**
 
 <a name="catalog"></a>
 
@@ -690,6 +690,50 @@ Photography · Landscape / Nature · Published
 
 ```text
 Photo of a clearing in the woods with lots of green foliage, highly detailed
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2102387689831989509"></a>
+
+### A realistic photo of a woman wearing pale purple lingerie and an open shirt, holding a red pen in front of a library bookshelf.
+
+Author：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Source](https://x.com/CyberTotal2026/status/2102387689831989509)
+
+Photography · Portrait / Selfie · Character · Published
+
+**Summary:** A realistic photo of a woman wearing pale purple lingerie and an open shirt, holding a red pen in front of a library bookshelf.
+
+<img src="images/2102387689831989509-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Subject:
+A red pen by the bookshelf
+
+Main Subject:
+A young woman standing in front of a bookshelf in a sunlit library in the center of the frame. She wears light purple lace lingerie, an open light pink long shirt draped over her shoulders, black round glasses, and holds a red pen in her left hand as the focal point.
+
+Person & Expression:
+A slender oval face, small chin, light brown eyes behind round black glasses, thin eyebrows, a well-formed nose, and glossy pale pink lips. Her head is tilted slightly to the right, looking directly at the camera with an understated smile. Light brown wavy hair reaching below the shoulders with wispy bangs and strands framing her face.
+
+Attire & Pose:
+A pale lavender floral lace-trimmed bralette top with matching underwear, featuring small central ribbons. An open light pink long-sleeved button-up shirt draped over her shoulders with sleeves rolled up to the elbows. Her left arm is bent to the side holding a red pen upright, her right arm reaches downward with fingertips close to the bookshelf, and her left leg crosses in front.
+
+Background & Lighting:
+A tall wooden bookshelf lined with books on the right side of the frame; a desk, blue chair, dark green wainscoting, and a large window above in the background on the left. Hard daylight streams diagonally from the window in the upper left onto her hair, shoulders, chest, and legs, casting bright shadows on the floor and desk.
+
+Composition & Camera:
+A 2:3 vertical composition, shot with a front-facing camera at waist height capturing a three-quarter portrait from the top of the head to below the thighs. The subject is framed prominently in the center, the bookshelf occupying the right half, and the red pen positioned in the upper left. Legs are cropped at the bottom edge; sharp focus on the eyes and glasses, with the bookshelf lightly blurred.
+
+Texture & Style:
+Photorealistic live-action photograph. Natural skin, lace, thin shirt, black glasses, red pen, wood grain, and book spines rendered in high definition, illuminated by bright daylight with tones of pale purple, light pink, and warm wood.
+
+Negative:
+Omitting glasses and red pen; changing pale purple two-piece set or bookshelf arrangement
 ```
 
 [↑ Back to categories](#catalog)
@@ -4203,6 +4247,34 @@ Photorealistic cinematic portrait of a handsome adult man with tousled medium-le
 
 ## Anime / Manga
 
+<a name="prompt-2102372464835874926"></a>
+
+### A launch scene featuring the character &quot;Leo&quot; and the MMX rocket, drawn in an anime magazine spread-style composition.
+
+Author：[@AALstudio2026](https://x.com/AALstudio2026) · [Source](https://x.com/AALstudio2026/status/2102372464835874926)
+
+Anime / Manga · Character · Published
+
+**Summary:** A launch scene featuring the character &quot;Leo&quot; and the MMX rocket, drawn in an anime magazine spread-style composition.
+
+<img src="images/2102372464835874926-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2102372464835874926-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2102372464835874926-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2102372464835874926-4.jpg" alt="Image 4" width="480" />
+
+**Prompt**
+
+```text
+An anime magazine feature illustration, 16:9 aspect ratio, double-page spread composition. Leo and the MMX rocket, highlighting the charm and synergy of both characters and machinery. Leo's official character design and animation sheet guidelines must be strictly followed. Cinematic and artistic presentation with tasteful aesthetic exaggerations (creative liberties for visual impact) while avoiding over-the-top or unrealistic effects. Clean and professional anime style, no corporate or institutional logos, no text. --ar 16:9
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
 <a name="prompt-2101988472164884652"></a>
 
 ### An image generation prompt assembling around 200 numbered 2D characters in the style of a graduation album from a mammoth school in an academy city.
@@ -6521,6 +6593,30 @@ Character · Published
 
 ```text
 Use the attached image as a photography reference. Preserve its exposure balance, lighting direction, fabric textures, and compositional rhythm; redesign the character and the theme's color palette. The character is an adult, do not replicate the face of the reference figure. After generation, check against the original image: Did you arbitrarily alter the lighting setup, thicken the clothing, or make the skin overly airbrushed/smooth?
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2102411458143498618"></a>
+
+### A high-fashion full-body editorial shot of a woman in a magenta trench coat, yellow trousers, and sunglasses against a pop-art geometric background.
+
+Author：[@hey\_am\_cherry](https://x.com/hey_am_cherry) · [Source](https://x.com/hey_am_cherry/status/2102411458143498618)
+
+Character · Fashion Item · Abstract / Background · Published
+
+**Summary:** A high-fashion full-body editorial shot of a woman in a magenta trench coat, yellow trousers, and sunglasses against a pop-art geometric background.
+
+<img src="images/2102411458143498618-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2102411458143498618-2.jpg" alt="Image 2" width="480" />
+
+**Prompt**
+
+```text
+A high-fashion editorial full-body shot of a young beautiful American woman wearing stylish sunglasses, posing in a wild, avant-garde and energetic dynamic freeze-motion pose, wearing a vibrant magenta trench coat, bright yellow tailored trousers, and a patterned yellow and pink grid shirt, holding a quilted pink handbag, set against a bold pop-art geometric striped background of yellow, magenta, and turquoise, professional studio lighting, 9:16 aspect ratio.
 ```
 
 [↑ Back to categories](#catalog)

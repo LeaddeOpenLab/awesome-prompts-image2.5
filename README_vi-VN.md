@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**187** Prompt · Bổ sung mới nhất: **2026-09-22**
+**190** Prompt · Bổ sung mới nhất: **2026-09-22**
 
 <a name="catalog"></a>
 
@@ -633,6 +633,28 @@ Nhiếp ảnh · Phong cảnh / Thiên nhiên · Đã xuất bản
 
 ```text
 Ảnh chụp một bãi đất trống trong rừng với nhiều tán lá xanh tươi, rất chi tiết
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2102387689831989509"></a>
+
+### Đang dịch
+
+Tác giả：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Bài gốc](https://x.com/CyberTotal2026/status/2102387689831989509)
+
+Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2102387689831989509-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
 ```
 
 [↑ Về danh mục](#catalog)
@@ -3040,6 +3062,34 @@ Chân dung điện ảnh chân thực của một người đàn ông trưởng 
 
 ## Anime / Manga
 
+<a name="prompt-2102372464835874926"></a>
+
+### Đang dịch
+
+Tác giả：[@AALstudio2026](https://x.com/AALstudio2026) · [Bài gốc](https://x.com/AALstudio2026/status/2102372464835874926)
+
+Anime / Manga · Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2102372464835874926-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2102372464835874926-2.jpg" alt="Hình ảnh 2" width="480" />
+
+<img src="images/2102372464835874926-3.jpg" alt="Hình ảnh 3" width="480" />
+
+<img src="images/2102372464835874926-4.jpg" alt="Hình ảnh 4" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
 <a name="prompt-2101988472164884652"></a>
 
 ### Prompt tạo hình ảnh tập hợp quy mô 200 nhân vật 2D có đánh số, theo phong cách kỷ yếu tốt nghiệp của một trường học khổng lồ ở thành phố học viện.
@@ -3124,7 +3174,7 @@ Negative Prompt: thay đổi trang phục, thay đổi danh tính, người th�
 
 <a name="prompt-2102328812386287750"></a>
 
-### Đang dịch
+### Mẫu prompt phổ quát cho sơ đồ phổ biến khoa học dựa trên các nguyên lý khoa học và cấu trúc mặt cắt thực tế, nhấn mạnh các cấp độ rõ ràng và mối liên hệ cấu trúc.
 
 Tác giả：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Bài gốc](https://x.com/DeepBlueX0/status/2102328812386287750)
 
@@ -3132,7 +3182,7 @@ Infographic / Hình ảnh giáo dục · Minh họa · Sơ đồ / Biểu đồ 
 
 Bài gốc：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Bài gốc](https://x.com/DeepBlueX0/status/2097660427216036207)
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Mẫu prompt phổ quát cho sơ đồ phổ biến khoa học dựa trên các nguyên lý khoa học và cấu trúc mặt cắt thực tế, nhấn mạnh các cấp độ rõ ràng và mối liên hệ cấu trúc.
 
 <img src="images/2102328812386287750-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -3147,7 +3197,9 @@ Bài gốc：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Bài gốc](https://x.c
 **Câu lệnh**
 
 ```text
-Đang dịch
+【Chủ thể】× Minh họa phổ biến khoa học × Trực quan hóa cấu trúc chuyên nghiệp × Cấu trúc mặt cắt và mối quan hệ không gian × Phân cấp cấu trúc và quan hệ thông tin rõ ràng × Cách thể hiện dạng biểu đồ khoa học
+
+Dựa trên cấu trúc thực tế và các nguyên lý khoa học, làm nổi bật cấu trúc then chốt và mối quan hệ không gian; hình ảnh rõ ràng, dễ hiểu, chuyên nghiệp và chính xác; thông tin văn bản rõ ràng, dễ đọc, các chú thích cần thiết ngắn gọn và chuẩn xác, phông chữ ngay ngắn và liên kết rõ ràng với cấu trúc tương ứng; tránh hoạt hình hóa, trang trí hóa, nghệ thuật hóa quá mức, lỗi font ký tự và văn bản vô nghĩa.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -5379,6 +5431,30 @@ Nhân vật · Đã xuất bản
 
 ```text
 Sử dụng hình ảnh đính kèm làm tài liệu tham khảo cho phương án chụp ảnh. Giữ nguyên mối quan hệ phơi sáng, hướng ánh sáng, chất liệu vải và nhịp điệu bố cục; thiết kế lại nhân vật và phối màu chủ đề. Nhân vật là người lớn, không sao chép khuôn mặt của người trong ảnh tham khảo. Sau khi tạo xong, hãy đối chiếu kiểm tra với ảnh gốc: Có tự ý thay đổi cách bố trí ánh sáng, làm dày trang phục hoặc chỉnh sửa da mịn màng quá mức hay không?
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2102411458143498618"></a>
+
+### Đang dịch
+
+Tác giả：[@hey\_am\_cherry](https://x.com/hey_am_cherry) · [Bài gốc](https://x.com/hey_am_cherry/status/2102411458143498618)
+
+Nhân vật · Mặt hàng thời trang · Tóm tắt / Bối cảnh · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2102411458143498618-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2102411458143498618-2.jpg" alt="Hình ảnh 2" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
 ```
 
 [↑ Về danh mục](#catalog)
