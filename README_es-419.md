@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**196** Prompts · Última incorporación: **2026-09-23**
+**199** Prompts · Última incorporación: **2026-09-23**
 
 <a name="catalog"></a>
 
@@ -628,6 +628,50 @@ Fotografía · Paisaje / Naturaleza · Publicado
 
 ```text
 Foto de un claro en el bosque con mucho follaje verde, muy detallada
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2102627519790723184"></a>
+
+### Traducción en curso
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicación original](https://x.com/CyberTotal2026/status/2102627519790723184)
+
+Fotografía · Personaje · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2102627519790723184-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2102659732154487254"></a>
+
+### Traducción en curso
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicación original](https://x.com/CyberTotal2026/status/2102659732154487254)
+
+Fotografía · Retrato / Selfie · Personaje · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2102659732154487254-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -2748,6 +2792,28 @@ Retrato de alta resolución de un hombre del sur de Asia de 23 años con los ojo
 
 ## Cine / Fotograma
 
+<a name="prompt-2102633733564363002"></a>
+
+### Traducción en curso
+
+Autor：[@TanLuAI](https://x.com/TanLuAI) · [Publicación original](https://x.com/TanLuAI/status/2102633733564363002)
+
+Fotografía · Cine / Fotograma · Cyberpunk / Ciencia ficción · Animal / Criatura · Vehículo · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2102633733564363002.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
 <a name="prompt-2102228033306612127"></a>
 
 ### Conjunto de imágenes en cuadrícula de 3x3 de boda gótica minimalista y cinematográfica en tonos grises fríos con manchas de sangre.
@@ -3067,13 +3133,13 @@ Retrato cinematográfico fotorrealista de un hombre adulto atractivo con cabello
 
 <a name="prompt-2102586257461416187"></a>
 
-### Traducción en curso
+### Prompt para generar una ilustración estilo anime de una gyaru de piel morena con uniforme.
 
 Autor：[@8bitAraisan](https://x.com/8bitAraisan) · [Publicación original](https://x.com/8bitAraisan/status/2102586257461416187)
 
 Anime / Manga · Ilustración · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt para generar una ilustración estilo anime de una gyaru de piel morena con uniforme.
 
 <img src="images/2102586257461416187-1.jpg" alt="Imagen 1" width="480" />
 
@@ -3086,7 +3152,7 @@ Anime / Manga · Ilustración · Personaje · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+Imagen de una gyaru de piel morena con uniforme. Estilo anime.
 ```
 
 [↑ Volver a categorías](#catalog)

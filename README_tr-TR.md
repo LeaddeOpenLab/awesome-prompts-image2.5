@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**196** Prompt · Son eklenen: **2026-09-23**
+**199** Prompt · Son eklenen: **2026-09-23**
 
 <a name="catalog"></a>
 
@@ -628,6 +628,50 @@ Fotoğrafçılık · Manzara / Doğa · Yayımlandı
 
 ```text
 Ormanda bol yeşil yaprakları olan bir açıklığın fotoğrafı, son derece detaylı
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2102627519790723184"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Orijinal gönderi](https://x.com/CyberTotal2026/status/2102627519790723184)
+
+Fotoğrafçılık · Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2102627519790723184-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2102659732154487254"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Orijinal gönderi](https://x.com/CyberTotal2026/status/2102659732154487254)
+
+Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2102659732154487254-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -2766,6 +2810,28 @@ Gözleri kapalı ve başı dingin bir ifadeyle geriye eğilmiş, dağınık siya
 
 ## Sinematik / Film Karesi
 
+<a name="prompt-2102633733564363002"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@TanLuAI](https://x.com/TanLuAI) · [Orijinal gönderi](https://x.com/TanLuAI/status/2102633733564363002)
+
+Fotoğrafçılık · Sinematik / Film Karesi · Siberpunk / Bilim Kurgu · Hayvan / Yaratık · Araç · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2102633733564363002.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
 <a name="prompt-2102228033306612127"></a>
 
 ### Soğuk gri tonlarında minimalist sinematik gotik düğün ve kan izleri içeren 3x3 ızgara görsel seti.
@@ -3060,13 +3126,13 @@ Dağınık orta uzunlukta kahverengi saçlı ve düzgünce kesilmiş sakallı, y
 
 <a name="prompt-2102586257461416187"></a>
 
-### Çeviri sürüyor
+### Üniforma giymiş bir kuro gyaru'nun anime tarzı illüstrasyonunu oluşturma istemi.
 
 Yazar：[@8bitAraisan](https://x.com/8bitAraisan) · [Orijinal gönderi](https://x.com/8bitAraisan/status/2102586257461416187)
 
 Anime / Manga · İllüstrasyon · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Üniforma giymiş bir kuro gyaru'nun anime tarzı illüstrasyonunu oluşturma istemi.
 
 <img src="images/2102586257461416187-1.jpg" alt="Görsel 1" width="480" />
 
@@ -3079,7 +3145,7 @@ Anime / Manga · İllüstrasyon · Karakter · Yayımlandı
 **İstem**
 
 ```text
-Çeviri sürüyor
+Üniforma giymiş esmer gyaru (kuro gyaru) görseli. Anime tarzı.
 ```
 
 [↑ Kategorilere dön](#catalog)

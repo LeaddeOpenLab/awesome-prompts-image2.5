@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**196** Prompts · Latest addition: **2026-09-23**
+**199** Prompts · Latest addition: **2026-09-23**
 
 <a name="catalog"></a>
 
@@ -690,6 +690,94 @@ Photography · Landscape / Nature · Published
 
 ```text
 Photo of a clearing in the woods with lots of green foliage, highly detailed
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2102627519790723184"></a>
+
+### A photorealistic vertical composition prompt capturing a woman in a swimsuit leaping toward a volleyball on a beach under a blue sky.
+
+Author：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Source](https://x.com/CyberTotal2026/status/2102627519790723184)
+
+Photography · Character · Published
+
+**Summary:** A photorealistic vertical composition prompt capturing a woman in a swimsuit leaping toward a volleyball on a beach under a blue sky.
+
+<img src="images/2102627519790723184-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Subject:
+White Spike at Midday
+
+Main Subject:
+Center of the frame, full body of a young woman leaping toward a volleyball on a beach under a blue sky. White bikini, floral print bottoms, high ponytail, with the yellow, blue, and white ball in the upper right as a focal point.
+
+Person & Expression:
+Slender oval face in profile, dark brown eyes, thin eyebrows, well-formed nose, pale pink parted lips. A focused expression with her face and gaze directed toward the ball in the upper right. Long dark brown hair in a high ponytail flowing to the left, with thin bangs and loose strands.
+
+Clothing & Pose:
+White lace-style halter triangle bikini top tied at the neck and back with thin strings. White shorts with a subtle blue-green micro-floral pattern tied with white bows on both sides. Leaping high from the sandy beach with both legs bent, right arm stretched toward the ball, left arm open to the side.
+
+Background & Light:
+Upper half of the background is a deep blue sky, a green cape in the lower left, turquoise sea in the lower part, white waves, and sandy beach. Harsh, direct overhead sunlight strongly illuminates her face, chest, abdomen, and legs, creating a distinct sheen on the sand grains and skin.
+
+Composition & Camera:
+4:5 vertical composition, low-angle shot capturing the entire body from the overhead ball down to the extended toes. The jumping figure is positioned large in the center, the ball in the upper right, and the cape in the lower left. Limbs are kept within the frame, focus is sharp on the figure and the ball, while the sea is lightly blurred.
+
+Texture & Style:
+Photorealistic live-action photograph. Wet skin, white swimsuit, micro-floral pattern, wind-blown hair, sand grains, and sea surface rendered in high definition, with vivid midday colors of blue, white, and yellow.
+
+Negative:
+Changes to the jump and ball position; omission of white swimsuit or floral pattern
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2102659732154487254"></a>
+
+### Realistic portrait prompt of a young woman wearing a satin camisole with blue floral embroidery, lying prone on a bed in a warm bedroom and reading a book.
+
+Author：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Source](https://x.com/CyberTotal2026/status/2102659732154487254)
+
+Photography · Portrait / Selfie · Character · Published
+
+**Summary:** Realistic portrait prompt of a young woman wearing a satin camisole with blue floral embroidery, lying prone on a bed in a warm bedroom and reading a book.
+
+<img src="images/2102659732154487254-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Subject:
+Blue Embroidery under the Reading Lamp
+
+Main Focus:
+In the center of the frame, a young woman lies prone on a white bed in a warm bedroom, reading a book. The stars of the scene are her white satin camisole with blue floral embroidery, the open book, and a mug in the back left.
+
+Person and Expression:
+A small, oval face, downcast dark brown eyes, thin eyebrows, a neat nose, and pale pink closed lips. A serene expression with her face turned downward and her gaze lowered to the book. Her dark brown hair is styled in a braided bun at the crown of her head, with wispy bangs and long strands flowing over her left shoulder.
+
+Clothing and Pose:
+A white glossy satin spaghetti-strap camisole dress featuring blue-gray floral embroidery on the chest, white lace trim, and a center ribbon. Lying prone on the bed, she props her cheek with her left elbow, extends her right arm toward the book, and touches the page with her right fingertips.
+
+Background and Lighting:
+An open book with photos in the center foreground, a blue floral pattern mug at the lower left, a blue-gray knitted blanket on the right side of the frame, and white pillows, photos, plants, and a warm-toned lamp in the background. The lamp at the back right softly illuminates her face and bedding.
+
+Composition and Camera:
+A 3:4 vertical composition, with the camera positioned slightly higher than the bed surface at a diagonal front angle, capturing an upper body portrait from the top of the head down to the book and below the bust. The figure is prominently placed in the upper center, with the book occupying the lower half. The arms are cropped at the edges, focus is sharp on the face and the book, and the background is softly blurred.
+
+Texture and Style:
+Photorealistic real-life photography. Natural skin, glossy satin, floral embroidery, paper, knitted blanket, and warm light rendered in high definition, creating a night scene in white, blue-gray, and amber tones.
+
+Negative:
+Changes to reading and prone position; omission of blue embroidered satin
 ```
 
 [↑ Back to categories](#catalog)
@@ -4031,6 +4119,66 @@ High-resolution portrait of a 23-year-old South Asian man with eyes closed and h
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2102633733564363002"></a>
+
+### A set of realistic cinematic prompts themed around megalophobia, featuring scenes of spaceships descending upon a rural village, colossal deep-sea creatures, an airborne giant whale, and an immense sea turtle.
+
+Author：[@TanLuAI](https://x.com/TanLuAI) · [Source](https://x.com/TanLuAI/status/2102633733564363002)
+
+Photography · Cinematic / Film Still · Cyberpunk / Sci-Fi · Animal / Creature · Vehicle · Published
+
+**Summary:** A set of realistic cinematic prompts themed around megalophobia, featuring scenes of spaceships descending upon a rural village, colossal deep-sea creatures, an airborne giant whale, and an immense sea turtle.
+
+<img src="covers/2102633733564363002.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+9:16 vertical aspect ratio, cinematic photo-realism. 1980s-1990s rural China, ground-level low-angle wide-angle upward shot, a muddy dirt road after rain leading toward distant fields, lined entirely on both sides with ordinary single-story brick-and-tile bungalows, gray bricks, occasional red bricks, weathered gray-tile roofs, wooden doors and windows, low courtyard walls. Along the roadside stand concrete utility poles, sagging electrical wires, vintage black bicycles, firewood stacks, and ceramic vats. A few villagers clad in modest, faded blue-gray and brown old garments stand on the road with their backs to the camera, gazing up at the sky.
+
+In the sky, a fleet of at least eight colossal spaceships forms a formation, with distinct layering of near and far distances. An extraordinarily massive mothership spans across the top of the frame, its bow directed to the left, its hull extending beyond the upper-right edge of the frame; from below, thick heavy armor, intricate mechanical architecture, recessed hangars, and faint warm interior lights are visible. The remaining colossal vessels are arranged in receding layers amid the distant clouds. The spaceships are so immense that they blot out the sky and sun, rendering the village and humans vanishingly small.
+
+Heavy gray storm clouds, pale golden sunlight filtering through cloud gaps, volumetric god rays illuminating the fields, road puddles mirroring the sky. Realistic textures of brick, tile, mud, and metal, desaturated low-saturation color palette, quiet, mysterious, intense megalophobic dread and colossal oppression. Ground level retains authentic rustic period lifestyle ambiance, while the sky showcases an advanced interstellar civilization.
+
+No skyscrapers, no multi-story residences, no trains, no overpasses, no modern automobiles, no neon lights, no explosions, no text, no watermarks.
+
+9:16 vertical aspect ratio, cinematic photo-realism, deep-sea megalophobia theme. Ground-level low-angle wide-angle upward shot from inside an undersea station, looking out through massive transparent observation glass into a deep blue abyssal canyon. In the lower left, a sleek modern silver train curves along elevated tracks extending into the distance, its windows emitting soft warm yellow light. A standalone pedestrian overpass spans the lower portion of the frame, with vanishingly small passengers standing on it. Realistic concrete, steel beams, glass framing, and metal railings.
+
+Floating outside the glass is an original, colossal translucent umbrella-canopy creature, its body resembling a wide, layered, naturally rippling soft dome that occupies nearly the upper two-thirds of the frame. Six thick yet transparent petal-like swimming lobes expand around the center of its body; the broad membranous surfaces feature fine, branching golden bioluminescent veins, with thin, translucent edges conveying believable aquatic organic texture. No dense, elongated tentacles; not an ordinary jellyfish. Its volume vastly exceeds the entire station.
+
+Deep cyan-blue ocean water, steep seabed rock faces plunging downward, distant silhouettes dissolving into abyssal fog, faint beams of light penetrating the water from above, with suspended particulates and tiny fish schools accentuating the immense scale. High contrast between the cold blue environment and warm train window lights; silent, sublime, evoking deep-sea thalassophobia and megalophobia, with authentic optics, delicate textures, and spatial depth.
+
+No cartoon style, no exaggerated neon, no text, no logos, no watermarks. Seawater and creatures remain outside the glass; the station interior remains completely dry.
+
+9:16 vertical aspect ratio, cinematic photo-realism, surreal urban megalophobia scene. Modern metropolis after rain, camera positioned at the pedestrian transit level, gazing up at the sky from an ultra-low-angle wide perspective. Dense clusters of skyscrapers extend layer upon layer into the distance, with warm office lights glowing through the cool gray-blue sky and light mist. In the lower left, a modern silver train curves along an elevated track toward the distance, while a pedestrian footbridge with glass railings spans the lower frame, pedestrians upon it appearing microscopic, ground glistening with wet reflections.
+
+An impossibly colossal whale glides weightlessly suspended in the air between skyscrapers, exceptionally close above the viewer's head, its gargantuan body dominating most of the upper frame. Viewed from a front-quarter underside angle, its broad head sits in the upper left, while its massive body angles diagonally toward the upper right, its tail receding into the distant sky. The whale exhibits realistic, biologically plausible anatomy: two natural pectoral fins, a horizontal fluke, mottled blue-gray skin, pronounced longitudinal ventral throat pleats, small authentic eyes, fine dermal textures, and natural encrustations. The head is broader than the adjacent office buildings.
+
+The giant whale's silhouette is fully defined and legible, conveying a heavy, tangible sense of mass, with buildings and trains providing unambiguous scale references. Overcast blue-hour mood, soft diffuse daylight, sparse warm-golden window lights, atmospheric perspective and natural cast shadows, grandiose, quiet, breathtaking oppression, asymmetrical cinematic composition.
+
+The whale floats freely in the air; no seawater, no underwater visual effects, no surplus limbs, no other megafauna, no urban destruction, no text, no watermarks.
+
+9:16 vertical aspect ratio, cinematic photo-realism, surreal urban megalophobia scene. Modern metropolis after rain, camera positioned at the pedestrian transit level, gazing up at the sky from an ultra-low-angle wide perspective. Dense clusters of skyscrapers extend layer upon layer into the distance, with warm office lights glowing through the cool gray-blue sky and light mist. In the lower left, a modern silver train curves along an elevated track toward the distance, while a pedestrian footbridge with glass railings spans the lower frame, pedestrians upon it appearing microscopic, ground glistening with wet reflections.
+
+An impossibly colossal whale glides weightlessly suspended in the air between skyscrapers, exceptionally close above the viewer's head, its gargantuan body dominating most of the upper frame. Viewed from a front-quarter underside angle, its broad head sits in the upper left, while its massive body angles diagonally toward the upper right, its tail receding into the distant sky. The whale exhibits realistic, biologically plausible anatomy: two natural pectoral fins, a horizontal fluke, mottled blue-gray skin, pronounced longitudinal ventral throat pleats, small authentic eyes, fine dermal textures, and natural encrustations. The head is broader than the adjacent office buildings.
+
+The giant whale's silhouette is fully defined and legible, conveying a heavy, tangible sense of mass, with buildings and trains providing unambiguous scale references. Overcast blue-hour mood, soft diffuse daylight, sparse warm-golden window lights, atmospheric perspective and natural cast shadows, grandiose, quiet, breathtaking oppression, asymmetrical cinematic composition.
+
+The whale floats freely in the air; no seawater, no underwater visual effects, no surplus limbs, no other megafauna, no urban destruction, no text, no watermarks.
+
+9:16 vertical aspect ratio, cinematic photo-realism. From inside a dry undersea observation and transit hall, an ultra-low-angle wide shot looking up through the viewing glass into the abyssal ocean. In the lower left, a sleek modern silver train glides along a curved elevated track into the distance, windows glowing with warm yellow light. At the bottom of the frame is an enclosed transparent footbridge where humans appear tiny as silhouettes. Monumental curved observation glass and structural framework enclose the undersea space, while illuminated circular observation pods are embedded among distant deep-sea rock faces, creating layered spatial depth.
+
+A gigantic sea turtle, far exceeding the size of the entire station, swims directly overhead across the viewer's field of view, dominating most of the upper frame. Framed from a front-quarter underside perspective, its head points toward the upper right, one massive front flipper extends toward the upper left corner while the other flipper spreads to the right; two shorter hind flippers trail behind the body. The turtle possesses realistic marine turtle anatomy: a broad oval carapace, weathered polygonal scutes, olive-gray skin with reticulated textures, a pale segmented plastron, and small, calm dark eyes. The plastron, shell rim, and profile contours are all visible simultaneously, rendered with tactile, believable textures.
+
+Abyssal blue canyon, soft cyan-blue light beams piercing downward through the water, schools of tiny fish encircling the turtle, suspended particulates enhancing depth. Striking contrast between icy seawater and warm architectural lighting; ancient, tranquil, colossal, powerful scale disparity and immediate proximity of an immense creature.
+
+No tortoise legs, no extra limbs, no monster armor, no cartoon stylization. The sea turtle and seawater remain strictly outside the viewing glass, with the interior staying completely dry. No text, no logos, no watermarks.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2102228033306612127"></a>
 

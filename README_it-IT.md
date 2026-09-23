@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**196** Prompt · Ultima aggiunta: **2026-09-23**
+**199** Prompt · Ultima aggiunta: **2026-09-23**
 
 <a name="catalog"></a>
 
@@ -628,6 +628,50 @@ Fotografia · Paesaggio / Natura · Pubblicato
 
 ```text
 Foto di una radura nel bosco con abbondante fogliame verde, altamente dettagliata
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2102627519790723184"></a>
+
+### Traduzione in corso
+
+Autore：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Post originale](https://x.com/CyberTotal2026/status/2102627519790723184)
+
+Fotografia · Personaggio · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2102627519790723184-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2102659732154487254"></a>
+
+### Traduzione in corso
+
+Autore：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Post originale](https://x.com/CyberTotal2026/status/2102659732154487254)
+
+Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2102659732154487254-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -2748,6 +2792,28 @@ Ritratto ad alta risoluzione di un uomo sudasiatico di 23 anni con gli occhi chi
 
 ## Fermo immagine cinematografico / Still fotografico
 
+<a name="prompt-2102633733564363002"></a>
+
+### Traduzione in corso
+
+Autore：[@TanLuAI](https://x.com/TanLuAI) · [Post originale](https://x.com/TanLuAI/status/2102633733564363002)
+
+Fotografia · Fermo immagine cinematografico / Still fotografico · Cyberpunk / Sci-Fi · Animale / Creatura · Veicolo · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2102633733564363002.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
 <a name="prompt-2102228033306612127"></a>
 
 ### Set di immagini a griglia 3x3 di un matrimonio gotico cinematografico e minimalista nei toni del grigio freddo con macchie di sangue.
@@ -3067,13 +3133,13 @@ Ritratto cinematografico fotorealistico di un bell'uomo adulto con capelli casta
 
 <a name="prompt-2102586257461416187"></a>
 
-### Traduzione in corso
+### Prompt per la generazione di un'illustrazione in stile anime di una kuro gyaru in uniforme.
 
 Autore：[@8bitAraisan](https://x.com/8bitAraisan) · [Post originale](https://x.com/8bitAraisan/status/2102586257461416187)
 
 Anime / Manga · Illustrazione · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per la generazione di un'illustrazione in stile anime di una kuro gyaru in uniforme.
 
 <img src="images/2102586257461416187-1.jpg" alt="Immagine 1" width="480" />
 
@@ -3086,7 +3152,7 @@ Anime / Manga · Illustrazione · Personaggio · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+Immagine di una kuro gyaru (gyaru abbronzata) che indossa un'uniforme. Stile anime.
 ```
 
 [↑ Torna alle categorie](#catalog)

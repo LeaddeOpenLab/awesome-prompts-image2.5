@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**196** Prompts · Adição mais recente: **2026-09-23**
+**199** Prompts · Adição mais recente: **2026-09-23**
 
 <a name="catalog"></a>
 
@@ -628,6 +628,50 @@ Fotografia · Paisagem / Natureza · Publicado
 
 ```text
 Fotografia de uma clareira na floresta com muita folhagem verde, altamente detalhada
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2102627519790723184"></a>
+
+### Tradução em curso
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicação original](https://x.com/CyberTotal2026/status/2102627519790723184)
+
+Fotografia · Personagem · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2102627519790723184-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2102659732154487254"></a>
+
+### Tradução em curso
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicação original](https://x.com/CyberTotal2026/status/2102659732154487254)
+
+Fotografia · Retrato / Selfie · Personagem · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2102659732154487254-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -2766,6 +2810,28 @@ Retrato em alta resolução de um homem do sul da Ásia de 23 anos com os olhos 
 
 ## Cena de Cinema / Fotograma
 
+<a name="prompt-2102633733564363002"></a>
+
+### Tradução em curso
+
+Autor：[@TanLuAI](https://x.com/TanLuAI) · [Publicação original](https://x.com/TanLuAI/status/2102633733564363002)
+
+Fotografia · Cena de Cinema / Fotograma · Cyberpunk / Ficção Científica · Animal / Criatura · Veículo · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2102633733564363002.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
 <a name="prompt-2102228033306612127"></a>
 
 ### Conjunto de imagens em grelha 3x3 de casamento gótico cinematográfico e minimalista em tons de cinzento frio com manchas de sangue.
@@ -3060,13 +3126,13 @@ Retrato cinematográfico fotorrealista de um belo homem adulto com cabelo castan
 
 <a name="prompt-2102586257461416187"></a>
 
-### Tradução em curso
+### Prompt de criação de ilustração estilo anime de uma kuro gyaru com uniforme.
 
 Autor：[@8bitAraisan](https://x.com/8bitAraisan) · [Publicação original](https://x.com/8bitAraisan/status/2102586257461416187)
 
 Anime / Mangá · Ilustração · Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt de criação de ilustração estilo anime de uma kuro gyaru com uniforme.
 
 <img src="images/2102586257461416187-1.jpg" alt="Imagem 1" width="480" />
 
@@ -3079,7 +3145,7 @@ Anime / Mangá · Ilustração · Personagem · Publicado
 **Prompt**
 
 ```text
-Tradução em curso
+Imagem de uma kuro gyaru (gyaru de pele bronzeada) com uniforme. Estilo anime.
 ```
 
 [↑ Voltar às categorias](#catalog)

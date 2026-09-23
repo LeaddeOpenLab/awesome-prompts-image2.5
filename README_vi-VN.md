@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**196** Prompt · Bổ sung mới nhất: **2026-09-23**
+**199** Prompt · Bổ sung mới nhất: **2026-09-23**
 
 <a name="catalog"></a>
 
@@ -633,6 +633,50 @@ Nhiếp ảnh · Phong cảnh / Thiên nhiên · Đã xuất bản
 
 ```text
 Ảnh chụp một bãi đất trống trong rừng với nhiều tán lá xanh tươi, rất chi tiết
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2102627519790723184"></a>
+
+### Đang dịch
+
+Tác giả：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Bài gốc](https://x.com/CyberTotal2026/status/2102627519790723184)
+
+Nhiếp ảnh · Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2102627519790723184-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2102659732154487254"></a>
+
+### Đang dịch
+
+Tác giả：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Bài gốc](https://x.com/CyberTotal2026/status/2102659732154487254)
+
+Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2102659732154487254-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
 ```
 
 [↑ Về danh mục](#catalog)
@@ -2793,6 +2837,28 @@ Bức chân dung độ phân giải cao của một người đàn ông Nam Á 2
 
 ## Điện ảnh / Ảnh tĩnh từ phim
 
+<a name="prompt-2102633733564363002"></a>
+
+### Đang dịch
+
+Tác giả：[@TanLuAI](https://x.com/TanLuAI) · [Bài gốc](https://x.com/TanLuAI/status/2102633733564363002)
+
+Nhiếp ảnh · Điện ảnh / Ảnh tĩnh từ phim · Cyberpunk / Khoa học viễn tưởng · Động vật / Sinh vật · Phương tiện · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2102633733564363002.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
 <a name="prompt-2102228033306612127"></a>
 
 ### Bộ ảnh lưới 9 ô phong cách gothic điện ảnh tối giản tông màu xám lạnh đám cưới và vệt máu.
@@ -3130,13 +3196,13 @@ Chân dung điện ảnh chân thực của một người đàn ông trưởng 
 
 <a name="prompt-2102586257461416187"></a>
 
-### Đang dịch
+### Prompt tạo hình minh họa phong cách anime về kuro gyaru mặc đồng phục.
 
 Tác giả：[@8bitAraisan](https://x.com/8bitAraisan) · [Bài gốc](https://x.com/8bitAraisan/status/2102586257461416187)
 
 Anime / Manga · Minh họa · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Prompt tạo hình minh họa phong cách anime về kuro gyaru mặc đồng phục.
 
 <img src="images/2102586257461416187-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -3149,7 +3215,7 @@ Anime / Manga · Minh họa · Nhân vật · Đã xuất bản
 **Câu lệnh**
 
 ```text
-Đang dịch
+Hình ảnh kuro gyaru (gyaru da ngăm) mặc đồng phục. Phong cách anime.
 ```
 
 [↑ Về danh mục](#catalog)

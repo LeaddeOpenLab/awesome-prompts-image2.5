@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**196** Prompts · Dernier ajout: **2026-09-23**
+**199** Prompts · Dernier ajout: **2026-09-23**
 
 <a name="catalog"></a>
 
@@ -628,6 +628,50 @@ Photographie · Paysage / Nature · Publié
 
 ```text
 Photo d'une clairière dans les bois avec un feuillage vert abondant, très détaillée
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2102627519790723184"></a>
+
+### Traduction en cours
+
+Auteur：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publication originale](https://x.com/CyberTotal2026/status/2102627519790723184)
+
+Photographie · Personnage · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2102627519790723184-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2102659732154487254"></a>
+
+### Traduction en cours
+
+Auteur：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publication originale](https://x.com/CyberTotal2026/status/2102659732154487254)
+
+Photographie · Portrait / Selfie · Personnage · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2102659732154487254-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -2748,6 +2792,28 @@ Portrait haute résolution d'un homme sud-asiatique de 23 ans aux yeux fermés e
 
 ## Image cinématographique / Photogramme de film
 
+<a name="prompt-2102633733564363002"></a>
+
+### Traduction en cours
+
+Auteur：[@TanLuAI](https://x.com/TanLuAI) · [Publication originale](https://x.com/TanLuAI/status/2102633733564363002)
+
+Photographie · Image cinématographique / Photogramme de film · Cyberpunk / Science-fiction · Animal / Créature · Véhicule · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2102633733564363002.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
 <a name="prompt-2102228033306612127"></a>
 
 ### Ensemble d'images en grille 3x3 d'un mariage gothique cinématographique minimaliste aux tons gris froids avec des taches de sang.
@@ -3067,13 +3133,13 @@ Portrait cinématographique photoréaliste d'un bel homme adulte aux cheveux bru
 
 <a name="prompt-2102586257461416187"></a>
 
-### Traduction en cours
+### Prompt de génération d'illustration de style anime d'une kuro gyaru en uniforme.
 
 Auteur：[@8bitAraisan](https://x.com/8bitAraisan) · [Publication originale](https://x.com/8bitAraisan/status/2102586257461416187)
 
 Anime / Manga · Illustration · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de génération d'illustration de style anime d'une kuro gyaru en uniforme.
 
 <img src="images/2102586257461416187-1.jpg" alt="Image 1" width="480" />
 
@@ -3086,7 +3152,7 @@ Anime / Manga · Illustration · Personnage · Publié
 **Consigne**
 
 ```text
-Traduction en cours
+Image d'une kuro gyaru (gyaru à peau bronzée) en uniforme. Style anime.
 ```
 
 [↑ Retour aux catégories](#catalog)

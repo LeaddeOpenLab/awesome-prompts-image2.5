@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**196** Prompts · Zuletzt hinzugefügt: **2026-09-23**
+**199** Prompts · Zuletzt hinzugefügt: **2026-09-23**
 
 <a name="catalog"></a>
 
@@ -628,6 +628,50 @@ Fotografie · Landschaft / Natur · Veröffentlicht
 
 ```text
 Foto einer Waldlichtung mit viel grünem Blattwerk, sehr detailliert
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2102627519790723184"></a>
+
+### Übersetzung läuft
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Originalbeitrag](https://x.com/CyberTotal2026/status/2102627519790723184)
+
+Fotografie · Charakter · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2102627519790723184-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2102659732154487254"></a>
+
+### Übersetzung läuft
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Originalbeitrag](https://x.com/CyberTotal2026/status/2102659732154487254)
+
+Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2102659732154487254-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -2748,6 +2792,28 @@ Hochauflösendes Porträt eines 23-jährigen südasiatischen Mannes mit geschlos
 
 ## Kinematisch / Filmstill
 
+<a name="prompt-2102633733564363002"></a>
+
+### Übersetzung läuft
+
+Autor：[@TanLuAI](https://x.com/TanLuAI) · [Originalbeitrag](https://x.com/TanLuAI/status/2102633733564363002)
+
+Fotografie · Kinematisch / Filmstill · Cyberpunk / Sci-Fi · Tier / Kreatur · Fahrzeug · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2102633733564363002.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
 <a name="prompt-2102228033306612127"></a>
 
 ### 3x3-Raster-Bilderserie einer minimalistischen, filmischen Gothic-Hochzeit in kühlen Grautönen mit Blutspuren.
@@ -3067,13 +3133,13 @@ Fotorealistisches, filmisches Porträt eines gutaussehenden erwachsenen Mannes m
 
 <a name="prompt-2102586257461416187"></a>
 
-### Übersetzung läuft
+### Prompt zur Generierung einer Illustration im Anime-Stil eines Kuro Gyaru in Uniform.
 
 Autor：[@8bitAraisan](https://x.com/8bitAraisan) · [Originalbeitrag](https://x.com/8bitAraisan/status/2102586257461416187)
 
 Anime / Manga · Illustration · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt zur Generierung einer Illustration im Anime-Stil eines Kuro Gyaru in Uniform.
 
 <img src="images/2102586257461416187-1.jpg" alt="Bild 1" width="480" />
 
@@ -3086,7 +3152,7 @@ Anime / Manga · Illustration · Charakter · Veröffentlicht
 **Prompt**
 
 ```text
-Übersetzung läuft
+Bild eines kuro gyaru (dunkelhäutiges Gyaru) in Schuluniform. Anime-Stil.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
