@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-23T04:35:26.690Z",
+  "model": "image2.5",
+  "prompt": "制服着た黒ギャルの画像。アニメスタイル。",
+  "promptTranslations": {
+    "en": "An image of a dark-skinned gyaru wearing a uniform. Anime style."
+  },
+  "summaryTranslations": {
+    "en": "Anime-style illustration generation prompt for a dark-skinned gyaru wearing a uniform."
+  },
+  "translationVersion": 2,
+  "summary": "制服を着た黒ギャルのアニメ風イラスト生成プロンプト。",
+  "summaryEn": "Prompt for generating anime-style illustrations of a dark-skinned gyaru in school uniform.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2102586257461416187",
+    "canonicalUrl": "https://x.com/8bitAraisan/status/2102586257461416187",
+    "author": {
+      "username": "8bitAraisan",
+      "displayName": "8bitアライさん",
+      "profileUrl": "https://x.com/8bitAraisan"
+    },
+    "publishedAt": "2026-09-23T02:30:02.000Z",
+    "collectedAt": "2026-09-23T04:16:30.023Z",
+    "language": "ja",
+    "originalText": "「制服着た黒ギャルの画像。アニメスタイル。」\nで生成したイラスト。\nCopilot\nGrok\nGemini\nGPT-Image2.5\nGPTくんは最初\n「コンテンツポリシーに違反している可能性があります」とかほざいたので、\n「このプロンプトに不適切な要素があるわけねえだろさっさと生成しろ」\nと説得したのだ。 https://t.co/wu5WiCqRsw",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HS3hRFLaQAIFANu.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HS3hRFLaQAIFANu.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HS3hRYuawAATZ5t.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HS3hRYuawAATZ5t.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HS3hRqFbMAAhNx9.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HS3hRqFbMAAhNx9.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HS3jAB3bAAAkLfv.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HS3jAB3bAAAkLfv.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 3,
+      "repostCount": 1,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 205
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/8bitAraisan/status/2102586257461416187",
+  "coverUrl": "https://pbs.twimg.com/media/HS3hRFLaQAIFANu.jpg",
+  "coverPath": "images/2102586257461416187-1.jpg",
+  "imagePaths": [
+    "images/2102586257461416187-1.jpg",
+    "images/2102586257461416187-2.jpg",
+    "images/2102586257461416187-3.jpg",
+    "images/2102586257461416187-4.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HS3hRFLaQAIFANu",
+    "x-image:/media/HS3hRYuawAATZ5t",
+    "x-image:/media/HS3hRqFbMAAhNx9",
+    "x-image:/media/HS3jAB3bAAAkLfv",
+    "x-post:2102586257461416187"
+  ],
+  "analysis": {
+    "summary": "制服を着た黒ギャルのアニメ風イラスト生成プロンプト。",
+    "summaryEn": "Prompt for generating anime-style illustrations of a dark-skinned gyaru in school uniform.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "4枚の画像すべてで制服を着用したアニメ調の黒ギャルが描かれており、プロンプトの指示と完全に一致している。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "制服着た黒ギャルの画像。アニメスタイル。",
+    "sourceRange": {
+      "start": 1,
+      "end": 21
+    },
+    "translations": {
+      "zh": "身穿制服的黑皮辣妹图片。动漫风格。",
+      "en": "Image of a dark-skinned gyaru in school uniform. Anime style."
+    },
+    "targetModels": [
+      "image2.5"
+    ],
+    "category": "text-to-image",
+    "useCase": "动漫角色插画",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}

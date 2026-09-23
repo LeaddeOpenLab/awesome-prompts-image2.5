@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**200** Prompts · Adição mais recente: **2026-09-23**
+**196** Prompts · Adição mais recente: **2026-09-23**
 
 <a name="catalog"></a>
 
@@ -132,13 +132,13 @@ Inúmeras fotos falhadas de amadores, 3x3, 9:16
 
 <a name="prompt-2100221410358735319"></a>
 
-### Tradução em curso
+### Um prompt de selfies realista em grelha 3x3 que imita várias fotos falhadas de amadores.
 
 Autor：[@oneruofeng](https://x.com/oneruofeng) · [Publicação original](https://x.com/oneruofeng/status/2100221410358735319)
 
 Fotografia · Retrato / Selfie · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Um prompt de selfies realista em grelha 3x3 que imita várias fotos falhadas de amadores.
 
 <img src="images/2100221410358735319-1.jpg" alt="Imagem 1" width="480" />
 
@@ -147,7 +147,7 @@ Fotografia · Retrato / Selfie · Publicado
 **Prompt**
 
 ```text
-Tradução em curso
+Várias fotos falhadas de amadores, 3x3, 9:16
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -234,20 +234,20 @@ Tradução em curso
 
 <a name="prompt-2099374878910734661"></a>
 
-### Tradução em curso
+### Paisagem surrealista de desfiladeiro em 9:16, anel gigantesco de nuvens rodopiantes com efeito time-stack de longa exposição, viajante de costas no fundo do desfiladeiro.
 
 Autor：[@listudio](https://x.com/listudio) · [Publicação original](https://x.com/listudio/status/2099374878910734661)
 
 Fotografia · Paisagem / Natureza · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Paisagem surrealista de desfiladeiro em 9:16, anel gigantesco de nuvens rodopiantes com efeito time-stack de longa exposição, viajante de costas no fundo do desfiladeiro.
 
 <img src="images/2099374878910734661-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Crie uma fotografia time-stack fotorrealista e surrealista de um desfiladeiro na proporção vertical 9:16. O fundo do desfiladeiro é amplo e seco, ladeado por imensas paredes rochosas estratificadas verticais em tons de castanho quente, ocre e preto carvão que se erguem a partir dos limites do primeiro plano, formando uma moldura natural escura, com as texturas da rocha e do cascalho a manterem um detalhe nítido. No céu, a meia-distância e ao fundo do desfiladeiro, surge um anel gigantesco de nuvens rodopiantes que ocupa a maior parte da zona central, revelando um céu cinzento-azulado sereno no centro da abertura circular. Utilize um efeito de longa exposição com câmara fixa e time-stack de múltiplos fotogramas: densos cúmulos giram lentamente no mesmo sentido de rotação, fundindo-se em linhas de fluxo concêntricas, contínuas e suaves; a parede interior exibe centenas e milhares de estrias delicadas de nuvens em forma de arco, e as margens da abertura circular apresentam rastos suaves de rotação; a massa de nuvens preserva o volume real de luz e sombra e uma textura branco-leitosa, sem parecer um túnel sólido e sem ruído desagregado. O leito do vale abre-se amplamente a partir do primeiro plano e afunila em direção ao horizonte; um viajante adulto de costas para a câmara encontra-se no centro inferior, ocupando apenas cerca de 2% da altura do enquadramento, mantendo-se perfeitamente focado e nítido. A luz solar quente no canto superior direito atravessa as fendas das nuvens; a exposição contínua difunde suavemente as altas luzes, iluminando a parede de nuvens da direita e as arestas rochosas; a rocha quente, o céu cinzento-azulado frio e as nuvens branco-leitosas de alto brilho formam uma relação tricromática contida. Grão de película subtil, perspetiva atmosférica natural, silêncio épico e uma imponente sensação de grandiosidade. O arrastamento de movimento afeta exclusivamente as nuvens e uma ténue poeira suspensa; as paredes rochosas, o fundo do desfiladeiro e a pessoa permanecem nítidos. Sem edifícios, sem floresta densa, sem aves, sem texto, sem logótipos, sem marcas de água, sem relâmpagos.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -411,54 +411,6 @@ Publicação original：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicação
 <img src="images/2098799449237782991-1.jpg" alt="Imagem 1" width="480" />
 
 <img src="images/2098799449237782991-2.jpg" alt="Imagem 2" width="480" />
-
-**Prompt**
-
-```text
-Tradução em curso
-```
-
-[↑ Voltar às categorias](#catalog)
-
----
-
-<a name="prompt-2098797110401335713"></a>
-
-### Tradução em curso
-
-Autor：[@sdjn\_wgc](https://x.com/sdjn_wgc) · [Publicação original](https://x.com/sdjn_wgc/status/2098797110401335713)
-
-Fotografia · Retrato / Selfie · Arquitetura / Interiores · Publicado
-
-**Resumo:** Tradução em curso
-
-<img src="images/2098797110401335713-1.jpg" alt="Imagem 1" width="480" />
-
-**Prompt**
-
-```text
-Tradução em curso
-```
-
-[↑ Voltar às categorias](#catalog)
-
----
-
-<a name="prompt-2098779220566839714"></a>
-
-### Tradução em curso
-
-Autor：[@AI\_money\_club](https://x.com/AI_money_club) · [Publicação original](https://x.com/AI_money_club/status/2098779220566839714)
-
-Fotografia · Personagem · Comida / Bebida · Publicado
-
-Publicação original：[@AI\_money\_club](https://x.com/AI_money_club) · [Publicação original](https://x.com/AI_money_club/status/2098767892028535126)
-
-**Resumo:** Tradução em curso
-
-<img src="images/2098779220566839714-1.jpg" alt="Imagem 1" width="480" />
-
-<img src="images/2098779220566839714-2.jpg" alt="Imagem 2" width="480" />
 
 **Prompt**
 
@@ -676,6 +628,50 @@ Fotografia · Paisagem / Natureza · Publicado
 
 ```text
 Fotografia de uma clareira na floresta com muita folhagem verde, altamente detalhada
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2102598076007625121"></a>
+
+### Tradução em curso
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicação original](https://x.com/CyberTotal2026/status/2102598076007625121)
+
+Fotografia · Personagem · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2102598076007625121-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2102567121935020231"></a>
+
+### Tradução em curso
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicação original](https://x.com/CyberTotal2026/status/2102567121935020231)
+
+Fotografia · Personagem · Paisagem / Natureza · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2102567121935020231-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -1836,37 +1832,15 @@ Tradução em curso
 
 ---
 
-<a name="prompt-2099470719235318149"></a>
-
-### Tradução em curso
-
-Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicação original](https://x.com/CyberTotal2026/status/2099470719235318149)
-
-Fotografia · Retrato / Selfie · Personagem · Item de Moda · Arquitetura / Interiores · Publicado
-
-**Resumo:** Tradução em curso
-
-<img src="images/2099470719235318149-1.jpg" alt="Imagem 1" width="480" />
-
-**Prompt**
-
-```text
-Tradução em curso
-```
-
-[↑ Voltar às categorias](#catalog)
-
----
-
 <a name="prompt-2099370474455396482"></a>
 
-### Tradução em curso
+### Retrato de estúdio fotorrealista de uma mulher elegante a usar um vestido midi preto à medida.
 
 Autor：[@MissDelulu9](https://x.com/MissDelulu9) · [Publicação original](https://x.com/MissDelulu9/status/2099370474455396482)
 
 Fotografia · Retrato / Selfie · Personagem · Item de Moda · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Retrato de estúdio fotorrealista de uma mulher elegante a usar um vestido midi preto à medida.
 
 <img src="images/2099370474455396482-1.jpg" alt="Imagem 1" width="480" />
 
@@ -1875,7 +1849,7 @@ Fotografia · Retrato / Selfie · Personagem · Item de Moda · Publicado
 **Prompt**
 
 ```text
-Tradução em curso
+Crie um retrato de estúdio de corpo inteiro altamente fotorrealista de uma mulher adulta elegante a usar um vestido formal midi preto sofisticado com mangas compridas, cintura cintada, tecido premium e textura subtil. Joias minimalistas, sapatos elegantes de salto com biqueira pontiaguda, cabelo polido e brilhante, maquilhagem suave e natural, expressão confiante e suave. Fundo de estúdio de moda de luxo, iluminação suave e difusa, textura de pele realista, proporções naturais, fotografia editorial cinematográfica, lente de 85 mm, ultradetalhado, 8K, sem texto, sem marca de água.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -1972,7 +1946,7 @@ Não omitir o lago alpino nem o café gelado no canto inferior esquerdo
 
 <a name="prompt-2099400168433152293"></a>
 
-### Tradução em curso
+### Prompt de retrato em grande plano de uma mulher a olhar para cima em direção à câmara com olhos marejados.
 
 Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicação original](https://x.com/CyberTotal2026/status/2099400168433152293)
 
@@ -1980,7 +1954,7 @@ Fotografia · Retrato / Selfie · Personagem · Publicado
 
 Publicação original：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicação original](https://x.com/CyberTotal2026/status/2093263569249005578)
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt de retrato em grande plano de uma mulher a olhar para cima em direção à câmara com olhos marejados.
 
 <img src="images/2099400168433152293-1.jpg" alt="Imagem 1" width="480" />
 
@@ -1989,7 +1963,29 @@ Publicação original：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publ
 **Prompt**
 
 ```text
-Tradução em curso
+Tema:
+Retrato em grande plano com olhos marejados
+
+Sujeito:
+Uma fotografia vertical captada de cima a uma distância extremamente próxima de uma mulher na casa dos 20 anos. A figura ocupa predominantemente o centro da imagem, inclinando a parte superior do corpo para a frente enquanto olha para cima em direção à câmara. Uma das mãos está levemente aberta em concha logo abaixo da boca, com algumas gotas de água transparentes pousadas na palma. Um fundo interior escuro e uma atmosfera íntima típica de grande proximidade.
+
+Pessoa e expressão:
+Rosto pequeno e arredondado, com uma linha de mandíbula suave. Olhos castanhos grandes a olhar diretamente para a câmara, com os cantos externos ligeiramente descaídos, transmitindo uma impressão serena. Há uma película natural de lágrimas na pálpebra inferior e apenas uma lágrima minúscula visível perto do canto exterior do olho, sem parecer um rosto choroso. Sobrancelhas castanhas finas, blush rosa suave, pestanas delicadas e lábios brilhantes em tom rosa-bege. Cabelos compridos castanho-claros com ondas suaves, franja fina e madeixas delgadas a contornar as maçãs do rosto.
+
+Vestuário e pose:
+Top sem mangas de malha canelada fina em rosa-claro. Decote em V profundo com um pequeno laço central visível, combinado com uma peça inferior curta em marfim-claro. Postura com o tronco inclinado em direção à câmara e os ombros ligeiramente encolhidos para dentro. Uma das mãos posicionada sob o rosto com a palma voltada para cima e os dedos naturalmente curvados, segurando uma pequena quantidade de gotas de água.
+
+Fundo e iluminação:
+Ambiente interior com predomínio de castanho-escuro e preto. Ao fundo à esquerda, móveis escuros e papéis pequenos surgem desfocados; ao fundo à direita, um módulo de arrumação preto e pequenos objetos brancos encontram-se desfocados. Uma iluminação suave e quente, vinda principalmente de frente, ilumina nitidamente o rosto, o cabelo, os ombros e a palma da mão, enquanto o fundo decai numa sombra mais escura. A pele apresenta um brilho subtil, com pequenos reflexos nas pupilas e na superfície das lágrimas.
+
+Composição e câmara:
+Vertical 4:3. Retrato em distância extremamente aproximada com o rosto posicionado em destaque no centro da metade superior do enquadramento. Perspetiva de grande angular vista de cima com ligeira inclinação para baixo, destacando fortemente o rosto e a mão em primeiro plano. Enquadramento do topo da cabeça até ao peito e parte das coxas, com a palma da mão sobreposta no centro inferior da imagem. Focagem nítida no rosto e nos olhos, com fundo suavemente desfocado.
+
+Textura e estilo:
+Representação fotográfica realista. Pele macia a preservar a textura natural, cabelos suaves visíveis fio a fio, tecido canelado, gotas de água e a transparência das lágrimas pormenorizadas com precisão. Tons quentes e suaves, evitando HDR excessivo ou tratamento de pele demasiado artificial. Tridimensionalidade característica de foto aproximada e atmosfera natural de uma fotografia do quotidiano.
+
+Negativo:
+Lágrimas grandes e artificiais; rosto inchado de chorar
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -2073,28 +2069,6 @@ Fotografia · Retrato / Selfie · Personagem · Publicado
 **Resumo:** Tradução em curso
 
 <img src="images/2099262094302761246-1.jpg" alt="Imagem 1" width="480" />
-
-**Prompt**
-
-```text
-Tradução em curso
-```
-
-[↑ Voltar às categorias](#catalog)
-
----
-
-<a name="prompt-2099152153722159320"></a>
-
-### Tradução em curso
-
-Autor：[@Aqsahere\_](https://x.com/Aqsahere_) · [Publicação original](https://x.com/Aqsahere_/status/2099152153722159320)
-
-Fotografia · Retrato / Selfie · Personagem · Item de Moda · Publicado
-
-**Resumo:** Tradução em curso
-
-<img src="images/2099152153722159320-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
@@ -3084,6 +3058,34 @@ Retrato cinematográfico fotorrealista de um belo homem adulto com cabelo castan
 
 ## Anime / Mangá
 
+<a name="prompt-2102586257461416187"></a>
+
+### Tradução em curso
+
+Autor：[@8bitAraisan](https://x.com/8bitAraisan) · [Publicação original](https://x.com/8bitAraisan/status/2102586257461416187)
+
+Anime / Mangá · Ilustração · Personagem · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2102586257461416187-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2102586257461416187-2.jpg" alt="Imagem 2" width="480" />
+
+<img src="images/2102586257461416187-3.jpg" alt="Imagem 3" width="480" />
+
+<img src="images/2102586257461416187-4.jpg" alt="Imagem 4" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
 <a name="prompt-2102372464835874926"></a>
 
 ### Cena de lançamento do foguetão MMX e da personagem «Leo-kun» desenhada com uma composição ao estilo de página dupla de revista de anime.
@@ -3922,7 +3924,7 @@ Converta a fotografia para o estilo de um diário de viagem desenhado à mão co
 
 <a name="prompt-2100241141967081911"></a>
 
-### Tradução em curso
+### Prompt de fotografia em plano de pormenor extremo de nail art no estilo tradicional chinês centrado na estética da dinastia Song, enfatizando a fixação do foco no visual requintado das unhas.
 
 Autor：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicação original](https://x.com/DeepBlueX0/status/2100241141967081911)
 
@@ -3930,7 +3932,7 @@ Fotografia · Tinta / Estilo Chinês · Publicado
 
 Publicação original：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicação original](https://x.com/DeepBlueX0/status/2100101510634037441)
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt de fotografia em plano de pormenor extremo de nail art no estilo tradicional chinês centrado na estética da dinastia Song, enfatizando a fixação do foco no visual requintado das unhas.
 
 <img src="images/2100241141967081911-1.jpg" alt="Imagem 1" width="480" />
 
@@ -3945,7 +3947,7 @@ Publicação original：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicação
 **Prompt**
 
 ```text
-Tradução em curso
+Estética da dinastia Song × Grande plano extremo de nail art no estilo Song × Foco fixado no visual principal da nail art
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -4039,30 +4041,6 @@ Publicação original：[@huku\_ken\_ai](https://x.com/huku_ken_ai) · [Publica�
 
 ```text
 Extraia da imagem os elementos, contornos, poses e relações narrativas mais característicos, reconstruindo-os numa ilustração editorial feita à mão, leve, rústica e retro. Evitando a reprodução mecânica de detalhes, a ilustração é reinterpretada através de formas generalizadas, proporções moderadamente exageradas, traços simbólicos e metáforas visuais bem-humoradas, mantendo ao mesmo tempo a expressão característica do original. Estas ilustrações combinam a ilustração editorial modernista, o design gráfico da Bauhaus, livros ilustrados infantis, arte naïf e técnicas de esboço em voga. As formas são concisas, as linhas de contorno transmitem uma impressão ligeiramente imprecisa que reflete as imperfeições naturais do desenho à mão, e elementos específicos são ampliados adequadamente para criar uma imagem narrativa, estilizada e lúdica.
-```
-
-[↑ Voltar às categorias](#catalog)
-
----
-
-<a name="prompt-2098762789489873062"></a>
-
-### Tradução em curso
-
-Autor：[@lovimg\_com](https://x.com/lovimg_com) · [Publicação original](https://x.com/lovimg_com/status/2098762789489873062)
-
-Pôster / Folheto · Ilustração · Retrô / Vintage · Item de Moda · Texto / Tipografia · Publicado
-
-**Resumo:** Tradução em curso
-
-<img src="images/2098762789489873062-1.jpg" alt="Imagem 1" width="480" />
-
-<img src="images/2098762789489873062-2.jpg" alt="Imagem 2" width="480" />
-
-**Prompt**
-
-```text
-Tradução em curso
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -4454,7 +4432,7 @@ Tranquilo, poético, refinado, minimalista, inocente, artístico, ponderado, sof
 
 <a name="prompt-2102550317405536266"></a>
 
-### Tradução em curso
+### Prompt de retrato streetwear de corpo inteiro de um homem latino no sul de Los Angeles a vestir flanela e botas.
 
 Autor：[@PrometheanAIX](https://x.com/PrometheanAIX) · [Publicação original](https://x.com/PrometheanAIX/status/2102550317405536266)
 
@@ -4462,14 +4440,24 @@ Retrato / Selfie · Item de Moda · Paisagem urbana / Rua · Publicado
 
 Publicação original：[@PrometheanAIX](https://x.com/PrometheanAIX) · [Publicação original](https://x.com/PrometheanAIX/status/2102474338649731334)
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt de retrato streetwear de corpo inteiro de um homem latino no sul de Los Angeles a vestir flanela e botas.
 
 <img src="covers/2102550317405536266.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Fotografia / Cinematografia
+Retrato de moda streetwear de corpo inteiro e hiper-realista de um homem latino rusticamete atraente no final dos seus 20 anos, com constituição atlética e esguia, cabelo escuro rapado muito curto, maxilar definido, pele morena clara e traços faciais marcantes típicos de modelo. Encontra-se numa pose descontraída de três quartos, com o peso apoiado numa das pernas, uma das mãos casualmente enfiada no bolso das calças e a outra caída naturalmente ao lado do corpo. Olha para a câmara com uma expressão calma e confiante. Luz natural de uma tarde de inverno, textura de pele realista, detalhes autênticos de tecido e subtil profundidade de campo em segundo plano. Composição vertical 2:3, fotografada ao nível dos olhos com o corpo inteiro visível da cabeça aos pés.
+
+Ambiente
+Um bairro urbano animado no sul de Los Angeles numa tarde de inverno soalheira e fresca. Um passeio de betão espaçoso e uma pequena praça de skate estão rodeados por edifícios baixos, palmeiras, candeeiros de rua e algumas árvores sazonais despidas. Um grande mural profissional de arte urbana, exibindo o retrato de uma mulher e elementos gráficos expressivos, cobre uma parede em segundo plano. Grafíti artístico modesto pontua as superfícies de betão em redor sem tornar a área desarrumada. Transeuntes caminham pelo passeio, a conversar e a seguir a sua rotina. Mais ao fundo, exatamente três skaters executam manobras sobre um corrimão de metal e obstáculos de betão. Cultura de rua autêntica do sul da Califórnia, movimento pedonal natural e atmosfera urbana credível.
+
+Pose
+O homem está confiante em primeiro plano, ligeiramente em ângulo em direção à câmara, com os ombros descontraídos, uma mão no bolso dianteiro das calças e a outra pousada com naturalidade junto à coxa. Os pés estão afastados, com uma perna ligeiramente avançada. Postura natural, anatomia credível e uma presença editorial de moda de rua despretensiosa.
+
+Vestuário
+Sobrecamisa de flanela oversized em padrão xadrez azul, azul-escuro e bege quente, usada aberta sobre uma t-shirt de gola redonda num tom azul-ardósia suave. Calças de ganga largas e de perna folgada em preto-carvão lavado, com desbotamento natural e caimento descontraído. Botas clássicas de atacadores em pele preta Dr. Martens com costura amarela da vira. Um colar de corrente prateado subtil e um anel de prata completam o visual. Texturas de tecido realistas, dobras naturais e estilização autêntica de streetwear.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -4836,13 +4824,13 @@ Tradução em curso
 
 <a name="prompt-2100255511228932598"></a>
 
-### Tradução em curso
+### Instantâneos verticais de erros em grelha de quatro, cena de colheita de raízes de lótus em lago de lótus e personagens
 
 Autor：[@ahamme35638](https://x.com/ahamme35638) · [Publicação original](https://x.com/ahamme35638/status/2100255511228932598)
 
 Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Instantâneos verticais de erros em grelha de quatro, cena de colheita de raízes de lótus em lago de lótus e personagens
 
 <img src="images/2100255511228932598-1.jpg" alt="Imagem 1" width="480" />
 
@@ -4853,7 +4841,7 @@ Personagem · Publicado
 **Prompt**
 
 ```text
-Tradução em curso
+Fotos falhadas verticais 2×2, cena de colheita de raízes de lótus num lago de lótus + personagem
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -5495,28 +5483,6 @@ Cristiano Ronaldo a comer shawarma
 
 ---
 
-<a name="prompt-2097582500273115191"></a>
-
-### Tradução em curso
-
-Autor：[@ky6001481673691](https://x.com/ky6001481673691) · [Publicação original](https://x.com/ky6001481673691/status/2097582500273115191)
-
-Retrato / Selfie · Personagem · Item de Moda · Publicado
-
-**Resumo:** Tradução em curso
-
-<img src="images/2097582500273115191-1.jpg" alt="Imagem 1" width="480" />
-
-**Prompt**
-
-```text
-Tradução em curso
-```
-
-[↑ Voltar às categorias](#catalog)
-
----
-
 <a name="prompt-2097558679956664521"></a>
 
 ### Retrato de terror cibernético apresentando um humanoide esquelético com uma máscara de porcelana rachada, cabos na cabeça e iluminação monocromática de alto contraste.
@@ -5681,30 +5647,6 @@ Cena 5 (7–9s): O frasco é segurado com elegância numa mão e rodado lentamen
 Cena 6 (9–10s): Tomada de destaque final do frasco de Cheng Guang Cocoa Soft Glow rodeado por grãos de cacau e folhas. A câmara aproxima-se lentamente, efeitos subtis de brilho, fundo luxuoso e quente, composição limpa focada no produto.
 
 Estilo: fotorrealista, anúncio de beleza premium, iluminação cinematográfica, movimentos de mão realistas, transições de câmara suaves, profundidade de campo reduzida, bokeh suave, tons dourados quentes, 4K, altamente detalhado, movimento natural, sem distorção, sem produtos adicionais, sem alterações ao rótulo ou à imagem de marca do frasco.
-```
-
-[↑ Voltar às categorias](#catalog)
-
----
-
-<a name="prompt-2098762663941832907"></a>
-
-### Tradução em curso
-
-Autor：[@lovimg\_com](https://x.com/lovimg_com) · [Publicação original](https://x.com/lovimg_com/status/2098762663941832907)
-
-Pôster / Folheto · Texto / Tipografia · Publicado
-
-**Resumo:** Tradução em curso
-
-<img src="images/2098762663941832907-1.jpg" alt="Imagem 1" width="480" />
-
-<img src="images/2098762663941832907-2.jpg" alt="Imagem 2" width="480" />
-
-**Prompt**
-
-```text
-Tradução em curso
 ```
 
 [↑ Voltar às categorias](#catalog)

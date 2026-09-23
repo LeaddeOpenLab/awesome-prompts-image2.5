@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**200** Prompt · Son eklenen: **2026-09-23**
+**196** Prompt · Son eklenen: **2026-09-23**
 
 <a name="catalog"></a>
 
@@ -132,13 +132,13 @@ Fotoğrafçılık · Yayımlandı
 
 <a name="prompt-2100221410358735319"></a>
 
-### Çeviri sürüyor
+### Amatörlerin çok sayıda başarısız fotoğrafını taklit eden gerçekçi bir 3x3 ızgara özçekim istemi.
 
 Yazar：[@oneruofeng](https://x.com/oneruofeng) · [Orijinal gönderi](https://x.com/oneruofeng/status/2100221410358735319)
 
 Fotoğrafçılık · Portre / Selfie · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Amatörlerin çok sayıda başarısız fotoğrafını taklit eden gerçekçi bir 3x3 ızgara özçekim istemi.
 
 <img src="images/2100221410358735319-1.jpg" alt="Görsel 1" width="480" />
 
@@ -147,7 +147,7 @@ Fotoğrafçılık · Portre / Selfie · Yayımlandı
 **İstem**
 
 ```text
-Çeviri sürüyor
+Amatörlerin çok sayıda başarısız fotoğrafı, 3x3, 9:16
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -234,20 +234,20 @@ Fotoğrafçılık · Portre / Selfie · Karakter · Moda Ürünü · Şehir Manz
 
 <a name="prompt-2099374878910734661"></a>
 
-### Çeviri sürüyor
+### 9:16 sürreal kanyon manzarası, devasa dönen bulut halkası ve uzun pozlama time-stack efekti, kanyon tabanında arkası dönük gezgin.
 
 Yazar：[@listudio](https://x.com/listudio) · [Orijinal gönderi](https://x.com/listudio/status/2099374878910734661)
 
 Fotoğrafçılık · Manzara / Doğa · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** 9:16 sürreal kanyon manzarası, devasa dönen bulut halkası ve uzun pozlama time-stack efekti, kanyon tabanında arkası dönük gezgin.
 
 <img src="images/2099374878910734661-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+9:16 dikey formatta, fotogerçekçi ve sürreal bir kanyon zaman yığını (time-stack) fotoğrafı oluşturun. Geniş ve kurak kanyon tabanı, ön planın kenarlarından yükselen ve koyu renkli doğal bir çerçeve oluşturan sıcak kahverengi, aşı boyası ve kömür karası tonlarında devasa dikey katmanlı kaya duvarlarıyla çevrilidir; kaya dokuları ve çakıl taşları net detaylarını korur. Kanyonun orta ve uzak planı üzerindeki gökyüzünde, merkezi alanın büyük bir bölümünü kaplayan devasa bir dönen bulut halkası belirir; dairesel deliğin merkezinde dingin, gri-mavi bir gökyüzü görünür. Sabit kamera açısıyla uzun pozlama ve çok kareli zaman yığını (time-stack) efekti kullanın: yoğun kümülüs bulutları aynı dönüş yönünde yavaşça girdap gibi dönerek kesintisiz, akıcı, eşmerkezli akış çizgileri halinde birleşir; iç duvarda yüzlerce, binlerce ince yay biçimli bulut çizgisi oluşur ve dairesel deliğin kenarlarında yumuşak dönme izleri kalır; bulutlar katı bir tünel gibi görünmeden ve grenli gürültü oluşturmadan gerçekçi açık-koyu hacmini ve süt beyazı dokusunu korur. Kanyon tabanı ön plandan genişçe başlayıp uzaklara doğru daralır; kameraya sırtı dönük bir yetişkin gezgin alt orta kısımda durur, kadraj yüksekliğinin yalnızca yaklaşık %2'sini kaplar ancak tamamen net kalır. Sağ üstteki sıcak güneş ışığı bulut yarıklarından süzülür; sürekli pozlama parlak kısımların yumuşakça yayılmasını sağlayarak sağdaki bulut duvarını ve kaya kenarlarını aydınlatır; sıcak kayaçlar, soğuk gri-mavi gökyüzü ve parlak süt beyazı bulutlar ölçülü bir üçlü renk dengesi oluşturur. İnce film greni, doğal atmosferik perspektif, destansı bir sessizlik ve ezici bir heybet hissi. Hareket bulanıklığı yalnızca bulutlara ve hafif toz pisine uygulanır; kaya duvarları, kanyon tabanı ve insan son derece nettir. Yapı yok, yoğun orman yok, uçan kuşlar yok, yazı yok, logo yok, filigran yok, şimşek yok.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -411,54 +411,6 @@ Orijinal gönderi：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Orijinal gönder
 <img src="images/2098799449237782991-1.jpg" alt="Görsel 1" width="480" />
 
 <img src="images/2098799449237782991-2.jpg" alt="Görsel 2" width="480" />
-
-**İstem**
-
-```text
-Çeviri sürüyor
-```
-
-[↑ Kategorilere dön](#catalog)
-
----
-
-<a name="prompt-2098797110401335713"></a>
-
-### Çeviri sürüyor
-
-Yazar：[@sdjn\_wgc](https://x.com/sdjn_wgc) · [Orijinal gönderi](https://x.com/sdjn_wgc/status/2098797110401335713)
-
-Fotoğrafçılık · Portre / Selfie · Mimari / İç Mekan · Yayımlandı
-
-**Özet:** Çeviri sürüyor
-
-<img src="images/2098797110401335713-1.jpg" alt="Görsel 1" width="480" />
-
-**İstem**
-
-```text
-Çeviri sürüyor
-```
-
-[↑ Kategorilere dön](#catalog)
-
----
-
-<a name="prompt-2098779220566839714"></a>
-
-### Çeviri sürüyor
-
-Yazar：[@AI\_money\_club](https://x.com/AI_money_club) · [Orijinal gönderi](https://x.com/AI_money_club/status/2098779220566839714)
-
-Fotoğrafçılık · Karakter · Yiyecek / İçecek · Yayımlandı
-
-Orijinal gönderi：[@AI\_money\_club](https://x.com/AI_money_club) · [Orijinal gönderi](https://x.com/AI_money_club/status/2098767892028535126)
-
-**Özet:** Çeviri sürüyor
-
-<img src="images/2098779220566839714-1.jpg" alt="Görsel 1" width="480" />
-
-<img src="images/2098779220566839714-2.jpg" alt="Görsel 2" width="480" />
 
 **İstem**
 
@@ -676,6 +628,50 @@ Fotoğrafçılık · Manzara / Doğa · Yayımlandı
 
 ```text
 Ormanda bol yeşil yaprakları olan bir açıklığın fotoğrafı, son derece detaylı
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2102598076007625121"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Orijinal gönderi](https://x.com/CyberTotal2026/status/2102598076007625121)
+
+Fotoğrafçılık · Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2102598076007625121-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2102567121935020231"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Orijinal gönderi](https://x.com/CyberTotal2026/status/2102567121935020231)
+
+Fotoğrafçılık · Karakter · Manzara / Doğa · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2102567121935020231-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -1836,37 +1832,15 @@ Fotoğrafçılık · Karakter · Yayımlandı
 
 ---
 
-<a name="prompt-2099470719235318149"></a>
-
-### Çeviri sürüyor
-
-Yazar：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Orijinal gönderi](https://x.com/CyberTotal2026/status/2099470719235318149)
-
-Fotoğrafçılık · Portre / Selfie · Karakter · Moda Ürünü · Mimari / İç Mekan · Yayımlandı
-
-**Özet:** Çeviri sürüyor
-
-<img src="images/2099470719235318149-1.jpg" alt="Görsel 1" width="480" />
-
-**İstem**
-
-```text
-Çeviri sürüyor
-```
-
-[↑ Kategorilere dön](#catalog)
-
----
-
 <a name="prompt-2099370474455396482"></a>
 
-### Çeviri sürüyor
+### Özel dikim siyah midi elbise giyen zarif bir kadının fotogerçekçi stüdyo portresi.
 
 Yazar：[@MissDelulu9](https://x.com/MissDelulu9) · [Orijinal gönderi](https://x.com/MissDelulu9/status/2099370474455396482)
 
 Fotoğrafçılık · Portre / Selfie · Karakter · Moda Ürünü · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Özel dikim siyah midi elbise giyen zarif bir kadının fotogerçekçi stüdyo portresi.
 
 <img src="images/2099370474455396482-1.jpg" alt="Görsel 1" width="480" />
 
@@ -1875,7 +1849,7 @@ Fotoğrafçılık · Portre / Selfie · Karakter · Moda Ürünü · Yayımland�
 **İstem**
 
 ```text
-Çeviri sürüyor
+Uzun kollu, beli oturan, birinci sınıf kumaştan ve zarif bir dokuya sahip, sofistike siyah midi boy resmi bir elbise giymiş zarif bir yetişkin kadının son derece fotogerçekçi, tam boy stüdyo portresini oluşturun. Minimalist takılar, zarif sivri burunlu topuklu ayakkabılar, parlak ve düz taranmış saçlar, yumuşak doğal makyaj, kendinden emin ve nazik bir ifade. Lüks moda stüdyosu arka planı, yumuşak difüze aydınlatma, gerçekçi cilt dokusu, doğal oranlar, sinematik editoryal fotoğrafçılık, 85 mm lens, ultra detaylı, 8K, metin yok, filigran yok.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -1972,7 +1946,7 @@ Dağ gölünü ve sol alttaki buzlu kahveyi çıkarma
 
 <a name="prompt-2099400168433152293"></a>
 
-### Çeviri sürüyor
+### Nemli gözlerle kameraya yukarı bakan bir kadının son derece yakın plan portre istemi.
 
 Yazar：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Orijinal gönderi](https://x.com/CyberTotal2026/status/2099400168433152293)
 
@@ -1980,7 +1954,7 @@ Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
 
 Orijinal gönderi：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Orijinal gönderi](https://x.com/CyberTotal2026/status/2093263569249005578)
 
-**Özet:** Çeviri sürüyor
+**Özet:** Nemli gözlerle kameraya yukarı bakan bir kadının son derece yakın plan portre istemi.
 
 <img src="images/2099400168433152293-1.jpg" alt="Görsel 1" width="480" />
 
@@ -1989,7 +1963,29 @@ Orijinal gönderi：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Orijinal
 **İstem**
 
 ```text
-Çeviri sürüyor
+Konu:
+Nemli gözlü yakın çekim portre
+
+Özne:
+20'li yaşlarında bir kadının yukarıdan son derece yakın mesafeden çekilmiş dikey fotoğrafı. Kişi kadrajın merkezini geniş ölçüde kaplamakta, üst bedenini öne doğru eğerken kameraya yukarı doğru bakmaktadır. Bir elini ağzının hemen altında hafifçe çukurlaştırarak açmış, avucunda az miktarda şeffaf su damlası bulunmaktadır. Karanlık bir iç mekân arka planı ve yakın çekimin getirdiği samimi bir atmosfer.
+
+Kişi ve İfade:
+Yuvarlak, küçük yüz hatları ve yumuşak bir çene çizgisi. Kameraya doğrudan bakan büyük kahverengi gözler, göz kenarlarının hafifçe aşağı eğimli olması sakin bir izlenim yaratmaktadır. Alt göz kapağında doğal bir gözyaşı tabakası vardır ve dış göz pınarı yakınında neredeyse tek bir minik gözyaşı damlası görünür, ancak ağlayan bir yüz ifadesi değildir. İnce kahverengi kaşlar, açık pembe allık, zarif kirpikler ve pembe-bej parlak dudaklar. Açık kahverengi uzun saçlar hafif dalgalıdır, ince kaküller ve yanakları çevreleyen ince saç telleri eşlik eder.
+
+Kıyafet ve Duruş:
+Açık pembe, ince fitilli kumaştan kolsuz bir üst. Derin V yaka ve ortada küçük bir fiyonk görünmekte, altında açık fildişi tonlarında kısa bir alt giysi ile kombinlenmektedir. Üst gövde kameraya doğru eğilmiş, omuzlar hafifçe içe çekilmiş bir duruş. Bir el yüzün altında, avuç içi yukarı bakacak şekilde ve parmaklar doğal olarak kıvrılmış, az miktarda su damlasını tutmaktadır.
+
+Arka Plan ve Işık:
+Koyu kahverengi ve siyah tonlarının hâkim olduğu bir iç mekân. Sol arkada karanlık mobilyalar ve küçük kâğıt parçaları, sağ arkada ise siyah bir depolama alanı ve beyaz küçük nesneler bulanık görünmektedir. Ön tarafa yakın yumuşak ve sıcak tonlu bir ışık yüzü, saçları, omuzları ve avuç içini aydınlatırken arka plan belirgin biçimde kararır. Ciltte sade bir parlaklık vardır, gözbebeklerinde ve gözyaşı yüzeyinde küçük ışıltılar yer alır.
+
+Kompozisyon ve Kamera:
+Dikey 4:3. Yüzün kadrajın üst yarısının merkezine genişçe yerleştirildiği son derece yakın plan bir portre. Yukarıdan hafifçe aşağı bakan geniş açılı bakış açısı, yüzü ve eli güçlü bir şekilde ön plana çıkarır. Başın tepesinden göğse ve uylukların bir kısmına kadar kadraja girer, avuç içi görüntünün alt orta kısmına biner. Yüze ve gözlere net bir şekilde odaklanılmış, arka plan yumuşakça bulanıklaştırılmıştır.
+
+Doku ve Stil:
+Gerçekçi fotoğrafik anlatım. Doğal dokusunu koruyan pürüzsüz cilt, tel tel görülebilen yumuşak saçlar, fitilli kumaş, su damlaları ve gözyaşının şeffaflığı detaylı şekilde betimlenir. Sıcak ve yumuşak renk tonları; aşırı HDR veya yapay pürüzsüzleştirme filtrelerinden kaçınılmıştır. Yakın çekime özgü üç boyutluluk hissi ve günlük bir fotoğraf gibi doğal bir atmosfer.
+
+Negatif:
+Büyük ve yapay gözyaşları; ağlamaktan şişmiş yüz ifadesi
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -2073,28 +2069,6 @@ Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
 **Özet:** Çeviri sürüyor
 
 <img src="images/2099262094302761246-1.jpg" alt="Görsel 1" width="480" />
-
-**İstem**
-
-```text
-Çeviri sürüyor
-```
-
-[↑ Kategorilere dön](#catalog)
-
----
-
-<a name="prompt-2099152153722159320"></a>
-
-### Çeviri sürüyor
-
-Yazar：[@Aqsahere\_](https://x.com/Aqsahere_) · [Orijinal gönderi](https://x.com/Aqsahere_/status/2099152153722159320)
-
-Fotoğrafçılık · Portre / Selfie · Karakter · Moda Ürünü · Yayımlandı
-
-**Özet:** Çeviri sürüyor
-
-<img src="images/2099152153722159320-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
@@ -3084,6 +3058,34 @@ Dağınık orta uzunlukta kahverengi saçlı ve düzgünce kesilmiş sakallı, y
 
 ## Anime / Manga
 
+<a name="prompt-2102586257461416187"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@8bitAraisan](https://x.com/8bitAraisan) · [Orijinal gönderi](https://x.com/8bitAraisan/status/2102586257461416187)
+
+Anime / Manga · İllüstrasyon · Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2102586257461416187-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2102586257461416187-2.jpg" alt="Görsel 2" width="480" />
+
+<img src="images/2102586257461416187-3.jpg" alt="Görsel 3" width="480" />
+
+<img src="images/2102586257461416187-4.jpg" alt="Görsel 4" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
 <a name="prompt-2102372464835874926"></a>
 
 ### Anime dergisi çift sayfa açılımı tarzı kompozisyonla çizilmiş &quot;Leo-kun&quot; karakteri ve MMX roketi fırlatma sahnesi.
@@ -3918,7 +3920,7 @@ Fotoğrafı renkli kurşun kalem ve suluboya ile elle çizilmiş bir seyahat gü
 
 <a name="prompt-2100241141967081911"></a>
 
-### Çeviri sürüyor
+### Song Hanedanı estetiğini merkeze alan geleneksel Çin tarzı tırnak sanatının aşırı yakın çekim fotoğrafçılık istemi; odağı zarif tırnak sanatı görseline kilitlemeyi vurgular.
 
 Yazar：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Orijinal gönderi](https://x.com/DeepBlueX0/status/2100241141967081911)
 
@@ -3926,7 +3928,7 @@ Fotoğrafçılık · Mürekkep / Çin Tarzı · Yayımlandı
 
 Orijinal gönderi：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Orijinal gönderi](https://x.com/DeepBlueX0/status/2100101510634037441)
 
-**Özet:** Çeviri sürüyor
+**Özet:** Song Hanedanı estetiğini merkeze alan geleneksel Çin tarzı tırnak sanatının aşırı yakın çekim fotoğrafçılık istemi; odağı zarif tırnak sanatı görseline kilitlemeyi vurgular.
 
 <img src="images/2100241141967081911-1.jpg" alt="Görsel 1" width="480" />
 
@@ -3941,7 +3943,7 @@ Orijinal gönderi：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Orijinal gönder
 **İstem**
 
 ```text
-Çeviri sürüyor
+Song Hanedanı estetiği × Song tarzı tırnak sanatının aşırı yakın çekimi × Odak tırnak sanatının ana görseline kilitlenmiş
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -4035,30 +4037,6 @@ Orijinal gönderi：[@huku\_ken\_ai](https://x.com/huku_ken_ai) · [Orijinal gö
 
 ```text
 Görüntüden en karakteristik özneleri, ana hatları, pozları ve anlatısal ilişkileri çıkarın ve bunları hafif, sade, retro el çizimi editoryal bir illüstrasyona dönüştürün. Ayrıntıların mekanik olarak kopyalanmasından kaçınarak illüstrasyon; genelleştirilmiş formlar, makul ölçüde abartılmış oranlar, sembolik özellikler ve esprili görsel metaforlar aracılığıyla yeniden yorumlanırken orijinalin karakteristik ifadesini korur. Bu illüstrasyonlar; modernist editoryal illüstrasyonu, Bauhaus grafik tasarımını, çocuk resimli kitaplarını, naif sanatı ve trend eskiz tekniklerini harmanlar. Formlar sadedir, dış hatlar serbest el çizimine özgü kusurları yansıtarak hafif belirsiz bir his verir ve belirli ögeler, hikaye anlatımı, stil ve oyuncu bir görüntü oluşturmak için uygun şekilde büyütülür.
-```
-
-[↑ Kategorilere dön](#catalog)
-
----
-
-<a name="prompt-2098762789489873062"></a>
-
-### Çeviri sürüyor
-
-Yazar：[@lovimg\_com](https://x.com/lovimg_com) · [Orijinal gönderi](https://x.com/lovimg_com/status/2098762789489873062)
-
-Poster / El İlanı · İllüstrasyon · Retro / Vintage · Moda Ürünü · Metin / Tipografi · Yayımlandı
-
-**Özet:** Çeviri sürüyor
-
-<img src="images/2098762789489873062-1.jpg" alt="Görsel 1" width="480" />
-
-<img src="images/2098762789489873062-2.jpg" alt="Görsel 2" width="480" />
-
-**İstem**
-
-```text
-Çeviri sürüyor
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -4450,7 +4428,7 @@ Sakin, şiirsel, zarif, minimal, masum, sanatsal, düşünceli, birinci sınıf 
 
 <a name="prompt-2102550317405536266"></a>
 
-### Çeviri sürüyor
+### Güney Los Angeles'ta flanel gömlek ve botlar giyen bir Latin erkeğin boydan sokak modası portresi istemi.
 
 Yazar：[@PrometheanAIX](https://x.com/PrometheanAIX) · [Orijinal gönderi](https://x.com/PrometheanAIX/status/2102550317405536266)
 
@@ -4458,14 +4436,24 @@ Portre / Selfie · Moda Ürünü · Şehir Manzarası / Sokak · Yayımlandı
 
 Orijinal gönderi：[@PrometheanAIX](https://x.com/PrometheanAIX) · [Orijinal gönderi](https://x.com/PrometheanAIX/status/2102474338649731334)
 
-**Özet:** Çeviri sürüyor
+**Özet:** Güney Los Angeles'ta flanel gömlek ve botlar giyen bir Latin erkeğin boydan sokak modası portresi istemi.
 
 <img src="covers/2102550317405536266.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Fotoğrafçılık / Sinematografi
+20'li yaşlarının sonlarında, zayıf atletik yapılı, kısa traşlı koyu saçlı, belirgin çene hatlarına sahip, sıcak buğday tenli ve manken gibi çarpıcı yüz hatları olan, sert ve yakışıklı bir Latin erkeğin hiper-gerçekçi boydan sokak modası portresi. Ağırlığı tek bacağına verilmiş, bir eli rahatça pantolon cebine sokulmuş, diğer eli ise vücudunun yanında doğal bir şekilde sarkan rahat bir üç çeyrek duruşta duruyor. Sakin ve kendinden emin bir ifadeyle kameraya bakıyor. Doğal kış ikindisi güneş ışığı, gerçekçi cilt dokusu, otantik kumaş detayları ve hafif arka plan alan derinliği. Baştan ayağa tüm vücudu görünecek şekilde göz hizasından fotoğraflanmış dikey 2:3 kompozisyon.
+
+Ortam
+Güneşli, serin bir kış ikindisinde Güney Los Angeles'ta canlı bir kentsel mahalle. Geniş bir beton kaldırım ve küçük bir kaykay meydanı; alçak binalar, palmiye ağaçları, sokak lambaları ve birkaç yapraksız mevsimlik ağaçla çevrilidir. Arka plandaki bir duvarı, bir kadın portresini ve etkileyici grafik ögeleri içeren, profesyonelce boyanmış büyük bir sokak sanatı duvar resmi (mural) kaplamaktadır. Ölçülü sanatsal grafitiler, alanı dağınık göstermeden çevredeki beton yüzeylere şıklık katıyor. Yayalar kaldırımda yürüyor, sohbet ediyor ve günlük işleriyle ilgileniyor. Daha arka planda tam olarak üç kaykaycı metal bir korkuluk ve beton engeller üzerinden numaralar yapıyor. Otantik Güney Kaliforniya sokak kültürü, doğal yaya hareketliliği ve inandırıcı bir kentsel atmosfer.
+
+Poz
+Adam ön planda kendinden emin bir şekilde duruyor, omuzları rahat, bir eli ön pantolon cebinde ve diğer eli doğal olarak uyluğunun yanında duracak şekilde hafifçe kameraya doğru dönük. Ayakları ayrık duruyor ve bir bacağı hafifçe önde. Doğal bir duruş, inandırıcı anatomi ve zahmetsiz bir sokak modası editoryal aurası.
+
+Kıyafet
+Mavi, lacivert ve sıcak bej ekose desenli, mat arduvaz mavisi sıfır yaka tişörtün üzerine açık giyilmiş oversize flanel gömlek ceket. Doğal solma efektine ve dökümlü bir yapıya sahip, bol kesim, geniş paça yıkanmış antrasit-siyah kot pantolon. Sarı dikişli, klasik siyah deri Dr. Martens bağcıklı botlar. Zarif bir gümüş zincir kolye ve gümüş yüzük görünümü tamamlıyor. Gerçekçi kumaş dokuları, doğal kıvrımlar ve otantik sokak modası tarzı.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -4832,13 +4820,13 @@ Yazar：[@TanLuAI](https://x.com/TanLuAI) · [Orijinal gönderi](https://x.com/T
 
 <a name="prompt-2100255511228932598"></a>
 
-### Çeviri sürüyor
+### Dikey dörtlü ızgara hatalı enstantane çekim, nilüfer göletinde nilüfer kökü toplama sahnesi ve karakterler
 
 Yazar：[@ahamme35638](https://x.com/ahamme35638) · [Orijinal gönderi](https://x.com/ahamme35638/status/2100255511228932598)
 
 Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Dikey dörtlü ızgara hatalı enstantane çekim, nilüfer göletinde nilüfer kökü toplama sahnesi ve karakterler
 
 <img src="images/2100255511228932598-1.jpg" alt="Görsel 1" width="480" />
 
@@ -4849,7 +4837,7 @@ Karakter · Yayımlandı
 **İstem**
 
 ```text
-Çeviri sürüyor
+Dikey 2×2 başarısız fotoğraflar, nilüfer göletinde nilüfer kökü toplama sahnesi + karakter
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -5491,28 +5479,6 @@ Orijinal gönderi：[@gabrielchua](https://x.com/gabrielchua) · [Orijinal gönd
 
 ---
 
-<a name="prompt-2097582500273115191"></a>
-
-### Çeviri sürüyor
-
-Yazar：[@ky6001481673691](https://x.com/ky6001481673691) · [Orijinal gönderi](https://x.com/ky6001481673691/status/2097582500273115191)
-
-Portre / Selfie · Karakter · Moda Ürünü · Yayımlandı
-
-**Özet:** Çeviri sürüyor
-
-<img src="images/2097582500273115191-1.jpg" alt="Görsel 1" width="480" />
-
-**İstem**
-
-```text
-Çeviri sürüyor
-```
-
-[↑ Kategorilere dön](#catalog)
-
----
-
 <a name="prompt-2097558679956664521"></a>
 
 ### Çatlak bir porselen maskeye, kafa kablolarına ve yüksek kontrastlı monokrom aydınlatmaya sahip sıska bir insansı figür içeren sibernetik korku portresi.
@@ -5677,30 +5643,6 @@ Yüklenen görseli birebir görsel referans olarak kullanarak yüksek kaliteli, 
 6. Sahne (9–10 sn): Kakao çekirdekleri ve yapraklarla çevrili Cheng Guang Cocoa Soft Glow şişesinin son ana ürün çekimi. Kamera yavaşça yaklaşıyor, ince parıltı efektleri, lüks sıcak arka plan, temiz ve ürün odaklı kompozisyon.
 
 Tarz: fotogerçekçi, birinci sınıf güzellik reklamı, sinematik aydınlatma, gerçekçi el hareketleri, akıcı kamera geçişleri, sığ alan derinliği, yumuşak bokeh, sıcak altın tonları, 4K, son derece ayrıntılı, doğal hareket, bozulma yok, fazladan ürün yok, şişe etiketinde veya markasında değişiklik yok.
-```
-
-[↑ Kategorilere dön](#catalog)
-
----
-
-<a name="prompt-2098762663941832907"></a>
-
-### Çeviri sürüyor
-
-Yazar：[@lovimg\_com](https://x.com/lovimg_com) · [Orijinal gönderi](https://x.com/lovimg_com/status/2098762663941832907)
-
-Poster / El İlanı · Metin / Tipografi · Yayımlandı
-
-**Özet:** Çeviri sürüyor
-
-<img src="images/2098762663941832907-1.jpg" alt="Görsel 1" width="480" />
-
-<img src="images/2098762663941832907-2.jpg" alt="Görsel 2" width="480" />
-
-**İstem**
-
-```text
-Çeviri sürüyor
 ```
 
 [↑ Kategorilere dön](#catalog)

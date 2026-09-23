@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**200** Prompts · Zuletzt hinzugefügt: **2026-09-23**
+**196** Prompts · Zuletzt hinzugefügt: **2026-09-23**
 
 <a name="catalog"></a>
 
@@ -132,13 +132,13 @@ Zahlreiche misslungene Amateurfotos, 3x3, 9:16
 
 <a name="prompt-2100221410358735319"></a>
 
-### Übersetzung läuft
+### Ein realistischer 3x3-Raster-Selfie-Prompt, der zahlreiche verpatzte Amateurfotos nachahmt.
 
 Autor：[@oneruofeng](https://x.com/oneruofeng) · [Originalbeitrag](https://x.com/oneruofeng/status/2100221410358735319)
 
 Fotografie · Porträt / Selfie · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Ein realistischer 3x3-Raster-Selfie-Prompt, der zahlreiche verpatzte Amateurfotos nachahmt.
 
 <img src="images/2100221410358735319-1.jpg" alt="Bild 1" width="480" />
 
@@ -147,7 +147,7 @@ Fotografie · Porträt / Selfie · Veröffentlicht
 **Prompt**
 
 ```text
-Übersetzung läuft
+Zahlreiche verpatzte Amateurfotos, 3x3, 9:16
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -234,20 +234,20 @@ Fotografie · Porträt / Selfie · Charakter · Modeartikel · Stadtbild / Stra�
 
 <a name="prompt-2099374878910734661"></a>
 
-### Übersetzung läuft
+### Surreale Schluchtlandschaft im Format 9:16, riesiger rotierender Wolkenring mit Langzeitbelichtungs-Time-Stack-Effekt, Reisender von hinten auf dem Talboden.
 
 Autor：[@listudio](https://x.com/listudio) · [Originalbeitrag](https://x.com/listudio/status/2099374878910734661)
 
 Fotografie · Landschaft / Natur · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Surreale Schluchtlandschaft im Format 9:16, riesiger rotierender Wolkenring mit Langzeitbelichtungs-Time-Stack-Effekt, Reisender von hinten auf dem Talboden.
 
 <img src="images/2099374878910734661-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle eine fotorealistische, surreale Time-Stack-Fotografie einer Schlucht im Hochformat 9:16. Ein breiter, trockener Schluchtboden, flankiert von riesigen, vertikalen, geschichteten Felswänden in warmem Braun, Ocker und Anthrazit, die von den Rändern des Vordergrunds aufsteigen und einen dunklen, natürlichen Rahmen bilden, wobei Felsstrukturen und Kies gestochen scharf bleiben. Am Himmel über dem Mittel- und Hintergrund der Schlucht erscheint ein gigantischer, rotierender Wolkenring, der den Großteil des Zentrums einnimmt; das kreisförmige Loch in der Mitte gibt den Blick auf einen ruhigen, graublauen Himmel frei. Feste Kameraposition mit Langzeitbelichtung und Multi-Frame-Time-Stack-Effekt: Dichte Haufenwolken wirbeln langsam in dieselbe Drehrichtung und verschmelzen zu kontinuierlichen, sanften, konzentrischen Stromlinien; die Innenwand weist Hunderte bis Tausende feiner, bogenförmiger Wolkenstreifen auf, und die Ränder des Lochs zeigen weiche Rotationsspuren; die Wolken behalten ihr realistisches Licht-Schatten-Volumen und ihre milchig-weiße Textur, wirken nicht wie ein fester Tunnel und weisen kein pixeliges Bildrauschen auf. Der Talboden breitet sich vom Vordergrund weit aus und verengt sich in die Ferne; ein erwachsener Reisender mit dem Rücken zur Kamera steht unten in der Mitte, nimmt nur etwa 2 % der Bildhöhe ein und bleibt gestochen scharf. Warmes Sonnenlicht oben rechts bricht durch Wolkenlücken; die kontinuierliche Belichtung lässt die Lichter weich diffundieren und beleuchtet die rechte Wolkenwand sowie Felskanten; warmer Fels, kühler graublauer Himmel und leuchtend milchig-weiße Wolken bilden eine zurückhaltende Dreifarbenbeziehung. Feines Filmkorn, natürliche atmosphärische Perspektive, epische Stille und ein Gefühl erhabener Wucht. Bewegungsunschärfe betrifft ausschließlich Wolken und leichten Staubdunst; Felswände, Schluchtboden und Person sind gestochen scharf. Keine Gebäude, kein dichter Wald, keine Vögel, kein Text, kein Logo, kein Wasserzeichen, keine Blitze.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -411,54 +411,6 @@ Originalbeitrag：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Originalbeitrag](h
 <img src="images/2098799449237782991-1.jpg" alt="Bild 1" width="480" />
 
 <img src="images/2098799449237782991-2.jpg" alt="Bild 2" width="480" />
-
-**Prompt**
-
-```text
-Übersetzung läuft
-```
-
-[↑ Zurück zu Kategorien](#catalog)
-
----
-
-<a name="prompt-2098797110401335713"></a>
-
-### Übersetzung läuft
-
-Autor：[@sdjn\_wgc](https://x.com/sdjn_wgc) · [Originalbeitrag](https://x.com/sdjn_wgc/status/2098797110401335713)
-
-Fotografie · Porträt / Selfie · Architektur / Interieur · Veröffentlicht
-
-**Zusammenfassung:** Übersetzung läuft
-
-<img src="images/2098797110401335713-1.jpg" alt="Bild 1" width="480" />
-
-**Prompt**
-
-```text
-Übersetzung läuft
-```
-
-[↑ Zurück zu Kategorien](#catalog)
-
----
-
-<a name="prompt-2098779220566839714"></a>
-
-### Übersetzung läuft
-
-Autor：[@AI\_money\_club](https://x.com/AI_money_club) · [Originalbeitrag](https://x.com/AI_money_club/status/2098779220566839714)
-
-Fotografie · Charakter · Essen / Trinken · Veröffentlicht
-
-Originalbeitrag：[@AI\_money\_club](https://x.com/AI_money_club) · [Originalbeitrag](https://x.com/AI_money_club/status/2098767892028535126)
-
-**Zusammenfassung:** Übersetzung läuft
-
-<img src="images/2098779220566839714-1.jpg" alt="Bild 1" width="480" />
-
-<img src="images/2098779220566839714-2.jpg" alt="Bild 2" width="480" />
 
 **Prompt**
 
@@ -676,6 +628,50 @@ Fotografie · Landschaft / Natur · Veröffentlicht
 
 ```text
 Foto einer Waldlichtung mit viel grünem Blattwerk, sehr detailliert
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2102598076007625121"></a>
+
+### Übersetzung läuft
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Originalbeitrag](https://x.com/CyberTotal2026/status/2102598076007625121)
+
+Fotografie · Charakter · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2102598076007625121-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2102567121935020231"></a>
+
+### Übersetzung läuft
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Originalbeitrag](https://x.com/CyberTotal2026/status/2102567121935020231)
+
+Fotografie · Charakter · Landschaft / Natur · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2102567121935020231-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -1828,37 +1824,15 @@ Fotografie · Charakter · Veröffentlicht
 
 ---
 
-<a name="prompt-2099470719235318149"></a>
-
-### Übersetzung läuft
-
-Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Originalbeitrag](https://x.com/CyberTotal2026/status/2099470719235318149)
-
-Fotografie · Porträt / Selfie · Charakter · Modeartikel · Architektur / Interieur · Veröffentlicht
-
-**Zusammenfassung:** Übersetzung läuft
-
-<img src="images/2099470719235318149-1.jpg" alt="Bild 1" width="480" />
-
-**Prompt**
-
-```text
-Übersetzung läuft
-```
-
-[↑ Zurück zu Kategorien](#catalog)
-
----
-
 <a name="prompt-2099370474455396482"></a>
 
-### Übersetzung läuft
+### Fotorealistisches Studioporträt einer eleganten Frau in einem maßgeschneiderten schwarzen Midi-Kleid.
 
 Autor：[@MissDelulu9](https://x.com/MissDelulu9) · [Originalbeitrag](https://x.com/MissDelulu9/status/2099370474455396482)
 
 Fotografie · Porträt / Selfie · Charakter · Modeartikel · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Fotorealistisches Studioporträt einer eleganten Frau in einem maßgeschneiderten schwarzen Midi-Kleid.
 
 <img src="images/2099370474455396482-1.jpg" alt="Bild 1" width="480" />
 
@@ -1867,7 +1841,7 @@ Fotografie · Porträt / Selfie · Charakter · Modeartikel · Veröffentlicht
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle ein hochgradig fotorealistisches Ganzkörper-Studioporträt einer eleganten erwachsenen Frau, die ein anspruchsvolles schwarzes formelles Midi-Kleid mit langen Ärmeln, tailliertem Schnitt, hochwertigem Stoff und dezenter Textur trägt. Minimaler Schmuck, elegante spitze High Heels, glattes, gepflegtes Haar, sanftes natürliches Make-up, selbstbewusster, sanfter Ausdruck. Luxuriöser Modestudio-Hintergrund, sanftes diffuses Licht, realistische Hauttextur, natürliche Proportionen, filmische Editorial-Fotografie, 85-mm-Objektiv, extrem detailliert, 8K, kein Text, kein Wasserzeichen.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -1964,7 +1938,7 @@ Den Gebirgssee und den Eiskaffee unten links nicht weglassen
 
 <a name="prompt-2099400168433152293"></a>
 
-### Übersetzung läuft
+### Porträt-Prompt in extremer Nahaufnahme einer Frau, die mit feuchten Augen zur Kamera aufblickt.
 
 Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Originalbeitrag](https://x.com/CyberTotal2026/status/2099400168433152293)
 
@@ -1972,7 +1946,7 @@ Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
 
 Originalbeitrag：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Originalbeitrag](https://x.com/CyberTotal2026/status/2093263569249005578)
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Porträt-Prompt in extremer Nahaufnahme einer Frau, die mit feuchten Augen zur Kamera aufblickt.
 
 <img src="images/2099400168433152293-1.jpg" alt="Bild 1" width="480" />
 
@@ -1981,7 +1955,29 @@ Originalbeitrag：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Originalbe
 **Prompt**
 
 ```text
-Übersetzung läuft
+Thema:
+Nahaufnahme-Porträt mit feuchten Augen
+
+Motiv:
+Ein vertikales Foto, das eine Frau in ihren 20ern aus nächster Nähe von oben aufnimmt. Die Person nimmt den Großteil der Bildmitte ein und neigt ihren Oberkörper nach vorne, während sie zur Kamera aufblickt. Eine Hand ist knapp unter ihrem Mund leicht wie eine Schale geöffnet ausgestreckt, auf deren Handfläche einige wenige transparente Wassertropfen liegen. Ein dunkler Innenraum-Hintergrund und eine intime Atmosphäre, wie sie nur bei extremer Nähe entsteht.
+
+Person und Ausdruck:
+Ein kleines, rundliches Gesicht mit sanfter Kieferpartie. Große braune Augen blicken direkt in die Kamera, die äußeren Augenwinkel fallen leicht ab und vermitteln einen sanften Eindruck. Auf dem unteren Augenlid liegt ein natürlicher Tränenfilm, und nahe dem äußeren Augenwinkel ist lediglich ein winziger Tränentropfen zu sehen, ohne dass es wie ein weinendes Gesicht wirkt. Schmale braune Augenbrauen, dezentes rosafarbenes Rouge, zarte Wimpern und glänzende rosabeige Lippen. Das hellbraune lange Haar fällt in sanften Wellen, wobei ein feiner Pony und dünne Haarsträhnen die Wangen umspielen.
+
+Kleidung und Pose:
+Ein fein geripptes, ärmelloses Top in zartem Rosa. Ein tiefer V-Ausschnitt mit einer kleinen Schleife in der Mitte ist zu sehen, kombiniert mit einem kurzen, zarten elfenbeinfarbenen Unterteil. Die Haltung ist mit nach vorne zur Kamera geneigtem Oberkörper und leicht nach innen gezogenen Schultern. Eine Hand liegt unter dem Gesicht mit der Handfläche nach oben, die Finger natürlich gerundet, um einige Wassertropfen aufzufangen.
+
+Hintergrund und Licht:
+Ein Innenraum, dominiert von dunklem Braun und Schwarz. Hinten links sind dunkle Möbel und kleine Papierstücke unscharf zu sehen, hinten rechts eine schwarze Aufbewahrung und kleine weiße Gegenstände verschwommen. Weiches, warmes Licht von vorne beleuchtet Gesicht, Haare, Schultern und Handfläche hell, während der Hintergrund deutlich dunkler abfällt. Die Haut hat einen dezenten Glanz, mit kleinen Reflexionen auf den Pupillen und der Oberfläche der Tränen.
+
+Komposition und Kamera:
+Vertikal 4:3. Extremes Nahaufnahme-Porträt, bei dem das Gesicht groß in der Mitte der oberen Bildhälfte platziert ist. Eine Weitwinkelperspektive von leicht oberhalb herab blickend, die Gesicht und Hand stark in den Vordergrund rückt. Vom Scheitel bis zur Brust und einem Teil der Oberschenkel abgebildet, wobei die Handfläche den unteren mittleren Bildbereich überlagert. Klarer Fokus auf Gesicht und Augen, während der Hintergrund sanft verschwimmt.
+
+Textur und Stil:
+Realistische fotografische Darstellung. Glatte Haut mit natürlicher Hautstruktur, weiches Haar, bei dem einzelne Strähnen sichtbar sind, Rippenstoff, Wassertropfen und die Transparenz der Tränen sind detailliert dargestellt. Warme und weiche Farbtöne, übermäßiges HDR oder starke Schönheitsfilter werden vermieden. Räumliche Tiefe wie bei einer Nahaufnahme und eine natürliche Atmosphäre wie bei einem Schnappschuss aus dem Alltag.
+
+Negativ:
+Große, unnatürliche Tränen; vom Weinen verquollenes Gesicht
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -2065,28 +2061,6 @@ Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
 **Zusammenfassung:** Übersetzung läuft
 
 <img src="images/2099262094302761246-1.jpg" alt="Bild 1" width="480" />
-
-**Prompt**
-
-```text
-Übersetzung läuft
-```
-
-[↑ Zurück zu Kategorien](#catalog)
-
----
-
-<a name="prompt-2099152153722159320"></a>
-
-### Übersetzung läuft
-
-Autor：[@Aqsahere\_](https://x.com/Aqsahere_) · [Originalbeitrag](https://x.com/Aqsahere_/status/2099152153722159320)
-
-Fotografie · Porträt / Selfie · Charakter · Modeartikel · Veröffentlicht
-
-**Zusammenfassung:** Übersetzung läuft
-
-<img src="images/2099152153722159320-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
@@ -3091,6 +3065,34 @@ Fotorealistisches, filmisches Porträt eines gutaussehenden erwachsenen Mannes m
 
 ## Anime / Manga
 
+<a name="prompt-2102586257461416187"></a>
+
+### Übersetzung läuft
+
+Autor：[@8bitAraisan](https://x.com/8bitAraisan) · [Originalbeitrag](https://x.com/8bitAraisan/status/2102586257461416187)
+
+Anime / Manga · Illustration · Charakter · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2102586257461416187-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2102586257461416187-2.jpg" alt="Bild 2" width="480" />
+
+<img src="images/2102586257461416187-3.jpg" alt="Bild 3" width="480" />
+
+<img src="images/2102586257461416187-4.jpg" alt="Bild 4" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
 <a name="prompt-2102372464835874926"></a>
 
 ### Startszene der MMX-Rakete und des Charakters „Leo-kun“, gezeichnet in einer Komposition im Stil einer Anime-Magazin-Doppelseite.
@@ -3930,7 +3932,7 @@ Verwandeln Sie das Foto in den handgezeichneten Stil eines Reisetagebuchs mit Bu
 
 <a name="prompt-2100241141967081911"></a>
 
-### Übersetzung läuft
+### Fotografie-Prompt für extreme Nahaufnahmen von Nagelkunst im traditionellen chinesischen Stil mit der Ästhetik der Song-Dynastie im Mittelpunkt, der den Fokus auf die erlesene visuelle Gestaltung der Nägel legt.
 
 Autor：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Originalbeitrag](https://x.com/DeepBlueX0/status/2100241141967081911)
 
@@ -3938,7 +3940,7 @@ Fotografie · Tinte / Chinesischer Stil · Veröffentlicht
 
 Originalbeitrag：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Originalbeitrag](https://x.com/DeepBlueX0/status/2100101510634037441)
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Fotografie-Prompt für extreme Nahaufnahmen von Nagelkunst im traditionellen chinesischen Stil mit der Ästhetik der Song-Dynastie im Mittelpunkt, der den Fokus auf die erlesene visuelle Gestaltung der Nägel legt.
 
 <img src="images/2100241141967081911-1.jpg" alt="Bild 1" width="480" />
 
@@ -3953,7 +3955,7 @@ Originalbeitrag：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Originalbeitrag](h
 **Prompt**
 
 ```text
-Übersetzung läuft
+Ästhetik der Song-Dynastie × Extremer Nahaufnahmen-Fokus auf Nagelkunst im Song-Stil × Hauptfokus auf das visuelle Design der Nagelkunst fixiert
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -4047,30 +4049,6 @@ Originalbeitrag：[@huku\_ken\_ai](https://x.com/huku_ken_ai) · [Originalbeitra
 
 ```text
 Extrahieren Sie die charakteristischsten Motive, Konturen, Posen und narrativen Beziehungen aus dem Bild und rekonstruieren Sie diese in eine leichte, schlichte und handgezeichnete Retro-Editorial-Illustration. Vermeiden Sie die mechanische Reproduktion von Details; die Illustrationen werden durch verallgemeinerte Formen, angemessen übertriebene Proportionen, symbolische Merkmale und humorvolle visuelle Metaphern neu interpretiert, während der charakteristische Ausdruck des Originals beibehalten wird. Diese Illustrationen verbinden modernistische Editorial-Illustration, Bauhaus-Grafikdesign, Kinderbilderbücher, naive Kunst und trendige Skizziertechniken. Die Formen sind prägnant, die Konturlinien wirken leicht diffus und spiegeln die typischen Unvollkommenheiten des Freihandzeichnens wider, und bestimmte Elemente werden angemessen vergrößert, um ein narratives, stilvolles und verspieltes Bild zu schaffen.
-```
-
-[↑ Zurück zu Kategorien](#catalog)
-
----
-
-<a name="prompt-2098762789489873062"></a>
-
-### Übersetzung läuft
-
-Autor：[@lovimg\_com](https://x.com/lovimg_com) · [Originalbeitrag](https://x.com/lovimg_com/status/2098762789489873062)
-
-Plakat / Flyer · Illustration · Retro / Vintage · Modeartikel · Text / Typografie · Veröffentlicht
-
-**Zusammenfassung:** Übersetzung läuft
-
-<img src="images/2098762789489873062-1.jpg" alt="Bild 1" width="480" />
-
-<img src="images/2098762789489873062-2.jpg" alt="Bild 2" width="480" />
-
-**Prompt**
-
-```text
-Übersetzung läuft
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -4462,7 +4440,7 @@ Ruhig, poetisch, raffiniert, minimalistisch, unschuldig, künstlerisch, nachdenk
 
 <a name="prompt-2102550317405536266"></a>
 
-### Übersetzung läuft
+### Ganzkörper-Streetwear-Porträt-Prompt eines Latino-Mannes in South Los Angeles mit Flanellhemd und Stiefeln.
 
 Autor：[@PrometheanAIX](https://x.com/PrometheanAIX) · [Originalbeitrag](https://x.com/PrometheanAIX/status/2102550317405536266)
 
@@ -4470,14 +4448,24 @@ Porträt / Selfie · Modeartikel · Stadtbild / Straße · Veröffentlicht
 
 Originalbeitrag：[@PrometheanAIX](https://x.com/PrometheanAIX) · [Originalbeitrag](https://x.com/PrometheanAIX/status/2102474338649731334)
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Ganzkörper-Streetwear-Porträt-Prompt eines Latino-Mannes in South Los Angeles mit Flanellhemd und Stiefeln.
 
 <img src="covers/2102550317405536266.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Fotografie / Kinematografie
+Hyperrealistisches Ganzkörper-Streetwear-Modeporträt eines markant gutaussehenden Latino-Mannes Ende 20 mit schlankem, athletischem Körperbau, extrem kurz rasiertem dunklem Haar, definierter Kinnlinie, warmem olivfarbenem Teint und markanten, modelhaften Gesichtszügen. Er steht in einer entspannten Dreiviertelpose, das Gewicht auf ein Bein verlagert, eine Hand lässig in der Hosentasche und die andere natürlich an seiner Seite hängend. Er blickt mit einem ruhigen, selbstbewussten Ausdruck in die Kamera. Natürliches winterliches Nachmittagssonnenlicht, realistische Hauttextur, authentische Stoffdetails und subtile Hintergrund-Tiefenschärfe. Vertikale 2:3-Komposition, auf Augenhöhe fotografiert, sodass sein gesamter Körper von Kopf bis Fuß sichtbar ist.
+
+Umgebung
+Ein lebhaftes Stadtviertel in South Los Angeles an einem sonnigen, kühlen Winternachmittag. Ein breiter Betonbürgersteig und ein kleiner Skate-Platz sind von niedrigen Gebäuden, Palmen, Straßenlaternen und einigen blattlosen saisonalen Bäumen umgeben. Ein großes, professionell gemaltes Street-Art-Wandbild mit dem Porträt einer Frau und ausdrucksstarken grafischen Elementen bedeckt eine Wand im Hintergrund. Dezentes künstlerisches Graffiti akzentuiert die umliegenden Betonflächen, ohne dass der Bereich unordentlich wirkt. Fußgänger gehen auf dem Bürgersteig entlang, unterhalten sich und gehen ihrem Alltag nach. Weiter im Hintergrund vollführen genau drei Skateboarder Tricks über einem Metallgeländer und Betonhindernissen. Authentische südkalifornische Straßenkultur, natürliche Fußgängeraktivität und glaubwürdige urbane Atmosphäre.
+
+Pose
+Der Mann steht selbstbewusst im Vordergrund, leicht zur Kamera angewinkelt, mit entspannten Schultern, einer Hand in der vorderen Hosentasche und der anderen natürlich neben seinem Oberschenkel ruhend. Seine Füße stehen auseinander, ein Bein leicht nach vorne gestellt. Natürliche Haltung, glaubwürdige Anatomie und eine mühelose Street-Fashion-Editorial-Präsenz.
+
+Outfit
+Oversized-Flanellhemdjacke mit Karomuster in Blau, Marineblau und warmem Beige, offen getragen über einem T-Shirt mit Rundhalsausschnitt in gedämpftem Schieferblau. Weite, locker sitzende Jeans mit weitem Bein in ausgewaschenem Kohleschwarz mit natürlicher Ausbleichung und entspanntem Fall. Klassische Dr. Martens-Schnürstiefel aus schwarzem Leder mit gelber Rahmennaht. Eine dezente silberne Halskette und ein silberner Ring runden den Look ab. Realistische Stofftexturen, natürliche Falten und authentisches Streetwear-Styling.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -4844,13 +4832,13 @@ Zusammenfassung / Hintergrund · Veröffentlicht
 
 <a name="prompt-2100255511228932598"></a>
 
-### Übersetzung läuft
+### Vertikale Vierer-Raster fehlerhafte Schnappschüsse, Lotuswurzelernte im Lotusteich und Personen
 
 Autor：[@ahamme35638](https://x.com/ahamme35638) · [Originalbeitrag](https://x.com/ahamme35638/status/2100255511228932598)
 
 Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Vertikale Vierer-Raster fehlerhafte Schnappschüsse, Lotuswurzelernte im Lotusteich und Personen
 
 <img src="images/2100255511228932598-1.jpg" alt="Bild 1" width="480" />
 
@@ -4861,7 +4849,7 @@ Charakter · Veröffentlicht
 **Prompt**
 
 ```text
-Übersetzung läuft
+Vertikale 2×2 verpatzte Fotos, Szene der Lotuswurzelernte im Lotusteich + Charakter
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -5503,28 +5491,6 @@ Cristiano Ronaldo isst Shawarma
 
 ---
 
-<a name="prompt-2097582500273115191"></a>
-
-### Übersetzung läuft
-
-Autor：[@ky6001481673691](https://x.com/ky6001481673691) · [Originalbeitrag](https://x.com/ky6001481673691/status/2097582500273115191)
-
-Porträt / Selfie · Charakter · Modeartikel · Veröffentlicht
-
-**Zusammenfassung:** Übersetzung läuft
-
-<img src="images/2097582500273115191-1.jpg" alt="Bild 1" width="480" />
-
-**Prompt**
-
-```text
-Übersetzung läuft
-```
-
-[↑ Zurück zu Kategorien](#catalog)
-
----
-
 <a name="prompt-2097558679956664521"></a>
 
 ### Kybernetisches Horror-Porträt mit einem hageren Humanoiden mit rissiger Porzellanmaske, Kopfkabeln und kontrastreicher monochromer Beleuchtung.
@@ -5689,30 +5655,6 @@ Szene 5 (7–9s): Die Flasche wird elegant in einer Hand gehalten und langsam zu
 Szene 6 (9–10s): Finale Hero-Aufnahme der Cheng Guang Cocoa Soft Glow-Flasche, umgeben von Kakaobohnen und Blättern. Die Kamera fährt langsam heran, subtile Glitzereffekte, luxuriöser warmer Hintergrund, saubere, auf das Produkt fokussierte Komposition.
 
 Stil: fotorealistisch, erstklassige Kosmetikwerbung, filmische Beleuchtung, realistische Handbewegungen, sanfte Kameraübergänge, geringe Schärfentiefe, weiches Bokeh, warme Goldtöne, 4K, hochdetailliert, natürliche Bewegung, keine Verzerrung, keine zusätzlichen Produkte, keine Änderung am Flaschenetikett oder Branding.
-```
-
-[↑ Zurück zu Kategorien](#catalog)
-
----
-
-<a name="prompt-2098762663941832907"></a>
-
-### Übersetzung läuft
-
-Autor：[@lovimg\_com](https://x.com/lovimg_com) · [Originalbeitrag](https://x.com/lovimg_com/status/2098762663941832907)
-
-Plakat / Flyer · Text / Typografie · Veröffentlicht
-
-**Zusammenfassung:** Übersetzung läuft
-
-<img src="images/2098762663941832907-1.jpg" alt="Bild 1" width="480" />
-
-<img src="images/2098762663941832907-2.jpg" alt="Bild 2" width="480" />
-
-**Prompt**
-
-```text
-Übersetzung läuft
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
