@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-23T00:31:38.706Z",
+  "model": "image2",
+  "prompt": "Use the uploaded photo as the exact visual reference and transform it into a nostalgic editorial scrapbook-style artwork. Preserve the subjects, composition, clothing, poses, objects, and overall scene from the original photo.\n\nCreate a vertical 3:4 composition with a refined, minimalist Japanese-inspired photo-to-illustration aesthetic.\n\nThe final design should be divided into two equal horizontal sections:\n\nTOP HALF — ORIGINAL PHOTOGRAPH\n•Place the uploaded original photograph in the upper 50% of the canvas.\n•Keep it photorealistic and completely unchanged.\n•Preserve the exact facial features, body proportions, clothing, hairstyle, pose, lighting, environment, furniture, food, blanket, window, and all other recognizable details.\n•Do not crop important subjects.\n•Use the original image naturally, with clean edges and no artificial frame.\n\nBOTTOM HALF — MINIATURE STORYBOOK VERSION\n•Recreate the exact same scene from the photograph as a small, delicate hand-painted illustration positioned around the center of the lower half.\n•Keep the same subjects, poses, clothing, objects, perspective, and recognizable composition, but make the entire scene appear like a tiny nostalgic illustration placed on paper.\n•Use a soft watercolor + colored-pencil + subtle gouache aesthetic.\n•Delicate imperfect brushwork, lightly textured edges, soft shadows, muted natural colors, slightly faded vintage appearance.\n•The miniature scene should occupy only about 25–35% of the lower section, leaving generous negative space around it.\n•Make it feel like a tiny memory captured on paper rather than a conventional full-frame illustration.\n•Add a very subtle hand-drawn shadow underneath the miniature scene to make it feel naturally placed on the paper.\n\nBACKGROUND\n•Cover the entire bottom half with warm off-white / ivory handmade paper.\n•Visible fine paper fibers and subtle grain.\n•Slightly uneven organic texture, similar to premium watercolor paper.\n•Minimal, warm, calm and elegant.\n•No borders, no decorative patterns, no unnecessary elements.\n\nTEXT\n•Beneath the miniature illustration, add a very small handwritten phrase:\n“sunny days”\n•Use thin, delicate, lowercase handwritten script.\n•Light gray/taupe ink.\n•Keep the text subtle and understated, centered beneath the artwork.\n\nLIGHTING & COLOR\n•Warm natural daylight.\n•Soft cream, beige, pale blue, muted denim blue and warm brown tones.\n•Gentle highlights and soft shadows.\n•Slightly nostalgic film-inspired color grading.\n•Avoid oversaturation.\n•Overall mood: quiet, cozy, sentimental, peaceful family memory.\n\nIMPORTANT\n•Maintain the identity and visual characteristics of the people from the reference photo.\n•Do not invent additional people or objects.\n•Do not change clothing or poses.\n•Do not distort anatomy.\n•The miniature illustration must clearly depict the same exact moment and scene as the original photograph.\n•Clean premium editorial composition.\n•High detail, sophisticated art direction, realistic paper texture, subtle handcrafted imperfections.\n•No extra text, no frame, no logo, no watermark.",
+  "promptTranslations": {
+    "en": "Use the uploaded photo as the exact visual reference and transform it into a nostalgic editorial scrapbook-style artwork. Preserve the subjects, composition, clothing, poses, objects, and overall scene from the original photo.\n\nCreate a vertical 3:4 composition with a refined, minimalist Japanese-inspired photo-to-illustration aesthetic.\n\nThe final design should be divided into two equal horizontal sections:\n\nTOP HALF — ORIGINAL PHOTOGRAPH\n•Place the uploaded original photograph in the upper 50% of the canvas.\n•Keep it photorealistic and completely unchanged.\n•Preserve the exact facial features, body proportions, clothing, hairstyle, pose, lighting, environment, furniture, food, blanket, window, and all other recognizable details.\n•Do not crop important subjects.\n•Use the original image naturally, with clean edges and no artificial frame.\n\nBOTTOM HALF — MINIATURE STORYBOOK VERSION\n•Recreate the exact same scene from the photograph as a small, delicate hand-painted illustration positioned around the center of the lower half.\n•Keep the same subjects, poses, clothing, objects, perspective, and recognizable composition, but make the entire scene appear like a tiny nostalgic illustration placed on paper.\n•Use a soft watercolor + colored-pencil + subtle gouache aesthetic.\n•Delicate imperfect brushwork, lightly textured edges, soft shadows, muted natural colors, slightly faded vintage appearance.\n•The miniature scene should occupy only about 25–35% of the lower section, leaving generous negative space around it.\n•Make it feel like a tiny memory captured on paper rather than a conventional full-frame illustration.\n•Add a very subtle hand-drawn shadow underneath the miniature scene to make it feel naturally placed on the paper.\n\nBACKGROUND\n•Cover the entire bottom half with warm off-white / ivory handmade paper.\n•Visible fine paper fibers and subtle grain.\n•Slightly uneven organic texture, similar to premium watercolor paper.\n•Minimal, warm, calm and elegant.\n•No borders, no decorative patterns, no unnecessary elements.\n\nTEXT\n•Beneath the miniature illustration, add a very small handwritten phrase:\n“sunny days”\n•Use thin, delicate, lowercase handwritten script.\n•Light gray/taupe ink.\n•Keep the text subtle and understated, centered beneath the artwork.\n\nLIGHTING & COLOR\n•Warm natural daylight.\n•Soft cream, beige, pale blue, muted denim blue and warm brown tones.\n•Gentle highlights and soft shadows.\n•Slightly nostalgic film-inspired color grading.\n•Avoid oversaturation.\n•Overall mood: quiet, cozy, sentimental, peaceful family memory.\n\nIMPORTANT\n•Maintain the identity and visual characteristics of the people from the reference photo.\n•Do not invent additional people or objects.\n•Do not change clothing or poses.\n•Do not distort anatomy.\n•The miniature illustration must clearly depict the same exact moment and scene as the original photograph.\n•Clean premium editorial composition.\n•High detail, sophisticated art direction, realistic paper texture, subtle handcrafted imperfections.\n•No extra text, no frame, no logo, no watermark."
+  },
+  "summaryTranslations": {
+    "en": "A split-frame prompt transforming an uploaded photo: top half displays the original photo, bottom half features a miniature watercolor recreation on textured paper with subtle handwritten text."
+  },
+  "translationVersion": 2,
+  "summary": "A split-frame prompt transforming an uploaded photo: top half displays the original photo, bottom half features a miniature watercolor recreation on textured paper with subtle handwritten text.",
+  "summaryEn": "A split-frame prompt transforming an uploaded photo: top half displays the original photo, bottom half features a miniature watercolor recreation on textured paper with subtle handwritten text.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2102261738280489425",
+    "canonicalUrl": "https://x.com/Sairah_0/status/2102261738280489425",
+    "author": {
+      "username": "Sairah_0",
+      "displayName": "Sairah",
+      "profileUrl": "https://x.com/Sairah_0"
+    },
+    "publishedAt": "2026-09-22T05:00:31.000Z",
+    "collectedAt": "2026-09-23T00:15:29.769Z",
+    "language": "en",
+    "originalText": "GPT Image 2 On ChatGPT \n\n Prompt:\nUse the uploaded photo as the exact visual reference and transform it into a nostalgic editorial scrapbook-style artwork. Preserve the subjects, composition, clothing, poses, objects, and overall scene from the original photo.\n\nCreate a vertical 3:4 composition with a refined, minimalist Japanese-inspired photo-to-illustration aesthetic.\n\nThe final design should be divided into two equal horizontal sections:\n\nTOP HALF — ORIGINAL PHOTOGRAPH\n•Place the uploaded original photograph in the upper 50% of the canvas.\n•Keep it photorealistic and completely unchanged.\n•Preserve the exact facial features, body proportions, clothing, hairstyle, pose, lighting, environment, furniture, food, blanket, window, and all other recognizable details.\n•Do not crop important subjects.\n•Use the original image naturally, with clean edges and no artificial frame.\n\nBOTTOM HALF — MINIATURE STORYBOOK VERSION\n•Recreate the exact same scene from the photograph as a small, delicate hand-painted illustration positioned around the center of the lower half.\n•Keep the same subjects, poses, clothing, objects, perspective, and recognizable composition, but make the entire scene appear like a tiny nostalgic illustration placed on paper.\n•Use a soft watercolor + colored-pencil + subtle gouache aesthetic.\n•Delicate imperfect brushwork, lightly textured edges, soft shadows, muted natural colors, slightly faded vintage appearance.\n•The miniature scene should occupy only about 25–35% of the lower section, leaving generous negative space around it.\n•Make it feel like a tiny memory captured on paper rather than a conventional full-frame illustration.\n•Add a very subtle hand-drawn shadow underneath the miniature scene to make it feel naturally placed on the paper.\n\nBACKGROUND\n•Cover the entire bottom half with warm off-white / ivory handmade paper.\n•Visible fine paper fibers and subtle grain.\n•Slightly uneven organic texture, similar to premium watercolor paper.\n•Minimal, warm, calm and elegant.\n•No borders, no decorative patterns, no unnecessary elements.\n\nTEXT\n•Beneath the miniature illustration, add a very small handwritten phrase:\n“sunny days”\n•Use thin, delicate, lowercase handwritten script.\n•Light gray/taupe ink.\n•Keep the text subtle and understated, centered beneath the artwork.\n\nLIGHTING & COLOR\n•Warm natural daylight.\n•Soft cream, beige, pale blue, muted denim blue and warm brown tones.\n•Gentle highlights and soft shadows.\n•Slightly nostalgic film-inspired color grading.\n•Avoid oversaturation.\n•Overall mood: quiet, cozy, sentimental, peaceful family memory.\n\nIMPORTANT\n•Maintain the identity and visual characteristics of the people from the reference photo.\n•Do not invent additional people or objects.\n•Do not change clothing or poses.\n•Do not distort anatomy.\n•The miniature illustration must clearly depict the same exact moment and scene as the original photograph.\n•Clean premium editorial composition.\n•High detail, sophisticated art direction, realistic paper texture, subtle handcrafted imperfections.\n•No extra text, no frame, no logo, no watermark.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSy75iRbkAANCnw.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSy75iRbkAANCnw.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSy75iQboAA3hKd.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSy75iQboAA3hKd.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 420,
+      "repostCount": 46,
+      "replyCount": 30,
+      "quoteCount": 0,
+      "viewCount": 23768
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/Sairah_0/status/2102261738280489425",
+  "coverUrl": "https://pbs.twimg.com/media/HSy75iRbkAANCnw.jpg",
+  "coverPath": "images/2102261738280489425-1.jpg",
+  "imagePaths": [
+    "images/2102261738280489425-1.jpg",
+    "images/2102261738280489425-2.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSy75iRbkAANCnw",
+    "x-image:/media/HSy75iQboAA3hKd",
+    "x-post:2102261738280489425"
+  ],
+  "analysis": {
+    "summary": "A split-frame prompt transforming an uploaded photo: top half displays the original photo, bottom half features a miniature watercolor recreation on textured paper with subtle handwritten text.",
+    "summaryEn": "A split-frame prompt transforming an uploaded photo: top half displays the original photo, bottom half features a miniature watercolor recreation on textured paper with subtle handwritten text.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The images depict the split layout: top photo and bottom miniature watercolor with text on paper texture."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Use the uploaded photo as the exact visual reference and transform it into a nostalgic editorial scrapbook-style artwork. Preserve the subjects, composition, clothing, poses, objects, and overall scene from the original photo.\n\nCreate a vertical 3:4 composition with a refined, minimalist Japanese-inspired photo-to-illustration aesthetic.\n\nThe final design should be divided into two equal horizontal sections:\n\nTOP HALF — ORIGINAL PHOTOGRAPH\n•Place the uploaded original photograph in the upper 50% of the canvas.\n•Keep it photorealistic and completely unchanged.\n•Preserve the exact facial features, body proportions, clothing, hairstyle, pose, lighting, environment, furniture, food, blanket, window, and all other recognizable details.\n•Do not crop important subjects.\n•Use the original image naturally, with clean edges and no artificial frame.\n\nBOTTOM HALF — MINIATURE STORYBOOK VERSION\n•Recreate the exact same scene from the photograph as a small, delicate hand-painted illustration positioned around the center of the lower half.\n•Keep the same subjects, poses, clothing, objects, perspective, and recognizable composition, but make the entire scene appear like a tiny nostalgic illustration placed on paper.\n•Use a soft watercolor + colored-pencil + subtle gouache aesthetic.\n•Delicate imperfect brushwork, lightly textured edges, soft shadows, muted natural colors, slightly faded vintage appearance.\n•The miniature scene should occupy only about 25–35% of the lower section, leaving generous negative space around it.\n•Make it feel like a tiny memory captured on paper rather than a conventional full-frame illustration.\n•Add a very subtle hand-drawn shadow underneath the miniature scene to make it feel naturally placed on the paper.\n\nBACKGROUND\n•Cover the entire bottom half with warm off-white / ivory handmade paper.\n•Visible fine paper fibers and subtle grain.\n•Slightly uneven organic texture, similar to premium watercolor paper.\n•Minimal, warm, calm and elegant.\n•No borders, no decorative patterns, no unnecessary elements.\n\nTEXT\n•Beneath the miniature illustration, add a very small handwritten phrase:\n“sunny days”\n•Use thin, delicate, lowercase handwritten script.\n•Light gray/taupe ink.\n•Keep the text subtle and understated, centered beneath the artwork.\n\nLIGHTING & COLOR\n•Warm natural daylight.\n•Soft cream, beige, pale blue, muted denim blue and warm brown tones.\n•Gentle highlights and soft shadows.\n•Slightly nostalgic film-inspired color grading.\n•Avoid oversaturation.\n•Overall mood: quiet, cozy, sentimental, peaceful family memory.\n\nIMPORTANT\n•Maintain the identity and visual characteristics of the people from the reference photo.\n•Do not invent additional people or objects.\n•Do not change clothing or poses.\n•Do not distort anatomy.\n•The miniature illustration must clearly depict the same exact moment and scene as the original photograph.\n•Clean premium editorial composition.\n•High detail, sophisticated art direction, realistic paper texture, subtle handcrafted imperfections.\n•No extra text, no frame, no logo, no watermark.",
+    "sourceRange": {
+      "start": 34,
+      "end": 3104
+    },
+    "translations": {
+      "zh": "将上传的照片作为精确视觉参考，转化为怀旧社论剪贴簿风格艺术品。保留原图主体、构图、服饰和姿势。上下两等分构图：上半部分保留原照片，下半部分在暖色纸张纹理底图上中心绘制对应场景的水彩手绘微缩插画，配手写小字“sunny days”。",
+      "en": "Transform an uploaded photo into a nostalgic editorial scrapbook artwork with a split composition: top half original photo, bottom half a small watercolor illustration on textured paper with 'sunny days' text."
+    },
+    "targetModels": [
+      "image2"
+    ],
+    "category": "image-to-image",
+    "useCase": "Nostalgic split-frame photo to miniature illustration scrapbook conversion.",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
